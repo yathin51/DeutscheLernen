@@ -21,6 +21,7 @@ import unicodedata
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
 WORDS_FILE = os.path.join(SCRIPT_DIR, 'words_final.json')
+PRON_FILE = os.path.join(SCRIPT_DIR, 'pronunciations.json')
 
 STOP_WORDS = {
     'ab', 'an', 'auf', 'aus', 'außer', 'bei', 'bis', 'durch', 'für', 'gegen', 'hinter', 'in', 'mit', 'nach', 'neben',
@@ -281,6 +282,48 @@ def build_fallback_6_sentences(w):
             (f"Kennen Sie den Unterschied zwischen '{lemma}' und anderen Begriffen?", f"Do you know the difference between '{en}' and other terms?")
         ]
 
+def load_pronunciations():
+    if os.path.exists(PRON_FILE):
+        with open(PRON_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+PRONUNCIATIONS = load_pronunciations()
+
+def clean_lemma_for_pron(w_str):
+    w = re.sub(r'\(.*?\)', '', w_str).strip()
+    w = re.sub(r',.*', '', w).strip()
+    w = re.sub(r'/.*', '', w).strip()
+    w = re.sub(r'^(der|die|das)\s+', '', w, flags=re.IGNORECASE).strip()
+    w = re.sub(r'^(sich)\s+', '', w, flags=re.IGNORECASE).strip()
+    w = re.sub(r'^[–—\-]\s*', '', w).strip()
+    w = re.sub(r'\s*\.\.\.$', '', w).strip()
+    w = w.strip(' .,!?')
+    if not w:
+        w = re.sub(r'\(.*?\)', '', w_str).strip()
+    return w.strip()
+
+def build_pronunciation_cell(de_word):
+    """Builds a formatted pronunciation string with IPA and direct audio link."""
+    l = clean_lemma_for_pron(de_word)
+    entry = None
+    for cand in [de_word, l, l.lower(), l.capitalize()]:
+        if cand in PRONUNCIATIONS and PRONUNCIATIONS[cand].get('ipa'):
+            entry = PRONUNCIATIONS[cand]
+            break
+            
+    if not entry:
+        return "-"
+        
+    ipa = entry.get('ipa', '').strip().replace('|', '/')
+    audio = entry.get('audio')
+    if audio:
+        audio_url = f"https://commons.wikimedia.org/wiki/Special:FilePath/{urllib.parse.quote(audio)}"
+        return f"[{ipa}] · [🔊]({audio_url})"
+    else:
+        forvo_url = f"https://forvo.com/word/{urllib.parse.quote(l)}/#de"
+        return f"[{ipa}] · [🔊]({forvo_url})"
+
 def build_examples_cell(w):
     """Formats 5-6 sentence examples into a clean HTML-broken cell with non-repeated pronouns."""
     ps = w.get('person_sentences')
@@ -302,16 +345,17 @@ def generate_vocabulary_md(level, words):
     
     lines = [
         f"# {level} Vocabulary List (Wortschatz)\n",
-        f"A curated collection of authentic, level-appropriate German vocabulary for the **{title}** level according to the CEFR standards. Each entry includes the word with grammatical markers, English definition, topic category, **5 to 6 varied example sentences utilizing der/die/das and non-repeated pronouns**, and direct reference links.\n",
+        f"A curated collection of authentic, level-appropriate German vocabulary for the **{title}** level according to the CEFR standards. Each entry includes the word with grammatical markers, **standard phonetic pronunciation guide (IPA) with native audio playback**, English definition, topic category, **5 to 6 varied example sentences utilizing der/die/das and non-repeated pronouns**, and direct reference links.\n",
         f"{nav}\n",
         "---\n",
-        "| German Word | English Translation | Topic Category | Example Sentences (5-6 Examples with Pronouns & Articles) | Dictionary & Conjugation Links |",
-        "| :--- | :--- | :--- | :--- | :--- |"
+        "| German Word | Pronunciation (IPA) | English Translation | Topic Category | Example Sentences (5-6 Examples with Pronouns & Articles) | Dictionary & Conjugation Links |",
+        "| :--- | :--- | :--- | :--- | :--- | :--- |"
     ]
     
     sorted_words = sorted(words, key=sort_key)
     for w in sorted_words:
         de = escape_cell(w['de'])
+        pron_str = build_pronunciation_cell(w['de'])
         en = escape_cell(w.get('en', ''))
         cat = escape_cell(w.get('category', 'Allgemein'))
         
@@ -320,7 +364,7 @@ def generate_vocabulary_md(level, words):
         clean = clean_query_word(w['de'])
         links = build_dict_links(clean, verb_flag)
         
-        lines.append(f"| **{de}** | {en} | {cat} | {example_str} | {links} |")
+        lines.append(f"| **{de}** | {pron_str} | {en} | {cat} | {example_str} | {links} |")
         
     return '\n'.join(lines) + '\n'
 
