@@ -39,16 +39,16 @@ Nutze die B1-Dateien als integriertes System zur Konstruktion mehrteiliger Argum
 ```
 
 ### Der B1-Produktionszirkel:
-1. **Den Modus & die Perspektive wählen ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Verbs.md)):**  
+1. **Den Modus & die Perspektive wählen ([`Verbs.md`](./Verbs.md)):**  
    Entscheide über das Register:
    - Geht es um eine Tatsache (*Indikativ*), eine höfliche Bitte/Hypothese (*Konjunktiv II: würde + Infinitiv / wäre / hätte / könnte*) oder einen objektiven Vorgang (*Passiv: werden + Partizip II*)?
-2. **Den Genitiv & Präpositionen meisterhaft setzen ([`Cases.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Cases.md) & [`Prepositions.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Prepositions.md)):**  
+2. **Den Genitiv & Präpositionen meisterhaft setzen ([`Cases.md`](./Cases.md) & [`Prepositions.md`](./Prepositions.md)):**  
    Ersetze umgangssprachliche Umschreibungen mit *von* durch den echten Genitiv (*das Auto meines Vaters*, *während des Urlaubs*, *trotz des schlechten Wetters*).
-3. **Pronominaladverbien & Feste Verben verbinden ([`Pronouns.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Pronouns.md)):**  
+3. **Pronominaladverbien & Feste Verben verbinden ([`Pronouns.md`](./Pronouns.md)):**  
    Kopple Verben mit festen Präpositionen: Handelt es sich um eine Sache (*worüber? -> darüber*) oder eine Person (*über wen? -> über ihn*)?
-4. **Relativsätze zur Verdichtung einsetzen ([`Pronouns.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Pronouns.md)):**  
+4. **Relativsätze zur Verdichtung einsetzen ([`Pronouns.md`](./Pronouns.md)):**  
    Statt zweier abgehackter Sätze baust du Relativsätze ein (*Das ist der Kollege, **mit dem** ich gestern gesprochen habe*).
-5. **Nuancen & Konnektoren einweben ([`Adjectives.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Adjectives.md) & [`Vocabulary.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Vocabulary.md)):**  
+5. **Nuancen & Konnektoren einweben ([`Adjectives.md`](./Adjectives.md) & [`Vocabulary.md`](./Vocabulary.md)):**  
    Nutze Doppelkonnektoren (*nicht nur... sondern auch*, *sowohl... als auch*) für stilistisch souveräne Übergänge.
 
 ---
@@ -165,7 +165,7 @@ Beachte den Unterschied zwischen Personen und Sachen:
 ## 6. Dein täglicher B1-Trainingsplan (Der Baukasten)
 
 1. **Passiv-Übung:** Wandle 2 Aktivsätze in das Vorgangspassiv um (Präsens und Präteritum). Achte darauf: Das Akkusativobjekt des Aktivsatzes wird zum Subjekt des Passivsatzes!
-2. **Relativsatz-Kette:** Nimm ein Nomen aus [`Cases.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Cases.md) und bilde dazu 4 Relativsätze (Nominativ, Akkusativ, Dativ und Genitiv).
+2. **Relativsatz-Kette:** Nimm ein Nomen aus [`Cases.md`](./Cases.md) und bilde dazu 4 Relativsätze (Nominativ, Akkusativ, Dativ und Genitiv).
 3. **Hypothesen formulieren:** Bilde 2 Konditionalsätze mit **Konjunktiv II**: *„Wenn ich ..., dann würde/wäre/hätte ich ...“*
 
 ---

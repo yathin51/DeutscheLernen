@@ -39,15 +39,15 @@ Die B2-Dateien sind darauf ausgelegt, deinen Ausdruck von der Alltagssprache auf
 ```
 
 ### Der B2-Produktionszirkel:
-1. **Verdichten durch Nominalisierung ([`Nouns.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Nouns.md)):**  
+1. **Verdichten durch Nominalisierung ([`Nouns.md`](./Nouns.md)):**  
    Verwandle lange Nebensätze in kompakte Präpositionalphrasen mit Genitiv (*Weil die Kosten steigen...* -> *Aufgrund des Anstiegs der Kosten...*).
-2. **Funktionsverbgefüge einsetzen ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Verbs.md)):**  
+2. **Funktionsverbgefüge einsetzen ([`Verbs.md`](./Verbs.md)):**  
    Ersetze alltägliche Vollverben durch hochsprachliche Nomen-Verb-Verbindungen (statt *entscheiden* -> *eine Entscheidung treffen*; statt *kritisieren* -> *Kritik üben an*).
-3. **Passiversatzformen nutzen ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Verbs.md)):**  
+3. **Passiversatzformen nutzen ([`Verbs.md`](./Verbs.md)):**  
    Vermeide monotone *werden*-Passivketten durch elegante Alternativen (*sich lassen*, *sein + zu + Infinitiv*, Adjektive auf *-bar/-lich*).
-4. **Erweiterte Partizipien flechten ([`Adjectives.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Adjectives.md)):**  
+4. **Erweiterte Partizipien flechten ([`Adjectives.md`](./Adjectives.md)):**  
    Nutze Partizip I (aktivisch/gleichzeitig) und Partizip II (passivisch/vorzeitig) mit vorangestellten Attributen zur Informationsdichte.
-5. **Diskurs & Argumentation schärfen ([`Vocabulary.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Vocabulary.md)):**  
+5. **Diskurs & Argumentation schärfen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Verknüpfe Thesen und Antithesen mit Konzessiv- und Konsekutivkonnektoren (*infolgedessen, demzufolge, wenngleich, allerdings*).
 
 ---
@@ -174,7 +174,7 @@ Im B2-Register ersetzen FVG einfache Verben:
 ## 6. Dein täglicher B2-Trainingsplan (Der Baukasten)
 
 1. **Stil-Transformation:** Nimm 2 Sätze im Verbalstil aus einer Zeitung und transformiere sie in prägnanten **Nominalstil** mit Genitivpräpositionen (*aufgrund, infolge, ungeachtet*).
-2. **FVG-Drill:** Wähle 3 Nomen-Verb-Verbindungen aus [`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Verbs.md) und bilde geschäftliche Mustersätze für den Beruf.
+2. **FVG-Drill:** Wähle 3 Nomen-Verb-Verbindungen aus [`Verbs.md`](./Verbs.md) und bilde geschäftliche Mustersätze für den Beruf.
 3. **Passiversatz:** Bilde einen Satz mit *sich lassen* und einen Satz mit *sein + zu + Infinitiv*.
 
 ---

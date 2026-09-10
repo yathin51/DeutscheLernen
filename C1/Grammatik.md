@@ -41,13 +41,13 @@ Auf C1 verzahnen sich Syntax, Morphologie und Semantik zu einem hochdifferenzier
 ```
 
 ### Der C1-Produktionszirkel:
-1. **Distanz schaffen durch Konjunktiv I ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C1/Verbs.md)):**  
+1. **Distanz schaffen durch Konjunktiv I ([`Verbs.md`](./Verbs.md)):**  
    Gib Aussagen Dritter in akademischen Texten, Zitaten oder Protokollen absolut neutral und distanziert wieder (*Der Minister betonte, die Reform **habe** oberste Priorität*).
-2. **Epistemische Gewissheit modulieren ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C1/Verbs.md)):**  
+2. **Epistemische Gewissheit modulieren ([`Verbs.md`](./Verbs.md)):**  
    Drücke Grade von Wahrscheinlichkeit, Gerüchte oder unbewiesene Behauptungen mit subjektiven Modalverben aus (*muss, dürfte, könnte, soll, will*).
-3. **Kompakte Informationsdichte durch Gerundiv & Attribute ([`Adjectives.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C1/Adjectives.md)):**  
+3. **Kompakte Informationsdichte durch Gerundiv & Attribute ([`Adjectives.md`](./Adjectives.md)):**  
    Konstruiere gerundivische Attribute (*die zu beachtenden Richtlinien*) statt umständlicher Nebensätze.
-4. **Konnektoren der gehobenen Sprache anwenden ([`Vocabulary.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C1/Vocabulary.md)):**  
+4. **Konnektoren der gehobenen Sprache anwenden ([`Vocabulary.md`](./Vocabulary.md)):**  
    Ersetze alltägliche Konnektoren durch differenzierte Wendungen (*ungeachtet dessen, dass*, *in Anbetracht der Tatsache, dass*, *insofern, als*).
 
 ---

@@ -31,13 +31,13 @@ Auf C2 verschmelzen Grammatik, Semantik und Stilistik zu einer untrennbaren Einh
 ```
 
 ### Die C2-Meisterwerkstatt:
-1. **Rhythmische Syntax gestalten ([`Grammatik.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C2/Grammatik.md)):**  
+1. **Rhythmische Syntax gestalten ([`Grammatik.md`](./Grammatik.md)):**  
    Gestalte Sätze nicht monoton nach Lehrbuchschema. Nutze gezielte Vorfeldbesetzung, Ausklammerung ins Nachfeld und Inversionen, um Spannung und Lesefluss zu dirigieren.
-2. **Rhetorische Figuren & Stilmittel einweben ([`Style.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C2/Style.md)):**  
+2. **Rhetorische Figuren & Stilmittel einweben ([`Style.md`](./Style.md)):**  
    Setze Chiasmen, Antithesen, Oxymora und Parenthesen ein, um Reden, Essays oder Verhandlungen rhetorische Durchschlagskraft zu verleihen.
-3. **Lexikalische Schattierungen beherrschen ([`Vocabulary.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C2/Vocabulary.md)):**  
+3. **Lexikalische Schattierungen beherrschen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Wähle das exakte Wort statt des ungefähren Begriffs: Unterscheide scharf zwischen scheinbar und anscheinend, effektiv und effizient, identisch und kongruent.
-4. **Modalpartikeln als Nuancierungs-Filter nutzen ([`Style.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/C2/Style.md)):**  
+4. **Modalpartikeln als Nuancierungs-Filter nutzen ([`Style.md`](./Style.md)):**  
    Platziere Partikelketten (*ja wohl kaum, doch mal eben, halt nun einmal*), um die Haltung des Sprechers subtil zu transportieren, ohne sie explizit aussprechen zu müssen.
 
 ---

@@ -39,15 +39,15 @@ Nutze die A2-Dateien als koordinierte Werkzeuge zur Erweiterung deiner Ausdrucks
 ```
 
 ### Der A2-Produktionszirkel:
-1. **Vergangenheit konstruieren ([`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Verbs.md)):**  
+1. **Vergangenheit konstruieren ([`Verbs.md`](./Verbs.md)):**  
    Wähle ein Verb und bestimme: Bildet es das Perfekt mit *haben* oder *sein*? Wie lautet das Partizip II (ge...t / ge...en)? Für *sein*, *haben* und Modalverben nutzt du stattdessen das elegante Präteritum (*war, hatte, musste*).
-2. **Den Dativ integrieren ([`Cases.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Cases.md) & [`Pronouns.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Pronouns.md)):**  
+2. **Den Dativ integrieren ([`Cases.md`](./Cases.md) & [`Pronouns.md`](./Pronouns.md)):**  
    Prüfe, wem eine Handlung nützt oder wem etwas geschenkt wird (*indirektes Objekt*). Wandle den Artikel um: maskulin/neutral -> `dem / einem`, feminin -> `der / einer`, Plural -> `den + -(e)n`.
-3. **Orte & Richtungen steuern ([`Prepositions.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Prepositions.md)):**  
+3. **Orte & Richtungen steuern ([`Prepositions.md`](./Prepositions.md)):**  
    Wende die 2-Wege-Regel an: Ist es eine Ortsangabe (**Wo? -> Dativ**) oder eine Richtungsbewegung (**Wohin? -> Akkusativ**)?
-4. **Präzise beschreiben & vergleichen ([`Adjectives.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Adjectives.md)):**  
+4. **Präzise beschreiben & vergleichen ([`Adjectives.md`](./Adjectives.md)):**  
    Lerne die Grundzüge der Adjektivdeklination und bilde Vergleiche mit Komparativ (*besser als*) und Superlativ (*am besten*).
-5. **Sätze verknüpfen ([`Grammatik.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Grammatik.md)):**  
+5. **Sätze verknüpfen ([`Grammatik.md`](./Grammatik.md)):**  
    Verbinde Hauptsätze mit ADUSO (*und, aber, denn...*) oder baue Nebensätze mit *weil, dass, wenn*, bei denen das Verb ans Satzende wandert.
 
 ---
@@ -170,8 +170,8 @@ Neun Präpositionen können entweder mit Dativ oder mit Akkusativ stehen:
 
 ## 6. Dein täglicher A2-Trainingsplan (Der Baukasten)
 
-1. Nimm 2 Verben aus [`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Verbs.md) und bilde je einen Satz im **Perfekt** (1x mit *haben*, 1x mit *sein*).
-2. Wähle eine Wechselpräposition aus [`Prepositions.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A2/Prepositions.md) und bilde ein Pärchen:
+1. Nimm 2 Verben aus [`Verbs.md`](./Verbs.md) und bilde je einen Satz im **Perfekt** (1x mit *haben*, 1x mit *sein*).
+2. Wähle eine Wechselpräposition aus [`Prepositions.md`](./Prepositions.md) und bilde ein Pärchen:
    - Einen Satz für Zustand/Ort (**Wo? -> Dativ**).
    - Einen Satz für Richtung/Aktion (**Wohin? -> Akkusativ**).
 3. Bilde einen **Kausalsatz mit *weil*** und achte penibel darauf, dass das finite Verb am Satzende einrastet.
