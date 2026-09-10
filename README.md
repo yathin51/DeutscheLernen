@@ -7,24 +7,22 @@ Dieses Repository wurde von einem erfahrenen Senior-Sprachdozenten (DaF – Deut
 
 ---
 
-## 🧭 Die Zwei Großen Lernpfade
+### 🧭 Die Drei Großen Lernpfade
 
-Das System ist in zwei komplementäre Hauptbereiche gegliedert:
+Das System ist in drei komplementäre Hauptbereiche gegliedert:
 
 ```
                             ┌──────────────────────────────┐
                             │        DeutscheLernen        │
                             └──────────────┬───────────────┘
                                            │
-            ┌──────────────────────────────┴──────────────────────────────┐
-            ▼                                                             ▼
- ┌──────────────────────────────────────┐      ┌──────────────────────────────────────┐
- │       PFAD A: CEFR STUFEN (A1-C2)    │      │    PFAD B: BERUFLICHE SPRACHE        │
- │  Systematischer Sprachaufbau nach    │      │  Intensiver Praxiskurs für das       │
- │  europäischem Referenzrahmen.        │      │  moderne Büro- & Geschäftsumfeld.    │
- │  (Konsolidierte 2-Säulen-Struktur:   │      │  (Keine Level-Trennung; wächst       │
- │   Grammatik.md + Vocabulary.md)      │      │   organisch pro Job-Sektor)          │
- └──────────────────────────────────────┘      └──────────────────────────────────────┘
+             ┌─────────────────────────────┼─────────────────────────────┐
+             ▼                             ▼                             ▼
+  ┌───────────────────────┐    ┌───────────────────────┐    ┌───────────────────────┐
+  │  PFAD A: CEFR (A1-C2) │    │ PFAD B: BERUFSSPRACHE │    │ PFAD C: REDEWENDUNGEN │
+  │ Systematischer Aufbau │    │ Intensiver Praxiskurs │    │ Idiome, Sprichwörter, │
+  │ Grammatik & Wortschatz│    │ für Büro & Jobsektoren│    │ Kultur & Redensarten  │
+  └───────────────────────┘    └───────────────────────┘    └───────────────────────┘
 ```
 
 ---
@@ -33,7 +31,7 @@ Das System ist in zwei komplementäre Hauptbereiche gegliedert:
 
 Jeder Stufenordner ist konsequent auf **zwei Kernsäulen** konsolidiert (Schluss mit Datei-Chaos!):
 1. **`Grammatik.md`**: Der vollständige Leitfaden mit der **Universal-Triade (`der / die / das`)**, Nomen-Pronomen-Austausch, mindestens 5 ausführlichen Beispielsätzen pro Thema und **eigenen Fragesektionen** („Wie frage ich danach?“).
-2. **`Vocabulary.md`**: Der thematisch geordnete Wortschatz mit Genus, Plural und Kontextbeispielen.
+2. **`Vocabulary.md`**: Der thematisch geordnete Wortschatz mit Genus, Plural und 5–6 nicht-wiederholten Pronomen-Beispielsätzen pro Wort.
 
 | Stufe | Niveau & Kernkompetenz | Wichtigste Grammatikthemen | Schnellzugriff |
 | :---: | :--- | :--- | :---: |
@@ -60,6 +58,19 @@ Der Kursbereich [**`berufliche_sprache/`**](./berufliche_sprache/README.md) bere
 | [**`06_Finanzen_Controlling_und_Buchhaltung.md`**](./berufliche_sprache/06_Finanzen_Controlling_und_Buchhaltung.md) | Reisekosten, Belegprüfung, Monatsabschluss, Soll-Ist-Vergleich, Revision | Formelle Zahlungserinnerung / Mahnung |
 | [**`07_Personalwesen_und_Recruiting_HR.md`**](./berufliche_sprache/07_Personalwesen_und_Recruiting_HR.md) | Stellenausschreibungen, Bewerbungsgespräche, Arbeitszeugnisse, Betriebsrat | Einladung zum Vorstellungsgespräch |
 | [**`08_Kundenservice_und_Support.md`**](./berufliche_sprache/08_Kundenservice_und_Support.md) | Tickethandling, Deeskalation am Telefon, Kulanzregelungen, SLAs | Kundenservice-Deeskalationsschreiben |
+
+---
+
+## 🎭 Pfad C: Redewendungen, Sprichwörter & Redensarten
+
+Der Modulbereich [**`Redewendungen/`**](./Redewendungen/README.md) erschließt dir den Reichtum der bildhaften deutschen Alltagssprache. Jede Redewendung enthält die wörtliche Übersetzung, Herkunft & Kulturgeschichte, Sprachregister, 5–6 nicht-wiederholte Pronomen-Beispiele und eine eigene Fragesektion:
+
+| Thematische Datei | Themenschwerpunkt | Ausgewählte Schlüssel-Idiome |
+| :--- | :--- | :--- |
+| [**`01_Arbeit_und_Erfolg.md`**](./Redewendungen/01_Arbeit_und_Erfolg.md) | Beruf, Karriere, Fleiß & Scheitern | *Nägel mit Köpfen machen, Daumen drücken, auf Nummer sicher gehen, alle Hebel in Bewegung setzen* |
+| [**`02_Kommunikation_und_Verstaendnis.md`**](./Redewendungen/02_Kommunikation_und_Verstaendnis.md) | Missverständnisse, Klarheit & Wahrheit | *Nur Bahnhof verstehen, auf dem Holzweg sein, durch die Blume sagen, auf dem Schlauch stehen* |
+| [**`03_Emotionen_und_Konflikte.md`**](./Redewendungen/03_Emotionen_und_Konflikte.md) | Wut, Verliebtheit, Milde & Kritik | *Auf die Palme bringen, aus allen Wolken fallen, Honig ums Maul schmieren, ein Auge zudrücken* |
+| [**`04_Alltag_und_Lebensweisheiten.md`**](./Redewendungen/04_Alltag_und_Lebensweisheiten.md) | Glück, Alltagspannen, Tiere & Geduld | *Schwein haben, zwei Fliegen mit einer Klappe schlagen, Tomaten auf den Augen haben, alles in Butter* |
 
 ---
 
@@ -90,4 +101,5 @@ Der Kursbereich [**`berufliche_sprache/`**](./berufliche_sprache/README.md) bere
 Als Sprachlehrer empfehle ich diese tägliche 15-Minuten-Routine:
 1. **5 Minuten Grammatik:** Öffne das aktuelle Kapitel in [`Grammatik.md`](./A1/Grammatik.md) und lies die Universal-Triade laut vor.
 2. **5 Minuten Satzbau & Fragen:** Wähle 3 Wörter und bilde damit 3 Aussagen und **3 Fragen** (nutze dazu die Fragesektionen „Wie frage ich danach?“).
-3. **5 Minuten Berufssprache:** Öffne eine Sektor-Datei in [`berufliche_sprache/`](./berufliche_sprache/README.md) und lerne 2 praktische Büroformulierungen auswendig.
+3. **5 Minuten Praxis & Kultur:** Lerne entweder 2 Büroformulierungen aus [`berufliche_sprache/`](./berufliche_sprache/README.md) oder 1 bildhafte Redewendung aus [`Redewendungen/`](./Redewendungen/README.md).
+
