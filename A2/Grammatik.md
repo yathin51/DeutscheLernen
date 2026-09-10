@@ -1,5 +1,10 @@
 # A2 Grammatik-Leitfaden: Festigung & Erzählung (Consolidation & Narration)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+[A1 - Anfänger](../A1/Grammatik.md) ➔ **[A2 - Grundstufe](./Grammatik.md)** ➔ [B1 - Mittelstufe](../B1/Grammatik.md) ➔ [B2 - Selbstständige Sprachverwendung](../B2/Grammatik.md) ➔ [C1 - Fachkundig](../C1/Grammatik.md) ➔ [C2 - Meisterschaft](../C2/Grammatik.md)
+---
+
 > **Herzlich willkommen auf Stufe A2!**  
 > Auf der Stufe A2 verlässt du die reine Überlebenssprache der Anfänger. Du lernst nun, von der Vergangenheit zu erzählen, Bedingungen zu formulieren, Gründe anzugeben und dich räumlich wie zeitlich präzise zu orientieren. Die Grammatik wird reicher – aber mit dem richtigen System bleibt sie absolut logisch.
 
@@ -170,3 +175,31 @@ Neun Präpositionen können entweder mit Dativ oder mit Akkusativ stehen:
    - Einen Satz für Zustand/Ort (**Wo? -> Dativ**).
    - Einen Satz für Richtung/Aktion (**Wohin? -> Akkusativ**).
 3. Bilde einen **Kausalsatz mit *weil*** und achte penibel darauf, dass das finite Verb am Satzende einrastet.
+
+---
+
+## 7. Wort- & Konzept-Mapping von A2 auf A1-Grundlagen (Für Einsteiger / Newbies erklärt)
+
+Wenn du von A1 zu A2 kommst, wirken viele Fachbegriffe und neue Wörter zunächst einschüchternd. Hier siehst du genau, wie jedes neue A2-Konzept auf einem vertrauten Wort oder einer Regel aus A1 aufbaut:
+
+| Neues A2-Wort / Konzept | Was es auf Englisch bedeutet (Newbie-Erklärung) | Wie du es auf Stufe A1 ausgedrückt hast | Verlinkte A1-Quelle (Grundlage) |
+| :--- | :--- | :--- | :--- |
+| **Das Perfekt** (*habe gelernt*) | The spoken past tense ("I have learned / I learned") | Auf A1 gab es nur das Präsens: *Ich lerne* | [`A1/Verbs.md`](../A1/Verbs.md) & [`A1/Grammatik.md`](../A1/Grammatik.md) |
+| **Das Präteritum** (*war, hatte, musste*) | Simple past of key helper verbs ("was, had, had to") | Auf A1 im Präsens: *ich bin, ich habe, ich muss* | [`A1/Verbs.md`](../A1/Verbs.md) (Hilfsverben) |
+| **Der Dativ** (*dem, der, den + -n*) | The indirect object / beneficiary ("to/for whom?") | Auf A1 kannte man nur Subjekt (*Nominativ*) und direktes Objekt (*Akkusativ*) | [`A1/Cases.md`](../A1/Cases.md) & [`A1/Pronouns.md`](../A1/Pronouns.md) |
+| **Wechselpräpositionen** (*in, an, auf...*) | 9 prepositions changing case (Location vs. Direction) | Auf A1 nutzte man nur starre Akkusativ-Präpositionen (*für, ohne...*) | [`A1/Prepositions.md`](../A1/Prepositions.md) |
+| **Dativpräpositionen** (*mit, nach, von, zu*) | Prepositions always demanding Dative ("with, to, from") | Auf A1 lernte man DOGFU (*durch, ohne, gegen, für, um*) für Akkusativ | [`A1/Prepositions.md`](../A1/Prepositions.md) |
+| **weil** | "because" (Subordinate clause, verb kicks to the end) | Auf A1 nutzte man zwei Einzelsätze oder *denn* (Verb bleibt auf Pos. 2) | [`A1/Grammatik.md`](../A1/Grammatik.md) (Satzstruktur) |
+| **dass** | "that" (e.g. *Ich weiß, dass...*) | Auf A1 nutzte man wörtliche Rede (*Er sagt: „Ich komme“*) | [`A1/Grammatik.md`](../A1/Grammatik.md) |
+| **wenn** | "if / when" (expressing conditions or time) | Auf A1 bildete man einfache Aussagesätze ohne Bedingung | [`A1/Grammatik.md`](../A1/Grammatik.md) |
+| **ADUSO** (*aber, denn, und...*) | Coordinating connectors that take **Position 0** | Auf A1 reihte man Sätze einfach mit *und* oder *aber* aneinander | [`A1/Grammatik.md`](../A1/Grammatik.md) |
+| **Dativpronomen** (*mir, dir, ihm, ihr*) | Personal pronouns for recipient ("to me, to you, to him") | Auf A1 nur Nominativ (*ich, du*) und Akkusativ (*mich, dich*) | [`A1/Pronouns.md`](../A1/Pronouns.md) |
+| **Komparativ** (*schnell**er als***) | Comparison of adjectives ("faster than") | Auf A1 blieben Adjektive undekliniert (*Das Auto ist schnell*) | [`A1/Adjectives.md`](../A1/Adjectives.md) |
+| **Reflexivverben** (*sich freuen*) | Actions directed back at the subject ("to enjoy oneself") | Auf A1 handelten Verben immer nur nach außen auf Objekte | [`A1/Verbs.md`](../A1/Verbs.md) |
+
+---
+
+🧭 **Navigation & Lernpfad:**  
+⬅️ [**Zurück zu A1: A1 Grammatik-Leitfaden (Grammatik.md)**](../A1/Grammatik.md)  
+➡️ [**Weiter zu B1: B1 Grammatik-Leitfaden (Grammatik.md)**](../B1/Grammatik.md)
+

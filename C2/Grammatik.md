@@ -1,5 +1,10 @@
 # C2 Grammatik- & Stilistik-Leitfaden: Sprachliche Meisterschaft & Virtuosität (Near-Native Virtuosity)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+[A1 - Anfänger](../A1/Grammatik.md) ➔ [A2 - Grundstufe](../A2/Grammatik.md) ➔ [B1 - Mittelstufe](../B1/Grammatik.md) ➔ [B2 - Selbstständige Sprachverwendung](../B2/Grammatik.md) ➔ [C1 - Fachkundig](../C1/Grammatik.md) ➔ **[C2 - Meisterschaft](./Grammatik.md)**
+---
+
 > **Herzlich willkommen auf der höchsten Stufe: C2!**  
 > Auf dem C2-Niveau (Großes Deutsches Sprachdiplom / Goethe-Zertifikat C2) verlässt du die Sphäre des Regellernens und betrittst die Kunst der Sprache. Grammatik ist hier kein Korsett mehr, sondern ein Instrument ästhetischer, rhetorischer und psychologischer Wirkung. Du beherrschst nicht nur die Norm der Hochsprache perfekt, sondern weißt sie bewusst zu dehnen, mit Satzmelodien zu spielen, Register nach Belieben zu wechseln und feinsinnigste Nuancen treffsicher zu platzieren.
 
@@ -130,3 +135,29 @@ Auf C2 tolerierst du keine Verwechslung von Schein-Synonymen:
 1. **Rhetorischer Umbau:** Nimm einen klassischen Zeitungskommentar und ersetze alle *würde*-Konstruktionen durch elegante synthetische Konjunktive II (*bedürfte, geschähe, trüge*).
 2. **Topologische Akzentuierung:** Schreibe einen Absatz, in dem du durch gezielte Vorfeldbesetzung (Adjektiv oder Partizip an Position 1) und eine wohlüberlegte Ausklammerung ins Nachfeld besondere Dramatik erzeugst.
 3. **Partikel-Feinschliff:** Nimm 2 neutrale Aussagen und verändere deren emotionale Färbung allein durch das Einfügen einer Doppel-Modalpartikel (*ja doch, eben halt, wohl kaum*).
+
+---
+
+## 7. Wort- & Konzept-Mapping von C2 auf C1/B2/B1-Grundlagen (Für Einsteiger / Newbies erklärt)
+
+Selbst wer schon lange Deutsch lernt, stößt auf C2 auf stilistische Kunstgriffe und archaische Wörter, die selten in Lehrbüchern stehen. Hier ist die Übersetzungskarte dieser Meisterformen zurück in die alltägliche Sprache:
+
+| C2-Meisterausdruck / Phänomen | Was es auf Englisch bedeutet (Newbie-Erklärung) | Wie man es einfacher auf B1/B2/C1 sagt | Verlinkte Quelle (Vorherige Dateien) |
+| :--- | :--- | :--- | :--- |
+| **Synthetischer Konj. II** (*bedürfte, geschähe*) | Literary subjunctive ("would require, would happen") | Einfache *würde*-Form: *würde brauchen, würde passieren* | [`B1/Grammatik.md`](../B1/Grammatik.md) (Konjunktiv II) |
+| **anscheinend vs. scheinbar** | Fact-based probability vs. deceptive illusion | Umgangssprachlich: *sieht so aus wie...* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+| **Ausklammerung ins Nachfeld** | Placing words after the verb bracket for rhythmic focus | Auf A1-B1 streng verboten: *alles muss in die Satzklammer* | [`A1/Grammatik.md`](../A1/Grammatik.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Dativus Ethicus** (*Fall mir nicht!*) | Emotional dative ("Don't you go falling on me!") | Der normale Dativ als Empfänger: *Er hilft mir* | [`A2/Cases.md`](../A2/Cases.md) & [`A1/Cases.md`](../A1/Cases.md) |
+| **binnen (+ Genitiv)** | "within" a time span (elevated/formal) | Alltagssprache: *innerhalb von (+ Dativ)* | [`B1/Prepositions.md`](../B1/Prepositions.md) & [`A2/Prepositions.md`](../A2/Prepositions.md) |
+| **unbeschadet (+ Genitiv)** | "without prejudice to / regardless of" (legal register) | Alltagssprache: *trotz / ungeachtet* | [`B1/Prepositions.md`](../B1/Prepositions.md) & [`B2/Grammatik.md`](../B2/Grammatik.md) |
+| **Komme, was wolle** | "Come what may" (Inverted concessive subjunctive) | Alltagssprache: *Egal was passiert...* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) |
+| **Hätte ich das gewusst...** | "Had I known that..." (Conditional without *wenn*) | Normaler Nebensatz: *Wenn ich das gewusst hätte...* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **Abtönungspartikelketten** (*ja wohl kaum*) | Complex attitude modifiers ("surely hardly / scarcely") | Einfache Verneinung: *sicherlich nicht* | [`A1/Grammatik.md`](../A1/Grammatik.md) (*nicht*) & [`C1/Grammatik.md`](../C1/Grammatik.md) |
+
+---
+
+🧭 **Meilenstein erreicht & Navigation:**  
+Glückwunsch! Du hast das gesamte grammatikalische Spektrum von den Grundlagen bis zur Vollendung durchlaufen.  
+⬅️ [**Zurück zu C1: C1 Grammatik-Leitfaden (Grammatik.md)**](../C1/Grammatik.md)  
+🏠 [**Zum Gesamtrepertoire: Hauptübersicht (README.md)**](../README.md)
+

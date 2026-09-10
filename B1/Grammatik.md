@@ -1,5 +1,10 @@
 # B1 Grammatik-Leitfaden: Die Schwelle zur Autonomie (The Bridge to Independence)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+[A1 - Anfänger](../A1/Grammatik.md) ➔ [A2 - Grundstufe](../A2/Grammatik.md) ➔ **[B1 - Mittelstufe](./Grammatik.md)** ➔ [B2 - Selbstständige Sprachverwendung](../B2/Grammatik.md) ➔ [C1 - Fachkundig](../C1/Grammatik.md) ➔ [C2 - Meisterschaft](../C2/Grammatik.md)
+---
+
 > **Willkommen auf Stufe B1!**  
 > Das B1-Niveau (Zertifikat Deutsch / Goethe-Zertifikat B1) ist der entscheidende Wendepunkt in deiner Sprachbiografie. Du sprichst nicht mehr nur über einfache Abläufe, sondern äußerst fundierte Meinungen, formulierst Hypothesen, beschreibst Prozesse objektiv im Passiv und verknüpfst komplexe Gedankengänge zu fließenden Texten. Hier wird dein Deutsch erwachsen.
 
@@ -162,3 +167,30 @@ Beachte den Unterschied zwischen Personen und Sachen:
 1. **Passiv-Übung:** Wandle 2 Aktivsätze in das Vorgangspassiv um (Präsens und Präteritum). Achte darauf: Das Akkusativobjekt des Aktivsatzes wird zum Subjekt des Passivsatzes!
 2. **Relativsatz-Kette:** Nimm ein Nomen aus [`Cases.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B1/Cases.md) und bilde dazu 4 Relativsätze (Nominativ, Akkusativ, Dativ und Genitiv).
 3. **Hypothesen formulieren:** Bilde 2 Konditionalsätze mit **Konjunktiv II**: *„Wenn ich ..., dann würde/wäre/hätte ich ...“*
+
+---
+
+## 7. Wort- & Konzept-Mapping von B1 auf A2/A1-Grundlagen (Für Einsteiger / Newbies erklärt)
+
+Auf B1 machst du den großen Schritt von der Alltagssprache zur eigenständigen Sprachverwendung. Hier siehst du, wie die neuen B1-Grammatikwörter direkt an das anknüpfen, was du in A1 und A2 gelernt hast:
+
+| Neues B1-Wort / Konzept | Was es auf Englisch bedeutet (Newbie-Erklärung) | Wie du es auf Stufe A1/A2 ausgedrückt hast | Verlinkte Quelle (Vorherige Dateien) |
+| :--- | :--- | :--- | :--- |
+| **Das Passiv** (*wird gebaut*) | The passive voice ("is being built") | Im Aktiv: *Man baut das Haus* oder *Arbeiter bauen das Haus* | [`A1/Verbs.md`](../A1/Verbs.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Der Konjunktiv II** (*hätte, wäre, würde*) | Hypothetical / polite mood ("would have, would be, would do") | Auf A1 nur *ich möchte* (*would like*) oder im Indikativ (*ich will*) | [`A1/Verbs.md`](../A1/Verbs.md) & [`A2/Verbs.md`](../A2/Verbs.md) |
+| **Der Genitiv** (*des Vaters, der Mutter*) | Possessive case ("of the father / father's") | Auf A2 mit der Umschreibung: *von dem Vater / von der Mutter* | [`A2/Cases.md`](../A2/Cases.md) & [`A1/Cases.md`](../A1/Cases.md) |
+| **Genitivpräpositionen** (*wegen, während, trotz*) | Prepositions demanding Genitive ("because of, during, despite") | Auf A2 mit Nebensätzen: *weil* (wegen), *als/wenn* (während), *aber* (trotz) | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`A2/Prepositions.md`](../A2/Prepositions.md) |
+| **Relativpronomen** (*der, die, das, dem...*) | Connecting pronouns ("who, which, that") | Auf A1/A2 wiederholte man das Nomen oder nutzte Personalpronomen (*er/sie/es*) | [`A1/Pronouns.md`](../A1/Pronouns.md) & [`A2/Pronouns.md`](../A2/Pronouns.md) |
+| **Infinitiv mit *zu*** (*zu machen*) | "to do something" after verbs like *hoffen, planen* | Auf A1 nutzte man Modalverben (*ich will machen*) | [`A1/Verbs.md`](../A1/Verbs.md) |
+| **um... zu / damit** | Purpose clause ("in order to / so that") | Auf A1 nutzte man *wollen* oder *deshalb* | [`A1/Verbs.md`](../A1/Verbs.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Pronominaladverbien** (*Worauf / Darauf*) | Prepositional question/pointer words ("what for / for that") | Auf A2 sagte man umgangssprachlich *für was?* oder *auf das* | [`A2/Prepositions.md`](../A2/Prepositions.md) |
+| **Doppelkonnektoren** (*sowohl... als auch*) | Two-part connectors ("as well as / not only... but also") | Auf A1/A2 reihte man schlicht mit *und... und...* aneinander | [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **N-Deklination** (*dem Kunden*) | Weak masculine nouns adding `-n` in all cases except Nom. | Auf A1 lernte man die Grundform ohne Endung (*der Kunde*) | [`A1/Nouns.md`](../A1/Nouns.md) |
+| **TeKaMoLo** | Formula for ordering adverbs (When? Why? How? Where?) | Auf A1/A2 stellte man Zeit und Ort nach Gefühl auf | [`A1/Grammatik.md`](../A1/Grammatik.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+
+---
+
+🧭 **Navigation & Lernpfad:**  
+⬅️ [**Zurück zu A2: A2 Grammatik-Leitfaden (Grammatik.md)**](../A2/Grammatik.md)  
+➡️ [**Weiter zu B2: B2 Grammatik-Leitfaden (Grammatik.md)**](../B2/Grammatik.md)
+

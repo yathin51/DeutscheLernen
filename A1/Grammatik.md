@@ -1,5 +1,10 @@
 # A1 Grammatik-Leitfaden: Das Fundament (The Foundation)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+**[A1 - Anfänger](./Grammatik.md)** ➔ [A2 - Grundstufe](../A2/Grammatik.md) ➔ [B1 - Mittelstufe](../B1/Grammatik.md) ➔ [B2 - Selbstständige Sprachverwendung](../B2/Grammatik.md) ➔ [C1 - Fachkundig](../C1/Grammatik.md) ➔ [C2 - Meisterschaft](../C2/Grammatik.md)
+---
+
 > **Guten Tag und willkommen auf Stufe A1!**  
 > Als erfahrener Sprachlehrer (Senior DaF-Dozent) begleite ich dich auf deiner Reise durch die deutsche Sprache. Das A1-Niveau ist das wichtigste Niveau überhaupt: Hier legst du das Fundament für deinen gesamten Spracherwerb. Jeder Satz, den du später fließend sprichst, fußt auf den grammatikalischen Prinzipien, die du hier lernst.
 
@@ -148,3 +153,27 @@ Nimm dir täglich 15 Minuten Zeit für diese Übungsfolge:
    - Einen Satz mit einem Modalverb (*können / müssen / wollen*).
    - Eine Frage (Ja/Nein- oder W-Frage).
 4. Kontrolliere selbst: Steht das Verb auf Position 2 bzw. ganz am Ende? Hat das maskuline Akkusativ-Nomen ein `-en`?
+
+---
+
+## 7. Wort- & Grammatik-Brücke zu Stufe A2 (Wie deine A1-Wörter auf A2 erweitert werden)
+
+Als Einsteiger fragst du dich vielleicht: *„Was mache ich als Nächstes mit all diesen Wörtern?“*  
+Hier ist die direkte Übersetzungskarte deiner A1-Grundlagen in die Sprache der nächsten Stufe A2:
+
+| Dein aktuelles A1-Wort / Konzept | Dateiquelle (A1) | Wie es auf Stufe A2 erweitert wird | Bedeutung & Funktion auf A2 |
+| :--- | :--- | :--- | :--- |
+| **Präsens** (*ich mache, ich fahre*) | [`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Verbs.md) | ➔ **Perfekt** (*ich habe gemacht, ich bin gefahren*) | Erzählen in der Vergangenheit in [`A2/Verbs.md`](../A2/Verbs.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Akkusativ** (*den Mann / einen Hund*) | [`Cases.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Cases.md) | ➔ **Dativ** (*dem Mann / einem Hund*) | Das indirekte Objekt (Wem?) in [`A2/Cases.md`](../A2/Cases.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Akkusativ-Präpositionen** (*durch, für, ohne...*) | [`Prepositions.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Prepositions.md) | ➔ **Wechselpräpositionen** (*in, auf, an...*) | Ort (*Wo?* = Dativ) vs. Richtung (*Wohin?* = Akkusativ) in [`A2/Prepositions.md`](../A2/Prepositions.md) |
+| **Aussagesatz** (*Verb auf Position 2*) | [`Grammatik.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Grammatik.md) | ➔ **Nebensätze** (*weil, dass, wenn...*) | Konjunktionen, die das Verb ans Satzende kicken, in [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **Personalpronomen** (*ich, du / mich, dich*) | [`Pronouns.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Pronouns.md) | ➔ **Dativpronomen** (*mir, dir, ihm, ihr*) | Empfänger von Geschenken/Hilfe in [`A2/Pronouns.md`](../A2/Pronouns.md) |
+| **Adjektive prädikativ** (*Das Haus ist groß*) | [`Adjectives.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Adjectives.md) | ➔ **Adjektivdeklination & Komparativ** | Endungen vor Nomen (*ein groß**es** Haus*) & Vergleiche (*größ**er als***) in [`A2/Adjectives.md`](../A2/Adjectives.md) |
+| **Wortschatz Alltag** (*Essen, Wohnen, Hobbys*) | [`Vocabulary.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/A1/Vocabulary.md) | ➔ **Wortschatz Beruf & Reisen** | Erweiterung auf Alltagskontexte in [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+
+---
+
+🧭 **Nächster Schritt auf deiner Reise:**  
+Bist du sicher mit Präsens, Nominativ und Akkusativ? Dann steige jetzt auf zur nächsten Stufe:  
+👉 [**Weiter zu A2: A2 Grammatik-Leitfaden (Grammatik.md)**](../A2/Grammatik.md)
+

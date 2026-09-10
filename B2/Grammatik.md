@@ -1,5 +1,10 @@
 # B2 Grammatik-Leitfaden: Souveränität & Fachsprachliche Eleganz (Upper-Intermediate Mastery)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+[A1 - Anfänger](../A1/Grammatik.md) ➔ [A2 - Grundstufe](../A2/Grammatik.md) ➔ [B1 - Mittelstufe](../B1/Grammatik.md) ➔ **[B2 - Selbstständige Sprachverwendung](./Grammatik.md)** ➔ [C1 - Fachkundig](../C1/Grammatik.md) ➔ [C2 - Meisterschaft](../C2/Grammatik.md)
+---
+
 > **Willkommen auf Stufe B2!**  
 > Die B2-Stufe ist das Tor zu professioneller und akademischer Handlungsfähigkeit im deutschsprachigen Raum. Hier geht es nicht mehr darum, ob man dich versteht – sondern wie differenziert, präzise und stilsicher du dich ausdrückst. Du lernst, mühelos zwischen lebendigem Erzählstil (*Verbalstil*) und verdichtetem Behörden- und Wissenschaftsdeutsch (*Nominalstil*) zu wechseln, Passivvarianten geschickt einzusetzen und komplexe Sachverhalte auf den Punkt zu bringen.
 
@@ -171,3 +176,30 @@ Im B2-Register ersetzen FVG einfache Verben:
 1. **Stil-Transformation:** Nimm 2 Sätze im Verbalstil aus einer Zeitung und transformiere sie in prägnanten **Nominalstil** mit Genitivpräpositionen (*aufgrund, infolge, ungeachtet*).
 2. **FVG-Drill:** Wähle 3 Nomen-Verb-Verbindungen aus [`Verbs.md`](file:///e:/Projects/VS_Projects/DeutscheLernen/B2/Verbs.md) und bilde geschäftliche Mustersätze für den Beruf.
 3. **Passiversatz:** Bilde einen Satz mit *sich lassen* und einen Satz mit *sein + zu + Infinitiv*.
+
+---
+
+## 7. Wort- & Konzept-Mapping von B2 auf B1/A2-Grundlagen (Für Einsteiger / Newbies erklärt)
+
+Auf B2 liest und schreibst du plötzlich behördliche, wissenschaftliche und fachsprachliche Texte. Damit diese Konstruktionen nicht wie eine Fremdsprache wirken, findest du hier ihre Rückübersetzung in einfachere Wörter aus A1, A2 und B1:
+
+| Anspruchsvoller B2-Ausdruck | Was es auf Englisch bedeutet (Newbie-Erklärung) | Einfachere Entsprechung auf A2/B1 | Verlinkte Quelle (Vorherige Dateien) |
+| :--- | :--- | :--- | :--- |
+| **Nominalisierung** (*die Schließung*) | Turning verbs into formal nouns ("the closure") | Das normale Vollverb: *schließen* | [`B1/Verbs.md`](../B1/Verbs.md) & [`A1/Verbs.md`](../A1/Verbs.md) |
+| **eine Entscheidung treffen** | "to make a decision" (Funktionsverbgefüge / FVG) | Das einfache Verb: *entscheiden* | [`B1/Verbs.md`](../B1/Verbs.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+| **in Betracht ziehen** | "to consider / take into account" | Nachdenken: *überlegen / nachdenken über* | [`B1/Verbs.md`](../B1/Verbs.md) |
+| **zur Verfügung stehen** | "to be available" | Einfach da sein: *bereit sein / verfügbar sein* | [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+| **lässt sich reparieren** | "can be repaired" (Passiversatz mit *sich lassen*) | Das Standard-Passiv: *kann repariert werden* | [`B1/Grammatik.md`](../B1/Grammatik.md) (Passiv) |
+| **ist zu erledigen** | "must be done" (Passiversatz mit *sein + zu*) | Die Notwendigkeit: *muss erledigt werden* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`A1/Verbs.md`](../A1/Verbs.md) (*müssen*) |
+| **Zustandspassiv** (*ist geschlossen*) | The resulting state ("is closed") | Der Vorgang: *wird gerade geschlossen* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **aufgrund (+ Genitiv)** | "due to / because of" (Nominalstil) | Der Kausalsatz: *weil* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B1/Cases.md`](../B1/Cases.md) (*wegen*) |
+| **ungeachtet (+ Genitiv)** | "regardless of / notwithstanding" | Der Konzessivsatz: *obwohl* oder *trotz* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`B1/Prepositions.md`](../B1/Prepositions.md) |
+| **Futur II** (*wird geschlafen haben*) | Assumption about past ("probably slept") | Wahrscheinlichkeit: *vielleicht hat er geschlafen* | [`A2/Grammatik.md`](../A2/Grammatik.md) (Perfekt) |
+| **Erweitertes Partizip** (*die getroffene Wahl*) | Complex adjective phrase ("the choice made") | Relativsatz: *die Wahl, die man getroffen hat* | [`B1/Pronouns.md`](../B1/Pronouns.md) & [`B1/Grammatik.md`](../B1/Grammatik.md) |
+
+---
+
+🧭 **Navigation & Lernpfad:**  
+⬅️ [**Zurück zu B1: B1 Grammatik-Leitfaden (Grammatik.md)**](../B1/Grammatik.md)  
+➡️ [**Weiter zu C1: C1 Grammatik-Leitfaden (Grammatik.md)**](../C1/Grammatik.md)
+

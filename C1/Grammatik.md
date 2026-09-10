@@ -1,5 +1,10 @@
 # C1 Grammatik-Leitfaden: Wissenschaftlichkeit & Rhetorische Finesse (Advanced Precision)
 
+---
+🧭 **CEFR Stufen-Navigation:**  
+[A1 - Anfänger](../A1/Grammatik.md) ➔ [A2 - Grundstufe](../A2/Grammatik.md) ➔ [B1 - Mittelstufe](../B1/Grammatik.md) ➔ [B2 - Selbstständige Sprachverwendung](../B2/Grammatik.md) ➔ **[C1 - Fachkundig](./Grammatik.md)** ➔ [C2 - Meisterschaft](../C2/Grammatik.md)
+---
+
 > **Willkommen in der Königsklasse: Stufe C1!**  
 > Auf dem C1-Niveau geht es nicht mehr um das bloße Vermeiden von Fehlern, sondern um den souveränen Umgang mit den feinsten Nuancen, Registern und Implikationen der deutschen Sprache. Als C1-Sprecher beherrschst du die Wissenschaftssprache, juristische Exaktheit, den journalistischen Konjunktiv I und kannst die Perspektive eines Sprechers durch subjektive Modalverben mit mathematischer Genauigkeit abstufen.
 
@@ -137,3 +142,29 @@ Das Gerundivum ist ein unverzichtbares Merkmal deutscher Wissenschafts- und Amts
    - wahrscheinlich (*dürfte ... sein*)
    - Gerücht / unbelegt (*soll ... sein*)
 3. **Gerundiv-Transformation:** Wandle 2 Passivsätze mit *müssen* in pränominale Gerundivphrasen um (*die einzuhaltenden Fristen*).
+
+---
+
+## 6. Wort- & Konzept-Mapping von C1 auf B2/B1-Grundlagen (Für Einsteiger / Newbies erklärt)
+
+Auf C1 begegnest du akademischen und journalistischen Formulierungen, die selbst für fortgeschrittene Lerner zunächst undurchsichtig wirken können. Diese Tabelle zeigt dir, welches alltägliche Konzept dahintersteckt und wo du die Wurzeln findest:
+
+| C1-Fachausdruck / Gehobene Wendung | Was es auf Englisch bedeutet (Newbie-Erklärung) | Einfachere Entsprechung auf B1/B2 | Verlinkte Quelle (Vorherige Dateien) |
+| :--- | :--- | :--- | :--- |
+| **Konjunktiv I** (*er sei, er habe*) | Indirect speech quote ("He reports that he is/has...") | Einfacher *dass*-Satz im Indikativ: *Er hat gesagt, dass er krank ist* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **dürfte** (*dürfte ankommen*) | High probability ("is likely to / probably will") | Wahrscheinlichkeit: *wird wahrscheinlich ankommen* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+| **soll** (*soll reich sein*) | Rumor / Hearsay ("is said to be...") | Hörensagen: *Die Leute sagen, dass er reich ist* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **will** (*will der Beste sein*) | Unverified personal claim ("claims to be...") | Eigene Behauptung: *Er behauptet selbst, dass er der Beste ist* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) |
+| **Gerundivum** (*das zu lösende Problem*) | Pre-nominal attribute of obligation ("the problem to be solved") | Relativsatz mit *müssen*: *das Problem, das gelöst werden muss* | [`B2/Grammatik.md`](../B2/Grammatik.md) (Passiversatz) & [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **in Anbetracht (+ Genitiv)** | "in consideration of / given that" | Begründung: *weil / aufgrund* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B2/Grammatik.md`](../B2/Grammatik.md) |
+| **ungeachtet dessen, dass** | "notwithstanding that / even though" | Gegengrund: *obwohl* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **unter der Prämisse, dass** | "under the premise / condition that" | Bedingung: *nur wenn / vorausgesetzt, dass* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **geschweige denn** | "let alone / much less" | Steigerung: *und erst recht nicht* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) |
+| **insofern, als** | "insofar as / to the extent that" | Einschränkung: *in dem Maße, wie* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
+
+---
+
+🧭 **Navigation & Lernpfad:**  
+⬅️ [**Zurück zu B2: B2 Grammatik-Leitfaden (Grammatik.md)**](../B2/Grammatik.md)  
+➡️ [**Weiter zu C2: C2 Grammatik-Leitfaden (Grammatik.md)**](../C2/Grammatik.md)
+
