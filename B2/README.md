@@ -2,6 +2,9 @@
 
 Welcome to the B2 level resources. At this level, you focus on speaking fluently, writing structured essays, and understanding complex texts on both concrete and abstract topics.
 
+## Master Grammar Guide
+- 📖 [**B2 Grammatik-Leitfaden (Grammatik.md)**](./Grammatik.md) — Comprehensive pedagogical master guide on Nominalstil vs. Verbalstil, Passiversatzformen, erweiterte Partizipialattribute, Funktionsverbgefüge (FVG), and Futur II.
+
 ## Core Topics
 - **Complex Discussions**: Arguing abstract concepts, participating in debates, and professional negotiations.
 - **Formal Correspondence**: Writing formal emails, complaints, applications, and reports.
@@ -12,3 +15,4 @@ Welcome to the B2 level resources. At this level, you focus on speaking fluently
   - Nominalization and verbalization (*Nominalstil* vs. *Verbalstil*)
   - Alternative forms of the passive voice
   - Advanced adjective declension and placement
+
