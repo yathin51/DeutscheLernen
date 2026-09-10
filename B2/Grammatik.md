@@ -140,19 +140,47 @@ In deutschen Fachtexten, Zeitungsberichten und Fachaufsätzen findest du häufig
 
 ---
 
+---
+
 ## 4. Wortgebrauch: Funktionsverbgefüge (Nomen-Verb-Kollokationen)
 
-Im B2-Register ersetzen FVG einfache Verben:
+Im B2-Register ersetzen FVG einfache Verben und verleihen dem Ausdruck stilistische Reife:
 
-| Einfaches Verb | Funktionsverbgefüge | Beispielsatz |
-| :--- | :--- | :--- |
-| anwenden | **zur Anwendung kommen** | *Die neue Verordnung kommt ab Mai zur Anwendung.* |
-| beantragen | **einen Antrag stellen auf** | *Wir müssen einen Antrag auf Verlängerung stellen.* |
-| beeinflussen | **Einfluss ausüben auf (+ Akk)** | *Lobbyisten versuchen, Einfluss auf die Politik auszuüben.* |
-| beenden | **zu Ende bringen / führen** | *Wir sollten die Diskussion nun zu Ende bringen.* |
-| erwägen | **in Betracht ziehen** | *Wir ziehen verschiedene Optionen in Betracht.* |
-| bezweifeln | **in Zweifel ziehen** | *Niemand zieht seine Kompetenz in Zweifel.* |
-| verfügen über | **zur Verfügung stehen / stellen** | *Die Mittel stehen uns ab sofort zur Verfügung.* |
+| Einfaches Verb | Funktionsverbgefüge | Präposition | Beispielsatz |
+| :--- | :--- | :--- | :--- |
+| anwenden | **zur Anwendung kommen** | — | *Die neue Verordnung kommt ab Mai zur Anwendung.* |
+| beantragen | **einen Antrag stellen auf** | auf (+ Akk) | *Wir müssen einen Antrag auf Verlängerung stellen.* |
+| beeinflussen | **Einfluss ausüben auf** | auf (+ Akk) | *Lobbyisten versuchen, Einfluss auf die Politik auszuüben.* |
+| beenden | **zu Ende bringen / führen** | — | *Wir sollten die Diskussion nun zu Ende bringen.* |
+| erwägen | **in Betracht ziehen** | — | *Wir ziehen verschiedene Optionen in Betracht.* |
+| bezweifeln | **in Zweifel ziehen** | — | *Niemand zieht seine Kompetenz in Zweifel.* |
+| verfügen über | **zur Verfügung stehen / stellen**| — | *Die Mittel stehen uns ab sofort zur Verfügung.* |
+| kritisieren | **Kritik üben an** | an (+ Dat) | *Der Vorstand übte scharfe Kritik an den Sparplänen.* |
+| beschließen | **einen Beschluss fassen** | — | *Der Gemeinderat hat gestern einen Beschluss gefasst.* |
+
+### 5 Ausführliche Beispielsätze mit Funktionsverbgefügen (Aussagen):
+1. **Der Abteilungsleiter zog alle vorliegenden Alternativvorschläge sorgfältig in Betracht.**  
+   *(The department head carefully took all available alternative proposals into consideration.)*
+2. **Die Geschäftsführung stellte dem Forschungsteam zusätzliche finanzielle Mittel zur Verfügung.**  
+   *(The management made additional financial funds available to the research team.)*
+3. **Aufgrund der veränderten Marktlage übte der Aufsichtsrat deutliche Kritik an der bisherigen Vertriebsstrategie.**  
+   *(Due to the altered market situation, the supervisory board expressed clear criticism of the previous sales strategy.)*
+4. **Wir müssen die laufenden Vertragsverhandlungen bis Ende dieser Woche erfolgreich zu Ende führen.**  
+   *(We must successfully bring the ongoing contract negotiations to an end by the end of this week.)*
+5. **Der Gesetzgeber hat neue steuerliche Erleichterungen in Aussicht gestellt, um mittelständische Unternehmen zu entlasten.**  
+   *(The legislature has held out the prospect of new tax relief to ease the burden on medium-sized companies.)*
+
+#### ❓ Wie frage ich danach? (Fragen mit Funktionsverbgefügen):
+- **Ziehen Sie bei Ihrer Standortentscheidung auch ausländische Produktionsstätten in Betracht?**  
+  *(Are you also taking foreign production facilities into consideration in your location decision?)*
+- **Wann stellt das Finanzamt die beantragten Fördermittel endlich zur Verfügung?**  
+  *(When will the tax office finally make the requested grant funds available?)*
+- **An welchen Punkten der Vorlage möchten die Gutachter primär Kritik üben?**  
+  *(On which points of the proposal do the experts primarily wish to express criticism?)*
+- **Haben die beteiligten Parteien bereits einen formellen Beschluss über die Neuausrichtung gefasst?**  
+  *(Have the participating parties already passed a formal resolution on the realignment?)*
+- **Welche konkreten Gegenmaßnahmen gedenkt das Ministerium gegen die Inflation zur Anwendung zu bringen?**  
+  *(What specific countermeasures does the ministry intend to bring into application against inflation?)*
 
 ---
 

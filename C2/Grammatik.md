@@ -119,7 +119,57 @@ Auf C2 tolerierst du keine Verwechslung von Schein-Synonymen:
 
 ---
 
-## 5. Häufige C2-Stolpersteine & Dozenten-Tipps
+## 5. Rhetorische Stilmittel, Idiomatik & Modalpartikeln (Stilistik & Nuance)
+
+Auf der C2-Meisterstufe verleihst du deiner Sprache emotionale Tiefe, Eleganz und rhetorische Überzeugungskraft.
+
+### A. Klassische rhetorische Stilmittel
+- **Alliteration:** Gleicher Anlaut aufeinanderfolgender Wörter (*Milch macht müde Männer munter; Zeit und Zuversicht*).
+- **Chiasmus:** Überkreuzstellung syntaktisch oder semantisch entsprechender Satzteile (*Die Kunst ist lang, und kurz ist unser Leben*).
+- **Oxymoron:** Verbindung zweier sich widersprechender Begriffe (*beredtes Schweigen, offenes Geheimnis, bittersüße Erkenntnis*).
+- **Klimax:** Dreistufige Steigerung (*Er kam, sah und siegte*).
+
+### B. Gehobene Idiomatik & bildhafte Redewendungen
+1. **Etwas durch die Blume sagen:** Eine unangenehme Wahrheit nur vorsichtig und verhüllt mitteilen.
+2. **Den Teufel an die Wand malen:** Das denkbar schlechteste Szenario voreilig heraufbeschwören.
+3. **Ein Buch mit sieben Siegeln sein:** Ein Sachverhalt, der vollkommen unverständlich und unzugänglich bleibt.
+4. **Auf großem Fuß leben:** Einen sehr luxuriösen und kostspieligen Lebensstil pflegen.
+5. **Das Zünglein an der Waage sein:** Der entscheidende ausschlaggebende Faktor bei einer knappen Pattsituation sein.
+
+### C. Modalpartikeln (Abtönungspartikeln als Haltungsfilter)
+- **ja:** Signalisiert geteiltes Wissen oder Verblüffung (*Das ist ja erstaunlich!*).
+- **doch:** Sanfte Korrektur oder Aufforderung (*Kommen Sie doch bitte herein!*).
+- **denn:** Interesse oder Skepsis in Fragen (*Was bedeutet das denn nun konkret?*).
+- **eben / halt:** Resignation oder Akzeptanz unumstößlicher Tatsachen (*Das ist nun einmal so.*).
+- **wohl:** Vermutung mit hoher Wahrscheinlichkeit (*Er wird wohl schon abgereist sein.*).
+
+### 5 Ausführliche Beispielsätze mit C2-Nuancen & Stilmitteln:
+1. **Sein beredtes Schweigen während der hitzigen Debatte sprach Bände über seine wahre Haltung.**  
+   *(His eloquent silence during the heated debate spoke volumes about his true stance.)*
+2. **Wir sollten uns hüten, voreilig den Teufel an die Wand zu malen, ehe die amtlichen Prüfberichte vorliegen.**  
+   *(We should beware of rashly painting the devil on the wall before the official audit reports are available.)*
+3. **Die diplomatische Kunst besteht oft darin, heikle Sachverhalte wohlwollend durch die Blume zu formulieren.**  
+   *(The diplomatic art often consists of benevolently formulating delicate matters through the flower.)*
+4. **Wer stets auf großem Fuß lebt, sieht sich bei unerwarteten Krisen oft existenzbedrohenden Engpässen gegenüber.**  
+   *(Whoever consistently lives on a big foot often finds themselves facing existential bottlenecks during unexpected crises.)*
+5. **Bei der knappen Abstimmung im Parlament erwies sich die Fraktion der Unabhängigen als das entscheidende Zünglein an der Waage.**  
+   *(In the close ballot in parliament, the faction of independents proved to be the decisive tip of the scales.)*
+
+#### ❓ Wie frage ich danach? (Fragen mit rhetorischen Stilmitteln & Nuancen):
+- **Wäre es in dieser delikaten Situation nicht klüger, die Kritik etwas diplomatischer durch die Blume zu sagen?**  
+  *(Wouldn't it be wiser in this delicate situation to express the criticism a bit more diplomatically through the flower?)*
+- **Warum malen Sie denn gleich den Teufel an die Wand, bevor wir überhaupt die ersten Testergebnisse kennen?**  
+  *(Why on earth are you immediately painting the devil on the wall before we even know the first test results?)*
+- **War Ihnen das offene Geheimnis über die geplante Firmenübernahme tatsächlich bis heute ein Buch mit sieben Siegeln?**  
+  *(Was the open secret about the planned company acquisition really a book with seven seals to you until today?)*
+- **Welche Partei wird bei den anstehenden Koalitionsverhandlungen das Zünglein an der Waage spielen?**  
+  *(Which party will play the decisive tip of the scales in the upcoming coalition negotiations?)*
+- **Haben Sie denn wirklich geglaubt, man könne ungestraft über seine tatsächlichen Verhältnisse auf so großem Fuß leben?**  
+  *(Did you really believe one could live on such a big foot beyond one's actual means with impunity?)*
+
+---
+
+## 6. Häufige C2-Stolpersteine & Dozenten-Tipps
 
 - ⚠️ **Fehler 1: Überkandidelter Stil (Manierismus).**  
   Wahres C2-Deutsch ergeht sich nicht in 10-zeiligen Schachtelsätzen um des Effekts willen. Die höchste Kunst der Sprache ist die **prägnante Eleganz**: Ein Gedanke wird in seiner reinsten Form ausgedrückt.

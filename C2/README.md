@@ -1,14 +1,28 @@
-# C2 - Proficient (Annähernd muttersprachliche Kenntnisse)
+# C2 - Meisterschaft & Höchste Sprachkompetenz (Proficient)
 
-Welcome to the C2 level resources. This level represents mastery of the German language, close to that of a native speaker.
+Willkommen auf der Meisterschaftsstufe C2! Hier verlässt du das bloße Regellernen und erreichst die Kunst der Sprache: Virtuosität, rhetorische Finesse und stilsichere Eleganz auf muttersprachlichem Niveau.
 
-## Master Grammar & Style Guide
-- 📖 [**C2 Grammatik-Leitfaden (Grammatik.md)**](./Grammatik.md) — Comprehensive pedagogical master guide on topological field manipulations (Vorfeld/Nachfeld), synthetic Konjunktiv II forms, subtle semantic distinctions (*Schein-Synonyme*), and rhetorical syntax.
-- 🎨 [**Style & Nuance (Style.md)**](./Style.md) — Stylistic devices, rhetoric, and idiomatic mastery.
+---
 
-## Core Topics
-- **Effortless Comprehension**: Understanding any spoken or written German, even when spoken rapidly by native speakers.
-- **Precision of Expression**: Differentiating finer shades of meaning, idiomatic nuances, and stylistic choices.
-- **Synthesis of Information**: Summarizing arguments from multiple oral and written sources and presenting them coherently.
-- **Mastery of Style**: High-register vocabulary, creative writing, advanced rhetoric, and idiomatic mastery.
+## 📚 Struktur des Lernbereichs
 
+Der C2-Lernbereich ist auf **zwei zentrale Säulen** konsolidiert:
+
+1. 📖 [**C2 Master-Grammatik & Stilistik (Grammatik.md)**](./Grammatik.md)  
+   Der vollständige Leitfaden für die Stufe C2:
+   - Synthetischer Konjunktiv II (*bedürfte, geschähe, trüge*)
+   - Topologische Felder, ungewöhnliche Vorfeldbesetzung & Ausklammerung ins Nachfeld
+   - Dativus Ethicus & Sympathicus
+   - Semantische Feinheiten (*scheinbar vs. anscheinend, dasselbe vs. das gleiche, effektiv vs. effizient*)
+   - Rhetorische Stilmittel (Alliteration, Chiasmus, Oxymoron) & bildhafte Idiome
+   - Modalpartikeln (*ja, doch, denn, halt, wohl*) als emotionale Haltungsfilter
+   - Mindestens 5 Beispielsätze und **eigene Fragen-Abschnitte** („Wie frage ich danach?“)
+
+2. 🗂️ [**C2 Wortschatzliste (Vocabulary.md)**](./Vocabulary.md)  
+   Die thematisch gegliederte C2-Wortschatzliste mit Bildungs- und Literatursprache, Idiomen und nuancierten Beispielsätzen.
+
+---
+
+## 🧭 Navigation
+- ⬅️ [Zurück zu Stufe C1 (C1/README.md)](../C1/README.md)
+- 🏠 [Zur Hauptübersicht](../README.md)

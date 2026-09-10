@@ -1,18 +1,30 @@
-# B1 - Intermediate (Fortgeschrittene Sprachverwendung)
+# B1 - Fortgeschrittene Sprachverwendung (Intermediate)
 
-Welcome to the B1 level resources. This level marks the transition to independent language use.
+Willkommen auf der Stufe B1! Hier erreichst du die Schwelle zur sprachlichen Selbstständigkeit.
 
-## Master Grammar Guide
-- 📖 [**B1 Grammatik-Leitfaden (Grammatik.md)**](./Grammatik.md) — Comprehensive pedagogical master guide on the Passiv voice, Konjunktiv II, Genitiv case, Relativsätze, Infinitiv mit *zu*, and the TeKaMoLo syntax rule.
+---
 
-## Core Topics
-- **Expressing Opinions**: Agreeing, disagreeing, and defending your viewpoint.
-- **Dreams & Plans**: Talking about future intentions, hopes, and hypothetical scenarios.
-- **Media & Current Events**: Discussing news articles, books, and films.
-- **Intermediate Grammar**:
-  - Passive voice (*Passiv* in present and simple past)
-  - Subjunctive II (*Konjunktiv II*) for wishes, polite requests, and hypothetical situations
-  - Subordinate clauses and subordinating conjunctions (*weil, dass, obwohl, wenn, als...*)
-  - Infinitive clauses with *zu* (*um...zu*, *ohne...zu*)
-  - Genitive case (*Genitiv*) and its prepositions (*wegen, während, trotz...*)
+## 📚 Struktur des Lernbereichs
 
+Der B1-Lernbereich ist auf **zwei zentrale Säulen** konsolidiert:
+
+1. 📖 [**B1 Master-Grammatik (Grammatik.md)**](./Grammatik.md)  
+   Der vollständige Grammatikleitfaden für die Stufe B1:
+   - Der Genitiv (Wessen-Fall) in allen Details mit der Universal-Triade (*des, der, des, der*)
+   - Die 4 wichtigsten Genitivpräpositionen (*während, wegen, trotz, anstatt*)
+   - Relativsätze & Relativpronomen (*der, die, das, den, dem, dessen, deren, denen*)
+   - Das Vorgangspassiv (*werden + Partizip II*) in Präsens, Präteritum und Perfekt
+   - Konjunktiv II der Gegenwart (*wäre, hätte, könnte, würde + Infinitiv*)
+   - Infinitiv mit *zu* & Finalsätze (*um... zu* vs. *damit*)
+   - Satzsyntax: TeKaMoLo-Regel & Doppelkonnektoren (*sowohl... als auch, weder... noch*)
+   - Zu jedem Thema mindestens 5 Beispielsätze und **eigene Fragen-Abschnitte** („Wie frage ich danach?“)
+
+2. 🗂️ [**B1 Wortschatzliste (Vocabulary.md)**](./Vocabulary.md)  
+   Die thematisch gegliederte B1-Wortschatzliste mit Genus, Plural, Übersetzungen und authentischen Beispielsätzen.
+
+---
+
+## 🧭 Navigation
+- ⬅️ [Zurück zu Stufe A2 (A2/README.md)](../A2/README.md)
+- 🏠 [Zur Hauptübersicht](../README.md)
+- ➡️ [Weiter zu Stufe B2 (B2/README.md)](../B2/README.md)

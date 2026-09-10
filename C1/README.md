@@ -1,17 +1,28 @@
-# C1 - Advanced (Fachkundige Sprachkenntnisse)
+# C1 - Fachkundige Sprachkenntnisse (Advanced)
 
-Welcome to the C1 level resources. This folder contains advanced material intended for reaching fluent, spontaneous, and natural communication.
+Willkommen auf der Stufe C1! Hier erreichst du die Stufe für wissenschaftliches Arbeiten, anspruchsvolle Fachdiskussionen und feinsinnige rhetorische Differenzierung.
 
-## Master Grammar Guide
-- 📖 [**C1 Grammatik-Leitfaden (Grammatik.md)**](./Grammatik.md) — Comprehensive pedagogical master guide on Konjunktiv I (indirekte Rede), subjective modal verbs (epistemische Abstufung), the Gerundivum (*zu + Partizip I*), and elevated syntactic connectors.
+---
 
-## Core Topics
-- **Implicit Meaning**: Understanding subtext, irony, metaphors, and cultural idioms.
-- **Academic & Professional German**: Preparing presentations, writing academic papers, and understanding formal lectures.
-- **Flexible Language Use**: Adapting tone and register to different social and professional contexts.
-- **Advanced Grammar**:
-  - Subjunctive I (*Konjunktiv I*) for indirect speech
-  - Advanced syntax, complex clause structures, and particles (*doch, ja, mal, denn...*)
-  - Stylistic refinements and variations of expressions
-  - Extended modifiers (*erweiterte Attribute*)
+## 📚 Struktur des Lernbereichs
 
+Der C1-Lernbereich ist auf **zwei zentrale Säulen** konsolidiert:
+
+1. 📖 [**C1 Master-Grammatik (Grammatik.md)**](./Grammatik.md)  
+   Der vollständige Grammatikleitfaden für die Stufe C1:
+   - Konjunktiv I (Indirekte Rede) & die Ersatzregel mit Konjunktiv II
+   - Subjektive Modalverben (Epistemische Abstufung von *muss* bis *will*)
+   - Das Gerundivum (*zu + Partizip I*) als hochdichtes Passivattribut
+   - Gehobene Satzverbindungen (*in Anbetracht, ungeachtet, insofern... als*)
+   - Feste Präpositionalgefüge der Wissenschaftssprache
+   - Zu jedem Thema mindestens 5 Beispielsätze und **eigene Fragen-Abschnitte** („Wie frage ich danach?“)
+
+2. 🗂️ [**C1 Wortschatzliste (Vocabulary.md)**](./Vocabulary.md)  
+   Die thematisch gegliederte C1-Wortschatzliste mit Genus, Plural, Wissenschafts- und Fachbegriffen sowie anspruchsvollen Beispielsätzen.
+
+---
+
+## 🧭 Navigation
+- ⬅️ [Zurück zu Stufe B2 (B2/README.md)](../B2/README.md)
+- 🏠 [Zur Hauptübersicht](../README.md)
+- ➡️ [Weiter zu Stufe C2 (C2/README.md)](../C2/README.md)

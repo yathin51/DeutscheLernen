@@ -1,18 +1,30 @@
-# B2 - Upper-Intermediate (Selbstständige Sprachverwendung)
+# B2 - Selbstständige Sprachverwendung (Upper-Intermediate)
 
-Welcome to the B2 level resources. At this level, you focus on speaking fluently, writing structured essays, and understanding complex texts on both concrete and abstract topics.
+Willkommen auf der Stufe B2! Hier meisterst du die Sprache für den akademischen und beruflichen Alltag in Deutschland, Österreich und der Schweiz.
 
-## Master Grammar Guide
-- 📖 [**B2 Grammatik-Leitfaden (Grammatik.md)**](./Grammatik.md) — Comprehensive pedagogical master guide on Nominalstil vs. Verbalstil, Passiversatzformen, erweiterte Partizipialattribute, Funktionsverbgefüge (FVG), and Futur II.
+---
 
-## Core Topics
-- **Complex Discussions**: Arguing abstract concepts, participating in debates, and professional negotiations.
-- **Formal Correspondence**: Writing formal emails, complaints, applications, and reports.
-- **Detailed Reading**: Comprehending technical discussions in your field of interest and literary texts.
-- **Upper-Intermediate Grammar**:
-  - Future II (*Futur II*) for assumptions about the past
-  - Two-part conjunctions (*sowohl...als auch, weder...noch, je...desto...*)
-  - Nominalization and verbalization (*Nominalstil* vs. *Verbalstil*)
-  - Alternative forms of the passive voice
-  - Advanced adjective declension and placement
+## 📚 Struktur des Lernbereichs
 
+Der B2-Lernbereich ist auf **zwei zentrale Säulen** konsolidiert:
+
+1. 📖 [**B2 Master-Grammatik (Grammatik.md)**](./Grammatik.md)  
+   Der vollständige Grammatikleitfaden für die Stufe B2:
+   - Die Transformationsmatrix: Verbalstil ➔ Nominalstil (Verdichtung)
+   - Die 4 Passiversatzformen (*sich lassen, sein + zu, -bar/-lich, Gerundiv*)
+   - Zustandspassiv vs. Vorgangspassiv
+   - Funktionsverbgefüge (FVG) für gehobenes Amts- und Geschäftsdeutsch
+   - Erweiterte Partizipialattribute (Partizip I & II in Attributketten)
+   - Futur II als Vermutung über vergangene Handlungen
+   - Konjunktiv II der Vergangenheit (Irrealis)
+   - Zu jedem Thema mindestens 5 Beispielsätze und **eigene Fragen-Abschnitte** („Wie frage ich danach?“)
+
+2. 🗂️ [**B2 Wortschatzliste (Vocabulary.md)**](./Vocabulary.md)  
+   Die thematisch gegliederte B2-Wortschatzliste mit Genus, Plural, Fachterminologie und authentischen Beispielsätzen.
+
+---
+
+## 🧭 Navigation
+- ⬅️ [Zurück zu Stufe B1 (B1/README.md)](../B1/README.md)
+- 🏠 [Zur Hauptübersicht](../README.md)
+- ➡️ [Weiter zu Stufe C1 (C1/README.md)](../C1/README.md)
