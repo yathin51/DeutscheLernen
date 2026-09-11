@@ -9,13 +9,63 @@ Dieses Repository wurde von einem erfahrenen Senior-Sprachdozenten (DaF – Deut
 
 ### 🌐 Interaktives Web-Portal (Single Page Application)
 
-Du kannst alle Inhalte dieses Repositories direkt als **moderne, interaktive Webanwendung** ohne Installation oder Server direkt im Browser nutzen:
+Du kannst alle Inhalte dieses Repositories direkt als **moderne, interaktive Webanwendung** im Browser nutzen – wahlweise direkt per Doppelklick oder über einen lokalen Webserver.
 
-* **Einfach öffnen:** Doppelklick auf [**`index.html`**](./index.html) (funktioniert sofort in jedem Browser via `file://` oder lokal)
-* **15-Minuten-Lerntimer:** Fest in der oberen Kopfzeile integriert, um dich bei jedem Kapitel fokussiert zu begleiten.
-* **Integrierte Features:** Deutsche Aussprache (TTS), Inhaltsverzeichnisse (Outline), Farbcodierung für Geschlechter (*der / die / das*), Master-Spickzettel und Echtzeit-Suche.
+---
 
-*Alle Lernmaterialien bleiben dabei vollständig im Original-Markdown-Format (`.md`) erhalten und editierbar!*
+## 🚀 Anleitung: Webanwendung in Google Chrome starten
+
+### Methode 1: Direktstart ohne Server (Empfohlen – 0 Sekunden Setup)
+Die Anwendung ist so aufgebaut, dass sie **vollständig offline** und ohne Installation eines Servers direkt im lokalen Chrome-Browser funktioniert:
+
+1. **Datei öffnen:**
+   * Navigiere im Datei-Explorer in diesen Projektordner (`DeutscheLernen`).
+   * Führe einen **Doppelklick auf [`index.html`](./index.html)** aus.
+   * *Alternativ:* Rechtsklick auf `index.html` → **„Öffnen mit“** → **Google Chrome** wählen (oder die Datei per Drag & Drop in ein geöffnetes Chrome-Fenster ziehen).
+2. **Adresse in Chrome:**  
+   In der Chrome-Adresszeile siehst du nun:  
+   `file:///e:/Projects/VS_Projects/DeutscheLernen/index.html` (bzw. deinen lokalen Pfad).
+3. **Fertig:**  
+   Alle Stufen (A1–C2), beruflichen Module, Redewendungen sowie das interaktive Arbeitsblatt-Studio (`#workbooks`) laden sofort blitzschnell und ohne CORS-Sicherheitsblockaden dank der integrierten Offline-Architektur (`js/docs_content.js`).
+
+---
+
+### Methode 2: Start über lokalen Webserver (Entwickler-Empfehlung)
+Falls du Markdown-Dateien direkt bearbeitest oder das Portal über `http://localhost` bereitstellen möchtest:
+
+* **Mit Python (bereits auf den meisten Systemen installiert):**
+  ```bash
+  # Im Projektordner im Terminal / PowerShell ausführen:
+  python -m http.server 8080
+  ```
+  Anschließend in Google Chrome aufrufen: [**http://localhost:8080**](http://localhost:8080)
+
+* **Mit Node.js / npx:**
+  ```bash
+  npx serve .
+  # oder
+  npx http-server -p 8080
+  ```
+  Anschließend in Google Chrome aufrufen: [**http://localhost:3000**](http://localhost:3000) bzw. [**http://localhost:8080**](http://localhost:8080)
+
+* **Mit Visual Studio Code:**
+  Installiere die Erweiterung **Live Server**, klicke mit der rechten Maustaste auf `index.html` und wähle **„Open with Live Server“**.
+
+---
+
+### 💡 Tipps für das beste Erlebnis in Google Chrome
+
+* 🔊 **Deutsche Sprachausgabe (Aussprache / TTS):**  
+  Chrome unterstützt die Web Speech API nativ. Klicke auf die Lautsprecher-Icons neben Wörtern und Sätzen.  
+  *(Hinweis: Chrome blockiert automatischen Ton bis zur ersten Benutzerinteraktion – klicke einfach einmal auf die Seite).*
+* 📝 **Interaktives Arbeitsblatt-Studio (`#workbooks`):**  
+  Über den Menüpunkt **„📝 Arbeitsblätter & Studio“** in der linken Navigation kannst du Übungsblätter direkt im Browser interaktiv lösen, automatische Korrekturen & Musterlösungen generieren oder eigene Aufgaben erstellen.
+* 🖨️ **Drucken & PDF-Export in Chrome:**  
+  Drücke jederzeit `Strg + P` in Chrome: Das Portal schaltet automatisch ein sauberes Druck-Stylesheet ein (Seitenleisten und Navigation werden ausgeblendet, nur das Arbeitsblatt wird als PDF gedruckt).
+* ⏱️ **15-Minuten-Lerntimer & Theme-Speicherung:**  
+  Dein Lernfortschritt, Dark-/Light-Mode-Präferenzen und Timer-Zustände werden automatisch in Chromes lokalem Profilspeicher (`localStorage`) gespeichert.
+* 📱 **Mobile & Tablet-Ansicht:**  
+  Drücke in Chrome `F12` (oder `Strg + Umschalt + I`) und aktiviere das Smartphone-/Tablet-Symbol, um die responsive Mobilansicht mit Klappmenü zu testen.
 
 ---
 
