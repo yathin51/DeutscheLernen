@@ -2,6 +2,15 @@
 
 Herzlich willkommen im **A2 Master-Grammatikleitfaden**. Auf der Stufe A2 erweiterst du deinen Horizont dramatisch: Du lernst, von der Vergangenheit zu erzählen (*Perfekt & Präteritum*), Nebensätze mit *weil, dass, wenn* zu bilden und den unverzichtbaren **Dativ (Wem-Fall)** sicher zu beherrschen.
 
+> [!TIP]
+> **🇬🇧 Special Resources for English Speakers:**  
+> If you are learning German through English, check out our companion guides:
+> - [📐 German Word Order Demystified (V2 & TeKaMoLo)](../English_Guides/Wortstellung_Mastery.md)
+> - [🎨 Adjective Endings Logic System](../English_Guides/Adjective_Endings_Simplified.md)
+> - [⚡ Separable Prefix Verbs Masterclass: „holen“](../English_Guides/Prefix_Verbs_Holen.md)
+> - [📚 A1–B1 Irregular Verbs Table with English Translations](../English_Guides/Irregular_Verbs_Reference.md)
+> - [💬 112 Practical English-to-German Mini-Translations](../English_Guides/Mini_Translations.md)
+
 ---
 
 ## Inhaltsverzeichnis

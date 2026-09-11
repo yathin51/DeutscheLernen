@@ -159,7 +159,7 @@
 
   const PRELOADED_LESSONS = {
     'A1': {
-      1: {
+      3: {
         lessonTitle: 'Lektion 1: Verb - Konjugation & Personalpronomen',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -238,7 +238,7 @@
           }
         ]
       },
-      2: {
+      10: {
         lessonTitle: 'Lektion 2: Starke Verben & Nomen/Artikel im Nominativ',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -280,7 +280,7 @@
           }
         ]
       },
-      3: {
+      18: {
         lessonTitle: 'Lektion 3: Nomen, Komposita & Akkusativ Grundlagen',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -305,7 +305,7 @@
       }
     },
     'A2': {
-      1: {
+      3: {
         lessonTitle: 'Lektion 1: Kausale Nebensätze mit "weil" & Satzstellung',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -343,7 +343,7 @@
       }
     },
     'B1': {
-      1: {
+      3: {
         lessonTitle: 'Lektion 1: Das Perfekt (haben vs. sein) & Partizip II',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -369,7 +369,7 @@
       }
     },
     'B2': {
-      1: {
+      3: {
         lessonTitle: 'Lektion 1: Nomen-Verb-Verbindungen & Feste Wendungen',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -393,7 +393,7 @@
       }
     },
     'C1': {
-      1: {
+      3: {
         lessonTitle: 'Lektion 1: Nominalisierung & Verbalisierung',
         grammarSummary: `
           <div class="wb-rule-summary-box">
@@ -424,10 +424,6 @@
     if (PRELOADED_LESSONS[level] && PRELOADED_LESSONS[level][page]) {
       return PRELOADED_LESSONS[level][page];
     }
-    // Check if there is lesson 1 fallback
-    if (PRELOADED_LESSONS[level] && PRELOADED_LESSONS[level][1]) {
-      return PRELOADED_LESSONS[level][1];
-    }
     return null;
   };
 
@@ -435,7 +431,7 @@
   // 3. Dynamic Parser & Auto-Answer Generator for Raw Text
   // --------------------------------------------------------------------------
 
-  WorkbookEngine.parseAndGenerateWorksheet = function(rawText, titleOverride) {
+  WorkbookEngine.parseAndGenerateWorksheet = function(rawText, titleOverride, levelKey, page) {
     if (!rawText || !rawText.trim()) {
       return {
         lessonTitle: titleOverride || 'Leere Übungsseite',
@@ -450,6 +446,7 @@
     let mainTitle = titleOverride || '';
     let grammarRules = [];
     let generalNotes = [];
+    const idPrefix = (levelKey && page) ? `${levelKey.toLowerCase()}_p${page}_` : 'dyn_';
 
     const exHeaderPattern = /^(Übung|Aufgabe|Exercise)\s*(\d+|[A-Z])?:?\s*(.*)/i;
     const examplePattern = /^(Beispiel|Bsp\.|Example):?\s*(.*)/i;
@@ -468,7 +465,7 @@
           exercises.push(currentEx);
         }
         currentEx = {
-          id: `dyn_ex_${exercises.length + 1}`,
+          id: `${idPrefix}ex_${exercises.length + 1}`,
           title: line,
           instruction: 'Ergänzen Sie die Lücken mit der passenden deutschen Form.',
           wordBank: [],
@@ -564,7 +561,7 @@
     if (exercises.length === 0 && lines.length > 0) {
       const fallbackItems = lines.map((l, idx) => {
         return {
-          id: `line_${idx + 1}`,
+          id: `${idPrefix}line_${idx + 1}`,
           prefix: `${idx + 1}. `,
           suffix: '',
           answer: l,
@@ -572,7 +569,7 @@
         };
       });
       exercises.push({
-        id: 'dyn_ex_custom',
+        id: `${idPrefix}ex_custom`,
         title: 'Übungs- und Beispielsätze',
         instruction: 'Lesen, bearbeiten und überprüfen Sie die deutschen Sätze.',
         items: fallbackItems

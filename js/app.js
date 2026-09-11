@@ -450,6 +450,42 @@
               <button class="header-btn" onclick="window.location.hash='#workbooks:A1_PRACTICAL'">
                 ✍️ Satzbau-Studio (Praxis)
               </button>
+          <!-- Pfad E Card: Prüfungszentrum & telc Zertifikate -->
+          <div class="path-card" style="border-color: #ec4899;">
+            <div class="path-card-header">
+              <div class="path-icon-wrapper" style="color: #ec4899;">🎯</div>
+              <span class="badge-tag" style="background: rgba(236, 72, 153, 0.15); color: #ec4899;">telc & Goethe Hub</span>
+            </div>
+            <h3>Prüfungszentrum & telc Zertifikate</h3>
+            <p>Vollständige Modelltests, offizielle telc Wortschatzlisten und Fachsprachprüfungen:</p>
+            <ul class="path-directions-list">
+              <li>
+                <span>🎯</span>
+                <span><strong>telc B1 & B2 Beruf Modelltests:</strong> Originalgetreue Komplettprüfungen mit allen Teilen und Lösungen.</span>
+              </li>
+              <li>
+                <span>📖</span>
+                <span><strong>Bilinguale Wortschatzlisten:</strong> Offizieller telc A1–B1 Wortschatz mit englischer Übersetzung & Verbenliste.</span>
+              </li>
+              <li>
+                <span>🩺</span>
+                <span><strong>Fachsprachen & Hochschule:</strong> telc Pflege/Medizin (Anamnese, ISBAR) & telc C1 Hochschule Wissenschaftssprache.</span>
+              </li>
+              <li>
+                <span>🗺️</span>
+                <span><strong>telc Curriculum & Downloads:</strong> Stufenweiser Lernfortschritt mit direkten Links zum Downloadbereich.</span>
+              </li>
+            </ul>
+            <div class="path-card-actions">
+              <button class="header-btn primary" style="background: #ec4899;" onclick="window.location.hash='#doc:Pruefung/telc_B1_ZertifikatDeutsch_Modelltest.md'">
+                🎯 telc B1 Modelltest
+              </button>
+              <button class="header-btn" onclick="window.location.hash='#doc:Pruefung/telc_Wortschatz_A1_B1_Bilingual.md'">
+                📖 Wortschatz (Bilingual)
+              </button>
+              <button class="header-btn" onclick="window.location.hash='#doc:Pruefung/Lernfortschritt_telc_Curriculum.md'">
+                🗺️ telc Curriculum
+              </button>
             </div>
           </div>
         </div>
@@ -791,7 +827,7 @@
     if (window.WORKBOOKS_RAW_PAGES && window.WORKBOOKS_RAW_PAGES[levelKey] && window.WORKBOOKS_RAW_PAGES[levelKey][page - 1]) {
       const rawText = window.WORKBOOKS_RAW_PAGES[levelKey][page - 1];
       if (window.WorkbookEngine && window.WorkbookEngine.parseAndGenerateWorksheet) {
-        return window.WorkbookEngine.parseAndGenerateWorksheet(rawText, `${levelKey} - Seite ${page}`);
+        return window.WorkbookEngine.parseAndGenerateWorksheet(rawText, `${levelKey} - Seite ${page}`, levelKey, page);
       }
     }
 
@@ -826,11 +862,9 @@
     const viewMode = state.currentWorkbookViewMode || 'worksheet';
 
     // Load saved user answers from localStorage for current level and page
-    if (!state.workbookAnswers || Object.keys(state.workbookAnswers).length === 0) {
-      state.workbookAnswers = (window.WorkbookEngine && window.WorkbookEngine.loadUserProgress)
-        ? window.WorkbookEngine.loadUserProgress(levelKey, page)
-        : {};
-    }
+    state.workbookAnswers = (window.WorkbookEngine && window.WorkbookEngine.loadUserProgress)
+      ? window.WorkbookEngine.loadUserProgress(levelKey, page)
+      : {};
 
     // Retrieve worksheet data
     const worksheet = getCurrentWorksheetData(levelKey, page);
@@ -857,9 +891,7 @@
 
     // Raw page text for editor
     const rawPageText = (window.WORKBOOKS_RAW_PAGES && window.WORKBOOKS_RAW_PAGES[levelKey] && window.WORKBOOKS_RAW_PAGES[levelKey][page - 1]) || '';
-    if (!state.customEditorText) {
-      state.customEditorText = rawPageText;
-    }
+    state.customEditorText = rawPageText;
 
     // Determine left pane content based on active view mode
     let leftPaneHtml = '';
@@ -1027,7 +1059,7 @@
                   <div class="wb-progress-fill" id="wb-progress-fill" style="width: ${progressPercent}%;"></div>
                 </div>
                 <div class="wb-toc-list" id="wb-toc-list">
-                  ${renderWorkbookTocItemsHtml(data.toc, completedSet)}
+                  ${renderWorkbookTocItemsHtml(data.toc, completedSet, page)}
                 </div>
               </div>
 
@@ -1317,19 +1349,21 @@
     `;
   }
 
-  function renderWorkbookTocItemsHtml(toc, completedSet) {
+  function renderWorkbookTocItemsHtml(toc, completedSet, currentPage) {
     if (!toc || !toc.length) {
       return `<p style="color: var(--text-muted); font-size: 0.85rem;">Kein Inhaltsverzeichnis verfügbar.</p>`;
     }
+    const currPage = parseInt(currentPage, 10) || 1;
 
     return toc.map((item, idx) => {
       const isCompleted = completedSet.has(idx);
       const cleanTitle = escapeHtml(item.title);
       const searchTitle = item.title.toLowerCase();
       const page = item.page || 1;
+      const isActive = page === currPage;
 
       return `
-        <div class="wb-toc-row ${isCompleted ? 'completed' : ''}" id="wb-toc-row-${idx}" data-title="${searchTitle}" onclick="window.DL.jumpToWorkbookPage(${page})">
+        <div class="wb-toc-row ${isActive ? 'active-page' : ''} ${isCompleted ? 'completed' : ''}" id="wb-toc-row-${idx}" data-title="${searchTitle}" onclick="window.DL.jumpToWorkbookPage(${page})">
           <div class="wb-toc-left">
             <input type="checkbox" class="wb-toc-check" id="wb-toc-check-${idx}" ${isCompleted ? 'checked' : ''} onclick="event.stopPropagation(); window.DL.toggleWorkbookChapter(${idx})">
             <span class="wb-toc-title" title="${cleanTitle}">${cleanTitle}</span>
@@ -1723,12 +1757,17 @@
     pageNum = Math.max(1, Math.min(totalPages, parseInt(pageNum, 10) || 1));
     state.currentWorkbookPage = pageNum;
     state.activeCustomWorksheet = null;
+    state.workbookAnswers = null;
     state.workbookCheckResult = null;
     state.workbookShowSolutions = false;
     state.customEditorText = (window.WORKBOOKS_RAW_PAGES && window.WORKBOOKS_RAW_PAGES[state.currentWorkbookLevel] && window.WORKBOOKS_RAW_PAGES[state.currentWorkbookLevel][pageNum - 1]) || '';
 
-    // Re-render studio
-    renderWorkbookStudio(state.currentWorkbookLevel, pageNum);
+    const targetHash = `#workbooks:${state.currentWorkbookLevel}:${pageNum}`;
+    if (window.location.hash !== targetHash) {
+      window.location.hash = targetHash;
+    } else {
+      renderWorkbookStudio(state.currentWorkbookLevel, pageNum);
+    }
   }
 
   function prevWorkbookPage() {

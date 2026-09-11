@@ -17,7 +17,7 @@ const LEARNING_MANIFEST = {
           files: [
             { title: "📖 A1 Grammatik", path: "A1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ A1 Wortschatz", path: "A1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
-            { title: "📒 A1 Arbeitsbuch / Skript", path: "A1/a1_skript_gr.pdf", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "📒 A1 Arbeitsbuch", path: "A1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
             { title: "✍️ A1 Praktisches WerkBuch", path: "A1/Practisches_WerkBuch/EinfachDeutsch_examples.txt", type: "workbook", icon: "✍️", badge: "Praxis" },
             { title: "📌 A1 Leitfaden & Struktur", path: "A1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
           ]
@@ -29,7 +29,7 @@ const LEARNING_MANIFEST = {
           files: [
             { title: "📖 A2 Grammatik", path: "A2/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ A2 Wortschatz", path: "A2/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
-            { title: "📒 A2 Arbeitsbuch / Skript", path: "A2/a2_skript_gr.pdf", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "📒 A2 Arbeitsbuch", path: "A2/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
             { title: "📌 A2 Leitfaden & Struktur", path: "A2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
           ]
         },
@@ -40,7 +40,7 @@ const LEARNING_MANIFEST = {
           files: [
             { title: "📖 B1 Grammatik", path: "B1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ B1 Wortschatz", path: "B1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
-            { title: "📒 B1 Arbeitsbuch / Skript", path: "B1/b1_skript_gr.pdf", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "📒 B1 Arbeitsbuch", path: "B1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
             { title: "📌 B1 Leitfaden & Struktur", path: "B1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
           ]
         },
@@ -51,7 +51,7 @@ const LEARNING_MANIFEST = {
           files: [
             { title: "📖 B2 Grammatik", path: "B2/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ B2 Wortschatz", path: "B2/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
-            { title: "📒 B2 Arbeitsbuch / Skript", path: "B2/b2_skript_gr.pdf", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "📒 B2 Arbeitsbuch", path: "B2/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
             { title: "📌 B2 Leitfaden & Struktur", path: "B2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
           ]
         },
@@ -62,7 +62,7 @@ const LEARNING_MANIFEST = {
           files: [
             { title: "📖 C1 Grammatik", path: "C1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ C1 Wortschatz", path: "C1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
-            { title: "📒 C1 Arbeitsbuch / Skript", path: "C1/c1_skript_gr.pdf", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "📒 C1 Arbeitsbuch", path: "C1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
             { title: "📌 C1 Leitfaden & Struktur", path: "C1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
           ]
         },
@@ -79,21 +79,21 @@ const LEARNING_MANIFEST = {
       ]
     },
     {
-      id: "path-d",
+      id: "path-workbooks",
       name: "Praktische Werkbücher & Skripte",
-      tag: "PDF Arbeitsbücher & Praxis",
-      badge: "A1 – C1 Skripte",
+      tag: "Interaktive Arbeitsbücher & Praxis",
+      badge: "A1 – C1 Arbeitsbücher",
       color: "var(--color-gold)",
       icon: "📒",
-      description: "Original-Grammatikskripte (PDFs) und praktische Werkbücher für systematisches Üben, Vertiefen und Nachschlagen.",
+      description: "Konsolidierte Arbeitsbücher im Markdown-Format mit strukturierten Übungen, Lösungsblöcken und didaktischen Aufgaben.",
       files: [
         {
-          title: "A1 Grammatik-Skript & Arbeitsbuch",
-          path: "A1/a1_skript_gr.pdf",
+          title: "A1 Arbeitsbuch & Übungen",
+          path: "A1/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
-          badge: "A1 PDF",
-          desc: "Vollständiges A1-Grammatikskript und Arbeitsbuch mit Übungen."
+          badge: "A1 Werkbuch",
+          desc: "Grammatikübungen, Satzbau und Lösungen für Stufe A1."
         },
         {
           title: "A1 Praktisches WerkBuch (EinfachDeutsch)",
@@ -104,36 +104,36 @@ const LEARNING_MANIFEST = {
           desc: "Praktische Beispielsätze und Übungsnotizen."
         },
         {
-          title: "A2 Grammatik-Skript & Arbeitsbuch",
-          path: "A2/a2_skript_gr.pdf",
+          title: "A2 Arbeitsbuch & Übungen",
+          path: "A2/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
-          badge: "A2 PDF",
-          desc: "Vollständiges A2-Grammatikskript und Arbeitsbuch mit Übungen."
+          badge: "A2 Werkbuch",
+          desc: "Dativ, Wechselpräpositionen, Perfekt und Nebensätze mit Lösungen."
         },
         {
-          title: "B1 Grammatik-Skript & Arbeitsbuch",
-          path: "B1/b1_skript_gr.pdf",
+          title: "B1 Arbeitsbuch & Übungen",
+          path: "B1/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
-          badge: "B1 PDF",
-          desc: "Vollständiges B1-Grammatikskript und Arbeitsbuch mit Übungen."
+          badge: "B1 Werkbuch",
+          desc: "Passiv, Konjunktiv II, Genitiv und Satzverbindung mit Lösungen."
         },
         {
-          title: "B2 Grammatik-Skript & Arbeitsbuch",
-          path: "B2/b2_skript_gr.pdf",
+          title: "B2 Arbeitsbuch & Übungen",
+          path: "B2/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
-          badge: "B2 PDF",
-          desc: "Vollständiges B2-Grammatikskript und Arbeitsbuch mit Übungen."
+          badge: "B2 Werkbuch",
+          desc: "Nominalstil, Partizipialkonstruktionen, FVG mit Lösungen."
         },
         {
-          title: "C1 Grammatik-Skript & Arbeitsbuch",
-          path: "C1/c1_skript_gr.pdf",
+          title: "C1 Arbeitsbuch & Übungen",
+          path: "C1/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
-          badge: "C1 PDF",
-          desc: "Vollständiges C1-Grammatikskript und Arbeitsbuch mit Übungen."
+          badge: "C1 Werkbuch",
+          desc: "Komplexe Satzstrukturen, Textsorten, Redemittel mit Lösungen."
         }
       ]
     },
@@ -268,6 +268,212 @@ const LEARNING_MANIFEST = {
           icon: "🍀",
           badge: "Alltag",
           desc: "Schwein haben, zwei Fliegen mit einer Klappe schlagen, Tomaten auf den Augen haben, alles in Butter."
+        }
+      ]
+    },
+    {
+      id: "path-d",
+      name: "Pfad D: English Learners' Companion",
+      tag: "Deutsch lernen auf Englisch",
+      badge: "Bilingual Hub",
+      color: "#38bdf8",
+      icon: "🇬🇧",
+      description: "Speziell für Englischsprachige: Satzbau (Wortstellung), 112 Mini-Übersetzungen, Adjektivendungen, Präfixverben (holen) und unregelmäßige Verben.",
+      files: [
+        {
+          title: "English Learners' Leitfaden",
+          path: "English_Guides/README.md",
+          type: "guide",
+          icon: "🧭",
+          badge: "Leitfaden",
+          desc: "Die 4 mentalen Umstellungen: Word order, Satzklammer, Fälle & trennbare Verben."
+        },
+        {
+          title: "112 Mini-Translations",
+          path: "English_Guides/Mini_Translations.md",
+          type: "guide",
+          icon: "💬",
+          badge: "Phrasen",
+          desc: "112 alltags- und berufsnahe Sätze: du/Sie, typische Fallen ('Mir ist kalt', 'Stimmt so!')."
+        },
+        {
+          title: "Wortstellung Demystified",
+          path: "English_Guides/Wortstellung_Mastery.md",
+          type: "grammar",
+          icon: "📐",
+          badge: "Satzbau",
+          desc: "Verb an Position 2, TeKaMoLo, ADUSO (Position 0) vs. Verb-Kicker (weil, dass, ob) & Übungen."
+        },
+        {
+          title: "Adjektivendungen Schritt für Schritt",
+          path: "English_Guides/Adjective_Endings_Simplified.md",
+          type: "grammar",
+          icon: "🎨",
+          badge: "Grammatik",
+          desc: "Bestimmter, unbestimmter und Nullartikel, Dativ/Genitiv/Plural-Regeln & Übungsaufgaben."
+        },
+        {
+          title: "Präfixverben Masterclass ('holen')",
+          path: "English_Guides/Prefix_Verbs_Holen.md",
+          type: "grammar",
+          icon: "⚡",
+          badge: "Verben",
+          desc: "abholen, aufholen, ausholen, einholen, erholen, nachholen, überholen, wiederholen im Vergleich."
+        },
+        {
+          title: "A1–B1 Unregelmäßige Verben",
+          path: "English_Guides/Irregular_Verbs_Reference.md",
+          type: "vocab",
+          icon: "📚",
+          badge: "Verbtabelle",
+          desc: "Über 75 unregelmäßige Verben mit 4 Stammformen, Hilfsverb (haben/sein) und Beispielsätzen."
+        },
+        {
+          title: "Aussprache & Phonetik (Pronunciation)",
+          path: "English_Guides/Pronunciation_Phonetics_Guide.md",
+          type: "guide",
+          icon: "🎙️",
+          badge: "Phonetik & IPA",
+          desc: "Vokallänge, Umlaute (ä, ö, ü), Diphthonge, Knacklaut, ch-Laute, Auslautverhärtung und IPA-Lautschrift."
+        },
+        {
+          title: "Conversational Survival Handbook",
+          path: "English_Guides/Conversational_Survival_Handbook.md",
+          type: "guide",
+          icon: "🗣️",
+          badge: "Real-Life Guides",
+          desc: "Praktische soziale Skripte: Sie vs. du, Supermarkt-Kasse, ÖPNV, Gastronomie, Notfälle und Feiertage."
+        },
+        {
+          title: "Verbtempera & Hilfsverben (haben/sein)",
+          path: "English_Guides/Verb_Tenses_And_Auxiliaries.md",
+          type: "grammar",
+          icon: "⏳",
+          badge: "Verben & Zeiten",
+          desc: "Keine -ing-Formen, schwache vs. starke Verben, Perfekt mit haben vs. sein und Kernverben mit IPA."
+        }
+      ]
+    },
+    {
+      id: "path-e",
+      name: "Pfad E: Prüfungszentrum & Zertifikate",
+      tag: "Goethe, telc & DTZ Prüfungen",
+      badge: "Goethe & telc Hub",
+      color: "#ec4899",
+      icon: "🎯",
+      description: "Offizielle Modellprüfungen (Goethe A2, telc Deutsch A1–C2), telc Sprachbausteine-Training, DTZ-Einbürgerungsleitfaden und Fachsprachen (Hochschule, Medizin & Pflege).",
+      files: [
+        {
+          title: "Prüfungszentrum Leitfaden",
+          path: "Pruefung/README.md",
+          type: "guide",
+          icon: "🧭",
+          badge: "Leitfaden",
+          desc: "CEFR-Prüfungsformate, Zeitmanagement, Bestehensgrenzen und Strategien."
+        },
+        {
+          title: "Goethe-Zertifikat A2 Modelltest",
+          path: "Pruefung/Goethe_A2_Modelltest.md",
+          type: "exam",
+          icon: "🎯",
+          badge: "Goethe A2",
+          desc: "Kompletter Modelltest: Lesen (Teil 1–4), Schreiben (Teil 1–2), Sprechen mit offiziellen Lösungen."
+        },
+        {
+          title: "A2 Einstufungstest (40 Fragen)",
+          path: "Pruefung/A2_Einstufungstest.md",
+          type: "exam",
+          icon: "📝",
+          badge: "Einstufung",
+          desc: "40 diagnostische Multiple-Choice-Fragen zur exakten Ermittlung des Sprachniveaus."
+        },
+        {
+          title: "A2 Kapiteltests (1–12)",
+          path: "Pruefung/A2_Kapiteltests.md",
+          type: "exam",
+          icon: "📑",
+          badge: "Kapiteltests",
+          desc: "Netzwerk A2 Lernkontrollen zu jedem Kapitel mit detailliertem Lösungsschlüssel."
+        },
+        {
+          title: "telc Prüfungen Guide (A1–C2)",
+          path: "Pruefung/telc_Zertifikate_Guide.md",
+          type: "guide",
+          icon: "🏛️",
+          badge: "telc Matrix",
+          desc: "Vollständiger Überblick aller telc Prüfungen: Allgemeinsprache, Beruf, Hochschule und Medizin."
+        },
+        {
+          title: "telc Sprachbausteine Masterclass",
+          path: "Pruefung/telc_Sprachbausteine_Masterclass.md",
+          type: "grammar",
+          icon: "🧩",
+          badge: "B1/B2 Training",
+          desc: "Intensivtraining für Teil 1 & 2 der telc Sprachbausteine mit 3 vollständigen Drills und Lösungen."
+        },
+        {
+          title: "DTZ A2·B1 Einbürgerungs-Guide",
+          path: "Pruefung/telc_DTZ_Einbuergerung_Guide.md",
+          type: "guide",
+          icon: "🇩🇪",
+          badge: "DTZ & Einbürgerung",
+          desc: "Deutsch-Test für Zuwanderer: Skalierte Bewertung, die 4 wichtigsten Brieftypen und Sprech-Redemittel."
+        },
+        {
+          title: "telc C1 Hochschule & Fachsprachen",
+          path: "Pruefung/telc_C1_Hochschule_Fachsprachen.md",
+          type: "guide",
+          icon: "🎓",
+          badge: "Hochschule & Medizin",
+          desc: "Wissenschaftlicher Hochschulzugang und medizinische Fachsprachprüfung (Approbation & Pflege)."
+        },
+        {
+          title: "telc Lernfortschritt & Curriculum",
+          path: "Pruefung/Lernfortschritt_telc_Curriculum.md",
+          type: "guide",
+          icon: "🗺️",
+          badge: "A1–C1 Roadmap",
+          desc: "Strukturierter Lernfortschritt, CEFR-Meilensteine und offizielle telc Downloadlinks."
+        },
+        {
+          title: "telc Wortschatz A1–B1 (Bilingual)",
+          path: "Pruefung/telc_Wortschatz_A1_B1_Bilingual.md",
+          type: "vocab",
+          icon: "📖",
+          badge: "Wortschatz & Verben",
+          desc: "Offizielle Wortschatzlisten mit englischen Übersetzungen, 50 A1-Verben und B1-Funktionsverben."
+        },
+        {
+          title: "telc B1 Zertifikat Deutsch Modelltest",
+          path: "Pruefung/telc_B1_ZertifikatDeutsch_Modelltest.md",
+          type: "exam",
+          icon: "🎯",
+          badge: "B1 Modelltest",
+          desc: "Vollständiger B1-Originaltest (Lesen, Sprachbausteine, Schreiben, Sprechen) mit Lösungen & Musterbrief."
+        },
+        {
+          title: "Deutsch-Test für den Beruf B2 (DTB)",
+          path: "Pruefung/telc_B2_Beruf_Modelltest.md",
+          type: "exam",
+          icon: "💼",
+          badge: "B2 Berufstest",
+          desc: "Kompletter BAMF/telc Berufstest: Arbeitsanweisungen, geschäftliche Reklamation und Verhandlung."
+        },
+        {
+          title: "telc Pflege & Medizin Fachpraxis",
+          path: "Pruefung/telc_Pflege_Medizin_Fachpraxis.md",
+          type: "business",
+          icon: "🩺",
+          badge: "Klinik & Pflege",
+          desc: "Klinische Fachbegriffe vs. Laiensprache, 7-Stufen-Anamnesebogen, ISBAR-Übergabe und Arztbrief."
+        },
+        {
+          title: "telc C1 Wissenschaftssprache",
+          path: "Pruefung/telc_C1_Wissenschaftssprache_Studium.md",
+          type: "guide",
+          icon: "🔬",
+          badge: "C1 Studium",
+          desc: "Akademische Konnektoren, Nominalstil, Grafikbeschreibung und universitäre Diskussionsführung."
         }
       ]
     }

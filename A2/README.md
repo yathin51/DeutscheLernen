@@ -21,9 +21,19 @@ Der A2-Lernbereich ist auf **zwei zentrale Säulen** konsolidiert:
 2. 🗂️ [**A2 Wortschatzliste (Vocabulary.md)**](./Vocabulary.md)  
    Die thematisch gegliederte A2-Wortschatzliste mit Genus, Plural, Übersetzungen und authentischen Beispielsätzen.
 
+3. 🇬🇧 [**English Learners' Companion (English_Guides/)**](../English_Guides/README.md)  
+   Didaktische Brücken für Englischsprachige mit vergleichender Grammatik:
+   - [Wortstellung & Satzbau Demystified (V2 & TeKaMoLo)](../English_Guides/Wortstellung_Mastery.md)
+   - [112 Praxisnahe Mini-Translations](../English_Guides/Mini_Translations.md)
+   - [Adjektivendungen Schritt für Schritt](../English_Guides/Adjective_Endings_Simplified.md)
+   - [Präfixverben Masterclass: „holen“](../English_Guides/Prefix_Verbs_Holen.md)
+   - [A1–B1 Unregelmäßige Verben mit englischer Übersetzung](../English_Guides/Irregular_Verbs_Reference.md)
+
 ---
 
 ## 🧭 Navigation
 - ⬅️ [Zurück zu Stufe A1 (A1/README.md)](../A1/README.md)
+- 🇬🇧 [English Companion Guide](../English_Guides/README.md)
 - 🏠 [Zur Hauptübersicht](../README.md)
 - ➡️ [Weiter zu Stufe B1 (B1/README.md)](../B1/README.md)
+

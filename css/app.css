@@ -1461,6 +1461,17 @@ html, body {
   border-color: var(--border-color);
 }
 
+.wb-toc-row.active-page {
+  background: var(--bg-surface-elevated);
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 1px var(--color-primary);
+}
+
+.wb-toc-row.active-page .wb-toc-title {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
 .wb-toc-row.completed {
   opacity: 0.75;
 }
