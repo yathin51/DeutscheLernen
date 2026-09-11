@@ -7,64 +7,111 @@ Dieses Repository wurde von einem erfahrenen Senior-Sprachdozenten (DaF – Deut
 
 ---
 
-### 🌐 Interaktives Web-Portal (Single Page Application)
+---
 
-Du kannst alle Inhalte dieses Repositories direkt als **moderne, interaktive Webanwendung** im Browser nutzen – wahlweise direkt per Doppelklick oder über einen lokalen Webserver.
+## 🚀 Lokale Nutzung & Schnellstart (Local Usage Guide)
+
+Das Projekt **DeutscheLernen** ist als **autarkes, offline-fähiges Gesamtsystem** konzipiert. Du kannst es auf deinem lokalen Rechner auf verschiedene Arten nutzen – ganz ohne Internetverbindung, ohne externe Abhängigkeiten und ohne Cloud-Zwang.
+
+```
+                          ┌───────────────────────────────────────────────────┐
+                          │          DeutscheLernen: Lokale Nutzung           │
+                          └─────────────────────────┬─────────────────────────┘
+                                                    │
+                 ┌──────────────────────────────────┴──────────────────────────────────┐
+                 ▼                                                                     ▼
+    ┌─────────────────────────┐                                           ┌─────────────────────────┐
+    │   A. WEB-PORTAL (SPA)   │                                           │  B. MARKDOWN-QUELLDATEIEN│
+    │ Interaktives Dashboard  │                                           │ Direkte Bearbeitung im  │
+    │  & Arbeitsblatt-Studio  │                                           │  Editor (z. B. VS Code) │
+    └────────────┬────────────┘                                           └────────────┬────────────┘
+                 │                                                                     │
+     ┌───────────┴───────────┐                                             ┌───────────┴───────────┐
+     ▼                       ▼                                             ▼                       ▼
+Option 1: Direktstart   Option 2: Lokaler Server                      Markdown-Preview       Python-Build-Skripte
+ (Doppelklick index.html) (python / npx / Live Server)                 (Strg+Umschalt+V)     (scripts/build_*.py)
+```
 
 ---
 
-## 🚀 Anleitung: Webanwendung in Google Chrome starten
+### Modus 1: Interaktives Web-Portal lokal nutzen (`index.html`)
 
-### Methode 1: Direktstart ohne Server (Empfohlen – 0 Sekunden Setup)
-Die Anwendung ist so aufgebaut, dass sie **vollständig offline** und ohne Installation eines Servers direkt im lokalen Chrome-Browser funktioniert:
+Das Web-Portal bietet dir eine vollständige Desktop- und Tablet-Oberfläche mit dynamischer Navigation, 15-Minuten-Lerntimer, Text-to-Speech-Aussprache und interaktiven Arbeitsblättern.
 
-1. **Datei öffnen:**
-   * Navigiere im Datei-Explorer in diesen Projektordner (`DeutscheLernen`).
-   * Führe einen **Doppelklick auf [`index.html`](./index.html)** aus.
-   * *Alternativ:* Rechtsklick auf `index.html` → **„Öffnen mit“** → **Google Chrome** wählen (oder die Datei per Drag & Drop in ein geöffnetes Chrome-Fenster ziehen).
-2. **Adresse in Chrome:**  
-   In der Chrome-Adresszeile siehst du nun den lokalen Pfad zu [`./index.html`](./index.html).
-3. **Fertig:**  
-   Alle Stufen (A1–C2), beruflichen Module, Redewendungen sowie das interaktive Arbeitsblatt-Studio (`#workbooks`) laden sofort blitzschnell und ohne CORS-Sicherheitsblockaden dank der integrierten Offline-Architektur (`js/docs_content.js`).
+#### Option A: Direktstart ohne Server (Empfohlen – 0 Sekunden Setup)
+Die Anwendung verfügt über eine vorkompilierte Offline-Datenarchitektur ([`./js/docs_content.js`](./js/docs_content.js)). Dadurch läuft das gesamte Portal ohne Webserver und ohne CORS-Sicherheitsblockaden:
 
----
+1. Navigiere im Datei-Explorer in den Projektordner.
+2. Mache einen **Doppelklick auf [`./index.html`](./index.html)**.
+3. *Alternativ:* Ziehe [`./index.html`](./index.html) per Drag & Drop in dein geöffnetes Browserfenster (Google Chrome, Edge, Firefox oder Safari).
+4. Die Adresszeile zeigt `file:///.../index.html` – alle Inhalte, Module und Übungen sind sofort einsatzbereit.
 
-### Methode 2: Start über lokalen Webserver (Entwickler-Empfehlung)
-Falls du Markdown-Dateien direkt bearbeitest oder das Portal über `http://localhost` bereitstellen möchtest:
+#### Option B: Start über lokalen HTTP-Webserver (Entwickler-Empfehlung)
+Wenn du Quelldateien editierst oder das Portal standardkonform über `localhost` nutzen möchtest, starte einen lokalen Einzeiler-Server:
 
 * **Mit Python (bereits auf den meisten Systemen installiert):**
   ```bash
-  # Im Projektordner im Terminal / PowerShell ausführen:
+  # Im Hauptverzeichnis des Projekts ausführen:
   python -m http.server 8080
   ```
-  Anschließend in Google Chrome aufrufen: [**http://localhost:8080**](http://localhost:8080)
+  Anschließend im Browser öffnen: [**http://localhost:8080**](http://localhost:8080)
 
 * **Mit Node.js / npx:**
   ```bash
   npx serve .
-  # oder
+  # oder:
   npx http-server -p 8080
   ```
-  Anschließend in Google Chrome aufrufen: [**http://localhost:3000**](http://localhost:3000) bzw. [**http://localhost:8080**](http://localhost:8080)
+  Anschließend im Browser öffnen: [**http://localhost:3000**](http://localhost:3000) bzw. [**http://localhost:8080**](http://localhost:8080)
 
 * **Mit Visual Studio Code:**
-  Installiere die Erweiterung **Live Server**, klicke mit der rechten Maustaste auf `index.html` und wähle **„Open with Live Server“**.
+  Installiere die Erweiterung **Live Server**, klicke mit der rechten Maustaste auf [`./index.html`](./index.html) und wähle **„Open with Live Server“**.
 
 ---
 
-### 💡 Tipps für das beste Erlebnis in Google Chrome
+### Modus 2: Interaktives Arbeitsblatt-Studio (`#workbooks`)
 
-* 🔊 **Deutsche Sprachausgabe (Aussprache / TTS):**  
-  Chrome unterstützt die Web Speech API nativ. Klicke auf die Lautsprecher-Icons neben Wörtern und Sätzen.  
-  *(Hinweis: Chrome blockiert automatischen Ton bis zur ersten Benutzerinteraktion – klicke einfach einmal auf die Seite).*
-* 📝 **Interaktives Arbeitsblatt-Studio (`#workbooks`):**  
-  Über den Menüpunkt **„📝 Arbeitsblätter & Studio“** in der linken Navigation kannst du Übungsblätter direkt im Browser interaktiv lösen, automatische Korrekturen & Musterlösungen generieren oder eigene Aufgaben erstellen.
-* 🖨️ **Drucken & PDF-Export in Chrome:**  
-  Drücke jederzeit `Strg + P` in Chrome: Das Portal schaltet automatisch ein sauberes Druck-Stylesheet ein (Seitenleisten und Navigation werden ausgeblendet, nur das Arbeitsblatt wird als PDF gedruckt).
-* ⏱️ **15-Minuten-Lerntimer & Theme-Speicherung:**  
-  Dein Lernfortschritt, Dark-/Light-Mode-Präferenzen und Timer-Zustände werden automatisch in Chromes lokalem Profilspeicher (`localStorage`) gespeichert.
-* 📱 **Mobile & Tablet-Ansicht:**  
-  Drücke in Chrome `F12` (oder `Strg + Umschalt + I`) und aktiviere das Smartphone-/Tablet-Symbol, um die responsive Mobilansicht mit Klappmenü zu testen.
+Direkt im Web-Portal integriert ist ein interaktives Lernstudio für Grammatikübungen:
+
+* **Aufrufen:** Klicke in der linken Navigationsleiste auf **„📝 Arbeitsblätter & Studio“** (oder rufe direkt `#workbooks:A1` im Browser auf).
+* **Interaktiv lösen:** Fülle Lückentexte, Tabellen und Übungssätze direkt in den Formularfeldern aus.
+* **Echtzeit-Bewertung:** Klicke auf **„Eingaben prüfen & bewerten“**, um deinen aktuellen Punktestand und sofortiges Farb-Feedback (Grün/Rot) zu erhalten.
+* **Musterlösung generieren:** Der Schalter **„Antworten generieren & Lösungsschlüssel“** füllt alle Übungen mit didaktisch geprüften Musterlösungen aus.
+* **Drucken & PDF-Export:** Drücke im Browser `Strg + P`. Das Portal blendet Navigation und Bedienelemente automatisch aus und erzeugt ein sauberes, druckfertiges Arbeitsblatt.
+
+---
+
+### Modus 3: Lokale Markdown-Nutzung in VS Code & Editoren
+
+Alle Lernmaterialien sind in standardkonformem GitHub Flavored Markdown (`.md`) verfasst. Du kannst das Projekt komplett textbasiert in Editoren wie Visual Studio Code, Obsidian, Cursor oder Typora verwenden:
+
+* **Integrierte Vorschau:** Öffne eine beliebige Datei (z. B. [`./A1/Grammatik.md`](./A1/Grammatik.md)) in VS Code und drücke `Strg + Umschalt + V` (macOS: `Cmd + Shift + V`) für die formatierte Vorschau mit Tabellen und Codeblöcken.
+* **Suche:** Nutze die projektweite Textsuche (`Strg + Umschalt + F`), um Vokabeln, Grammatikregeln oder Redewendungen sekundenschnell aufzuspüren.
+* **Relative Verlinkung:** Alle internen Querverweise zwischen den Stufen ([`./A1/`](./A1/), [`./A2/`](./A2/), [`./B1/`](./B1/), [`./B2/`](./B2/), [`./C1/`](./C1/), [`./C2/`](./C2/), [`./berufliche_sprache/`](./berufliche_sprache/) und [`./Redewendungen/`](./Redewendungen/)) sind strikt relativ angelegt und funktionieren nahtlos im Editor.
+
+---
+
+### Modus 4: Lokale Build- & Pflegewerkzeuge (`scripts/`)
+
+Im Ordner [`./scripts/`](./scripts/) stehen automatisierte Python-Skripte für die lokale Pflege und Erweiterung des Systems bereit:
+
+| Skript | Befehl | Funktion |
+| :--- | :--- | :--- |
+| **Dokumente bündeln** | `python scripts/build_docs_bundle.py` | Liest alle 34 Markdown-Dateien ein und aktualisiert das Offline-Bündel [`./js/docs_content.js`](./js/docs_content.js). Nach Bearbeitung von `.md`-Dateien einmalig ausführen. |
+| **Aussprache-Wörterbuch** | `python scripts/build_pronunciations.py` | Generiert standardisierte IPA-Lautschriften und Audio-Verknüpfungen für deutsche Vokabeln via G2P-Engine. |
+| **Vokabular anreichern** | `python scripts/clean_and_populate_vocabulary.py` | Synchronisiert und strukturiert Beispielsätze (5–6 Pronomen-Sätze) über alle CEFR-Stufen. |
+
+---
+
+### 💡 Tipps für das optimale Browser-Erlebnis
+
+* 🔊 **Audio & Sprachausgabe (TTS):**  
+  Das Portal nutzt die native Browser Web Speech API. Klicke auf Lautsprecher-Symbole für die deutsche Aussprache.  
+  *(Tipp: Browser verlangen vor der ersten Tonwiedergabe eine kurze Benutzerinteraktion – klicke einfach einmal auf die Seite).*
+* ⏱️ **Persistenter Speicher (`localStorage`):**  
+  Dein Lerntimer (15-Minuten-Fokus), Farbschema (Dark/Light) und deine Arbeitsblatt-Fortschritte werden automatisch lokal im Browserprofil gespeichert.
+* 📱 **Mobile & Tablet-Test:**  
+  Drücke `F12` im Browser, um die Entwicklertools zu öffnen, und aktiviere die Geräteemulation für eine responsive Smartphone- oder Tablet-Ansicht.
 
 ---
 
