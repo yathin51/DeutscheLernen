@@ -39,13 +39,13 @@ Die B2-Dateien sind darauf ausgelegt, deinen Ausdruck von der Alltagssprache auf
 ```
 
 ### Der B2-Produktionszirkel:
-1. **Verdichten durch Nominalisierung ([`Nouns.md`](./Nouns.md)):**  
+1. **Verdichten durch Nominalisierung ([`Vocabulary.md`](./Vocabulary.md)):**  
    Verwandle lange Nebensätze in kompakte Präpositionalphrasen mit Genitiv (*Weil die Kosten steigen...* -> *Aufgrund des Anstiegs der Kosten...*).
-2. **Funktionsverbgefüge einsetzen ([`Verbs.md`](./Verbs.md)):**  
+2. **Funktionsverbgefüge einsetzen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Ersetze alltägliche Vollverben durch hochsprachliche Nomen-Verb-Verbindungen (statt *entscheiden* -> *eine Entscheidung treffen*; statt *kritisieren* -> *Kritik üben an*).
-3. **Passiversatzformen nutzen ([`Verbs.md`](./Verbs.md)):**  
+3. **Passiversatzformen nutzen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Vermeide monotone *werden*-Passivketten durch elegante Alternativen (*sich lassen*, *sein + zu + Infinitiv*, Adjektive auf *-bar/-lich*).
-4. **Erweiterte Partizipien flechten ([`Adjectives.md`](./Adjectives.md)):**  
+4. **Erweiterte Partizipien flechten ([`Vocabulary.md`](./Vocabulary.md)):**  
    Nutze Partizip I (aktivisch/gleichzeitig) und Partizip II (passivisch/vorzeitig) mit vorangestellten Attributen zur Informationsdichte.
 5. **Diskurs & Argumentation schärfen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Verknüpfe Thesen und Antithesen mit Konzessiv- und Konsekutivkonnektoren (*infolgedessen, demzufolge, wenngleich, allerdings*).
@@ -202,7 +202,7 @@ Im B2-Register ersetzen FVG einfache Verben und verleihen dem Ausdruck stilistis
 ## 6. Dein täglicher B2-Trainingsplan (Der Baukasten)
 
 1. **Stil-Transformation:** Nimm 2 Sätze im Verbalstil aus einer Zeitung und transformiere sie in prägnanten **Nominalstil** mit Genitivpräpositionen (*aufgrund, infolge, ungeachtet*).
-2. **FVG-Drill:** Wähle 3 Nomen-Verb-Verbindungen aus [`Verbs.md`](./Verbs.md) und bilde geschäftliche Mustersätze für den Beruf.
+2. **FVG-Drill:** Wähle 3 Nomen-Verb-Verbindungen aus [`Vocabulary.md`](./Vocabulary.md) und bilde geschäftliche Mustersätze für den Beruf.
 3. **Passiversatz:** Bilde einen Satz mit *sich lassen* und einen Satz mit *sein + zu + Infinitiv*.
 
 ---
@@ -213,17 +213,17 @@ Auf B2 liest und schreibst du plötzlich behördliche, wissenschaftliche und fac
 
 | Anspruchsvoller B2-Ausdruck | Was es auf Englisch bedeutet (Newbie-Erklärung) | Einfachere Entsprechung auf A2/B1 | Verlinkte Quelle (Vorherige Dateien) |
 | :--- | :--- | :--- | :--- |
-| **Nominalisierung** (*die Schließung*) | Turning verbs into formal nouns ("the closure") | Das normale Vollverb: *schließen* | [`B1/Verbs.md`](../B1/Verbs.md) & [`A1/Verbs.md`](../A1/Verbs.md) |
-| **eine Entscheidung treffen** | "to make a decision" (Funktionsverbgefüge / FVG) | Das einfache Verb: *entscheiden* | [`B1/Verbs.md`](../B1/Verbs.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
-| **in Betracht ziehen** | "to consider / take into account" | Nachdenken: *überlegen / nachdenken über* | [`B1/Verbs.md`](../B1/Verbs.md) |
+| **Nominalisierung** (*die Schließung*) | Turning verbs into formal nouns ("the closure") | Das normale Vollverb: *schließen* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) & [`A1/Vocabulary.md`](../A1/Vocabulary.md) |
+| **eine Entscheidung treffen** | "to make a decision" (Funktionsverbgefüge / FVG) | Das einfache Verb: *entscheiden* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
+| **in Betracht ziehen** | "to consider / take into account" | Nachdenken: *überlegen / nachdenken über* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) |
 | **zur Verfügung stehen** | "to be available" | Einfach da sein: *bereit sein / verfügbar sein* | [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
 | **lässt sich reparieren** | "can be repaired" (Passiversatz mit *sich lassen*) | Das Standard-Passiv: *kann repariert werden* | [`B1/Grammatik.md`](../B1/Grammatik.md) (Passiv) |
-| **ist zu erledigen** | "must be done" (Passiversatz mit *sein + zu*) | Die Notwendigkeit: *muss erledigt werden* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`A1/Verbs.md`](../A1/Verbs.md) (*müssen*) |
+| **ist zu erledigen** | "must be done" (Passiversatz mit *sein + zu*) | Die Notwendigkeit: *muss erledigt werden* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`A1/Vocabulary.md`](../A1/Vocabulary.md) (*müssen*) |
 | **Zustandspassiv** (*ist geschlossen*) | The resulting state ("is closed") | Der Vorgang: *wird gerade geschlossen* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
-| **aufgrund (+ Genitiv)** | "due to / because of" (Nominalstil) | Der Kausalsatz: *weil* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B1/Cases.md`](../B1/Cases.md) (*wegen*) |
-| **ungeachtet (+ Genitiv)** | "regardless of / notwithstanding" | Der Konzessivsatz: *obwohl* oder *trotz* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`B1/Prepositions.md`](../B1/Prepositions.md) |
+| **aufgrund (+ Genitiv)** | "due to / because of" (Nominalstil) | Der Kausalsatz: *weil* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`B1/Grammatik.md`](../B1/Grammatik.md) (*wegen*) |
+| **ungeachtet (+ Genitiv)** | "regardless of / notwithstanding" | Der Konzessivsatz: *obwohl* oder *trotz* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
 | **Futur II** (*wird geschlafen haben*) | Assumption about past ("probably slept") | Wahrscheinlichkeit: *vielleicht hat er geschlafen* | [`A2/Grammatik.md`](../A2/Grammatik.md) (Perfekt) |
-| **Erweitertes Partizip** (*die getroffene Wahl*) | Complex adjective phrase ("the choice made") | Relativsatz: *die Wahl, die man getroffen hat* | [`B1/Pronouns.md`](../B1/Pronouns.md) & [`B1/Grammatik.md`](../B1/Grammatik.md) |
+| **Erweitertes Partizip** (*die getroffene Wahl*) | Complex adjective phrase ("the choice made") | Relativsatz: *die Wahl, die man getroffen hat* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
 
 ---
 

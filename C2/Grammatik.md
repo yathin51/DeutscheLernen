@@ -33,11 +33,11 @@ Auf C2 verschmelzen Grammatik, Semantik und Stilistik zu einer untrennbaren Einh
 ### Die C2-Meisterwerkstatt:
 1. **Rhythmische Syntax gestalten ([`Grammatik.md`](./Grammatik.md)):**  
    Gestalte Sätze nicht monoton nach Lehrbuchschema. Nutze gezielte Vorfeldbesetzung, Ausklammerung ins Nachfeld und Inversionen, um Spannung und Lesefluss zu dirigieren.
-2. **Rhetorische Figuren & Stilmittel einweben ([`Style.md`](./Style.md)):**  
+2. **Rhetorische Figuren & Stilmittel einweben ([`Grammatik.md`](./Grammatik.md)):**  
    Setze Chiasmen, Antithesen, Oxymora und Parenthesen ein, um Reden, Essays oder Verhandlungen rhetorische Durchschlagskraft zu verleihen.
 3. **Lexikalische Schattierungen beherrschen ([`Vocabulary.md`](./Vocabulary.md)):**  
    Wähle das exakte Wort statt des ungefähren Begriffs: Unterscheide scharf zwischen scheinbar und anscheinend, effektiv und effizient, identisch und kongruent.
-4. **Modalpartikeln als Nuancierungs-Filter nutzen ([`Style.md`](./Style.md)):**  
+4. **Modalpartikeln als Nuancierungs-Filter nutzen ([`Grammatik.md`](./Grammatik.md)):**  
    Platziere Partikelketten (*ja wohl kaum, doch mal eben, halt nun einmal*), um die Haltung des Sprechers subtil zu transportieren, ohne sie explizit aussprechen zu müssen.
 
 ---
@@ -197,9 +197,9 @@ Selbst wer schon lange Deutsch lernt, stößt auf C2 auf stilistische Kunstgriff
 | **Synthetischer Konj. II** (*bedürfte, geschähe*) | Literary subjunctive ("would require, would happen") | Einfache *würde*-Form: *würde brauchen, würde passieren* | [`B1/Grammatik.md`](../B1/Grammatik.md) (Konjunktiv II) |
 | **anscheinend vs. scheinbar** | Fact-based probability vs. deceptive illusion | Umgangssprachlich: *sieht so aus wie...* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) & [`A2/Vocabulary.md`](../A2/Vocabulary.md) |
 | **Ausklammerung ins Nachfeld** | Placing words after the verb bracket for rhythmic focus | Auf A1-B1 streng verboten: *alles muss in die Satzklammer* | [`A1/Grammatik.md`](../A1/Grammatik.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
-| **Dativus Ethicus** (*Fall mir nicht!*) | Emotional dative ("Don't you go falling on me!") | Der normale Dativ als Empfänger: *Er hilft mir* | [`A2/Cases.md`](../A2/Cases.md) & [`A1/Cases.md`](../A1/Cases.md) |
-| **binnen (+ Genitiv)** | "within" a time span (elevated/formal) | Alltagssprache: *innerhalb von (+ Dativ)* | [`B1/Prepositions.md`](../B1/Prepositions.md) & [`A2/Prepositions.md`](../A2/Prepositions.md) |
-| **unbeschadet (+ Genitiv)** | "without prejudice to / regardless of" (legal register) | Alltagssprache: *trotz / ungeachtet* | [`B1/Prepositions.md`](../B1/Prepositions.md) & [`B2/Grammatik.md`](../B2/Grammatik.md) |
+| **Dativus Ethicus** (*Fall mir nicht!*) | Emotional dative ("Don't you go falling on me!") | Der normale Dativ als Empfänger: *Er hilft mir* | [`A2/Grammatik.md`](../A2/Grammatik.md) & [`A1/Grammatik.md`](../A1/Grammatik.md) |
+| **binnen (+ Genitiv)** | "within" a time span (elevated/formal) | Alltagssprache: *innerhalb von (+ Dativ)* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`A2/Grammatik.md`](../A2/Grammatik.md) |
+| **unbeschadet (+ Genitiv)** | "without prejudice to / regardless of" (legal register) | Alltagssprache: *trotz / ungeachtet* | [`B1/Grammatik.md`](../B1/Grammatik.md) & [`B2/Grammatik.md`](../B2/Grammatik.md) |
 | **Komme, was wolle** | "Come what may" (Inverted concessive subjunctive) | Alltagssprache: *Egal was passiert...* | [`B1/Vocabulary.md`](../B1/Vocabulary.md) |
 | **Hätte ich das gewusst...** | "Had I known that..." (Conditional without *wenn*) | Normaler Nebensatz: *Wenn ich das gewusst hätte...* | [`B1/Grammatik.md`](../B1/Grammatik.md) |
 | **Abtönungspartikelketten** (*ja wohl kaum*) | Complex attitude modifiers ("surely hardly / scarcely") | Einfache Verneinung: *sicherlich nicht* | [`A1/Grammatik.md`](../A1/Grammatik.md) (*nicht*) & [`C1/Grammatik.md`](../C1/Grammatik.md) |

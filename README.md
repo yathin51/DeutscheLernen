@@ -7,6 +7,18 @@ Dieses Repository wurde von einem erfahrenen Senior-Sprachdozenten (DaF – Deut
 
 ---
 
+### 🌐 Interaktives Web-Portal (Single Page Application)
+
+Du kannst alle Inhalte dieses Repositories direkt als **moderne, interaktive Webanwendung** ohne Installation oder Server direkt im Browser nutzen:
+
+* **Einfach öffnen:** Doppelklick auf [**`index.html`**](./index.html) (funktioniert sofort in jedem Browser via `file://` oder lokal)
+* **15-Minuten-Lerntimer:** Fest in der oberen Kopfzeile integriert, um dich bei jedem Kapitel fokussiert zu begleiten.
+* **Integrierte Features:** Deutsche Aussprache (TTS), Inhaltsverzeichnisse (Outline), Farbcodierung für Geschlechter (*der / die / das*), Master-Spickzettel und Echtzeit-Suche.
+
+*Alle Lernmaterialien bleiben dabei vollständig im Original-Markdown-Format (`.md`) erhalten und editierbar!*
+
+---
+
 ### 🧭 Die Drei Großen Lernpfade
 
 Das System ist in drei komplementäre Hauptbereiche gegliedert:

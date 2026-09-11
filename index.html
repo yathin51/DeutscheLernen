@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeutscheLernen - Das Interaktive Lernportal für Deutsch (A1 - C2)</title>
+  <meta name="description" content="Umfassendes interaktives Lernportal für Deutsch als Fremdsprache (DaF). CEFR A1-C2 Grammatik & Wortschatz, Berufliche Sprache und Redewendungen in einer modernen Webanwendung.">
+  <meta name="theme-color" content="#0f172a">
+
+  <!-- Application Stylesheet -->
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+  <div id="app-container">
+    <!-- Reading Progress Bar -->
+    <div id="reading-progress"></div>
+
+    <!-- Sidebar Navigation -->
+    <aside id="sidebar">
+      <!-- Sidebar Header / Brand -->
+      <div class="sidebar-header">
+        <a href="#home" class="brand-wrapper">
+          <div class="brand-logo-badge">🇩🇪</div>
+          <div class="brand-text">
+            <h1>DeutscheLernen</h1>
+            <span>DaF-Lernportal · A1–C2</span>
+          </div>
+        </a>
+      </div>
+
+      <!-- Quick Search Filter -->
+      <div class="sidebar-search">
+        <div class="search-input-wrapper">
+          <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+          <input type="text" id="sidebar-search-input" class="search-input" placeholder="Thema, Stufe, Wort suchen..." aria-label="Lerninhalte durchsuchen">
+        </div>
+      </div>
+
+      <!-- Persistent Quick Links -->
+      <div style="padding: 0.75rem 0.75rem 0.25rem 0.75rem; border-bottom: 1px solid var(--border-sidebar);">
+        <button class="nav-item-btn active" id="nav-home-btn" onclick="window.location.hash='#home'">
+          <span>🧭</span>
+          <span>Übersicht & Leitfaden</span>
+        </button>
+        <button class="nav-item-btn" id="nav-cheatsheet-btn" onclick="window.location.hash='#cheatsheet'">
+          <span>⚡</span>
+          <span>Master-Spickzettel</span>
+        </button>
+        <button class="nav-item-btn" id="nav-workbooks-btn" onclick="window.location.hash='#workbooks'">
+          <span>📚</span>
+          <span>Arbeitsbücher & Skripte</span>
+        </button>
+        <button class="nav-item-btn" id="nav-root-readme-btn" onclick="window.location.hash='#doc:README.md'">
+          <span>📜</span>
+          <span>Haupt-README.md</span>
+        </button>
+      </div>
+
+      <!-- Scrollable Module Tree Navigation -->
+      <nav class="sidebar-nav-scroll" id="sidebar-nav">
+        <!-- Dynamically populated from LEARNING_MANIFEST -->
+      </nav>
+
+      <!-- Sidebar Footer -->
+      <div class="sidebar-footer">
+        <span>DaF Didaktik Edition</span>
+        <span style="color: #60a5fa; font-weight: 600;">v2.0</span>
+      </div>
+    </aside>
+
+    <!-- Main Workspace -->
+    <main id="main-content">
+      <!-- Top Header Bar with Persistent Top Timer -->
+      <header id="top-header">
+        <div class="header-left">
+          <button id="sidebar-toggle-btn" class="sidebar-toggle-btn" aria-label="Menü öffnen/schließen">
+            ☰
+          </button>
+          <nav class="breadcrumb-nav" aria-label="Brotkrumennavigation">
+            <span>DeutscheLernen</span>
+            <span>/</span>
+            <span id="breadcrumb-current" class="active-title">Übersicht & Lernleitfaden</span>
+          </nav>
+        </div>
+
+        <!-- Top Header Persistent 15-Minute Study Timer -->
+        <div class="top-header-timer" id="top-timer-container">
+          <div class="timer-label">
+            <span>⏱️</span>
+            <span class="hide-mobile">15-Min Timer</span>
+          </div>
+          <div class="top-timer-display" id="top-timer-display">15:00</div>
+          <div class="timer-step-badge" id="top-timer-step-badge">1. Grammatik (5m)</div>
+          <button class="timer-btn-mini" id="top-timer-toggle-btn" onclick="window.DL.toggleTimer()" title="Timer starten / pausieren">
+            ▶ Start
+          </button>
+          <button class="timer-btn-reset-mini" onclick="window.DL.resetTimer()" title="Timer zurücksetzen">
+            ↺
+          </button>
+        </div>
+
+        <div class="header-right">
+          <!-- Text-To-Speech Listen Button -->
+          <button id="listen-current-btn" class="header-btn" title="Ausgewählten Text oder Überschrift auf Deutsch vorlesen lassen">
+            <span>🔊</span>
+            <span class="hide-mobile">Aussprache (TTS)</span>
+          </button>
+
+          <!-- Theme Toggle -->
+          <button id="theme-toggle-btn" class="header-btn" title="Zwischen Hell- und Dunkelmodus wechseln">
+            ☀️ <span class="hide-mobile">Hell</span>
+          </button>
+        </div>
+      </header>
+
+      <!-- Content Viewport -->
+      <div class="content-viewport">
+        <!-- Scrollable Document & Dashboard Area -->
+        <div class="scroll-container" id="main-scroll-area">
+          <div id="content-area">
+            <!-- Dynamic Content Injected Here -->
+          </div>
+        </div>
+
+        <!-- Sticky Right-Hand Table of Contents (Outline) -->
+        <aside id="toc-panel">
+          <div id="toc-list">
+            <!-- Dynamically populated when markdown doc is loaded -->
+          </div>
+        </aside>
+      </div>
+    </main>
+  </div>
+
+  <!-- Scripts: Complete offline & serverless architecture -->
+  <script src="js/docs_content.js"></script>
+  <script src="js/workbooks_data.js"></script>
+  <script src="js/workbooks_pages.js"></script>
+  <script src="js/workbooks_engine.js"></script>
+  <script src="js/marked.min.js"></script>
+  <script src="js/manifest.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
