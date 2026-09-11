@@ -23,8 +23,7 @@ Die Anwendung ist so aufgebaut, dass sie **vollständig offline** und ohne Insta
    * Führe einen **Doppelklick auf [`index.html`](./index.html)** aus.
    * *Alternativ:* Rechtsklick auf `index.html` → **„Öffnen mit“** → **Google Chrome** wählen (oder die Datei per Drag & Drop in ein geöffnetes Chrome-Fenster ziehen).
 2. **Adresse in Chrome:**  
-   In der Chrome-Adresszeile siehst du nun:  
-   `file:///e:/Projects/VS_Projects/DeutscheLernen/index.html` (bzw. deinen lokalen Pfad).
+   In der Chrome-Adresszeile siehst du nun den lokalen Pfad zu [`./index.html`](./index.html).
 3. **Fertig:**  
    Alle Stufen (A1–C2), beruflichen Module, Redewendungen sowie das interaktive Arbeitsblatt-Studio (`#workbooks`) laden sofort blitzschnell und ohne CORS-Sicherheitsblockaden dank der integrierten Offline-Architektur (`js/docs_content.js`).
 
