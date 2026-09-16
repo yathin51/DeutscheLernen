@@ -1,1 +1,46 @@
-Ich bin froh.
+# ==============================================================================
+# EinfachDeutsch - Praktischer A1 Beispielsatz-Katalog (Alltag, Beruf & Grammatik)
+# ==============================================================================
+# Format: DEUTSCH | ENGLISCH | KATEGORIE | GRAMMATIK-FOKUS
+
+# 1. Begrüßung, Kennenlernen & Herkunft (Greetings & Introductions)
+Guten Tag! Ich heiße Thomas Müller und komme aus Deutschland. | Good day! My name is Thomas Müller and I come from Germany. | Kennenlernen | Subjekt + Verb (Pos 2)
+Wie heißen Sie und woher kommen Sie? | What is your name and where do you come from? | Kennenlernen | W-Frage (Höflichkeitsform Sie)
+Ich wohne seit zwei Monaten in Berlin und lerne fleißig Deutsch. | I have been living in Berlin for two months and am studying German diligently. | Alltag | Verb auf Pos 2 + Konjunktion und
+Sprichst du Englisch oder lernst du nur Deutsch? | Do you speak English or are you only learning German? | Kennenlernen | Ja/Nein-Frage (Verb auf Pos 1)
+Freut mich sehr, Sie kennenzulernen! | Very pleased to meet you! | Höflichkeit | Feste Wendung
+
+# 2. Café, Restaurant & Bestellen (Food & Drinks)
+Ich möchte gerne einen heißen Kaffee und ein Glas Wasser bestellen. | I would like to order a hot coffee and a glass of water. | Bestellen | Satzklammer (möchte ... bestellen)
+Was möchten Sie trinken? | What would you like to drink? | Bestellen | W-Frage mit Modalverb
+Wir nehmen die Tagessuppe und einen gemischten Salat. | We will take the soup of the day and a mixed salad. | Bestellen | Akkusativ (den gemischten Salat)
+Entschuldigung, bringen Sie uns bitte die Rechnung? | Excuse me, could you please bring us the bill? | Restaurant | Höfliche Aufforderung
+Zusammen oder getrennt? - Wir möchten bitte getrennt zahlen. | Together or separately? - We would like to pay separately, please. | Restaurant | Satzklammer (möchten ... zahlen)
+
+# 3. Tagesablauf & Uhrzeiten (Daily Routines & Schedules)
+Um 7:00 Uhr stehe ich auf und trinke einen starken Tee. | At 7:00 am I get up and drink a strong tea. | Tagesablauf | Inversion (Zeit zuerst) + Trennbares Verb
+Von wann bis wann arbeiten Sie im Büro? | From when to when do you work in the office? | Beruf & Zeit | W-Frage mit Zeitspanne
+Am Nachmittag kaufe ich im Supermarkt frisches Obst ein. | In the afternoon I shop for fresh fruit in the supermarket. | Alltag | Inversion + Trennbares Verb (kaufe ... ein)
+Der Deutschkurs beginnt pünktlich um 18:30 Uhr. | The German course starts punctually at 6:30 pm. | Bildung | Zeitangabe mit um
+Am Wochenende schlafe ich gerne etwas länger. | On the weekend I like to sleep a little longer. | Freizeit | Inversion (Am Wochenende schlafe ich)
+
+# 4. Freizeit, Hobbys & Verabredungen (Free Time & Appointments)
+Hast du am Samstag Zeit für einen Spaziergang im Park? | Do you have time for a walk in the park on Saturday? | Verabredung | Ja/Nein-Frage (Hast du Zeit?)
+Ich kann heute leider nicht kommen, weil ich krank bin. | Unfortunately I cannot come today because I am ill. | Entschuldigung | Satzklammer (kann ... kommen)
+Wollen wir heute Abend zusammen ins Kino gehen? | Shall we go to the cinema together tonight? | Freizeit | Satzklammer mit wollen
+Meine Hobbys sind Musik hören, Fotografieren und Kochen. | My hobbies are listening to music, photography and cooking. | Hobbys | Plural mit sind
+Am Sonntag besuche ich meine Großeltern auf dem Land. | On Sunday I am visiting my grandparents in the countryside. | Familie | Inversion (Am Sonntag besuche ich)
+
+# 5. Einkaufen, Preise & Kleidung (Shopping & Prices)
+Wie viel kostet diese schwarze Lederjacke? | How much does this black leather jacket cost? | Einkaufen | W-Frage nach Preis
+Das ist sehr günstig, das nehme ich sofort. | That is very reasonable, I'll take it right away. | Einkaufen | Hauptsatz mit Inversion
+Ich suche ein weißes Hemd in Größe M. | I am looking for a white shirt in size M. | Kleidung | Akkusativ Neutrum (ein weißes Hemd)
+Haben Sie diesen Pullover auch in Blau? | Do you have this sweater in blue too? | Kleidung | Ja/Nein-Frage mit Akkusativ Maskulin
+Wo finde ich die Umkleidekabine? | Where do I find the changing room? | Einkaufen | W-Frage mit Wo
+
+# 6. Wegbeschreibung & Orientierung (Directions & Transport)
+Entschuldigung, wie komme ich zum Hauptbahnhof? | Excuse me, how do I get to the central station? | Orientierung | W-Frage nach dem Weg
+Gehen Sie geradeaus und biegen Sie dann links ab! | Go straight ahead and then turn left! | Orientierung | Imperativ (Höflichkeitsform)
+Die nächste U-Bahn-Station ist gleich um die Ecke. | The next subway station is right around the corner. | Orientierung | Lokale Präposition um
+Fährt dieser Bus direkt zum Flughafen? | Does this bus go directly to the airport? | Verkehr | Ja/Nein-Frage mit starkem Verb
+Sie müssen an der Ampel rechts abbiegen. | You must turn right at the traffic lights. | Orientierung | Satzklammer (müssen ... abbiegen)

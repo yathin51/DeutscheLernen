@@ -81,6 +81,15 @@ Simplify the German tense system:
 - High-frequency verb reference table with IPA phonetics, 3 tenses, auxiliaries, and bilingual sentence pairs.
 - Sentence bracket (*Satzklammer*) in compound tenses.
 
+### 9. [🧭 Da- & Wo- Compounds, Prepositional Verbs & Directional Adverbs](./Prepositional_Verbs_And_Da_Wo_Compounds.md)
+Bridge the gap on German prepositions and syntax mechanics:
+- The **Da- and Wo- compound engine** (*worauf, damit, wofür, darüber*) and the euphonic `-r-` rule.
+- The **Human vs. Inanimate Object Golden Boundary** (*Auf wen?* vs. *Worauf?*).
+- High-frequency prepositional verbs reference checklist with required cases (Accusative vs. Dative).
+- **Direction vs. Location**: Speaker perspective (*hin* vs. *her*), colloquial shortcuts (*rein, raus, rauf, runter, rüber*), and *nach Hause* vs. *zu Hause*.
+- The **"Pronoun Wins" Rule** for double objects (Dative recipient vs. Accusative object).
+- Interactive practice drills with revealable solutions.
+
 ---
 
 ## 🌐 External Reference Repositories & Cloud Materials

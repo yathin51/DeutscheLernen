@@ -54,6 +54,25 @@ Auf C1 verzahnen sich Syntax, Morphologie und Semantik zu einem hochdifferenzier
 
 ## 2. Der grammatikalische C1-Kanon (Die Meilensteine)
 
+```
+             🔬 DER AKADEMISCHE NOMINALSTIL-KONVERTER
+┌────────────────────────────────────────────────────────────────────────┐
+│ VERBAL (Umgangs-/Erzählsprache)    ➔ NOMINALSTIL (Akademisch / C1)     │
+├────────────────────────────────────┼───────────────────────────────────┤
+│ Weil die Preise stiegen...         ➔ Aufgrund des Preisanstiegs        │
+│ Nachdem die Konferenz endete...    ➔ Nach Abschluss der Konferenz      │
+│ Obwohl die Mittel gekürzt wurden...➔ Ungeachtet der Mittelkürzungen    │
+│ Indem man die Daten analysiert...  ➔ Durch Analyse der Daten           │
+│ Damit das Ziel erreicht wird...    ➔ Zwecks Erreichung des Ziels       │
+└────────────────────────────────────┴───────────────────────────────────┘
+```
+
+> [!IMPORTANT]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #C1-1: Der Nominalstil-Reflex**  
+> **👂 Reiz:** Du schreibst ein wissenschaftliches Paper oder eine Fachprüfung  
+> **⚡ Reflex:** Verwandle den Nebensatz sofort in: **Präposition mit Genitiv + substantiviertes Nomen**!
+
+
 | Thema | Funktion & Bildungsweise | C1-Musterbeispiel |
 | :--- | :--- | :--- |
 | **Konjunktiv I (Indirekte Rede)** | Neutrale Redewiedergabe ohne Gewähr (Präsensstamm + `-e, -est, -e, -en, -et, -en`) | *Die Sprecherin erklärte, die Lage **sei** stabil und man **habe** alles im Griff.* |

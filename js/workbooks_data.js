@@ -8,6 +8,9 @@ window.WORKBOOKS_DATA = {
     "pdfPath": "A1/a1_skript_gr.pdf",
     "description": "Anfänger: Nomen, Artikel, Verben Präsens, Akkusativ, Dativ, Modalverben, Perfekt basics",
     "pages": 32,
+    "exerciseStartPage": 3,
+    "introPages": [1, 2],
+    "solutionsDoc": "A1/Loesungsschluessel.md",
     "toc": [
       {
         "title": "Lektion 1",
@@ -147,6 +150,9 @@ window.WORKBOOKS_DATA = {
     "pdfPath": "A2/a2_skript_gr.pdf",
     "description": "Grundlagen: Kausale Nebensätze, n-Deklination, Adjektivdeklination, Reflexivverben, Konjunktiv II",
     "pages": 33,
+    "exerciseStartPage": 3,
+    "introPages": [1, 2],
+    "solutionsDoc": "A2/Loesungsschluessel.md",
     "toc": [
       {
         "title": "Lektion 1",
@@ -286,6 +292,9 @@ window.WORKBOOKS_DATA = {
     "pdfPath": "B1/b1_skript_gr.pdf",
     "description": "Mittelstufe 1: Vergangenheit (Perfekt, Präteritum, Plusquamperfekt), Satzarten, Nebensätze, Genitiv, Passiv basics",
     "pages": 39,
+    "exerciseStartPage": 3,
+    "introPages": [1, 2],
+    "solutionsDoc": "B1/Loesungsschluessel.md",
     "toc": [
       {
         "title": "Verben - Vergangenheit",
@@ -505,6 +514,9 @@ window.WORKBOOKS_DATA = {
     "pdfPath": "B2/b2_skript_gr.pdf",
     "description": "Mittelstufe 2: Substantive im Detail, Satzstellung, Negation, Adverbiale Nebensätze, Partizipien",
     "pages": 35,
+    "exerciseStartPage": 3,
+    "introPages": [1, 2],
+    "solutionsDoc": "B2/Loesungsschluessel.md",
     "toc": [
       {
         "title": "Nomen (Substantiv)",
@@ -720,6 +732,9 @@ window.WORKBOOKS_DATA = {
     "pdfPath": "C1/c1_skript_gr.pdf",
     "description": "Oberstufe: Passivvarianten, Nomen-Verb-Verbindungen (FVG), Subjektive Modalverben, Partizipialattribute",
     "pages": 38,
+    "exerciseStartPage": 3,
+    "introPages": [1, 2],
+    "solutionsDoc": "C1/Loesungsschluessel.md",
     "toc": [
       {
         "title": "Passiv",

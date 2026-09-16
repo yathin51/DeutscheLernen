@@ -133,20 +133,38 @@
       updateActiveNavItem(elements.homeNavBtn);
       elements.breadcrumbCurrent.textContent = 'Übersicht & Lernleitfaden';
       hideToc();
-    } else if (hash === 'cheatsheet') {
+    } else if (hash === 'cheatsheet' || hash.startsWith('cheatsheet:')) {
       state.currentDocPath = null;
-      renderCheatsheet();
+      const parts = hash.split(':');
+      const level = (parts[1] && parts[1].toUpperCase()) || 'A1';
+      renderCheatsheet(level);
       updateActiveNavItem(elements.cheatsheetNavBtn);
-      elements.breadcrumbCurrent.textContent = 'Master-Spickzettel (Genus & Kasus)';
+      elements.breadcrumbCurrent.textContent = `Master-Spickzettel (${level === 'ALL' ? 'Alle Stufen' : 'Stufe ' + level})`;
       hideToc();
     } else if (hash === 'workbooks' || hash.startsWith('workbooks:')) {
       state.currentDocPath = null;
       const parts = hash.split(':');
       const level = parts[1] || state.currentWorkbookLevel || 'A1';
-      const page = parts[2] ? parseInt(parts[2], 10) : 1;
-      renderWorkbookStudio(level, page);
+      const defaultPage = (window.WORKBOOKS_DATA && window.WORKBOOKS_DATA[level] && window.WORKBOOKS_DATA[level].exerciseStartPage) || 3;
+      const page = parts[2] ? parseInt(parts[2], 10) : defaultPage;
+      state.currentWorkbookLevel = level;
+      if (level.endsWith('_PRACTICAL') || level === 'practical') {
+        const practicalLvl = level === 'practical' ? 'A1' : level.replace('_PRACTICAL', '').toUpperCase();
+        const validLvl = ['A1', 'A2', 'B1', 'B2', 'C1'].includes(practicalLvl) ? practicalLvl : 'A1';
+        if (window.WorkbookStudio && window.WorkbookStudio.renderPracticalStudio) {
+          window.WorkbookStudio.renderPracticalStudio(elements.contentArea, validLvl);
+        } else if (window.WorkbookStudio && window.WorkbookStudio.render) {
+          window.WorkbookStudio.render(elements.contentArea, validLvl + '_PRACTICAL');
+        }
+        elements.mainScrollArea.scrollTop = 0;
+      } else if (window.WorkbookStudio && window.WorkbookStudio.render) {
+        window.WorkbookStudio.render(elements.contentArea, level, page);
+        elements.mainScrollArea.scrollTop = 0;
+      } else {
+        renderWorkbookStudio(level, page);
+      }
       updateActiveNavItem(elements.workbooksNavBtn);
-      elements.breadcrumbCurrent.textContent = `Arbeitsbuch & Übungsstudio (${level === 'A1_PRACTICAL' ? 'Praxis-Satzbau' : level})`;
+      elements.breadcrumbCurrent.textContent = `Arbeitsbuch & Übungsstudio (${level.includes('PRACTICAL') ? 'Praxis-Satzbau ' + level.replace('_PRACTICAL','') : level})`;
       hideToc();
     } else if (hash.startsWith('doc:')) {
       const docPath = decodeURIComponent(hash.substring(4));
@@ -612,120 +630,24 @@
   // Cheatsheet View
   // =========================================================================
 
-  function renderCheatsheet() {
-    const html = `
-      <div class="markdown-body">
-        <h1>⚡ Der Master-Spickzettel: Genus, Kasus & Pronomen</h1>
-        <p>Der Nomen-Pronomen-Austausch und die 4 Fälle sind der Schlüssel zur fehlerfreien deutschen Grammatik.</p>
-
-        <h2>1. Die 4 Fälle im Deutschen (Deklination der bestimmten Artikel)</h2>
-        <div class="table-responsive">
-          <table>
-            <thead>
-              <tr>
-                <th>Fall</th>
-                <th>Kontrollfrage</th>
-                <th>Maskulin</th>
-                <th>Feminin</th>
-                <th>Neutrum</th>
-                <th>Plural</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><strong>Nominativ</strong> (Subjekt)</td>
-                <td><em>Wer / Was?</em></td>
-                <td><span class="gender-der">der</span> Tisch</td>
-                <td><span class="gender-die">die</span> Lampe</td>
-                <td><span class="gender-das">das</span> Buch</td>
-                <td>die Kinder</td>
-              </tr>
-              <tr>
-                <td><strong>Akkusativ</strong> (Direktes Objekt)</td>
-                <td><em>Wen / Was?</em></td>
-                <td><span class="gender-der">den</span> Tisch</td>
-                <td><span class="gender-die">die</span> Lampe</td>
-                <td><span class="gender-das">das</span> Buch</td>
-                <td>die Kinder</td>
-              </tr>
-              <tr>
-                <td><strong>Dativ</strong> (Indirektes Objekt / Ort)</td>
-                <td><em>Wem? / Wo?</em></td>
-                <td><span class="gender-der">dem</span> Tisch</td>
-                <td><span class="gender-die">der</span> Lampe</td>
-                <td><span class="gender-das">dem</span> Buch</td>
-                <td>den Kindern (+n)</td>
-              </tr>
-              <tr>
-                <td><strong>Genitiv</strong> (Zugehörigkeit)</td>
-                <td><em>Wessen?</em></td>
-                <td><span class="gender-der">des</span> Tisches (+s)</td>
-                <td><span class="gender-die">der</span> Lampe</td>
-                <td><span class="gender-das">des</span> Buches (+s)</td>
-                <td>der Kinder</td>
-              </tr>
-            </tbody>
-          </table>
+  function renderCheatsheet(level) {
+    const targetLevel = level || 'A1';
+    if (window.CheatsheetHub && window.CheatsheetHub.render) {
+      window.CheatsheetHub.init(elements.contentArea, targetLevel);
+    } else {
+      const html = `
+        <div class="markdown-body">
+          <h1>⚡ Der Master-Spickzettel: Genus, Kasus & Pronomen</h1>
+          <p>Der Nomen-Pronomen-Austausch und die 4 Fälle sind der Schlüssel zur fehlerfreien deutschen Grammatik.</p>
+          <div style="margin-top: 1.5rem;">
+            <button class="header-btn primary" onclick="window.location.hash='#doc:A1/Spickzettel.md'">
+              ⚡ Zu A1 Spickzettel wechseln →
+            </button>
+          </div>
         </div>
-
-        <h2>2. Der Nomen-Pronomen-Austausch</h2>
-        <p>Wie ersetze ich Nomen durch das grammatikalisch korrekte Pronomen?</p>
-        <div class="table-responsive">
-          <table>
-            <thead>
-              <tr>
-                <th>Genus / Nomen</th>
-                <th>Nominativ (Subjekt)</th>
-                <th>Akkusativ (Objekt)</th>
-                <th>Dativ (Objekt)</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><strong>Maskulin</strong> (der Kollege / der Tisch)</td>
-                <td><strong>er</strong> (<em>Er</em> ist neu.)</td>
-                <td><strong>ihn</strong> (Ich kenne <em>ihn</em>.)</td>
-                <td><strong>ihm</strong> (Ich helfe <em>ihm</em>.)</td>
-              </tr>
-              <tr>
-                <td><strong>Feminin</strong> (die Kollegin / die Lampe)</td>
-                <td><strong>sie</strong> (<em>Sie</em> ist nett.)</td>
-                <td><strong>sie</strong> (Ich sehe <em>sie</em>.)</td>
-                <td><strong>ihr</strong> (Ich antworte <em>ihr</em>.)</td>
-              </tr>
-              <tr>
-                <td><strong>Neutrum</strong> (das Kind / das Buch)</td>
-                <td><strong>es</strong> (<em>Es</em> ist spannend.)</td>
-                <td><strong>es</strong> (Ich lese <em>es</em>.)</td>
-                <td><strong>ihm</strong> (Ich gebe <em>ihm</em> Zeit.)</td>
-              </tr>
-              <tr>
-                <td><strong>Plural</strong> (die Kollegen / die Bücher)</td>
-                <td><strong>sie</strong> (<em>Sie</em> sind da.)</td>
-                <td><strong>sie</strong> (Ich besuche <em>sie</em>.)</td>
-                <td><strong>ihnen</strong> (Ich danke <em>ihnen</em>.)</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <h2>3. Die Universal-Triade (Anwendungsmuster)</h2>
-        <blockquote>
-          <strong>Tipp:</strong> Verinnerliche die Triade nicht isoliert, sondern immer im Dreiklang:
-          <br>1. <strong>Maskulin:</strong> <em>Der</em> Wagen ist schnell. Ich fahre <em>den</em> Wagen. Ich fahre mit <em>dem</em> Wagen.
-          <br>2. <strong>Feminin:</strong> <em>Die</em> Datei ist groß. Ich speichere <em>die</em> Datei. Ich arbeite mit <em>der</em> Datei.
-          <br>3. <strong>Neutrum:</strong> <em>Das</em> Meeting beginnt. Ich leite <em>das</em> Meeting. Ich nehme an <em>dem</em> Meeting teil.
-        </blockquote>
-
-        <div style="margin-top: 2rem;">
-          <button class="header-btn primary" onclick="window.location.hash='#doc:A1/Grammatik.md'">
-            📖 Zu A1 Grammatik wechseln →
-          </button>
-        </div>
-      </div>
-    `;
-
-    elements.contentArea.innerHTML = html;
+      `;
+      elements.contentArea.innerHTML = html;
+    }
     elements.mainScrollArea.scrollTop = 0;
   }
 
@@ -751,9 +673,10 @@
       return;
     }
 
-    // Special handler for TXT files (Practical workbook notes)
-    if (filePath.toLowerCase().endsWith('.txt')) {
-      window.location.hash = '#workbooks:A1_PRACTICAL';
+    // Special handler for Practical Satzbau studios & TXT notes
+    if (filePath.includes('_PRACTICAL') || filePath.toLowerCase().endsWith('.txt')) {
+      const practicalLvl = filePath.includes('_PRACTICAL') ? filePath.split('_')[0].toUpperCase() : 'A1';
+      window.location.hash = `#workbooks:${practicalLvl}_PRACTICAL`;
       return;
     }
 
@@ -818,22 +741,43 @@
       return state.activeCustomWorksheet;
     }
 
+    const resolvedTitle = (window.WorkbookEngine && window.WorkbookEngine.resolveLessonTitle)
+      ? window.WorkbookEngine.resolveLessonTitle(levelKey, page)
+      : `${levelKey} - Seite ${page}`;
+
+    // 1. Direct O(1) Answer Key Database check
+    if (window.WORKBOOKS_KEYS && window.WORKBOOKS_KEYS[levelKey] && window.WORKBOOKS_KEYS[levelKey][page]) {
+      const keyData = window.WORKBOOKS_KEYS[levelKey][page];
+      if (keyData && keyData.exercises && keyData.exercises.length > 0) {
+        return {
+          lessonTitle: resolvedTitle || keyData.lessonTitle,
+          grammarSummary: keyData.grammarSummary || '',
+          exercises: keyData.exercises
+        };
+      }
+    }
+
     if (window.WorkbookEngine && window.WorkbookEngine.getPreloadedLesson) {
       const preloaded = window.WorkbookEngine.getPreloadedLesson(levelKey, page);
-      if (preloaded) return preloaded;
+      if (preloaded) {
+        if (!preloaded.lessonTitle || preloaded.lessonTitle.includes('Seite')) {
+          preloaded.lessonTitle = resolvedTitle;
+        }
+        return preloaded;
+      }
     }
 
     // Dynamic generation from raw page text
     if (window.WORKBOOKS_RAW_PAGES && window.WORKBOOKS_RAW_PAGES[levelKey] && window.WORKBOOKS_RAW_PAGES[levelKey][page - 1]) {
       const rawText = window.WORKBOOKS_RAW_PAGES[levelKey][page - 1];
       if (window.WorkbookEngine && window.WorkbookEngine.parseAndGenerateWorksheet) {
-        return window.WorkbookEngine.parseAndGenerateWorksheet(rawText, `${levelKey} - Seite ${page}`, levelKey, page);
+        return window.WorkbookEngine.parseAndGenerateWorksheet(rawText, resolvedTitle, levelKey, page);
       }
     }
 
     // Fallback if nothing available
     return {
-      lessonTitle: `${levelKey} - Seite ${page}`,
+      lessonTitle: resolvedTitle,
       grammarSummary: '<p style="color: var(--text-muted);">Keine strukturierte Übung für diese Seite verfügbar.</p>',
       exercises: []
     };
@@ -843,690 +787,15 @@
     if (!levelKey || levelKey === 'undefined') levelKey = 'A1';
     state.currentWorkbookLevel = levelKey;
 
-    // Route to practical sentence studio if requested
     if (levelKey === 'A1_PRACTICAL' || levelKey === 'practical') {
       renderPracticalWorkbookStudio();
       return;
     }
 
-    const data = (window.WORKBOOKS_DATA && window.WORKBOOKS_DATA[levelKey]) || (window.WORKBOOKS_DATA && window.WORKBOOKS_DATA['A1']);
-    if (!data) {
-      renderDashboard();
-      return;
+    if (window.WorkbookStudio && window.WorkbookStudio.render) {
+      window.WorkbookStudio.render(elements.contentArea, levelKey, requestedPage);
+      if (elements.mainScrollArea) elements.mainScrollArea.scrollTop = 0;
     }
-
-    const totalPages = data.pages || 32;
-    const page = requestedPage ? Math.max(1, Math.min(totalPages, requestedPage)) : (state.currentWorkbookPage || 1);
-    state.currentWorkbookPage = page;
-    const activeTab = state.currentWorkbookTab || 'toc';
-    const viewMode = state.currentWorkbookViewMode || 'worksheet';
-
-    // Load saved user answers from localStorage for current level and page
-    state.workbookAnswers = (window.WorkbookEngine && window.WorkbookEngine.loadUserProgress)
-      ? window.WorkbookEngine.loadUserProgress(levelKey, page)
-      : {};
-
-    // Retrieve worksheet data
-    const worksheet = getCurrentWorksheetData(levelKey, page);
-
-    // Saved completed chapters from localStorage
-    const savedCompletedKey = `dl_wb_completed_${levelKey}`;
-    let completedSet = new Set();
-    try {
-      const stored = localStorage.getItem(savedCompletedKey);
-      if (stored) completedSet = new Set(JSON.parse(stored));
-    } catch (e) {}
-
-    // Saved notes from localStorage
-    const savedNotesKey = `dl_wb_notes_${levelKey}`;
-    const userNotes = localStorage.getItem(savedNotesKey) || '';
-
-    // Companion grammar file path
-    const companionDocPath = `${levelKey}/Grammatik.md`;
-
-    // Calculate progress
-    const totalChapters = (data.toc && data.toc.length) || 1;
-    const completedCount = completedSet.size;
-    const progressPercent = Math.round((completedCount / totalChapters) * 100);
-
-    // Raw page text for editor
-    const rawPageText = (window.WORKBOOKS_RAW_PAGES && window.WORKBOOKS_RAW_PAGES[levelKey] && window.WORKBOOKS_RAW_PAGES[levelKey][page - 1]) || '';
-    state.customEditorText = rawPageText;
-
-    // Determine left pane content based on active view mode
-    let leftPaneHtml = '';
-    if (viewMode === 'worksheet') {
-      leftPaneHtml = renderWorksheetViewHtml(worksheet, levelKey, page, state.workbookAnswers, state.workbookCheckResult, state.workbookShowSolutions);
-    } else if (viewMode === 'editor') {
-      leftPaneHtml = renderLiveEditorViewHtml(levelKey, page, rawPageText);
-    } else if (viewMode === 'pdf') {
-      leftPaneHtml = `
-        <div class="wb-pdf-card">
-          <object id="wb-pdf-object" data="${data.pdfPath}#page=${page}" type="application/pdf" class="wb-pdf-frame">
-            <iframe id="wb-pdf-iframe" src="${data.pdfPath}#page=${page}" class="wb-pdf-frame" title="${escapeHtml(data.title)}">
-              <p>Dein Browser unterstützt das direkte Einbetten nicht. <a href="${data.pdfPath}" download>Hier herunterladen</a>.</p>
-            </iframe>
-          </object>
-        </div>
-      `;
-    } else if (viewMode === 'split') {
-      leftPaneHtml = `
-        <div class="wb-split-grid">
-          <div>
-            ${renderWorksheetViewHtml(worksheet, levelKey, page, state.workbookAnswers, state.workbookCheckResult, state.workbookShowSolutions)}
-          </div>
-          <div class="wb-pdf-card" style="position: sticky; top: 1rem;">
-            <object id="wb-pdf-object" data="${data.pdfPath}#page=${page}" type="application/pdf" class="wb-pdf-frame" style="height: 75vh;">
-              <iframe id="wb-pdf-iframe" src="${data.pdfPath}#page=${page}" class="wb-pdf-frame" style="height: 75vh;" title="${escapeHtml(data.title)}">
-                <p>PDF nicht geladen.</p>
-              </iframe>
-            </object>
-          </div>
-        </div>
-      `;
-    }
-
-    const html = `
-      <div class="workbook-studio">
-        <!-- Level Header -->
-        <div class="wb-header">
-          <div class="wb-title-row">
-            <div class="wb-title-group">
-              <h1>
-                <span>📘</span>
-                <span>${escapeHtml(data.title)}</span>
-              </h1>
-              <p class="wb-subtitle">
-                Autor: <strong>${escapeHtml(data.author)}</strong> (${escapeHtml(data.edition)}) · ${totalPages} Seiten · ${totalChapters} Lektionen
-              </p>
-            </div>
-            <div class="wb-actions-group">
-              <a href="${data.pdfPath}" download class="header-btn" title="PDF lokal speichern">
-                ⬇️ PDF sichern
-              </a>
-              <a href="${data.pdfPath}" target="_blank" rel="noopener noreferrer" class="header-btn" title="In eigenem Vollbild-Tab öffnen">
-                ↗️ Neues Fenster
-              </a>
-              <button class="header-btn" onclick="window.location.hash='#doc:${companionDocPath}'" title="Grammatik-Theorie öffnen">
-                📖 ${levelKey} Grammatik
-              </button>
-            </div>
-          </div>
-
-          <!-- Level Switcher Ribbon -->
-          <div class="wb-level-tabs">
-            <button class="wb-level-tab ${levelKey === 'A1' ? 'active' : ''}" onclick="window.DL.switchWorkbook('A1')">
-              <span class="tab-badge">A1</span>
-              <span>Anfänger</span>
-            </button>
-            <button class="wb-level-tab ${levelKey === 'A2' ? 'active' : ''}" onclick="window.DL.switchWorkbook('A2')">
-              <span class="tab-badge">A2</span>
-              <span>Grundlagen</span>
-            </button>
-            <button class="wb-level-tab ${levelKey === 'B1' ? 'active' : ''}" onclick="window.DL.switchWorkbook('B1')">
-              <span class="tab-badge">B1</span>
-              <span>Mittelstufe 1</span>
-            </button>
-            <button class="wb-level-tab ${levelKey === 'B2' ? 'active' : ''}" onclick="window.DL.switchWorkbook('B2')">
-              <span class="tab-badge">B2</span>
-              <span>Mittelstufe 2</span>
-            </button>
-            <button class="wb-level-tab ${levelKey === 'C1' ? 'active' : ''}" onclick="window.DL.switchWorkbook('C1')">
-              <span class="tab-badge">C1</span>
-              <span>Oberstufe</span>
-            </button>
-            <button class="wb-level-tab ${levelKey === 'A1_PRACTICAL' ? 'active' : ''}" onclick="window.DL.switchWorkbook('A1_PRACTICAL')">
-              <span class="tab-badge">Praxis</span>
-              <span>✍️ Satzbau-Studio</span>
-            </button>
-          </div>
-
-          <!-- Interactive Control Bar & View Mode Switcher -->
-          <div class="wb-control-bar">
-            <!-- Page Controls -->
-            <div class="wb-page-controls">
-              <button class="wb-btn-mini" onclick="window.DL.prevWorkbookPage()" title="Eine Seite zurück">
-                ◀ Zurück
-              </button>
-              <span style="font-size: 0.88rem; color: var(--text-secondary);">Seite</span>
-              <input type="number" id="wb-page-input" class="wb-page-input" min="1" max="${totalPages}" value="${page}" onchange="window.DL.goWorkbookPage(this.value)">
-              <span style="font-size: 0.88rem; color: var(--text-secondary);">von ${totalPages}</span>
-              <button class="wb-btn-mini" onclick="window.DL.goWorkbookPage(document.getElementById('wb-page-input').value)" title="Zur Seite springen">
-                Springen
-              </button>
-              <button class="wb-btn-mini" onclick="window.DL.nextWorkbookPage()" title="Eine Seite vor">
-                Vor ▶
-              </button>
-            </div>
-
-            <!-- View Modes Pill Selector -->
-            <div class="wb-view-modes" role="tablist">
-              <button class="wb-view-mode-btn ${viewMode === 'worksheet' ? 'active' : ''}" onclick="window.DL.switchWorkbookViewMode('worksheet')" title="Interaktives Arbeitsblatt mit Lückentexten">
-                <span>✍️</span>
-                <span>Arbeitsblatt (Bearbeitbar)</span>
-              </button>
-              <button class="wb-view-mode-btn ${viewMode === 'editor' ? 'active' : ''}" onclick="window.DL.switchWorkbookViewMode('editor')" title="Übungstext bearbeiten oder eigenen Text laden">
-                <span>📝</span>
-                <span>Live-Editor / Laden</span>
-              </button>
-              <button class="wb-view-mode-btn ${viewMode === 'pdf' ? 'active' : ''}" onclick="window.DL.switchWorkbookViewMode('pdf')" title="Original-PDF anzeigen">
-                <span>📑</span>
-                <span>Original-PDF</span>
-              </button>
-              <button class="wb-view-mode-btn ${viewMode === 'split' ? 'active' : ''}" onclick="window.DL.switchWorkbookViewMode('split')" title="Arbeitsblatt und PDF nebeneinander">
-                <span>🌓</span>
-                <span>Geteilt</span>
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <!-- Layout Workspace -->
-        <div class="${viewMode === 'split' ? '' : 'wb-layout-grid'}">
-          <!-- Main Pane -->
-          <div class="wb-main-pane">
-            ${leftPaneHtml}
-          </div>
-
-          ${viewMode === 'split' ? '' : `
-            <!-- Right Sidecar (TOC, Notes, Cheatsheet) -->
-            <div class="wb-sidecar-card">
-              <div class="wb-sidecar-nav">
-                <button class="wb-sidecar-tab-btn ${activeTab === 'toc' ? 'active' : ''}" onclick="window.DL.switchWorkbookTab('toc')">
-                  <span>📋</span>
-                  <span>Lektionen (${totalChapters})</span>
-                </button>
-                <button class="wb-sidecar-tab-btn ${activeTab === 'notes' ? 'active' : ''}" onclick="window.DL.switchWorkbookTab('notes')">
-                  <span>✍️</span>
-                  <span>Notizen</span>
-                </button>
-                <button class="wb-sidecar-tab-btn ${activeTab === 'cheatsheet' ? 'active' : ''}" onclick="window.DL.switchWorkbookTab('cheatsheet')">
-                  <span>⚡</span>
-                  <span>Spickzettel</span>
-                </button>
-              </div>
-
-              <!-- Tab 1: TOC Content -->
-              <div class="wb-tab-content-area" id="wb-tab-toc" style="display: ${activeTab === 'toc' ? 'block' : 'none'};">
-                <div class="wb-search-box">
-                  <input type="text" id="wb-toc-filter" placeholder="Lektion oder Thema filtern..." oninput="window.DL.filterWorkbookToc(this.value)">
-                </div>
-                <div class="wb-progress-summary">
-                  <span>Erledigte Lektionen:</span>
-                  <span id="wb-progress-text"><strong>${completedCount}</strong> von ${totalChapters} (${progressPercent}%)</span>
-                </div>
-                <div class="wb-progress-track">
-                  <div class="wb-progress-fill" id="wb-progress-fill" style="width: ${progressPercent}%;"></div>
-                </div>
-                <div class="wb-toc-list" id="wb-toc-list">
-                  ${renderWorkbookTocItemsHtml(data.toc, completedSet, page)}
-                </div>
-              </div>
-
-              <!-- Tab 2: Notes Content -->
-              <div class="wb-tab-content-area" id="wb-tab-notes" style="display: ${activeTab === 'notes' ? 'flex' : 'none'}; flex-direction: column; height: 100%;">
-                <div class="wb-notes-toolbar">
-                  <button class="wb-btn-mini" onclick="window.DL.insertNoteTemplate('task')" title="Aufgabe-Muster einfügen">
-                    ➕ Aufgabe
-                  </button>
-                  <button class="wb-btn-mini" onclick="window.DL.insertNoteTemplate('vocab')" title="Vokabel-Zeile einfügen">
-                    ➕ Vokabel
-                  </button>
-                  <button class="wb-btn-mini" onclick="window.DL.insertNoteTemplate('rule')" title="Grammatikregel notieren">
-                    ➕ Regel
-                  </button>
-                </div>
-                <textarea id="wb-notes-textarea" class="wb-notes-textarea" placeholder="Schreibe hier deine Notizen oder Lösungen auf (wird lokal gespeichert)..." oninput="window.DL.saveWorkbookNotes(this.value)">${escapeHtml(userNotes)}</textarea>
-                <div class="wb-notes-footer">
-                  <span class="wb-notes-status" id="wb-notes-status">✓ Automatisch gespeichert</span>
-                  <div style="display: flex; gap: 0.4rem;">
-                    <button class="wb-btn-mini" onclick="window.DL.exportWorkbookNotes()" title="Notizen exportieren">
-                      💾 Exportieren
-                    </button>
-                    <button class="wb-btn-mini" onclick="window.DL.clearWorkbookNotes()" title="Notizen leeren">
-                      🧹 Leeren
-                    </button>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Tab 3: Cheatsheet Content -->
-              <div class="wb-tab-content-area" id="wb-tab-cheatsheet" style="display: ${activeTab === 'cheatsheet' ? 'block' : 'none'};">
-                ${renderWorkbookLevelCheatsheet(levelKey)}
-              </div>
-            </div>
-          `}
-        </div>
-      </div>
-    `;
-
-    elements.contentArea.innerHTML = html;
-    elements.mainScrollArea.scrollTop = 0;
-    hideToc();
-  }
-
-  function renderWorksheetViewHtml(worksheet, levelKey, page, answers, checkResult, showSolutions) {
-    if (!worksheet) {
-      return `<div class="wb-worksheet-card"><p style="color: var(--text-muted);">Keine Übungsinhalte vorhanden.</p></div>`;
-    }
-
-    const title = worksheet.lessonTitle || `${levelKey} - Seite ${page}`;
-    const exercises = worksheet.exercises || [];
-
-    // Score Banner HTML if checked
-    let scoreBannerHtml = '';
-    if (checkResult) {
-      const pct = checkResult.scorePercent;
-      let moodEmoji = '🎉';
-      let moodText = 'Hervorragend gelöst!';
-      if (pct < 50) {
-        moodEmoji = '💪';
-        moodText = 'Guter Anfang! Schau dir die Lösungen an und wiederhole die Lektion.';
-      } else if (pct < 85) {
-        moodEmoji = '👍';
-        moodText = 'Gut gemacht! Fast alle Aufgaben waren richtig.';
-      }
-
-      scoreBannerHtml = `
-        <div class="wb-score-banner">
-          <div class="wb-score-left">
-            <div class="wb-score-badge">${pct}%</div>
-            <div class="wb-score-info">
-              <h4>${moodEmoji} ${checkResult.correct} von ${checkResult.total} Aufgaben richtig</h4>
-              <p>${moodText}</p>
-            </div>
-          </div>
-          <div style="display: flex; gap: 0.5rem; align-items: center;">
-            <button class="header-btn" onclick="window.DL.revealWorkbookSolutions()">
-              💡 ${showSolutions ? 'Lösungen ausblenden' : 'Erklärungen anzeigen'}
-            </button>
-            <button class="header-btn primary" onclick="window.DL.resetWorkbookAnswers()">
-              ↺ Neu starten
-            </button>
-          </div>
-        </div>
-      `;
-    }
-
-    // Render Exercises Cards
-    const exercisesHtml = exercises.map((ex) => {
-      const hasWordBank = ex.wordBank && ex.wordBank.length > 0;
-      const wordBankHtml = hasWordBank ? `
-        <div class="wb-word-bank">
-          <span class="wb-word-bank-label">📦 Wortkasten:</span>
-          ${ex.wordBank.map(w => `<span class="wb-word-chip">${escapeHtml(w)}</span>`).join('')}
-        </div>
-      ` : '';
-
-      const exampleHtml = ex.example ? `
-        <div style="font-size: 0.88rem; color: var(--color-gold); background: rgba(245, 158, 11, 0.1); border-left: 3px solid var(--color-gold); padding: 0.4rem 0.75rem; border-radius: var(--radius-sm);">
-          💡 <strong>${escapeHtml(ex.example)}</strong>
-        </div>
-      ` : '';
-
-      const itemsHtml = ex.items.map((item) => {
-        const userVal = (answers && answers[item.id]) ? answers[item.id] : '';
-        const itemResult = checkResult && checkResult.results ? checkResult.results[item.id] : null;
-
-        let statusClass = '';
-        let feedbackHtml = '';
-
-        if (itemResult) {
-          if (itemResult.status === 'correct') {
-            statusClass = 'correct';
-            feedbackHtml = `<span class="wb-gap-feedback correct">✓ Richtig</span>`;
-          } else if (itemResult.status === 'incorrect') {
-            statusClass = 'incorrect';
-            feedbackHtml = `<span class="wb-gap-feedback incorrect" title="Grammatik: ${escapeHtml(item.explanation)}">❌ Lösung: <span class="correct-answer-text">${escapeHtml(item.answer)}</span></span>`;
-          } else if (itemResult.status === 'unanswered') {
-            statusClass = 'incorrect';
-            feedbackHtml = `<span class="wb-gap-feedback incorrect">⚠️ Nicht ausgefüllt (Lösung: <strong>${escapeHtml(item.answer)}</strong>)</span>`;
-          }
-        } else if (showSolutions) {
-          feedbackHtml = `<span class="wb-gap-feedback correct">Lösung: <strong>${escapeHtml(item.answer)}</strong></span>`;
-        }
-
-        const fullSentence = `${item.prefix || ''}${item.answer || ''}${item.suffix || ''}`.replace(/^[a-z0-9]+[\.\)]\s*/i, '').trim();
-
-        return `
-          <div class="wb-exercise-item" id="wb-item-row-${item.id}">
-            <span>${escapeHtml(item.prefix || '')}</span>
-            <input
-              type="text"
-              class="wb-gap-input ${statusClass}"
-              id="gap-input-${item.id}"
-              data-item-id="${item.id}"
-              value="${escapeHtml(userVal)}"
-              placeholder="..."
-              aria-label="Lösung für ${escapeHtml(item.prefix || '')}"
-              oninput="window.DL.handleGapInput('${item.id}', this.value)"
-              onkeydown="window.DL.handleGapKey(event, this)"
-            >
-            <span>${escapeHtml(item.suffix || '')}</span>
-            ${feedbackHtml}
-            <button class="inline-audio-btn" onclick="window.DL.speakWorksheetSentence('${escapeHtml(fullSentence).replace(/'/g, "\\'")}')" title="Diesen Satz auf Deutsch vorlesen">
-              🔊
-            </button>
-          </div>
-        `;
-      }).join('');
-
-      // Solution explanation card
-      const solutionBoxHtml = (showSolutions || checkResult) ? `
-        <div class="wb-solution-box">
-          <h5><span>💡</span><span>Grammatische Lösungen & Regelerklärungen zu ${escapeHtml(ex.title)}:</span></h5>
-          <ul class="wb-solution-list">
-            ${ex.items.map(it => `
-              <li class="wb-solution-item">
-                <div>${escapeHtml(it.prefix || '')}<strong>${escapeHtml(it.answer)}</strong>${escapeHtml(it.suffix || '')}</div>
-                <em>📖 ${escapeHtml(it.explanation || 'Grammatikregel')}</em>
-              </li>
-            `).join('')}
-          </ul>
-        </div>
-      ` : '';
-
-      return `
-        <div class="wb-exercise-card" id="${ex.id}">
-          <div class="wb-exercise-header">
-            <div>
-              <h3 class="wb-exercise-title">📝 ${escapeHtml(ex.title)}</h3>
-              <p class="wb-exercise-instruction">${escapeHtml(ex.instruction)}</p>
-            </div>
-            <span style="font-size: 0.8rem; color: var(--text-muted);">${ex.items.length} Teilaufgaben</span>
-          </div>
-          ${wordBankHtml}
-          ${exampleHtml}
-          <div class="wb-exercise-items">
-            ${itemsHtml}
-          </div>
-          ${solutionBoxHtml}
-        </div>
-      `;
-    }).join('');
-
-    return `
-      <div class="wb-worksheet-card">
-        <!-- Worksheet Top Bar -->
-        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 1rem;">
-          <div>
-            <span style="display: inline-block; padding: 0.2rem 0.5rem; background: var(--color-primary); color: #fff; font-size: 0.75rem; font-weight: 700; border-radius: var(--radius-sm); margin-bottom: 0.35rem;">
-              ${levelKey} · Seite ${page}
-            </span>
-            <h2 style="font-size: 1.45rem; font-weight: 700; margin: 0; color: var(--text-primary);">
-              ${escapeHtml(title)}
-            </h2>
-          </div>
-
-          <!-- Worksheet Action Buttons -->
-          <div style="display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center;">
-            <button class="header-btn" onclick="window.DL.revealWorkbookSolutions()" title="Lösungen für alle Lücken einblenden oder ausblenden">
-              💡 ${showSolutions ? 'Lösungen verbergen' : 'Antworten generieren'}
-            </button>
-            <button class="header-btn" onclick="window.DL.autoFillWorkbookAnswers()" title="Lücken automatisch mit korrekten Antworten ausfüllen">
-              ✍️ Automatisch ausfüllen
-            </button>
-            <button class="header-btn primary" onclick="window.DL.checkWorkbookAnswers()" title="Eigene Antworten überprüfen und bewerten">
-              ✅ Eingaben prüfen
-            </button>
-            <button class="header-btn" onclick="window.DL.resetWorkbookAnswers()" title="Lücken leeren und zurücksetzen">
-              ↺ Zurücksetzen
-            </button>
-            <button class="header-btn" onclick="window.DL.exportWorkbookWorksheet()" title="Arbeitsblatt und Eingaben als Text exportieren">
-              💾 Exportieren
-            </button>
-          </div>
-        </div>
-
-        ${scoreBannerHtml}
-        ${worksheet.grammarSummary || ''}
-        ${exercisesHtml}
-      </div>
-    `;
-  }
-
-  function renderLiveEditorViewHtml(levelKey, page, rawPageText) {
-    const editorValue = state.customEditorText || rawPageText || '';
-
-    return `
-      <div class="wb-custom-editor-card">
-        <div>
-          <h2 style="font-size: 1.35rem; font-weight: 700; margin: 0 0 0.35rem 0; display: flex; align-items: center; gap: 0.5rem;">
-            <span>📝</span>
-            <span>Live-Übungseditor & Dynamischer Antwort-Generator</span>
-          </h2>
-          <p style="color: var(--text-secondary); font-size: 0.92rem; margin: 0;">
-            Laden Sie eine Buchseite, fügen Sie eigene Lücken (z.B. <code>komm___</code> oder <code>______</code>) ein oder öffnen Sie eine Datei. Der Parser generiert automatisch das interaktive Arbeitsblatt mit den Lösungen.
-          </p>
-        </div>
-
-        <!-- Preset Loaders -->
-        <div class="wb-editor-presets">
-          <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">Schnell laden:</span>
-          <button class="wb-btn-mini" onclick="window.DL.loadEditorPreset('einfach_deutsch')" title="Aus A1/Practisches_WerkBuch laden">
-            📄 EinfachDeutsch (Praxis)
-          </button>
-          <button class="wb-btn-mini" onclick="window.DL.loadEditorPreset('a1_konjugation')" title="A1 Lektion 1 Verben laden">
-            📄 A1 Konjugation (S. 3)
-          </button>
-          <button class="wb-btn-mini" onclick="window.DL.loadEditorPreset('a2_kausal')" title="A2 Lektion 1 Kausalsätze laden">
-            📄 A2 Weil-Sätze (S. 3)
-          </button>
-          <button class="wb-btn-mini" onclick="window.DL.loadEditorPreset('b1_perfekt')" title="B1 Lektion 1 Perfekt laden">
-            📄 B1 Perfekt (S. 3)
-          </button>
-          <label class="wb-btn-mini" style="cursor: pointer;" title="Eigene .txt oder .md Datei öffnen">
-            📁 Datei öffnen...
-            <input type="file" accept=".txt,.md" style="display: none;" onchange="window.DL.handleEditorFileUpload(this)">
-          </label>
-        </div>
-
-        <!-- Editable Area -->
-        <textarea
-          id="wb-custom-editor-textarea"
-          class="wb-custom-textarea"
-          placeholder="Fügen Sie hier Ihren deutschen Übungstext ein... Beispiel:&#10;&#10;Übung 1&#10;a) Maria komm___ aus Rom.&#10;b) Carlos wohn___ in Passau.&#10;c) Wir trink___ Kaffee."
-          oninput="state.customEditorText = this.value"
-        >${escapeHtml(editorValue)}</textarea>
-
-        <!-- Editor Action Bar -->
-        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem;">
-          <div style="display: flex; gap: 0.5rem;">
-            <button class="header-btn primary" onclick="window.DL.loadEditorIntoWorksheet()" title="Text analysieren und in interaktive Arbeitsblatt-Ansicht laden">
-              🚀 In interaktives Arbeitsblatt laden & Antworten generieren
-            </button>
-          </div>
-          <div style="display: flex; gap: 0.5rem;">
-            <button class="wb-btn-mini" onclick="window.DL.loadEditorPreset('current_page')" title="Originaltext dieser Buchseite neu laden">
-              ↺ Seite ${page} neu laden
-            </button>
-            <button class="wb-btn-mini" onclick="document.getElementById('wb-custom-editor-textarea').value = ''; state.customEditorText = '';" title="Editor leeren">
-              🧹 Leeren
-            </button>
-          </div>
-        </div>
-      </div>
-    `;
-  }
-
-  function renderWorkbookTocItemsHtml(toc, completedSet, currentPage) {
-    if (!toc || !toc.length) {
-      return `<p style="color: var(--text-muted); font-size: 0.85rem;">Kein Inhaltsverzeichnis verfügbar.</p>`;
-    }
-    const currPage = parseInt(currentPage, 10) || 1;
-
-    return toc.map((item, idx) => {
-      const isCompleted = completedSet.has(idx);
-      const cleanTitle = escapeHtml(item.title);
-      const searchTitle = item.title.toLowerCase();
-      const page = item.page || 1;
-      const isActive = page === currPage;
-
-      return `
-        <div class="wb-toc-row ${isActive ? 'active-page' : ''} ${isCompleted ? 'completed' : ''}" id="wb-toc-row-${idx}" data-title="${searchTitle}" onclick="window.DL.jumpToWorkbookPage(${page})">
-          <div class="wb-toc-left">
-            <input type="checkbox" class="wb-toc-check" id="wb-toc-check-${idx}" ${isCompleted ? 'checked' : ''} onclick="event.stopPropagation(); window.DL.toggleWorkbookChapter(${idx})">
-            <span class="wb-toc-title" title="${cleanTitle}">${cleanTitle}</span>
-          </div>
-          <span class="wb-toc-page-badge" title="Zu Seite ${page} springen">S. ${page} ↗</span>
-        </div>
-      `;
-    }).join('');
-  }
-
-  function renderWorkbookLevelCheatsheet(levelKey) {
-    if (levelKey === 'A1') {
-      return `
-        <div class="wb-quickref-card">
-          <h4>📌 Bestimmte Artikel (A1)</h4>
-          <table class="wb-table-mini">
-            <tr><th>Kasus</th><th>Maskulin</th><th>Feminin</th><th>Neutral</th><th>Plural</th></tr>
-            <tr><td><strong>Nominativ</strong></td><td>der</td><td>die</td><td>das</td><td>die</td></tr>
-            <tr><td><strong>Akkusativ</strong></td><td><strong style="color: var(--color-primary);">den</strong></td><td>die</td><td>das</td><td>die</td></tr>
-            <tr><td><strong>Dativ</strong></td><td><strong style="color: var(--color-gold);">dem</strong></td><td><strong style="color: var(--color-gold);">der</strong></td><td><strong style="color: var(--color-gold);">dem</strong></td><td><strong style="color: var(--color-gold);">den (+n)</strong></td></tr>
-          </table>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Personalpronomen (Nominativ / Akkusativ / Dativ)</h4>
-          <p style="font-size: 0.82rem; margin: 0; line-height: 1.7; font-family: var(--font-mono);">
-            ich · mich · mir<br>
-            du · dich · dir<br>
-            er · ihn · ihm<br>
-            sie · sie · ihr<br>
-            es · es · ihm<br>
-            wir · uns · uns<br>
-            ihr · euch · euch<br>
-            Sie/sie · Sie/sie · Ihnen/ihnen
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Regelmäßige Verbendungen (Präsens)</h4>
-          <p style="font-size: 0.82rem; margin: 0; line-height: 1.6;">
-            ich lerne (<strong>-e</strong>) · du lernst (<strong>-st</strong>) · er/sie/es lernt (<strong>-t</strong>)<br>
-            wir lernen (<strong>-en</strong>) · ihr lernt (<strong>-t</strong>) · sie lernen (<strong>-en</strong>)
-          </p>
-        </div>
-      `;
-    } else if (levelKey === 'A2') {
-      return `
-        <div class="wb-quickref-card">
-          <h4>📌 Wechselpräpositionen (Akkusativ vs. Dativ)</h4>
-          <p style="font-size: 0.82rem; margin-bottom: 0.4rem;">
-            <em>an, auf, hinter, in, neben, über, unter, vor, zwischen</em>
-          </p>
-          <table class="wb-table-mini">
-            <tr><th>Frage</th><th>Bedeutung</th><th>Kasus</th><th>Beispiel</th></tr>
-            <tr><td><strong>Wohin?</strong></td><td>Richtung / Bewegung</td><td><strong>Akkusativ</strong></td><td>Ich lege das Buch auf <em>den</em> Tisch.</td></tr>
-            <tr><td><strong>Wo?</strong></td><td>Ort / Stillstand</td><td><strong>Dativ</strong></td><td>Das Buch liegt auf <em>dem</em> Tisch.</td></tr>
-          </table>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Kausale Nebensätze mit "weil" & "da"</h4>
-          <p style="font-size: 0.82rem; margin: 0;">
-            Im Nebensatz wandert das konjugierte Verb ans <strong>Satzende</strong>:<br>
-            <em>"Ich lerne Deutsch, weil ich in Deutschland arbeiten <strong>möchte</strong>."</em>
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Konjunktiv II (Höflichkeit & Wunsch)</h4>
-          <p style="font-size: 0.82rem; margin: 0; font-family: var(--font-mono);">
-            würde + Infinitiv (ich würde gern...)<br>
-            hätte (ich hätte gern einen Kaffee)<br>
-            wäre (das wäre schön)<br>
-            könnte (könnten Sie mir helfen?)
-          </p>
-        </div>
-      `;
-    } else if (levelKey === 'B1') {
-      return `
-        <div class="wb-quickref-card">
-          <h4>📌 Zeiten der Vergangenheit</h4>
-          <table class="wb-table-mini">
-            <tr><th>Zeitform</th><th>Bildung</th><th>Verwendung</th></tr>
-            <tr><td><strong>Perfekt</strong></td><td>haben/sein + Partizip II</td><td>Mündliche Sprache, Alltag</td></tr>
-            <tr><td><strong>Präteritum</strong></td><td>Stamm + -te / Ablaut</td><td>Schriftlich, Berichte, Romane</td></tr>
-            <tr><td><strong>Plusquamperfekt</strong></td><td>hatte/war + Partizip II</td><td>Vorvergangenheit</td></tr>
-          </table>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Konnektoren & Satzstellung</h4>
-          <p style="font-size: 0.82rem; line-height: 1.6; margin: 0;">
-            • <strong>Subjunktionen (Verb am Ende):</strong> weil, dass, obwohl, wenn, als, damit, während.<br>
-            • <strong>Konjunktionen (Position 0):</strong> und, aber, oder, denn, sondern.<br>
-            • <strong>Konjunktionaladverbien (Position 1):</strong> deshalb, trotzdem, außerdem.
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Vorgangspassiv Präsens & Präteritum</h4>
-          <p style="font-size: 0.82rem; margin: 0;">
-            <em>Präsens:</em> werden + Partizip II (Der Brief <strong>wird geschrieben</strong>.)<br>
-            <em>Präteritum:</em> wurden + Partizip II (Der Brief <strong>wurde geschrieben</strong>.)
-          </p>
-        </div>
-      `;
-    } else if (levelKey === 'B2') {
-      return `
-        <div class="wb-quickref-card">
-          <h4>📌 Nomen-Endungen und Genus</h4>
-          <p style="font-size: 0.82rem; line-height: 1.6; margin: 0;">
-            • <strong>Maskulin (der):</strong> -ling, -or, -ismus, -ist, -ant, -ent<br>
-            • <strong>Feminin (die):</strong> -ung, -heit, -keit, -schaft, -tion, -tät, -ik, -ei, -ur<br>
-            • <strong>Neutral (das):</strong> -chen, -lein, -ment, -um, -tum, -ma
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Passiv mit Modalverben & Perfekt</h4>
-          <p style="font-size: 0.82rem; line-height: 1.6; margin: 0;">
-            • <em>Perfekt:</em> ist + Partizip II + <strong>worden</strong><br>
-            • <em>Modalverb Präsens:</em> muss/kann + Partizip II + <strong>werden</strong><br>
-            • <em>Modalverb Präteritum:</em> musste/konnte + Partizip II + <strong>werden</strong>
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 n-Deklination (Schwache Maskulina)</h4>
-          <p style="font-size: 0.82rem; margin: 0;">
-            Endung <strong>-(e)n</strong> in allen Kasus außer Nominativ:<br>
-            der Kunde → den Kunden, dem Kunden, des Kunden<br>
-            der Student, der Kollege, der Herr (des Herrn)
-          </p>
-        </div>
-      `;
-    } else if (levelKey === 'C1') {
-      return `
-        <div class="wb-quickref-card">
-          <h4>📌 Funktionsverbgefüge (FVG)</h4>
-          <table class="wb-table-mini">
-            <tr><th>FVG</th><th>Einfaches Verb</th></tr>
-            <tr><td><strong>zur Verfügung stellen</strong></td><td>geben / bereitstellen</td></tr>
-            <tr><td><strong>zur Verfügung stehen</strong></td><td>vorhanden sein</td></tr>
-            <tr><td><strong>in Frage kommen</strong></td><td>möglich / relevant sein</td></tr>
-            <tr><td><strong>in Betracht ziehen</strong></td><td>erwägen / bedenken</td></tr>
-            <tr><td><strong>eine Entscheidung treffen</strong></td><td>entscheiden</td></tr>
-            <tr><td><strong>Kritik üben an (+ Dat)</strong></td><td>kritisieren</td></tr>
-            <tr><td><strong>in Anspruch nehmen</strong></td><td>nutzen / beanspruchen</td></tr>
-          </table>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Subjektive Bedeutung der Modalverben</h4>
-          <p style="font-size: 0.82rem; line-height: 1.6; margin: 0;">
-            • <strong>müssen (100%):</strong> Er muss krank sein. (Fast sicher)<br>
-            • <strong>dürfte (~75%):</strong> Er dürfte gleich kommen. (Sehr wahrscheinlich)<br>
-            • <strong>könnte (~50%):</strong> Es könnte noch klappen. (Möglich)<br>
-            • <strong>soll (Gerücht):</strong> Er soll im Ausland sein. (Man sagt...)<br>
-            • <strong>will (Behauptung):</strong> Er will nichts gewusst haben. (Er behauptet...)
-          </p>
-        </div>
-        <div class="wb-quickref-card">
-          <h4>📌 Passiversatzformen</h4>
-          <p style="font-size: 0.82rem; line-height: 1.6; margin: 0;">
-            • <strong>sein + zu + Infinitiv:</strong> "Das ist zu tun" = muss getan werden<br>
-            • <strong>sich lassen + Infinitiv:</strong> "Das lässt sich machen" = kann gemacht werden<br>
-            • <strong>Adjektive auf -bar/-lich:</strong> machbar, verständlich
-          </p>
-        </div>
-      `;
-    }
-    return '';
   }
 
   function renderPracticalWorkbookStudio() {
@@ -1743,7 +1012,8 @@
     state.activeCustomWorksheet = null;
     state.workbookCheckResult = null;
     state.workbookShowSolutions = false;
-    window.location.hash = `#workbooks:${level}`;
+    const defaultPage = (window.WORKBOOKS_DATA && window.WORKBOOKS_DATA[level] && window.WORKBOOKS_DATA[level].exerciseStartPage) || 3;
+    window.location.hash = `#workbooks:${level}:${defaultPage}`;
   }
 
   function switchWorkbookViewMode(mode) {

@@ -54,6 +54,29 @@ Die B2-Dateien sind darauf ausgelegt, deinen Ausdruck von der Alltagssprache auf
 
 ## 2. Der grammatikalische B2-Kanon (Die Meilensteine)
 
+```
+              ⚙️ DAS 4-WEGE-PASSIVERSATZ-COCKPIT
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. SICH LASSEN + INFINITIV:                                            │
+│    "Das Problem LÄSST SICH rasch LÖSEN."         (= kann gelöst werden)│
+│                                                                        │
+│ 2. SEIN + ZU + INFINITIV:                                              │
+│    "Der Bericht IST bis Freitag EINZUREICHEN."   (= muss eingereicht w)│
+│                                                                        │
+│ 3. ADJEKTIV AUF -BAR / -LICH:                                          │
+│    "Die Handschrift ist kaum LESBAR."            (= kann nicht gelesen)│
+│                                                                        │
+│ 4. PASSIVISCHES FUNKTIONSVERB:                                         │
+│    "Der Plan STEHT ZUR DISKUSSION."              (= wird diskutiert)   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!IMPORTANT]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #B2-1: Passiversatz-Reflex**  
+> **👂 Reiz:** Du willst im gehobenen Deutsch "man kann / man muss es tun" ausdrücken  
+> **⚡ Reflex:** Greife reflexartig zu **`lässt sich + Inf.`** oder **`ist zu + Inf.`** statt monotonem Passiv!
+
+
 | Thema | Funktion & Bildungsweise | Typisches B2-Beispiel |
 | :--- | :--- | :--- |
 | **Nominalstil vs. Verbalstil** | Umwandlung von Nebensätzen in Präpositionalgefüge | *Beim Betreten des Raumes...* (statt: *Als wir den Raum betraten...*) |

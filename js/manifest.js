@@ -18,8 +18,10 @@ const LEARNING_MANIFEST = {
             { title: "📖 A1 Grammatik", path: "A1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ A1 Wortschatz", path: "A1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
             { title: "📒 A1 Arbeitsbuch", path: "A1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
+            { title: "🔑 A1 Lösungsschlüssel", path: "A1/Loesungsschluessel.md", type: "solutions", icon: "🔑", badge: "Lösungen" },
             { title: "✍️ A1 Praktisches WerkBuch", path: "A1/Practisches_WerkBuch/EinfachDeutsch_examples.txt", type: "workbook", icon: "✍️", badge: "Praxis" },
-            { title: "📌 A1 Leitfaden & Struktur", path: "A1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
+            { title: "📌 A1 Leitfaden & Struktur", path: "A1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" },
+            { title: "🎓 A1 Abschluss-Spickzettel", path: "A1/Spickzettel.md", type: "cheatsheet", icon: "⚡", badge: "Level-Recap" }
           ]
         },
         {
@@ -30,7 +32,9 @@ const LEARNING_MANIFEST = {
             { title: "📖 A2 Grammatik", path: "A2/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ A2 Wortschatz", path: "A2/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
             { title: "📒 A2 Arbeitsbuch", path: "A2/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
-            { title: "📌 A2 Leitfaden & Struktur", path: "A2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
+            { title: "🔑 A2 Lösungsschlüssel", path: "A2/Loesungsschluessel.md", type: "solutions", icon: "🔑", badge: "Lösungen" },
+            { title: "📌 A2 Leitfaden & Struktur", path: "A2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" },
+            { title: "🎓 A2 Abschluss-Spickzettel", path: "A2/Spickzettel.md", type: "cheatsheet", icon: "⚡", badge: "Level-Recap" }
           ]
         },
         {
@@ -41,7 +45,9 @@ const LEARNING_MANIFEST = {
             { title: "📖 B1 Grammatik", path: "B1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ B1 Wortschatz", path: "B1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
             { title: "📒 B1 Arbeitsbuch", path: "B1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
-            { title: "📌 B1 Leitfaden & Struktur", path: "B1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
+            { title: "🔑 B1 Lösungsschlüssel", path: "B1/Loesungsschluessel.md", type: "solutions", icon: "🔑", badge: "Lösungen" },
+            { title: "📌 B1 Leitfaden & Struktur", path: "B1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" },
+            { title: "🎓 B1 Abschluss-Spickzettel", path: "B1/Spickzettel.md", type: "cheatsheet", icon: "⚡", badge: "Level-Recap" }
           ]
         },
         {
@@ -52,7 +58,9 @@ const LEARNING_MANIFEST = {
             { title: "📖 B2 Grammatik", path: "B2/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ B2 Wortschatz", path: "B2/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
             { title: "📒 B2 Arbeitsbuch", path: "B2/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
-            { title: "📌 B2 Leitfaden & Struktur", path: "B2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
+            { title: "🔑 B2 Lösungsschlüssel", path: "B2/Loesungsschluessel.md", type: "solutions", icon: "🔑", badge: "Lösungen" },
+            { title: "📌 B2 Leitfaden & Struktur", path: "B2/README.md", type: "guide", icon: "📌", badge: "Leitfaden" },
+            { title: "🎓 B2 Abschluss-Spickzettel", path: "B2/Spickzettel.md", type: "cheatsheet", icon: "⚡", badge: "Level-Recap" }
           ]
         },
         {
@@ -63,7 +71,9 @@ const LEARNING_MANIFEST = {
             { title: "📖 C1 Grammatik", path: "C1/Grammatik.md", type: "grammar", icon: "📖", badge: "Grammatik" },
             { title: "🗂️ C1 Wortschatz", path: "C1/Vocabulary.md", type: "vocab", icon: "🗂️", badge: "Wortschatz" },
             { title: "📒 C1 Arbeitsbuch", path: "C1/Arbeitsbuch.md", type: "workbook", icon: "📒", badge: "Werkbuch" },
-            { title: "📌 C1 Leitfaden & Struktur", path: "C1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" }
+            { title: "🔑 C1 Lösungsschlüssel", path: "C1/Loesungsschluessel.md", type: "solutions", icon: "🔑", badge: "Lösungen" },
+            { title: "📌 C1 Leitfaden & Struktur", path: "C1/README.md", type: "guide", icon: "📌", badge: "Leitfaden" },
+            { title: "🎓 C1 Abschluss-Spickzettel", path: "C1/Spickzettel.md", type: "cheatsheet", icon: "⚡", badge: "Level-Recap" }
           ]
         },
         {
@@ -96,12 +106,12 @@ const LEARNING_MANIFEST = {
           desc: "Grammatikübungen, Satzbau und Lösungen für Stufe A1."
         },
         {
-          title: "A1 Praktisches WerkBuch (EinfachDeutsch)",
-          path: "A1/Practisches_WerkBuch/EinfachDeutsch_examples.txt",
-          type: "workbook",
+          title: "A1 Satzbau-Praxis (V2 & Satzklammer)",
+          path: "A1_PRACTICAL",
+          type: "practical",
           icon: "✍️",
           badge: "A1 Praxis",
-          desc: "Praktische Beispielsätze und Übungsnotizen."
+          desc: "Interaktives Satzbau-Labor: V2-Stellung, Inversion, Satzklammer, W-Fragen."
         },
         {
           title: "A2 Arbeitsbuch & Übungen",
@@ -112,12 +122,28 @@ const LEARNING_MANIFEST = {
           desc: "Dativ, Wechselpräpositionen, Perfekt und Nebensätze mit Lösungen."
         },
         {
+          title: "A2 Satzbau-Praxis (Satzgefüge & weil/wenn)",
+          path: "A2_PRACTICAL",
+          type: "practical",
+          icon: "✍️",
+          badge: "A2 Praxis",
+          desc: "Kausalsätze (weil), Temporalsätze (wenn), Infinitiv mit zu, Reflexivverben."
+        },
+        {
           title: "B1 Arbeitsbuch & Übungen",
           path: "B1/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
           badge: "B1 Werkbuch",
           desc: "Passiv, Konjunktiv II, Genitiv und Satzverbindung mit Lösungen."
+        },
+        {
+          title: "B1 Satzbau-Praxis (Relativsätze & Passiv)",
+          path: "B1_PRACTICAL",
+          type: "practical",
+          icon: "✍️",
+          badge: "B1 Praxis",
+          desc: "Relativsätze (Kasus), Konjunktiv II, Vorgangspassiv, Doppelkonnektoren."
         },
         {
           title: "B2 Arbeitsbuch & Übungen",
@@ -128,12 +154,28 @@ const LEARNING_MANIFEST = {
           desc: "Nominalstil, Partizipialkonstruktionen, FVG mit Lösungen."
         },
         {
+          title: "B2 Satzbau-Praxis (Funktionsverben & Partizipien)",
+          path: "B2_PRACTICAL",
+          type: "practical",
+          icon: "✍️",
+          badge: "B2 Praxis",
+          desc: "Funktionsverbgefüge (FVG), Passivalternativen, Erweitertes Partizip I/II."
+        },
+        {
           title: "C1 Arbeitsbuch & Übungen",
           path: "C1/Arbeitsbuch.md",
           type: "workbook",
           icon: "📒",
           badge: "C1 Werkbuch",
           desc: "Komplexe Satzstrukturen, Textsorten, Redemittel mit Lösungen."
+        },
+        {
+          title: "C1 Satzbau-Praxis (Nominalstil & Redewiedergabe)",
+          path: "C1_PRACTICAL",
+          type: "practical",
+          icon: "✍️",
+          badge: "C1 Praxis",
+          desc: "Nominalstil-Transformation, Partizipialsatz-Verkürzung, Konjunktiv I."
         }
       ]
     },

@@ -220,20 +220,101 @@
               { id: '2_i', prefix: 'i) Eva ', suffix: ' ein Eis.', answer: 'kauft', explanation: 'Eva (3. Person Sg.) + ein Eis &rarr; kauft' },
               { id: '2_j', prefix: 'j) Wir ', suffix: ' Saft.', answer: 'trinken', explanation: 'wir (1. Person Pl.) + Saft &rarr; trinken' }
             ]
+          }
+        ]
+      },
+      4: {
+        lessonTitle: '1.1. Verb - Konjugation (Besonderheiten & Vertiefung) (S. 4)',
+        grammarSummary: `
+          <div class="wb-rule-summary-box">
+            <h4>📌 Grammatikregeln: Konjugations-Besonderheiten</h4>
+            <div class="wb-rule-grid">
+              <div class="wb-rule-col">
+                <strong>Verben auf -t, -d (z.B. arbeiten, warten, reden):</strong><br>
+                Einschub-<em>e</em> bei <em>du</em>, <em>er/sie/es</em> und <em>ihr</em>:<br>
+                du arbeit<strong>est</strong> · er arbeit<strong>et</strong> · ihr arbeit<strong>et</strong>
+              </div>
+              <div class="wb-rule-col">
+                <strong>Verben auf -s, -ss, -ß, -z (z.B. reisen, heißen, tanzen):</strong><br>
+                Kein zweites <em>s</em> bei <em>du</em>:<br>
+                du reis<strong>t</strong> · du heiß<strong>t</strong> · du tanz<strong>t</strong>
+              </div>
+              <div class="wb-rule-col">
+                <strong>Verben auf -eln (z.B. bügeln, sammeln):</strong><br>
+                Stamm verliert meist das <em>e</em> bei <em>ich</em>:<br>
+                ich <strong>bügle</strong> · ich <strong>sammle</strong>
+              </div>
+            </div>
+          </div>
+        `,
+        exercises: [
+          {
+            id: 'a1_p4_ex3',
+            title: 'Übung 3: Dialoge & Verben konjugieren',
+            instruction: 'Ergänzen Sie die Verben in der richtigen Personalform für die Mini-Dialoge.',
+            example: 'kaufen: Lena kauft Cola. Und du? - Ich kaufe Saft.',
+            items: [
+              { id: '3_a', label: 'a)', prompt: 'kommen', prefix: 'Hatem komm', suffix: ' aus Kairo. Und du? — Ich komme aus Berlin.', answer: 't', isCompact: true, explanation: 'Hatem (er, 3. Person Sg.) &rarr; kommt' },
+              { id: '3_b', label: 'b)', prompt: 'trinken', prefix: 'Ich trink', suffix: ' Kaffee. Und du? — Ich trinke Wasser.', answer: 'e', isCompact: true, explanation: 'ich (1. Person Sg.) &rarr; trinke' },
+              { id: '3_c', label: 'c)', prompt: 'wohnen', prefix: 'Maria wohn', suffix: ' in Rom. Und du? — Ich wohne in Passau.', answer: 't', isCompact: true, explanation: 'Maria (sie, 3. Person Sg.) &rarr; wohnt' },
+              { id: '3_d', label: 'd)', prompt: 'fragen', prefix: 'Wir frag', suffix: ' Frau Lehmann. Und du? — Ich frage Theo.', answer: 'en', isCompact: true, explanation: 'wir (1. Person Pl.) &rarr; fragen' },
+              { id: '3_e', label: 'e)', prompt: 'studieren', prefix: 'Paul studier', suffix: ' in München. Und du? — Ich studiere auch in München.', answer: 't', isCompact: true, explanation: 'Paul (3. Person Sg.) &rarr; studiert' },
+              { id: '3_f', label: 'f)', prompt: 'gehen', prefix: 'Ich geh', suffix: ' nach Hause. Und du? — Ich gehe auch nach Hause.', answer: 'e', isCompact: true, explanation: 'ich (1. Person Sg.) &rarr; gehe' }
+            ]
           },
           {
             id: 'a1_p4_ex4',
             title: 'Übung 4: Verben auf -t, -d, -s, -z (Besonderheiten)',
             instruction: 'Achten Sie auf das Einschub-e (-est, -et) und Verben auf -s/-z (-t statt -st).',
             items: [
-              { id: '4_a', prefix: 'a) reden: Ich red', suffix: ' mit Paul.', answer: 'e', explanation: 'ich &rarr; rede' },
-              { id: '4_b', prefix: 'b) reden: Du red', suffix: ' mit Klaus.', answer: 'est', explanation: 'Stamm auf -d &rarr; du redest (+e)' },
-              { id: '4_c', prefix: 'c) reden: Wir red', suffix: ' mit Maria.', answer: 'en', explanation: 'wir &rarr; reden' },
-              { id: '4_d', prefix: 'd) reden: Paul red', suffix: ' mit Eva.', answer: 'et', explanation: 'Paul (3. Person Sg.) auf -d &rarr; redet (+e)' },
-              { id: '4_e', prefix: 'e) antworten: Der Student antwort', suffix: '.', answer: 'et', explanation: 'Stamm auf -t &rarr; antwortet (+e)' },
-              { id: '4_f', prefix: 'f) antworten: Du antwort', suffix: ' Maria.', answer: 'est', explanation: 'du &rarr; antwortest (+e)' },
-              { id: '4_g', prefix: 'g) reisen: Du reis', suffix: ' nach Frankreich.', answer: 't', explanation: 'Stamm auf -s &rarr; du reist (kein Doppel-s!)' },
-              { id: '4_h', prefix: 'h) heißen: Du heiß', suffix: ' Alex.', answer: 't', explanation: 'Stamm auf -ß &rarr; du heißt (nur -t)' }
+              { id: '4_a', label: 'a)', prompt: 'reden', prefix: 'Ich red', suffix: ' mit Paul.', answer: 'e', isCompact: true, explanation: 'ich &rarr; rede' },
+              { id: '4_b', label: 'b)', prompt: 'reden', prefix: 'Du red', suffix: ' mit Klaus.', answer: 'est', isCompact: true, explanation: 'Stamm auf -d &rarr; du redest (+e)' },
+              { id: '4_c', label: 'c)', prompt: 'reden', prefix: 'Wir red', suffix: ' mit Maria.', answer: 'en', isCompact: true, explanation: 'wir &rarr; reden' },
+              { id: '4_d', label: 'd)', prompt: 'reden', prefix: 'Paul red', suffix: ' mit Eva.', answer: 'et', isCompact: true, explanation: 'Paul (3. Person Sg.) auf -d &rarr; redet (+e)' },
+              { id: '4_e', label: 'e)', prompt: 'antworten', prefix: 'Der Student antwort', suffix: '.', answer: 'et', isCompact: true, explanation: 'Stamm auf -t &rarr; antwortet (+e)' },
+              { id: '4_f', label: 'f)', prompt: 'antworten', prefix: 'Du antwort', suffix: ' Maria.', answer: 'est', isCompact: true, explanation: 'du &rarr; antwortest (+e)' },
+              { id: '4_g', label: 'g)', prompt: 'reisen', prefix: 'Du reis', suffix: ' nach Frankreich.', answer: 't', isCompact: true, explanation: 'Stamm auf -s &rarr; du reist (kein Doppel-s!)' },
+              { id: '4_h', label: 'h)', prompt: 'heißen', prefix: 'Du heiß', suffix: ' Alex.', answer: 't', isCompact: true, explanation: 'Stamm auf -ß &rarr; du heißt (nur -t)' }
+            ]
+          }
+        ]
+      },
+      6: {
+        lessonTitle: '1.2. Personalpronomen - Nominativ (S. 6)',
+        grammarSummary: `
+          <div class="wb-rule-summary-box">
+            <h4>📌 Grammatikregel: Personalpronomen im Nominativ</h4>
+            <div class="wb-rule-grid">
+              <div class="wb-rule-col"><strong>Singular:</strong> ich, du, er, sie, es</div>
+              <div class="wb-rule-col"><strong>Plural:</strong> wir, ihr, sie</div>
+              <div class="wb-rule-col"><strong>Höflichkeitsform:</strong> Sie (großgeschrieben)</div>
+            </div>
+          </div>
+        `,
+        exercises: [
+          {
+            id: 'a1_p6_ex2',
+            title: 'Übung 2: Fragen mit Personalpronomen beantworten',
+            instruction: 'Ergänzen Sie das passende Personalpronomen und die Verbform.',
+            items: [
+              { id: 'p6_2a', label: 'a)', prefix: 'Du lernst doch Deutsch, oder? — Ja, ', suffix: ' lerne Deutsch.', answer: 'ich', isCompact: true, explanation: 'Antwort auf du &rarr; ich' },
+              { id: 'p6_2b', label: 'b)', prefix: 'Du gehst doch jetzt nach Hause, oder? — Ja, ich ', suffix: ' nach Hause.', answer: 'gehe', isCompact: true, explanation: 'ich &rarr; gehe' },
+              { id: 'p6_2c', label: 'c)', prefix: 'Carlos lernt doch auch Deutsch, oder? — Ja, ', suffix: ' lernt auch Deutsch.', answer: 'er', isCompact: true, explanation: 'Carlos (männlich) &rarr; er' },
+              { id: 'p6_2d', label: 'd)', prefix: 'Maria kommt doch aus Italien, oder? — Ja, ', suffix: ' kommt aus Italien.', answer: 'sie', isCompact: true, explanation: 'Maria (weiblich) &rarr; sie' },
+              { id: 'p6_2e', label: 'e)', prefix: 'Ihr studiert doch in München, oder? — Ja, ', suffix: ' studieren in München.', answer: 'wir', isCompact: true, explanation: 'Antwort auf ihr &rarr; wir' },
+              { id: 'p6_2f', label: 'f)', prefix: 'Eva und Max wohnen doch in Köln, oder? — Ja, ', suffix: ' wohnen in Köln.', answer: 'sie', isCompact: true, explanation: 'Eva und Max (Plural) &rarr; sie' }
+            ]
+          },
+          {
+            id: 'a1_p6_ex4',
+            title: 'Übung 4: Personalpronomen einsetzen',
+            instruction: 'Setzen Sie das richtige Pronomen (er, sie, es, ich) ein.',
+            example: 'Wo wohnt Carlos? - Er wohnt in Rom.',
+            items: [
+              { id: 'p6_4a', label: 'a)', prefix: 'Wie heißt die Studentin? — ', suffix: ' heißt Maria.', answer: 'Sie', alternatives: ['sie'], isCompact: true, explanation: 'Studentin (feminin) &rarr; Sie' },
+              { id: 'p6_4b', label: 'b)', prefix: 'Was trinkt Herr Klein? — ', suffix: ' trinkt Orangensaft.', answer: 'Er', alternatives: ['er'], isCompact: true, explanation: 'Herr Klein (maskulin) &rarr; Er' },
+              { id: 'p6_4c', label: 'c)', prefix: 'Was studieren Max und Anna? — ', suffix: ' studieren Jura.', answer: 'Sie', alternatives: ['sie'], isCompact: true, explanation: 'Max und Anna (Plural) &rarr; Sie' },
+              { id: 'p6_4e', label: 'd)', prefix: 'Was bist du von Beruf? — ', suffix: ' bin Reporter.', answer: 'Ich', alternatives: ['ich'], isCompact: true, explanation: 'Antwort auf du bist &rarr; Ich bin' }
             ]
           }
         ]
@@ -427,23 +508,87 @@
     return null;
   };
 
+  WorkbookEngine.resolveLessonTitle = function(levelKey, page) {
+    if (!levelKey) levelKey = 'A1';
+    page = parseInt(page, 10) || 1;
+
+    const data = window.WORKBOOKS_DATA && window.WORKBOOKS_DATA[levelKey];
+    if (data && Array.isArray(data.toc) && data.toc.length > 0) {
+      let exact = null;
+      let closest = null;
+      for (const item of data.toc) {
+        if (item.page === page) {
+          exact = item;
+          break;
+        }
+        if (item.page < page) {
+          closest = item;
+        }
+      }
+      const matched = exact || closest;
+      if (matched) {
+        if (exact) {
+          return `${matched.title} (S. ${page})`;
+        } else {
+          return `${matched.title} — Vertiefung & Übungen (S. ${page})`;
+        }
+      }
+    }
+    return `${levelKey} - Seite ${page}`;
+  };
+
+  WorkbookEngine.getPreloadedLesson = function(levelKey, page) {
+    if (window.WORKBOOKS_KEYS && window.WORKBOOKS_KEYS[levelKey] && window.WORKBOOKS_KEYS[levelKey][page]) {
+      const entry = window.WORKBOOKS_KEYS[levelKey][page];
+      if (entry && entry.exercises && entry.exercises.length > 0) {
+        return {
+          lessonTitle: entry.lessonTitle || (WorkbookEngine.resolveLessonTitle ? WorkbookEngine.resolveLessonTitle(levelKey, page) : `${levelKey} - Seite ${page}`),
+          grammarSummary: entry.grammarSummary || '',
+          exercises: entry.exercises
+        };
+      }
+    }
+    return null;
+  };
+
   // --------------------------------------------------------------------------
   // 3. Dynamic Parser & Auto-Answer Generator for Raw Text
   // --------------------------------------------------------------------------
 
   WorkbookEngine.parseAndGenerateWorksheet = function(rawText, titleOverride, levelKey, page) {
+    const resolvedTitle = titleOverride || (WorkbookEngine.resolveLessonTitle ? WorkbookEngine.resolveLessonTitle(levelKey, page) : `${levelKey || 'A1'} - Seite ${page || 1}`);
+
+    // If level and page are provided and we have high-precision compiled answer keys, use them directly
+    if (levelKey && page && window.WORKBOOKS_KEYS && window.WORKBOOKS_KEYS[levelKey] && window.WORKBOOKS_KEYS[levelKey][page]) {
+      const pre = window.WORKBOOKS_KEYS[levelKey][page];
+      if (pre && pre.exercises && pre.exercises.length > 0) {
+        return {
+          lessonTitle: resolvedTitle || pre.lessonTitle,
+          grammarSummary: pre.grammarSummary || '',
+          exercises: pre.exercises
+        };
+      }
+    }
+
     if (!rawText || !rawText.trim()) {
       return {
-        lessonTitle: titleOverride || 'Leere Übungsseite',
+        lessonTitle: resolvedTitle,
         grammarSummary: '<p style="color: var(--text-muted);">Kein Text zum Laden vorhanden.</p>',
         exercises: []
       };
     }
 
-    const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+    const isNoise = (line) => {
+      const l = line.trim();
+      return !l ||
+        /^(www\.deutschkurse-passau\.de|Hans Witzlinger|Passau|Grammatik\s+[A-C][12]|\d+|Lösungsband|Inhaltsverzeichnis|Deutsch\s+Aber\s+Hallo)/i.test(l) ||
+        /^Seite\s+\d+/i.test(l);
+    };
+
+    const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0 && !isNoise(l));
     const exercises = [];
     let currentEx = null;
-    let mainTitle = titleOverride || '';
+    let mainTitle = resolvedTitle;
     let grammarRules = [];
     let generalNotes = [];
     const idPrefix = (levelKey && page) ? `${levelKey.toLowerCase()}_p${page}_` : 'dyn_';
@@ -452,13 +597,9 @@
     const examplePattern = /^(Beispiel|Bsp\.|Example):?\s*(.*)/i;
     const itemPattern = /^([a-z0-9]+[\.\)])\s*(.*)/i;
     const gapPattern = /_{2,}|\.{3,}|\[_{2,}\]/g;
+    const isInstructionPattern = /^(Ergänzen|Setzen|Wählen|Bilden|Antworten|Schreiben|Verbinden|Ordnen|Formulieren|Kreuzen|Beantworten|Achten|Finden|Tragen|Unterstreichen|Notieren|Konjugieren|Bestimmen)\b/i;
 
     lines.forEach((line) => {
-      if (!mainTitle && /^(Grammatik|Lektion|\d+\.\d+|Deutsch)/i.test(line)) {
-        mainTitle = line;
-        return;
-      }
-
       const exMatch = line.match(exHeaderPattern);
       if (exMatch) {
         if (currentEx && currentEx.items.length > 0) {
@@ -476,9 +617,9 @@
       }
 
       if (!currentEx) {
-        if (line.includes('>') || line.includes('&rarr;') || line.includes(':') || line.includes('-e') || line.includes('-st')) {
+        if (line.includes('>') || line.includes('&rarr;') || line.includes('➔') || line.includes(':') || line.includes('-e') || line.includes('-st') || line.includes('Stamm') || line.includes('Vokalwechsel')) {
           grammarRules.push(line);
-        } else {
+        } else if (line.length > 10 && !line.includes('___')) {
           generalNotes.push(line);
         }
         return;
@@ -490,9 +631,10 @@
         return;
       }
 
-      if (!itemPattern.test(line) && line.split(/\s+/).length >= 4 && !line.includes('___') && !line.includes('.')) {
+      // Word bank check: must not be grammar notes with hyphens like "bügel-n lächel-n"
+      if (!itemPattern.test(line) && line.split(/\s+/).length >= 4 && !line.includes('___') && !line.includes('.') && !line.includes('-n')) {
         const words = line.split(/\s+/).map(w => w.replace(/[,\/]/g, '').trim()).filter(w => w.length > 1);
-        if (words.length >= 3) {
+        if (words.length >= 3 && !words.some(w => w.includes('-'))) {
           currentEx.wordBank = words;
           return;
         }
@@ -502,10 +644,19 @@
       const hasGap = gapPattern.test(line) || line.includes('komm___') || line.includes('wohn___') || line.includes('kauf___') || line.includes('trink___') || line.includes('red___');
 
       if (itemMatch || hasGap) {
-        const itemLabel = itemMatch ? itemMatch[1] : `${currentEx.items.length + 1}.`;
-        const itemContent = itemMatch ? itemMatch[2] : line;
+        let itemLabel = itemMatch ? itemMatch[1] : `${currentEx.items.length + 1}.`;
+        let rawContent = itemMatch ? itemMatch[2] : line;
+        let prompt = '';
+        let itemContent = rawContent;
 
-        let prefix = itemLabel + ' ';
+        // Extract prompt verb / infinitive if present, e.g. "(kommen) Hatem..." or "kommen: Hatem..."
+        const promptMatch = itemContent.match(/^(?:\(([\wäöüÄÖÜß]+)\)|([\wäöüÄÖÜß]+):|\b([a-zäöüß]+en)\b)\s*(.*)/i);
+        if (promptMatch) {
+          prompt = promptMatch[1] || promptMatch[2] || promptMatch[3];
+          itemContent = promptMatch[4];
+        }
+
+        let prefix = '';
         let suffix = '';
         let generatedAnswer = '';
         let explanation = '';
@@ -515,15 +666,15 @@
         if (stemEndingMatch) {
           const stem = stemEndingMatch[1];
           suffix = stemEndingMatch[2];
-          prefix += itemContent.slice(0, stemEndingMatch.index + stem.length);
+          prefix = itemContent.slice(0, stemEndingMatch.index + stem.length);
 
-          const person = WorkbookEngine.detectPerson(prefix);
+          const person = WorkbookEngine.detectPerson((prompt ? prompt + ' ' : '') + prefix);
           generatedAnswer = WorkbookEngine.getVerbEnding(stem, person);
           explanation = `Subjekt (${person}) &rarr; Endung -${generatedAnswer}`;
         } else {
           const parts = itemContent.split(gapPattern);
           if (parts.length > 1) {
-            prefix += parts[0];
+            prefix = parts[0];
             suffix = parts.slice(1).join(' ');
 
             const solved = WorkbookEngine.solveSentenceContext(prefix, suffix, currentEx.wordBank);
@@ -531,24 +682,29 @@
             explanation = solved.explanation;
             alternatives = solved.alternatives || [];
           } else {
-            prefix += itemContent;
+            prefix = itemContent;
             generatedAnswer = itemContent;
             explanation = 'Vollständiger Beispielsatz zum Üben.';
           }
         }
 
+        const isCompact = Boolean(generatedAnswer && generatedAnswer.trim().length <= 4);
+
         currentEx.items.push({
           id: `${currentEx.id}_item_${currentEx.items.length + 1}`,
+          label: itemLabel,
+          prompt: prompt,
           prefix: prefix,
           suffix: suffix,
           answer: generatedAnswer || '?',
           alternatives: alternatives,
-          explanation: explanation || 'Grammatische Ergänzung'
+          explanation: explanation || 'Grammatische Ergänzung',
+          isCompact: isCompact
         });
         return;
       }
 
-      if (line.length < 80 && !currentEx.instructionUpdated) {
+      if (isInstructionPattern.test(line) && !currentEx.instructionUpdated) {
         currentEx.instruction = line;
         currentEx.instructionUpdated = true;
       }
@@ -562,10 +718,12 @@
       const fallbackItems = lines.map((l, idx) => {
         return {
           id: `${idPrefix}line_${idx + 1}`,
-          prefix: `${idx + 1}. `,
+          label: `${idx + 1}.`,
+          prefix: '',
           suffix: '',
           answer: l,
-          explanation: 'Originaler deutscher Beispielsatz'
+          explanation: 'Originaler deutscher Beispielsatz',
+          isCompact: false
         };
       });
       exercises.push({
@@ -577,18 +735,21 @@
     }
 
     let summaryHtml = '';
-    if (grammarRules.length > 0 || generalNotes.length > 0) {
+    const cleanRules = grammarRules.filter(r => !isNoise(r) && r.length > 3);
+    const cleanNotes = generalNotes.filter(n => !isNoise(n) && n.length > 5);
+
+    if (cleanRules.length > 0 || cleanNotes.length > 0) {
       summaryHtml = `
         <div class="wb-rule-summary-box">
           <h4>📌 Übersicht & Regeln aus dieser Lektion</h4>
-          ${grammarRules.length > 0 ? `
+          ${cleanRules.length > 0 ? `
             <div class="wb-rule-grid">
-              ${grammarRules.slice(0, 6).map(r => `<div class="wb-rule-col">${WorkbookEngine.escapeHtml(r)}</div>`).join('')}
+              ${cleanRules.slice(0, 8).map(r => `<div class="wb-rule-col">${WorkbookEngine.escapeHtml(r)}</div>`).join('')}
             </div>
           ` : ''}
-          ${generalNotes.length > 0 ? `
+          ${cleanNotes.length > 0 ? `
             <p style="margin-top: 0.5rem; font-size: 0.88rem; color: var(--text-secondary);">
-              ${generalNotes.slice(0, 3).map(n => WorkbookEngine.escapeHtml(n)).join(' · ')}
+              ${cleanNotes.slice(0, 3).map(n => WorkbookEngine.escapeHtml(n)).join(' · ')}
             </p>
           ` : ''}
         </div>
@@ -624,6 +785,13 @@
       }
       return { answer: wordBank[0], explanation: 'Aus dem Kasten ausgewählt.' };
     }
+
+    // Pronouns matching
+    if (full.includes('du lernst doch') || full.includes('ja,') && full.includes('lerne')) return { answer: 'ich', explanation: 'Antwort auf du &rarr; ich' };
+    if (full.includes('wie heißt die studentin') || (full.includes('heißt maria') && !full.includes('wie'))) return { answer: 'Sie', alternatives: ['sie'], explanation: 'Studentin &rarr; Sie' };
+    if (full.includes('was trinkt herr') || (full.includes('trinkt orangensaft') && !full.includes('was'))) return { answer: 'Er', alternatives: ['er'], explanation: 'Herr ... &rarr; Er' };
+    if (full.includes('was studieren') && (full.includes('max und') || full.includes('studieren jura'))) return { answer: 'Sie', alternatives: ['sie'], explanation: 'Plural &rarr; Sie' };
+    if (full.includes('was bist du von beruf') || full.includes('bin reporter')) return { answer: 'Ich', alternatives: ['ich'], explanation: 'Antwort auf du &rarr; Ich' };
 
     if (full.includes('den') || full.includes('dem') || full.includes('die') || full.includes('das')) {
       if (full.includes('schlüssel') || full.includes('kaffee') || full.includes('tisch')) return { answer: 'den', alternatives: ['einen'], explanation: 'Maskulin Akkusativ: den / einen' };

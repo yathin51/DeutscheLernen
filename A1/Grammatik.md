@@ -3,6 +3,20 @@
 Herzlich willkommen im **A1 Master-Grammatikleitfaden**. Als dein Senior-Sprachdozent führe ich dich strukturiert, zeitsparend und praxisnah durch alle grammatikalischen Grundlagen der deutschen Sprache. 
 
 > [!TIP]
+> **🇬🇧 English Learner's Bridge & The Germanic Cognate Secret:**  
+> If you already speak English, you have a massive shortcut! German and English are sister Germanic languages sharing thousands of identical roots and predictable sound shifts. Use this cognitive decoding table:
+> 
+> | English Sound | German Shift | English Example | German Sister Word |
+> | :--- | :---: | :--- | :--- |
+> | **d ➔ t** | **d ➔ t** | **d**ay, **d**ream, **d**ance, **d**rink | **T**ag, **T**raum, **t**anzen, **t**rinken |
+> | **th ➔ d** | **th ➔ d** | **th**ank, **th**ree, bro**th**er, fa**th**er | **d**anken, **d**rei, Bru**d**er, Va**t**er |
+> | **v / f ➔ b** | **v/f ➔ b** | ha**v**e, gi**v**e, hal**f**, li**v**e | ha**b**en, ge**b**en, hal**b**, le**b**en |
+> | **p ➔ f / pf** | **p ➔ f/pf** | a**pp**le, **p**epper, hel**p**, o**p**en | A**pf**el, **Pf**effer, hel**f**en, o**ff**en |
+> 
+> *Whenever you see an unfamiliar German word, test these sound shifts in reverse – you will instantly recognize the meaning!*  
+> Companion Guides: [Mini-Translations for English Speakers](../English_Guides/Mini_Translations.md) | [Word Order Demystified](../English_Guides/Wortstellung_Mastery.md)
+
+> [!TIP]
 > **Das pädagogische Prinzip dieses Leitfadens:**  
 > 1. **Keine isolierten Regeln**: Jedes Konzept wird sofort durch reale Sätze verankert.  
 > 2. **Die Triade (der – die – das)**: Für jedes grammatikalische Phänomen findest du immer parallele Beispiele für **Maskulin**, **Feminin**, **Neutrum** und **Plural**.  
@@ -24,6 +38,34 @@ Herzlich willkommen im **A1 Master-Grammatikleitfaden**. Als dein Senior-Sprachd
 
 ## 1. Artikel & Genus: Der, Die, Das verstehen
 
+> [!NOTE]
+> **🇬🇧 English Bridge (Why German has Genders vs. English "The"):**  
+> While English collapsed *the* into a single word centuries ago, German preserved gender markers (*der, die, das*).  
+> **Key insight:** Do not think of grammatical gender as biological sex! A table (*der Tisch*) isn't male; a girl (*das Mädchen*) is grammatically neutral because of the `-chen` suffix.  
+> **Rule of thumb:** Always learn words as a pair: never learn just `Tisch`, learn `der Tisch`. Think of the 🦁 lion for masculine, 🌸 flower for feminine, and 💎 crystal for neutral.
+
+### 🦁 Die 3 Sinnes-Archetypen (Das sensorische Muskelgedächtnis)
+Das Gehirn vergisst abstrakte Geschlechter. Verknüpfe Nomen sofort mit konkreten Sinnes-Archetypen:
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ 🦁 MASKULIN (der / BLAU)     🌸 FEMININ (die / ROT)     💎 NEUTRUM (das / GRÜN) │
+├────────────────────────────────────────────────────────────────────────┤
+│ Kraft, Werkzeug, Struktur   Leben, Natur, Rundung       Kristall, Ding, Baby   │
+│ • der Löwe, der Felsen      • die Rose, die Sonne       • das Kind, das Buch   │
+│ • der Hammer, der Tisch     • die Blume, die Wolke      • das Haus, das Auto   │
+│ • Tage, Monate, Jahreszeit  • Endungen: -ung, -heit,    • Endungen: -chen,     │
+│   (der Montag, der Sommer)    -keit, -schaft, -tion       -lein, -ment, -um    │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!TIP]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #1: Signalendung**  
+> **👂 Reiz:** Wort endet auf `-ung`, `-heit`, `-keit`, `-schaft`, `-tion`  
+> **⚡ Reflex:** Sofort ohne Nachdenken: **`die`**! *(die Wohnung, die Freiheit, die Station)*  
+> **🧲 Mentales Bild:** Eine rote Blüte 🌸 wächst am Wortende!
+
+
 Im Deutschen hat jedes Nomen ein grammatikalisches Geschlecht (Genus). Lerne jedes Nomen **immer** zusammen mit seinem bestimmten Artikel und seiner Pluralform!
 
 ```
@@ -44,6 +86,55 @@ Obwohl man Artikel am besten auswendig lernt, gibt es verlässliche Signale:
 ---
 
 ## 2. Die Fälle: Nominativ & Akkusativ im Vergleich
+
+> [!NOTE]
+> **🇬🇧 English Bridge (You Already Know Cases in English!):**  
+> English still uses cases for pronouns:  
+> • Subject (Nominative): *"**He** sees..."* / *"**Who** is calling?"*  
+> • Direct Object (Accusative): *"...sees **him**"* / *"**Whom** did you call?"*  
+> German simply applies this exact rule to masculine nouns as well:  
+> • **`der Mann`** (Subject: *He*) ➔ **`den Mann`** (Direct Object: *Him*).  
+> • Feminine, Neuter, and Plural do NOT change in Accusative (they are immune)!
+
+```
+        🔨 DER AKKUSATIV-HAMMER: "NUR DER MANN BEKOMMT DEN SCHLAG!"
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   NOMINATIV:     der Tisch      die Lampe      das Buch     die Kinder │
+│                      │              │              │            │      │
+│                 💥 [HAMMER]         │              │            │      │
+│                      ▼              ▼              ▼            ▼      │
+│   AKKUSATIV:     den Tisch      die Lampe      das Buch     die Kinder │
+│                 (geändert!)    (IMMUN! 🛡️)    (IMMUN! 🛡️)  (IMMUN! 🛡️)  │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!IMPORTANT]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #2: Der Akkusativ-Reflex**  
+> **👂 Reiz:** Subjekt tut etwas mit einer maskulinen Sache *(kaufen, sehen, haben, trinken)*  
+> **⚡ Reflex:** Hänge blitzschnell ein **`-en`** an! *(Ich habe den Schlüssel / einen Kaffee)*  
+> **🧲 Mentales Bild:** Der Hammer schlägt das `r` zu einem `n` um: `der` ➔ `den`!
+
+### 🐶 Der Akkusativ-Wachhund: „DOGFU“
+Diese 5 Präpositionen verlangen **IMMER und ausnahmslos den Akkusativ**. Der Wachhund DOGFU verjagt jeden Dativ:
+
+```
+    🐶 D - O - G - F - U  (Der Akkusativ-Wachhund)
+┌────────────────────────────────────────────────────────────────────────┐
+│  • D - Durch   (Through)  ➔ Wir gehen durch den Park.                  │
+│  • O - Ohne    (Without)  ➔ Ohne meinen Kaffee kann ich nicht denken.  │
+│  • G - Gegen   (Against)  ➔ Das Auto fährt gegen den Baum.             │
+│  • F - Für     (For)      ➔ Das Geschenk ist für meinen Vater.         │
+│  • U - Um      (Around)   ➔ Wir sitzen um den Tisch.                   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!TIP]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #3: DOGFU-Reflex**  
+> **👂 Reiz:** Du sprichst *durch*, *ohne*, *gegen*, *für* oder *um* aus  
+> **⚡ Reflex:** Nächster maskuliner Artikel MUSS `den / einen` sein!
+
 
 Der Fall (Kasus) zeigt die Rolle des Nomens im Satz:
 - **Nominativ (Wer oder Was?):** Das Subjekt – die Person oder Sache, die handelt.
@@ -188,6 +279,18 @@ Nomen: *die Bücher* (books), *die Kollegen* (colleagues), *die Fragen* (questio
 
 ## 3. Pronomen-Meisterschaft: Personal- & Possessivpronomen
 
+> [!NOTE]
+> **🇬🇧 English Bridge (Pronoun Direct Mapping):**  
+> • *ich* = I | *mich* = me (Accusative)  
+> • *du* = you (informal) | *dich* = you (Accusative)  
+> • *er* = he | *ihn* = him (Accusative)  
+> • *sie* = she / they | *sie* = her / them  
+> • *es* = it | *es* = it  
+> • *wir* = we | *uns* = us  
+> • *ihr* = y'all / you guys | *euch* = you all (Accusative)  
+> • *Sie* (capital S) = You (formal singular & plural)  
+> **Possessives:** *mein* = my, *dein* = your, *sein* = his/its, *ihr* = her/their, *unser* = our, *euer* = your (plural), *Ihr* = Your (formal).
+
 Pronomen ersetzen Nomen, um ständige Wortwiederholungen zu vermeiden.
 
 ### Personalpronomen im Nominativ & Akkusativ
@@ -245,6 +348,11 @@ Pronomen ersetzen Nomen, um ständige Wortwiederholungen zu vermeiden.
 ---
 
 ## 4. Das Verb im Zentrum: Konjugation, Modalverben & Trennbare Verben
+
+> [!NOTE]
+> **🇬🇧 English Bridge (Conjugation & The Modal Sentence Bracket):**  
+> • In English, you only conjugate the 3rd person singular with *-s* (*I walk, he walk-s*). German has distinct endings for each person: `-e, -st, -t, -en, -t, -en`.  
+> • **Modal Verb Bracket:** In English, auxiliary and main verbs sit together: *"I **can come** tomorrow"*. In German, the modal verb takes Position 2 and kicks the infinitive to the very sentence end: *"Ich **kann** morgen **kommen**"* (literally: *"I can tomorrow come"*).
 
 Das Verb bestimmt die gesamte Satzarchitektur im Deutschen!
 
@@ -305,6 +413,15 @@ Viele deutsche Verben haben Vorsilben (*auf-*, *ab-*, *an-*, *mit-*, *ein-*, *au
 
 ## 5. Präpositionen: Zeit, Ort & Akkusativ (DOGFU)
 
+> [!NOTE]
+> **🇬🇧 English Bridge (DOGFU Accusative Prepositions):**  
+> Every time you use one of these 5 prepositions, the noun after it **MUST** take the Accusative case:  
+> • **D**urch = *through* (Through the park ➔ *durch den Park*)  
+> • **O**hne = *without* (Without a ticket ➔ *ohne eine Fahrkarte*)  
+> • **G**egen = *against / around (time)* (Against the wall ➔ *gegen die Wand*)  
+> • **F**ür = *for* (For my father ➔ *für meinen Vater*)  
+> • **U**m = *around / at (clock time)* (At 8 o'clock ➔ *um 8 Uhr*)
+
 ### Präpositionen, die IMMER den Akkusativ fordern: Merk-Akronym DOGFU
 - **D**urch (through): *Wir gehen **durch den** Park (maskulin).*
 - **O**hne (without): *Ich trinke Kaffee **ohne Milch** (feminin) und **ohne Zucker** (maskulin).*
@@ -345,29 +462,181 @@ Viele deutsche Verben haben Vorsilben (*auf-*, *ab-*, *an-*, *mit-*, *ein-*, *au
 
 ## 6. Satzbau & Satzklammer (Die deutsche Wortstellung)
 
-Im Deutschen gibt es zwei unumstößliche Grundregeln für den Hauptsatz:
-
-### Regel 1: Das finite Verb steht IMMER auf Position 2!
-```
-Position 1          Position 2 (Verb)     Mittelfeld & Ergänzungen
-Ich                 lerne                 heute fleißig Deutsch.
-Heute               lerne                 ich fleißig Deutsch. (Inversion!)
-Deutsch             lerne                 ich heute sehr gerne.
-```
 > [!NOTE]
-> Steht ein Zeit- oder Ortsausdruck auf Position 1, wandert das Subjekt direkt hinter das Verb auf Position 3 (**Inversion**). Das Verb rückt niemals auf Position 3!
+> **🇬🇧 English Bridge (The V2 Rule & Inversion vs. English SVO):**  
+> • In English, you say: *"Today **I am** learning German"* (Time ➔ Subject ➔ Verb).  
+> • In German, the conjugated verb is **glued to Slot 2**. If you put Time or Place first, the Subject flips behind the verb: *"Heute **lerne ich** Deutsch"* (literally: *"Today learn I German"*).  
+> • This is called **Inversion**. If you remember only one German syntax rule, make it this one!
 
-### Regel 2: Die Satzklammer (Verbteil 2 schließt am Satzende)
 ```
-Position 1     Position 2 (Verb 1)       Mittelfeld                   Satzende (Verb 2)
-Ich            möchte                    heute eine neue Sprache      lernen.
-Er             steht                     jeden Tag um sieben Uhr      auf.
-Wir            haben                     gestern eine Pizza           gegessen.
+               🧲 DER VERB-MAGNET AUF POSITION 2 (DIE V2-SCHIENE)
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│ [Slot 1: Vorfeld] ───► [Slot 2: 🧲 MAGNET] ───► [Slot 3: Subjekt/Fracht]│
+│                                                                        │
+│   Normal:     Ich      lerne 🧲                heute fleißig Deutsch.  │
+│   Inversion:  Heute    lerne 🧲                ich fleißig Deutsch.    │
+│   Inversion:  Im Park  sehe 🧲                 ich einen Hund.         │
+│                                                                        │
+│ ⚠️ REGEL: Der Magnet bewegt sich NIE! Wenn etwas anderes vorfährt,    │
+│           rutscht das Subjekt reflexartig auf Position 3 dahinter!     │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!IMPORTANT]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #4: Inversions-Reflex**  
+> **👂 Reiz:** Satz beginnt mit Zeit oder Ort *(Morgen..., Heute..., In Berlin...)*  
+> **⚡ Reflex:** Das finite Verb MUSS als zweites Wort kommen, das Subjekt folgt sofort danach!  
+> *Falsch:* Morgen ich komme. ❌  
+> *Muskelreflex:* Morgen **komme ich**! ✅
+
+```
+               🏗️ DER SATZKLAMMER-KRAN (MODALVERBEN & TRENNBARE VERBEN)
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  [KRAN-KOPF: Pos 2] ═══════════ 📦 MITTELFELD ═══════════ [KRAN-HAKEN]  │
+│                                                                        │
+│   Ich KANN          heute Abend leider nicht zur Party    KOMMEN.      │
+│   Er MUSS           diese dringende E-Mail sofort         SCHREIBEN.   │
+│   Wir STEHEN        jeden Morgen pünktlich um 6 Uhr       AUF.         │
+│                                                                        │
+│ ⚠️ Die beiden Verbteile bilden eine feste Zange um die Satzfracht!    │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!TIP]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #5: Klammer-Reflex**  
+> **👂 Reiz:** Du sagst *kann, muss, will, möchte, darf, soll* auf Position 2  
+> **⚡ Reflex:** Wirf den Infinitiv des Hauptverbs wie einen Anker ganz an das Satzende!
+
+
+Der deutsche Satzbau wirkt auf Anfänger anfangs ungewohnt, folgt aber einer **strengen, logischen und verlässlichen Grammatik-Mathematik**. Sobald du diese drei goldenen Regeln verinnerlichst, kannst du jeden deutschen Satz mühelos und fehlerfrei bilden!
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│                              DAS DEUTSCHE SATZ-MODELL                                   │
+├───────────────┬─────────────────────────┬──────────────────────────┬────────────────────┤
+│  POSITION 1   │    POSITION 2 (HERZ)    │        MITTELFELD        │      SATZENDE      │
+│   (Vorfeld)   │      Finites Verb       │ Subjekt / Zeit / Objekt  │    Verbteil 2      │
+├───────────────┼─────────────────────────┼──────────────────────────┼────────────────────┤
+│ Ich           │ lerne                   │ heute fleißig Deutsch    │ —                  │
+│ Heute         │ lerne                   │ ich fleißig Deutsch      │ — (Inversion!)     │
+│ Wir           │ möchten                 │ am Wochenende Pizza      │ backen. (Modal)    │
+│ Er            │ steht                   │ jeden Morgen um 6:30 Uhr │ auf. (Trennbar)    │
+│ Sie           │ hat                     │ gestern einen Deutschkurs│ besucht. (Perfekt) │
+└───────────────┴─────────────────────────┴──────────────────────────┴────────────────────┘
 ```
 
 ---
 
+### Die 3 goldenen Satzbau-Regeln
+
+#### Regel 1: Das finite Verb ist der König und steht IMMER auf Position 2!
+In jedem deutschen Aussagesatz (Hauptsatz) steht das konjugierte (finite) Verb **unumstößlich an zweiter Stelle**.
+- *Ich **wohne** seit zwei Jahren in Hamburg.* (Subjekt auf Pos. 1 ➔ Verb auf Pos. 2)
+- *Meine Schwester **arbeitet** als Architektin.* (Zwei Wörter als Subjektgruppe zählen als **eine** Position 1!)
+
+#### Regel 2: Die Inversion (Umkehrung bei Zeit- oder Ortsangabe)
+Wenn du einen Satz mit einer Zeitangabe (*Heute*, *Morgen*, *Am Montag*) oder einer Ortsangabe (*In Berlin*, *Im Büro*) beginnst, bleibt das Verb brav auf Position 2. Das Subjekt muss dann direkt auf **Position 3** hinter das Verb wandern:
+```
+Normal (SVO):      [Ich]      [trinke]   [morgens immer einen Kaffee].
+                     Pos 1       Pos 2               Mittelfeld
+
+Inversion (ZVO):   [Morgens]  [trinke]   [ich]    [immer einen Kaffee].
+                     Pos 1       Pos 2    Pos 3 (Subjekt!)
+```
+> [!CAUTION]
+> **Typischer Anfängerfehler:** Sag niemals: *„Heute ich trinke Kaffee.“* ❌  
+> Sag immer: *„Heute **trinke ich** Kaffee.“* ✅ (Verb bleibt auf Position 2!)
+
+#### Regel 3: Die Satzklammer (Sentence Bracket)
+Wenn ein Satz **zwei Verben** enthält (z. B. mit Modalverben, trennbaren Verben oder im Perfekt), bilden diese eine Klammer um den Satz. Der zweite Verbteil wandert an das **allerletzte Ende** des Satzes:
+1. **Modalverb + Infinitiv**:
+   - *Ich **kann** morgen leider nicht zur Party **kommen**.*
+   - *Wir **möchten** heute Abend einen spannenden Film **sehen**.*
+2. **Trennbare Verben (Vorsilbe am Ende)**:
+   - *Der Zug **fährt** um 14:15 Uhr in München **ab**.*
+   - *Ich **rufe** dich heute Abend gegen 20 Uhr **an**.*
+3. **Perfekt (Hilfsverb + Partizip II)**:
+   - *Er **hat** gestern die ganze Nacht für die Prüfung **gelernt**.*
+   - *Sie **ist** mit dem Bus nach Hause **gefahren**.*
+
+---
+
+### Fragesätze meistern: W-Fragen vs. Ja/Nein-Fragen
+
+Im Deutschen gibt es genau zwei Arten von Fragen:
+
+| Fragetyp | Position 1 | Position 2 | Position 3 | Beispiel | Antwortmöglichkeiten |
+| :--- | :---: | :---: | :---: | :--- | :--- |
+| **W-Frage** (Offene Frage) | **W-Fragewort** (*Wer, Was, Wo, Woher, Wann, Warum, Wie*) | **Finites Verb** | **Subjekt** | *Woher **kommst** du?*<br>*Was **machst** du beruflich?* | Konkrete Information: *Ich komme aus Italien.* |
+| **Ja/Nein-Frage** (Entscheidungsfrage) | **Finites Verb** | **Subjekt** | **Mittelfeld** | ***Kommst** du heute zum Sport?*<br>***Hast** du einen Stift?* | *Ja, gerne!* / *Nein, leider nicht.* / *Doch!* |
+
+> [!TIP]
+> **W-Wörter Merkhilfe für Anfänger:**
+> - **Wer?** (Who?) ➔ *Wer ist der Mann dort?*
+> - **Was?** (What?) ➔ *Was lernst du gerade?*
+> - **Wo?** (Where?) ➔ *Wo wohnst du in Deutschland?*
+> - **Woher?** (Where from?) ➔ *Woher kommst du ursprünglich?*
+> - **Wohin?** (Where to?) ➔ *Wohin reist du am Wochenende?*
+> - **Wann?** (When?) ➔ *Wann fängt der Kurs an?*
+> - **Warum?** (Why?) ➔ *Warum lernst du Deutsch?*
+> - **Wie?** (How?) ➔ *Wie heißt du und wie geht es dir?*
+
+---
+
+### Die Reihenfolge im Mittelfeld: Die TeKaMoLo-Faustregel
+Wenn mehrere Angaben im Satz stehen, ordnest du sie nach der **TeKaMoLo**-Reihenfolge:
+1. **Te**mporal (Wann? Zeit): *heute, am Nachmittag, um 18 Uhr*
+2. **Ka**usal (Warum? Grund): *wegen des Regens, aus Freude*
+3. **Mo**dal (Wie? Art und Weise): *mit dem Fahrrad, schnell, gerne*
+4. **Lo**kal (Wo / Wohin? Ort / Richtung): *nach Hause, in die Sprachschule*
+
+**Beispielsatz:**
+*Ich fahre **heute** (Te: Wann?) **mit dem Bus** (Mo: Wie?) **zur Sprachschule** (Lo: Wohin?).*
+
+---
+
+### 5 Ausführliche Beispielsätze zum Satzbau (Aussagen & Inversion):
+
+1. **Ich lerne jeden Morgen zwei Stunden Deutsch, weil ich in Deutschland studieren möchte.**  
+   *(I learn German for two hours every morning because I want to study in Germany.)*  
+   ➔ Standardfolge: *Ich* (Pos 1) + *lerne* (Pos 2) + Mittelfeld + Nebensatz (*möchte* am Ende).
+2. **Am Wochenende frühstücken wir immer gemütlich auf dem sonnigen Balkon.**  
+   *(On the weekend, we always have a cozy breakfast on the sunny balcony.)*  
+   ➔ Inversion: *Am Wochenende* (Pos 1) + *frühstücken* (Pos 2) + *wir* (Pos 3).
+3. **Mein Bruder möchte heute Abend für die ganze Familie ein leckeres Abendessen kochen.**  
+   *(My brother would like to cook a delicious dinner for the entire family tonight.)*  
+   ➔ Satzklammer: *möchte* (Pos 2) ... *kochen* (Satzende).
+4. **Um 7:00 Uhr klingelt der Wecker und ich stehe sofort gut gelaunt auf.**  
+   *(At 7:00 am the alarm rings and I get up immediately in a good mood.)*  
+   ➔ Trennbares Verb: *stehe* (Pos 2) ... *auf* (Satzende).
+5. **In der Mittagspause treffen wir unsere Kollegen in der Firmenkantine.**  
+   *(During the lunch break, we meet our colleagues in the company cafeteria.)*  
+   ➔ Inversion: *In der Mittagspause* (Pos 1) + *treffen* (Pos 2) + *wir* (Pos 3).
+
+---
+
+### ❓ Wie frage ich danach? (Kommunikative Satzbau-Fragen):
+- **Wann stehst du unter der Woche morgens gewöhnlich auf?**  
+  *(When do you usually get up in the morning during the week?)*
+- **Fährst du jeden Tag mit der U-Bahn zur Arbeit oder nimmst du das Fahrrad?**  
+  *(Do you take the subway to work every day or do you take your bicycle?)*
+- **Was möchtest du am kommenden Wochenende in der Stadt unternehmen?**  
+  *(What would you like to do in the city this coming weekend?)*
+- **Trinkst du morgens zuerst einen Kaffee oder frühstückst du direkt?**  
+  *(Do you drink a coffee first in the morning or do you eat breakfast directly?)*
+- **Woher kennst du eigentlich unsere neue Nachbarin Frau Müller?**  
+  *(How do you actually know our new neighbor Ms. Müller from?)*
+
+---
+
 ## 7. Adjektive & Verneinung (nicht vs. kein)
+
+> [!NOTE]
+> **🇬🇧 English Bridge (nicht vs. kein):**  
+> • **`kein` = no / not a / not any / none**: Use ONLY to negate nouns that would have *ein* or no article (*Ich habe kein Auto* = "I have no car / I don't have a car").  
+> • **`nicht` = not**: Use for verbs, adjectives, proper nouns, and nouns with *der/die/das* (*Ich schlafe nicht* = "I am not sleeping"; *Das Buch ist nicht teuer* = "The book is not expensive").
 
 ### 1. Adjektive nach dem Verb (Prädikativ)
 Steht das Adjektiv hinter *sein*, *bleiben* oder *werden*, bekommt es **keine Endung**!

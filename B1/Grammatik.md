@@ -219,6 +219,51 @@ Im Passiv ist nicht wichtig, *wer* handelt, sondern *was geschieht*.
 
 ## 6. TeKaMoLo & Doppelkonnektoren
 
+```
+                    🚂 DER TEKAMOLO-EXPRESS (DAS MITTELFELD)
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  [LOKOMOTIVE] ──► [⏰ WANN?] ──► [❓ WARUM?] ──► [🎨 WIE?] ──► [📍 WO?] │
+│                   Temporal       Kausal         Modal        Lokal     │
+│                                                                        │
+│   Ich fahre       HEUTE          WEGEN DES      MIT DEM      NACH      │
+│                                  REGENS         BUS          MÜNCHEN.  │
+│                                                                        │
+│ ⚠️ 4 Waggons in unverrückbarer Reihenfolge: Te - Ka - Mo - Lo!         │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!IMPORTANT]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #B1-1: Der TeKaMoLo-Reflex**  
+> **👂 Reiz:** Du willst Zeit, Grund, Art und Weise und Ort in einem Satz sagen  
+> **⚡ Reflex:** Feuere in starrer Reihenfolge ab: Erst **Wann**, dann **Warum**, dann **Wie**, am Schluss **Wohin/Wo**!
+
+```
+                  🚦 DIE 2-SCHRITTE-ADJEKTIV-AMPEL
+┌────────────────────────────────────────────────────────────────────────┐
+│  FRAGE: Hat das Wort VOR dem Adjektiv bereits das Genus-Signal?        │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  🟢 JA (Bestimmter Artikel: der / die / das)                           │
+│     ➔ Das Signal ist vergeben. Adjektiv ist sparsam:                   │
+│        • Nominativ Singular: nur "-e" (der alt-e Mann)                 │
+│        • Alle anderen Fälle & Plural: immer "-en" (des alt-en Mannes)  │
+│                                                                        │
+│  🔴 NEIN (Unbestimmter Artikel: ein, oder Nullartikel)                 │
+│     ➔ Das Signal fehlt! Das Adjektiv MUSS das Signal selbst tragen:   │
+│        • Maskulin: "-er" (ein alt-er Mann 🦁)                          │
+│        • Neutrum:  "-es" (ein neu-es Buch 💎)                          │
+│        • Feminin:  "-e"  (eine schön-e Blume 🌸)                       │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> [!TIP]
+> **⚡ MUSKELGEDÄCHTNIS-REFLEX #B1-2: Adjektiv-Ampel**  
+> **👂 Reiz:** *ein* vor einem maskulinen Nomen im Nominativ *(ein ... Mann)*  
+> **⚡ Reflex:** *ein* hat kein Signal ➔ Adjektiv feuert reflexartig **`-er`** ab: *ein gut**er** Mann*!
+
+
 ### TeKaMoLo Reihenfolge im Satz:
 1. **Te**mporal: *Wann?* (am Montag)
 2. **Ka**usal: *Warum?* (wegen des Streiks)
