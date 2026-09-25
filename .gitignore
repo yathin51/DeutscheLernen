@@ -1,6 +1,22 @@
 # Local .terraform directories
 .terraform/
 
+# Local Scratch directories
+scratch/
+
+# Local Scripts directories
+scripts/
+
+# Local .env files
+.env
+
+# .env.example files
+.env.example
+
+# Python
+__pycache__/
+*.pyc
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
