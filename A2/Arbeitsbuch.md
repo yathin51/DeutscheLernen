@@ -640,7 +640,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-8"></a>
-## 📄 Seite 8: 2.3. Deklination des Adjektivs
+## 📄 Seite 8: 2.3. Deklination des Adjektivs — Typ 1: Bestimmter Artikel
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -776,7 +776,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-9"></a>
-## 📄 Seite 9: 2.3. Deklination des Adjektivs — Vertiefung & Übungen
+## 📄 Seite 9: 2.3. Deklination des Adjektivs — Typ 2 & Typ 3 (Gemischte & Starke Deklination)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -945,7 +945,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-10"></a>
-## 📄 Seite 10: 3.1. Nebensätze - dass-Sätze
+## 📄 Seite 10: 3.1. Nebensätze — dass-Sätze
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -1043,7 +1043,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-11"></a>
-## 📄 Seite 11: 3.2. Vergleichsformen - Steigerung
+## 📄 Seite 11: 3.2. Vergleichsformen — Steigerung / Komparativ
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -1163,7 +1163,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-12"></a>
-## 📄 Seite 12: 3.2. Vergleichsformen - Steigerung — Vertiefung & Übungen
+## 📄 Seite 12: 3.2. Vergleichsformen — Vertiefung: Superlativ & Vergleiche
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -1286,7 +1286,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-13"></a>
-## 📄 Seite 13: 3.3. Reflexive Verben
+## 📄 Seite 13: 3.3. Reflexive Verben — Reflexivpronomen im Akkusativ und Dativ
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -1830,7 +1830,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-18"></a>
-## 📄 Seite 18: 4.3. Nebensätze - konditional
+## 📄 Seite 18: 4.3. Nebensätze — konditional (wenn / falls / sonst)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -2054,7 +2054,7 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-20"></a>
-## 📄 Seite 20: 5.2. Präpositionen mit Dativ und Akkusativ
+## 📄 Seite 20: 5.2. Wechselpräpositionen (Dativ oder Akkusativ)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
@@ -2204,49 +2204,55 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 
 ### ✍️ Übung 4
 *Ergänzen Sie die Endungen.*
+*Wortkasten:* `em` • `en` • `er` • `ie` • `ir` • `m` • `s`
 
 - **a)** Was steht i_______ Brief?
 - **b)** Der Hund sitzt unter d_______ Tisch.
 - **c)** Sie trägt den Hund vor d_______ Tür.
-- **d)** Paul möchte morgen auf__ Land fahren.
+- **d)** Paul möchte morgen auf_______ Land fahren.
 - **e)** Setz dich bitte neben dein_______ Onkel!
 - **f)** Maria sitzt zwischen Peter und m_______.
 - **g)** Er will in ein_______ Monat nach Rom reisen.
 - **h)** Wir wollten morgen in d_______ Berge fahren.
 - **i)** Kannst du mir a_______ Wochenende helfen?
-- **j)** Ich lebe nicht in d_______ Stadt, sondern auf d_______ Dorf.
+- **j)** Ich lebe nicht in d_______ Stadt, sondern auf dem Dorf.
 
 ### ✍️ Übung 5
-> 💡 **Beispiel:** Sie geht an     die    Kasse. ( wohin? ) -  Sie steht an    der    Kasse. ( wo? )
+*Ergänzen Sie den bestimmten Artikel im Dativ (Wo?) oder Akkusativ (Wohin?).*
+*Wortkasten:* `dem` • `den` • `der` • `die` • `ihrer` • `im`
+
+> 💡 **Beispiel:** Sie geht an die Kasse. (Wohin?) — Sie steht an der Kasse. (Wo?)
 
 - **a)** Das Buch liegt auf _______ Schreibtisch.
 - **b)** Stell den Wagen bitte vor _______ Garage!
 - **c)** Meine Schwester lebt in _______ Schweiz.
 - **d)** Maria sitzt auf _______ Sofa.
 - **e)** Sandra geht schnell über _______ Straße.
-- **f)** Eva sitzt zwischen m_______ und ihr_______ Tante.
+- **f)** Eva sitzt zwischen mir und _______ Tante.
 - **g)** Steck den Brief in _______ Tasche!
 - **h)** Schreib die Adresse auf _______ Zettel!
-- **i)** Ich gehe i_______ / in _______ Park spazieren. (!)
-- **j)** Du läufst auf _______ / auf _______ Straße. (!)
+- **i)** Ich gehe _______ Park spazieren. (!)
+- **j)** Du läufst auf _______ Straße. (!)
 
 ### ✍️ Übung 6
-*Wählen Sie aus dem Wortkasten: Das, Auto, fährt, auf, der, Autobahn., wo?*
+*Bilden Sie Dialoge mit „schon“ und „erst“ sowie der passenden temporalen Präposition.*
+*Wortkasten:* `am Abend` • `am Dienstag` • `am Freitag` • `am Mittwoch` • `am Morgen` • `am Wochenende` • `im Juli` • `im Mai` • `im Sommer` • `im Winter` • `in der Nacht` • `in einem Monat`
 
-> 💡 **Beispiel:** Nachmittag - Berlin  Fährst du schon am Abend nach Berlin? - Nein, erst am Vormittag.
+> 💡 **Beispiel:** Nachmittag — Berlin  
+> *Fährst du schon am Abend nach Berlin? — Nein, erst am Vormittag.*
 
-- **a)** Mai — Spanien
-- **b)** Dienstag — Köln
-- **c)** ein Monat — Ungarn
-- **d)** Abend — Stuttgart
-- **e)** Wochenende — Frankfurt
-- **f)** Winter — Griechenland
-- **g)** Freitag — Dortmund
-- **h)** Nacht — Nürnberg
-- **i)** Sommer — Schweiz
-- **j)** *(Morgen)*  — Klaus
-- **k)** Juli — Meer
-- **l)** Mittwoch — Türkei
+- **a)** Mai — Spanien: *Fährst du schon im Juni nach Spanien? — Nein, erst _______.*
+- **b)** Dienstag — Köln: *Fährst du schon am Mittwoch nach Köln? — Nein, erst _______.*
+- **c)** ein Monat — Ungarn: *Reist du schon nächste Woche nach Ungarn? — Nein, erst _______.*
+- **d)** Abend — Stuttgart: *Fährst du schon am Nachmittag nach Stuttgart? — Nein, erst _______.*
+- **e)** Wochenende — Frankfurt: *Fährst du schon am Donnerstag nach Frankfurt? — Nein, erst _______.*
+- **f)** Winter — Griechenland: *Fährst du schon im Herbst nach Griechenland? — Nein, erst _______.*
+- **g)** Freitag — Dortmund: *Fährst du schon am Donnerstag nach Dortmund? — Nein, erst _______.*
+- **h)** Nacht — Nürnberg: *Fährst du schon am Abend nach Nürnberg? — Nein, erst _______.*
+- **i)** Sommer — Schweiz: *Fährst du schon im Frühling in die Schweiz? — Nein, erst _______.*
+- **j)** Morgen — Klaus: *Gehst du schon heute Abend zu Klaus? — Nein, erst _______.*
+- **k)** Juli — Meer: *Fährst du schon im Juni ans Meer? — Nein, erst _______.*
+- **l)** Mittwoch — Türkei: *Fliegst du schon am Montag in die Türkei? — Nein, erst _______.*
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 21)</strong></summary>
@@ -2254,42 +2260,42 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **5.2. Präpositionen mit Dativ und Akkusativ — Vertiefung & Übungen**:*
 
 #### Übung 4
-- **a)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (it)
-- **b)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **c)** `en` — Subjekt (3p) &rarr; Endung <code>-en</code> (den)
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (deint)
-- **f)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (mt)
-- **g)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (eint)
-- **h)** `en` — Subjekt (1p) &rarr; Endung <code>-en</code> (den)
-- **i)** `st` — Subjekt (2s) &rarr; Endung <code>-st</code> (ast)
-- **j)** `e` — Subjekt (1s) &rarr; Endung <code>-e</code> (de)
+- **a)** `m` — *der Brief (m) ➔ Wo? Dativ: im Brief (i + m = im)*
+- **b)** `em` — *der Tisch (m) ➔ Wo? Dativ: unter dem Tisch (d + em = dem)*
+- **c)** `ie` — *die Tür (f) ➔ Wohin? Akkusativ: vor die Tür (d + ie = die)*
+- **d)** `s` — *das Land (n) ➔ Wohin? Akkusativ: aufs Land (auf + s = aufs)*
+- **e)** `en` — *dein Onkel (m) ➔ Wohin? Akkusativ: neben deinen Onkel (dein + en = deinen)*
+- **f)** `ir` — *Personalpronomen ich ➔ Wo? Dativ: zwischen Peter und mir (m + ir = mir)*
+- **g)** `em` — *ein Monat (m) ➔ Wann? Dativ: in einem Monat (ein + em = einem)*
+- **h)** `ie` — *die Berge (Pl.) ➔ Wohin? Akkusativ: in die Berge (d + ie = die)*
+- **i)** `m` — *das Wochenende (n) ➔ Wann? Dativ: am Wochenende (a + m = am)*
+- **j)** `er` — *die Stadt (f) ➔ Wo? Dativ: in der Stadt (d + er = der)*
 
 #### Übung 5
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (mt)
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `e` — Subjekt (1s) &rarr; Endung <code>-e</code> (ie)
-- **j)** `—` — Grammatische Ergänzung
+- **a)** `dem` — *der Schreibtisch (m) ➔ Wo? Dativ: auf dem Schreibtisch*
+- **b)** `die` — *die Garage (f) ➔ Wohin? Akkusativ: vor die Garage*
+- **c)** `der` — *die Schweiz (f) ➔ Wo? Dativ: in der Schweiz*
+- **d)** `dem` — *das Sofa (n) ➔ Wo? Dativ: auf dem Sofa*
+- **e)** `die` — *die Straße (f) ➔ Wohin? Akkusativ: über die Straße*
+- **f)** `ihrer` — *ihre Tante (f) ➔ Wo? Dativ: zwischen mir und ihrer Tante*
+- **g)** `die` — *die Tasche (f) ➔ Wohin? Akkusativ: in die Tasche*
+- **h)** `den` — *der Zettel (m) ➔ Wohin? Akkusativ: auf den Zettel*
+- **i)** `im` — *der Park (m) ➔ Wo? Dativ: im Park spazieren (innerhalb des Parks)*
+- **j)** `der` — *die Straße (f) ➔ Wo? Dativ: auf der Straße laufen*
 
 #### Übung 6
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `Morgen` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `im Mai` — *Monat ➔ im Mai (nach Spanien)*
+- **b)** `am Dienstag` — *Wochentag ➔ am Dienstag (nach Köln)*
+- **c)** `in einem Monat` — *Zeitspanne ➔ in einem Monat (nach Ungarn)*
+- **d)** `am Abend` — *Tageszeit ➔ am Abend (nach Stuttgart)*
+- **e)** `am Wochenende` — *Wochenende ➔ am Wochenende (nach Frankfurt)*
+- **f)** `im Winter` — *Jahreszeit ➔ im Winter (nach Griechenland)*
+- **g)** `am Freitag` — *Wochentag ➔ am Freitag (nach Dortmund)*
+- **h)** `in der Nacht` — *Nacht (feminin) ➔ in der Nacht (nach Nürnberg)*
+- **i)** `im Sommer` — *Jahreszeit ➔ im Sommer (in die Schweiz)*
+- **j)** `am Morgen` — *Tageszeit ➔ am Morgen (zu Klaus)*
+- **k)** `im Juli` — *Monat ➔ im Juli (ans Meer)*
+- **l)** `am Mittwoch` — *Wochentag ➔ am Mittwoch (in die Türkei)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 21)**](#workbooks:A2:21) mit automatischer Korrektur und Sofort-Feedback.
@@ -2299,94 +2305,122 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-22"></a>
-## 📄 Seite 22: 5.3. Ähnliche Verben
+## 📄 Seite 22: 5.3. Ähnliche Verben / Positions- & Richtungsverben
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 5.3. Ähnliche Verben
-> • Aktion  -  Position
-> • Aktionsverb: wohin? (+ Akk.) Positionsverb: wo? (+ Dat.)
-> • setzen (sich)
-> • Ich setze den Hund in den Korb.
-> • Ich setze mich auf meinen Platz.
-> • stellen (sich)
-> • Ich stelle die Flasche auf den Tisch.
-> • Ich stelle mich in die Reihe.
-> • legen (sich)
-> • Ich lege den Wein in den Kühlschrank.
-> • Ich lege mich auf das Sofa.
-> • hängen
-> • Ich hänge den Mantel in die Garderobe.
-> • stecken
-> • Ich stecke den Brief ins Kuvert.
-> • sitzen
-> • Der Hund sitzt im Korb.
-> • stehen
-> • Die Flasche steht auf dem Tisch.
-> • liegen
-> • Der Wein liegt im Kühlschrank.
-> • hängen
-> • Der Mantel hängt in der Garderobe.
-> • stecken
-> • Der Brief steckt im Kuvert.
-> • Übung
-> • Beispiel:  legen ←➔ liegen ➔ Max - in - Krankenhaus   Max liegt im Krankenhaus.
-> • stellen
-> • stehen
-> • a) Ich - Glas - auf - Tisch
-> • b) Glas - neben - Flasche
-> • c) Du - Auto - vor - Garage
-> • d) Paul - vor - Tür
-> • e) Viele Leute - an - Kinokasse
-> • f) Maria - Roller - vor - Haus
-> • g) Wir - an - Bushaltestelle
-> • h) Er - zwischen - seine Eltern
-> • legen
-> • liegen
-> • a) Brief - auf - Schreibtisch
-> • b) Julia - auf - Sofa
-> • c) Maria - Buch - in - Regal
-> • d) Er - Pass - neben - Ticket
-> • e) Sie - Hut - in - Schrank
-> • g) Ich - in - Bett
-> • h) Du - Mappe - auf - Tisch
-> • setzen
-> • sitzen
-> • a) Ich - an - Fenster
-> • b) Julia - Kind - auf - Bett
-> • c) Du - Katze - auf - Sofa
-> • d) Wir - in - Bus
-> • e) Paul - sein Sohn - in - Auto
-> • f) Ich - zwischen - Onkel - Tante
-> • g) Eva - Brille - auf - Nase
-> • h) Du - vor - Fernseher
-> • hängen
-> • a) Apfel - an - Baum
-> • b) Ich - Uhr - an - Wand
-> • c) Maria - Poster - an - Tür
-> • d) Handtuch - neben - Badewanne
-> • e) Paul - Hose - in - Schrank
-> • f) Hut - in - Garderobe
-> • g) Er - Jacke - über - Stuhl
-> • h) Lampe - über - Tisch
-> • stecken
-> • a) Schlüssel - in - Schloss
-> • b) Er - Geld - in - Tasche
-> • c) Füße - in - Schuhe
-> • d) Bleistift - in  - Jackentasche
-> • e) Ich - Foto - zwischen - Briefe
-> • f) Wir - Brief - in - Postkasten
-> • g) Maria - Nadel - an - Jacke
-> • h) Zettel - hinter - Spiegel
+> • **Aktion vs. Position:**
+> • **Aktionsverb:** wohin? (+ Akkusativ) — schwaches Verb: *stellen, legen, setzen, hängen, stecken*
+> • **Positionsverb:** wo? (+ Dativ) — starkes/unregelmäßiges Verb: *stehen, liegen, sitzen, hängen, stecken*
+> • *stellen / stehen:* Ich stelle die Flasche auf den Tisch. / Die Flasche steht auf dem Tisch.
+> • *legen / liegen:* Ich lege den Wein in den Kühlschrank. / Der Wein liegt im Kühlschrank.
+> • *setzen / sitzen:* Ich setze den Hund in den Korb. / Der Hund sitzt im Korb.
+> • *hängen / hängen:* Ich hänge den Mantel in die Garderobe. / Der Mantel hängt in der Garderobe.
+> • *stecken / stecken:* Ich stecke den Brief ins Kuvert. / Der Brief steckt im Kuvert.
 
+### ✍️ Übung 1: stellen vs. stehen (Wohin? + Akk. vs. Wo? + Dat.)
+*Ergänzen Sie die passende Form von „stellen“ (Aktion) oder „stehen“ (Position).*
+*Wortkasten:* `stehe` • `stehen` • `steht` • `stelle` • `stellen` • `stellst` • `stellt`
+
+> 💡 **Beispiel:** Max — in — Krankenhaus ➔ Max liegt im Krankenhaus.
+
+- **a)** Ich — Glas — auf — Tisch: *Ich _______ das Glas auf den Tisch.*
+- **b)** Glas — neben — Flasche: *Das Glas _______ neben der Flasche.*
+- **c)** Du — Auto — vor — Garage: *Du _______ das Auto vor die Garage.*
+- **d)** Paul — vor — Tür: *Paul _______ vor der Tür.*
+- **e)** Viele Leute — an — Kinokasse: *Viele Leute _______ an der Kinokasse.*
+- **f)** Maria — Roller — vor — Haus: *Maria _______ den Roller vor das Haus.*
+- **g)** Wir — an — Bushaltestelle: *Wir _______ an der Bushaltestelle.*
+- **h)** Er — zwischen — seine Eltern: *Er _______ zwischen seinen Eltern.*
+
+### ✍️ Übung 2: legen vs. liegen (Wohin? + Akk. vs. Wo? + Dat.)
+*Ergänzen Sie die passende Form von „legen“ (Aktion) oder „liegen“ (Position).*
+*Wortkasten:* `lege` • `legen` • `legst` • `legt` • `liege` • `liegen` • `liegt`
+
+- **a)** Brief — auf — Schreibtisch: *Der Brief _______ auf dem Schreibtisch.*
+- **b)** Julia — auf — Sofa: *Julia _______ auf dem Sofa.*
+- **c)** Maria — Buch — in — Regal: *Maria _______ das Buch ins Regal.*
+- **d)** Er — Pass — neben — Ticket: *Er _______ den Pass neben das Ticket.*
+- **e)** Sie — Hut — in — Schrank: *Sie _______ den Hut in den Schrank.*
+- **f)** Ich — in — Bett: *Ich _______ noch im Bett.*
+- **g)** Du — Mappe — auf — Tisch: *Du _______ die Mappe auf den Tisch.*
+- **h)** Zeitungen — auf — Boden: *Die Zeitungen _______ auf dem Boden.*
+
+### ✍️ Übung 3: setzen (sich) vs. sitzen (Wohin? + Akk. vs. Wo? + Dat.)
+*Ergänzen Sie die passende Form von „setzen“ (Aktion) oder „sitzen“ (Position).*
+*Wortkasten:* `setze` • `setzen` • `setzt` • `sitze` • `sitzen` • `sitzt`
+
+- **a)** Ich — an — Fenster: *Ich _______ gern am Fenster.*
+- **b)** Julia — Kind — auf — Bett: *Julia _______ das Kind auf das Bett.*
+- **c)** Du — Katze — auf — Sofa: *Du _______ die Katze auf das Sofa.*
+- **d)** Wir — in — Bus: *Wir _______ zusammen im Bus.*
+- **e)** Paul — sein Sohn — in — Auto: *Paul _______ seinen Sohn ins Auto.*
+- **f)** Ich — zwischen — Onkel — Tante: *Ich _______ zwischen Onkel und Tante.*
+- **g)** Eva — Brille — auf — Nase: *Eva _______ die Brille auf die Nase.*
+- **h)** Du — vor — Fernseher: *Du _______ den ganzen Tag vor dem Fernseher.*
+
+### ✍️ Übung 4: hängen & stecken (Aktionsverb vs. Positionsverb)
+*Ergänzen Sie die passende Form von „hängen“ oder „stecken“ im Präsens.*
+*Wortkasten:* `hänge` • `hängen` • `hängt` • `stecke` • `stecken` • `steckt`
+
+- **a)** Apfel — an — Baum (hängen): *Der Apfel _______ noch am Baum.*
+- **b)** Ich — Uhr — an — Wand (hängen): *Ich _______ die neue Uhr an die Wand.*
+- **c)** Maria — Poster — an — Tür (hängen): *Maria _______ das Poster an die Tür.*
+- **d)** Handtuch — neben — Badewanne (hängen): *Das Handtuch _______ neben der Badewanne.*
+- **e)** Paul — Hose — in — Schrank (hängen): *Paul _______ seine Hose in den Schrank.*
+- **f)** Schlüssel — in — Schloss (stecken): *Der Schlüssel _______ im Schloss.*
+- **g)** Er — Geld — in — Tasche (stecken): *Er _______ das Geld in die Tasche.*
+- **h)** Füße — in — Schuhe (stecken): *Die Füße _______ in warmen Schuhen.*
+- **i)** Ich — Foto — zwischen — Briefe (stecken): *Ich _______ das Foto zwischen die Briefe.*
+- **j)** Zettel — hinter — Spiegel (stecken): *Der Zettel _______ hinter dem Spiegel.*
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 22)</strong></summary>
 
-> *Didaktische Lösungen für **5.3. Ähnliche Verben**:*
+> *Didaktische Lösungen für **5.3. Ähnliche Verben / Positions- & Richtungsverben**:*
 
-*(Auf dieser Seite befinden sich Einführungstexte, Inhaltsverzeichnisse oder freie Textübungen.)*
+#### Übung 1: stellen vs. stehen
+- **a)** `stelle` — *Aktion (Wohin? + Akk.) ➔ ich stelle das Glas auf den Tisch*
+- **b)** `steht` — *Position (Wo? + Dat.) ➔ das Glas steht neben der Flasche*
+- **c)** `stellst` — *Aktion (Wohin? + Akk.) ➔ du stellst das Auto vor die Garage*
+- **d)** `steht` — *Position (Wo? + Dat.) ➔ Paul steht vor der Tür*
+- **e)** `stehen` — *Position (Wo? + Dat., Plural) ➔ viele Leute stehen an der Kinokasse*
+- **f)** `stellt` — *Aktion (Wohin? + Akk.) ➔ Maria stellt den Roller vor das Haus*
+- **g)** `stehen` — *Position (Wo? + Dat., 1. Plural) ➔ wir stehen an der Bushaltestelle*
+- **h)** `steht` — *Position (Wo? + Dat.) ➔ er steht zwischen seinen Eltern*
+
+#### Übung 2: legen vs. liegen
+- **a)** `liegt` — *Position (Wo? + Dat.) ➔ der Brief liegt auf dem Schreibtisch*
+- **b)** `liegt` — *Position (Wo? + Dat.) ➔ Julia liegt auf dem Sofa*
+- **c)** `legt` — *Aktion (Wohin? + Akk.) ➔ Maria legt das Buch ins Regal*
+- **d)** `legt` — *Aktion (Wohin? + Akk.) ➔ er legt den Pass neben das Ticket*
+- **e)** `legt` — *Aktion (Wohin? + Akk.) ➔ sie legt den Hut in den Schrank*
+- **f)** `liege` — *Position (Wo? + Dat.) ➔ ich liege im Bett*
+- **g)** `legst` — *Aktion (Wohin? + Akk.) ➔ du legst die Mappe auf den Tisch*
+- **h)** `liegen` — *Position (Wo? + Dat., Plural) ➔ die Zeitungen liegen auf dem Boden*
+
+#### Übung 3: setzen (sich) vs. sitzen
+- **a)** `sitze` — *Position (Wo? + Dat.) ➔ ich sitze am Fenster*
+- **b)** `setzt` — *Aktion (Wohin? + Akk.) ➔ Julia setzt das Kind auf das Bett*
+- **c)** `setzt` — *Aktion (Wohin? + Akk.) ➔ du setzt die Katze auf das Sofa*
+- **d)** `sitzen` — *Position (Wo? + Dat., Plural) ➔ wir sitzen im Bus*
+- **e)** `setzt` — *Aktion (Wohin? + Akk.) ➔ Paul setzt seinen Sohn ins Auto*
+- **f)** `sitze` — *Position (Wo? + Dat.) ➔ ich sitze zwischen Onkel und Tante*
+- **g)** `setzt` — *Aktion (Wohin? + Akk.) ➔ Eva setzt die Brille auf die Nase*
+- **h)** `sitzt` — *Position (Wo? + Dat.) ➔ du sitzt vor dem Fernseher*
+
+#### Übung 4: hängen & stecken
+- **a)** `hängt` — *Position (Wo? + Dat.) ➔ der Apfel hängt am Baum*
+- **b)** `hänge` — *Aktion (Wohin? + Akk.) ➔ ich hänge die Uhr an die Wand*
+- **c)** `hängt` — *Aktion (Wohin? + Akk.) ➔ Maria hängt das Poster an die Tür*
+- **d)** `hängt` — *Position (Wo? + Dat.) ➔ das Handtuch hängt neben der Badewanne*
+- **e)** `hängt` — *Aktion (Wohin? + Akk.) ➔ Paul hängt die Hose in den Schrank*
+- **f)** `steckt` — *Position (Wo? + Dat.) ➔ der Schlüssel steckt im Schloss*
+- **g)** `steckt` — *Aktion (Wohin? + Akk.) ➔ er steckt das Geld in die Tasche*
+- **h)** `stecken` — *Position (Wo? + Dat., Plural) ➔ die Füße stecken in warmen Schuhen*
+- **i)** `stecke` — *Aktion (Wohin? + Akk.) ➔ ich stecke das Foto zwischen die Briefe*
+- **j)** `steckt` — *Position (Wo? + Dat.) ➔ der Zettel steckt hinter dem Spiegel*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 22)**](#workbooks:A2:22) mit automatischer Korrektur und Sofort-Feedback.
@@ -2396,119 +2430,99 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-23"></a>
-## 📄 Seite 23: 6.1. Präteritum (Imperfekt)
+## 📄 Seite 23: 6.1. Präteritum (Imperfekt) — Regelmäßige & trennbare Verben
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Lektion 6
-> • 6.1. Präteritum (Imperfekt)
-> • Präteritum - schwache Verben (regelmäßig)
-> • Infinitiv
-> • Präteritum
-> • ich kauf-t-e
-> • du kauf-t-est
-> • er / sie / es kauf-t-e
-> • wir kauf-t-en
-> • ihr kauf-t-et
-> • sie / Sie kauf-t-en
-> • ich arbeit-et-e
-> • du arbeit-et-est
-> • er / sie / es arbeit-et-e
-> • wir arbeit-et-en
-> • ihr arbeit-et-et
-> • sie / Sie arbeit-et-en
-> • Verben mit Stamm auf -t, -d, chn, ffn, gn ➔ Präteritum mit et
-> • ich antwortete, wir redeten, er rechnete, ich öffnete, es regnete
-> • Achtung: Immer schwach sind Verben auf  -eln, -ern, -igen, -ieren.
-> • ich sammelte, ich änderte, ich besichtigte, ich telefonierte
+> • **6.1. Präteritum (Imperfekt) — Regelmäßige schwache Verben:**
+>   - Stamm + Endung: *ich -te, du -test, er/sie/es -te, wir -ten, ihr -tet, sie/Sie -ten*.
+>   - Phonetic `-et-`: Dentalstämme auf *-t, -d* oder Konsonantenhäufung (*-chn, -ffn, -gn*) erhalten ein Bindungs-e: *antworten ➔ antwortete, mieten ➔ mietete, öffnen ➔ öffnete*.
+>   - Verben auf *-eln, -ern, -igen, -ieren* sind ausnahmslos schwach: *ändern ➔ änderte, reparieren ➔ reparierte, besichtigen ➔ besichtigte*.
+> • **Trennbare Verben im Präteritum (Satzklammer):**
+>   - Konjugierter Präteritumstamm an Position 2, trennbares Präfix wandert an das Satzende!
+>   - Beispiel: *aufräumen ➔ Du räumtest gestern den Keller auf.*
 
+### ✍️ Übung 1: Regelmäßige Verben im Präteritum
+*Antworten Sie im Präteritum mit „gestern“. Achten Sie auf die richtige Personalform und das Pronomen (z. B. du ➔ ich, ihr ➔ wir).*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • kauf-en
-> • kauf-t-e
-> • arbeit-en
-> • arbeit-et-e
+> 💡 **Beispiel:** Wann kauft Max den Wagen? ➔ *Er **kaufte** ihn gestern.*
 
+- **a)** Wann fragt Theo die Lehrerin? ➔ Theo [___] sie gestern. *(fragte)*
+- **b)** Wann holst du die Tickets? ➔ Ich [___] sie gestern. *(holte)*
+- **c)** Wann kündigt Yasmin den Vertrag? ➔ Yasmin [___] ihn gestern. *(kündigte)*
+- **d)** Wann repariert Murat das Fahrrad? ➔ Murat [___] es gestern. *(reparierte)*
+- **e)** Wann liefert man die Maschinen? ➔ Man [___] sie gestern. *(lieferte)*
+- **f)** Wann putzt du die Fenster? ➔ Ich [___] sie gestern. *(putzte)*
+- **g)** Wann ändert Julia den PIN-Code? ➔ Julia [___] ihn gestern. *(änderte)*
+- **h)** Wann reservierst du den Tisch? ➔ Ich [___] ihn gestern. *(reservierte)*
+- **i)** Wann lernt ihr die starken Verben? ➔ Wir [___] sie gestern. *(lernten)*
+- **j)** Wann besuchst du Paul? ➔ Ich [___] ihn gestern. *(besuchte)*
+- **k)** Wann bucht ihr die Reise? ➔ Wir [___] sie gestern. *(buchten)*
+- **l)** Wann wechselt Lena das Geld? ➔ Lena [___] es gestern. *(wechselte)*
+- **m)** Wann besichtigt ihr die Burg? ➔ Wir [___] sie gestern. *(besichtigten)*
+- **n)** Wann mietest du das Auto? ➔ Ich [___] es gestern. *(mietete)*
+- **o)** Wann gratulierst du deinem Großvater? ➔ Ich [___] ihm gestern. *(gratulierte)*
+- **p)** Wann antwortet ihr der Kollegin? ➔ Wir [___] ihr gestern. *(antworteten)*
+- **q)** Wann entschuldigst du dich? ➔ Ich [___] mich gestern. *(entschuldigte)*
+- **r)** Wann informiert ihr euch? ➔ Wir [___] uns gestern. *(informierten)*
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Wann kauft Max den Wagen? -  Er kauf  t  e ihn gestern.
+### ✍️ Übung 2: Trennbare Verben im Präteritum
+*Bilden Sie einen vollständigen Hauptsatz im Präteritum. Setzen Sie den Präteritumstamm an Position 2 und das trennbare Präfix an das Satzende.*
 
-- **a)** Wann fragt Theo die Lehrerin?
-- **b)** Wann holst du die Tickets?
-- **c)** Wann kündigt Yasmin den Vertrag?
-- **d)** Wann repariert Murat das Fahrrad?
-- **e)** Wann liefert man die Maschinen?
-- **f)** Wann putzt du die Fenster?
-- **g)** Wann ändert Julia den PIN — Code?
-- **h)** Wann reservierst du den Tisch?
-- **i)** Wann lernt ihr die starken Verben?
-- **j)** Wann besuchst du Paul?
-- **k)** Wann bucht ihr die Reise?
-- **l)** Wann wechselt Lena das Geld?
-- **m)** Wann besichtigt ihr die Burg?
-- **n)** Wann mietest du das Auto?
-- **o)** Wann gratulierst du deinem Großvater?
-- **p)** Wann antwortet ihr der Kollegin?
-- **q)** Wann entschuldigst du dich?
-- **r)** Wann informiert ihr euch?
+> 💡 **Beispiel:** ich — im Supermarkt — einkaufen ➔ *Ich **kaufte** im Supermarkt **ein**.*
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** ich - im Supermarkt -  einkaufen    Ich kauf  t  e im Supermarkt ein.
-
-- **a)** du — den Keller — aufräumen
-- **b)** ich — die Pakete — abholen
-- **c)** Max — die Tür — zumachen
-- **d)** du — das Angebot — ablehnen
-- **e)** ihr — den Kredit — zurückzahlen
-- **f)** wir — das Formular — ausfüllen
-- **g)** ihr — das Gerät — ausschalten
-- **h)** wir — alle Fenster — zumachen
-- **i)** ich — die richtige Antwort — ankreuzen
-- **j)** Jana — den Koffer — auspacken
-- **k)** du — eine Kerze — anzünden
-- **l)** Paul — den Termin — absagen
+- **a)** du — den Keller — aufräumen ➔ Du [___] gestern den Keller auf. *(räumtest)*
+- **b)** ich — die Pakete — abholen ➔ Ich [___] gestern die Pakete ab. *(holte)*
+- **c)** Max — die Tür — zumachen ➔ Max [___] leise die Tür zu. *(machte)*
+- **d)** du — das Angebot — ablehnen ➔ Du [___] das Angebot höflich ab. *(lehntest)*
+- **e)** ihr — den Kredit — zurückzahlen ➔ Ihr [___] den Kredit pünktlich zurück. *(zahltet)*
+- **f)** wir — das Formular — ausfüllen ➔ Wir [___] das Formular sorgfältig aus. *(füllten)*
+- **g)** ihr — das Gerät — ausschalten ➔ Ihr [___] das Gerät rechtzeitig aus. *(schaltetet)*
+- **h)** wir — alle Fenster — zumachen ➔ Wir [___] am Abend alle Fenster zu. *(machten)*
+- **i)** ich — die richtige Antwort — ankreuzen ➔ Ich [___] die richtige Antwort an. *(kreuzte)*
+- **j)** Jana — den Koffer — auspacken ➔ Jana [___] nach der Reise den Koffer aus. *(packte)*
+- **k)** du — eine Kerze — anzünden ➔ Du [___] am Abend eine Kerze an. *(zündetest)*
+- **l)** Paul — den Termin — absagen ➔ Paul [___] den wichtigen Termin ab. *(sagte)*
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 23)</strong></summary>
 
-> *Didaktische Lösungen für **6.1. Präteritum (Imperfekt)**:*
+> *Didaktische Lösungen für **6.1. Präteritum (Imperfekt) — Regelmäßige & trennbare Verben**:*
 
-#### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `—` — Grammatische Ergänzung
-- **q)** `—` — Grammatische Ergänzung
-- **r)** `—` — Grammatische Ergänzung
+#### Übung 1: Regelmäßige Verben
+- **a)** `fragte` — *er fragte*
+- **b)** `holte` — *ich holte*
+- **c)** `kündigte` — *sie kündigte*
+- **d)** `reparierte` — *er reparierte*
+- **e)** `lieferte` — *man lieferte*
+- **f)** `putzte` — *ich putzte*
+- **g)** `änderte` — *sie änderte*
+- **h)** `reservierte` — *ich reservierte*
+- **i)** `lernten` — *wir lernten*
+- **j)** `besuchte` — *ich besuchte*
+- **k)** `buchten` — *wir buchten*
+- **l)** `wechselte` — *sie wechselte*
+- **m)** `besichtigten` — *wir besichtigten*
+- **n)** `mietete` — *Dentalstamm: ich mietete*
+- **o)** `gratulierte` — *ich gratulierte*
+- **p)** `antworteten` — *Dentalstamm: wir antworteten*
+- **q)** `entschuldigte` — *ich entschuldigte mich*
+- **r)** `informierten` — *wir informierten uns*
 
-#### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+#### Übung 2: Trennbare Verben
+- **a)** `räumtest` — *du räumtest (... auf)*
+- **b)** `holte` — *ich holte (... ab)*
+- **c)** `machte` — *Max machte (... zu)*
+- **d)** `lehntest` — *du lehntest (... ab)*
+- **e)** `zahltet` — *ihr zahltet (... zurück)*
+- **f)** `füllten` — *wir füllten (... aus)*
+- **g)** `schaltetet` — *Dentalstamm: ihr schaltetet (... aus)*
+- **h)** `machten` — *wir machten (... zu)*
+- **i)** `kreuzte` — *ich kreuzte (... an)*
+- **j)** `packte` — *Jana packte (... aus)*
+- **k)** `zündetest` — *Dentalstamm: du zündetest (... an)*
+- **l)** `sagte` — *Paul sagte (... ab)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 23)**](#workbooks:A2:23) mit automatischer Korrektur und Sofort-Feedback.

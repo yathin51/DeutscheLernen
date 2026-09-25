@@ -1,3 +1,5 @@
+// Auto-generated comprehensive answer key catalog for DeutscheLernen Workbooks
+// Enables O(1) instantaneous answer verification without dynamic regex load
 window.WORKBOOKS_KEYS = {
   "A1": {
     "3": {
@@ -6943,1166 +6945,1166 @@ window.WORKBOOKS_KEYS = {
       ]
     },
     "18": {
-      "lessonTitle": "4.2. Nomen und Artikel — Akkusativ",
-      "grammarSummary": "### 📌 4.2. Nomen und Artikel — Der Akkusativ (Direct Object)\n\n#### 1. Das Akkusativobjekt (Wen oder was?)\nIm deutschen Satz steht das direkte Ziel einer Handlung im **Akkusativ**. Man fragt mit **Wen?** (Personen) oder **Was?** (Sachen).\n- *Der Mann* [Subjekt = Nominativ: Wer?] kauft *den Koffer* [Akkusativobjekt: Was?].\n\n---\n\n#### 2. Die goldene Regel: Nur das Maskulinum verändert sich!\nIm Akkusativ wechselt **ausschließlich der maskuline Artikel** die Endung auf **-en**:\n\n| Genus / Numerus | Nominativ (Subjekt) | Akkusativ (Objekt) | Unbestimmt (Akk.) | Verneinung (Akk.) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Maskulin** | **der** Mann | **den** Mann | **einen** Mann | **keinen** Mann |\n| **Feminin** | **die** Frau | **die** Frau | **eine** Frau | **keine** Frau |\n| **Neutral** | **das** Kind | **das** Kind | **ein** Kind | **kein** Kind |\n| **Plural** | **die** Freunde | **die** Freunde | *(kein Plural-u)* | **keine** Freunde |\n\n> ⚠️ **Goldene Regel:** Feminin (*die/eine*), Neutral (*das/ein*) und Plural (*die/keine*) bleiben im Akkusativ **exakt gleich** wie im Nominativ! Nur maskulin wird zu **den / einen / keinen**.\n\n---\n\n#### 3. Wichtige Verben mit Akkusativergänzung (Transitive Verben)\nDiese Verben verlangen fast immer ein Akkusativobjekt:\n- *haben, brauchen, kaufen, suchen, finden, sehen, hören, lesen, schreiben, essen, trinken, bestellen, bezahlen, kennen, verstehen, treffen, anrufen, einladen, packen, schließen*.\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> In modern English, nouns don't change form for direct objects (*The teacher sees the student* vs. *The student sees the teacher*). However, English strictly preserves this distinction in **personal pronouns**:\n> - *he* ➔ **him** (*I know him*, never *I know he*)\n> - *they* ➔ **them**\n> - *who* ➔ **whom**\n> In German, masculine nouns behave like *he ➔ him*: **der ➔ den**, **ein ➔ einen**, **kein ➔ keinen**. Feminine, neuter, and plural nouns do not change at all.",
-      "exercises": [
-        {
-          "id": "a1_p18_ex1",
-          "title": "Übung 1: Bestimmter Artikel im Akkusativ",
-          "instruction": "Ergänzen Sie den bestimmten Artikel im Akkusativ (den, die, das). Nur das Maskulinum verändert sich!",
-          "wordBox": [
-            "den",
-            "die",
-            "das"
-          ],
-          "answers": {
-            "a1_p18_ex1_a": "den",
-            "a1_p18_ex1_b": "das",
-            "a1_p18_ex1_c": "die",
-            "a1_p18_ex1_d": "die",
-            "a1_p18_ex1_e": "das",
-            "a1_p18_ex1_f": "die",
-            "a1_p18_ex1_g": "den",
-            "a1_p18_ex1_h": "die",
-            "a1_p18_ex1_i": "das",
-            "a1_p18_ex1_j": "den",
-            "a1_p18_ex1_k": "die",
-            "a1_p18_ex1_l": "das"
-          },
-          "items": [
-            {
-              "id": "a1_p18_ex1_a",
-              "label": "a)",
-              "lead": "Ich packe ",
-              "tail": " Koffer.",
-              "answer": "den",
-              "explanation": "der Koffer (maskulin) ➔ Akkusativ: den",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_b",
-              "label": "b)",
-              "lead": "Wir schließen ",
-              "tail": " Fenster.",
-              "answer": "das",
-              "explanation": "das Fenster (neutral) ➔ Akkusativ: das",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_c",
-              "label": "c)",
-              "lead": "Ich treffe ",
-              "tail": " Freunde.",
-              "answer": "die",
-              "explanation": "die Freunde (Plural) ➔ Akkusativ: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_d",
-              "label": "d)",
-              "lead": "Sie bezahlt ",
-              "tail": " Miete.",
-              "answer": "die",
-              "explanation": "die Miete (feminin) ➔ Akkusativ: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_e",
-              "label": "e)",
-              "lead": "Er versteht ",
-              "tail": " Problem nicht.",
-              "answer": "das",
-              "explanation": "das Problem (neutral) ➔ Akkusativ: das",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_f",
-              "label": "f)",
-              "lead": "Wir kennen ",
-              "tail": " Leute gut.",
-              "answer": "die",
-              "explanation": "die Leute (Plural) ➔ Akkusativ: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_g",
-              "label": "g)",
-              "lead": "Er schreibt ",
-              "tail": " Termin auf.",
-              "answer": "den",
-              "explanation": "der Termin (maskulin) ➔ Akkusativ: den",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_h",
-              "label": "h)",
-              "lead": "Du ziehst ",
-              "tail": " Schuhe an.",
-              "answer": "die",
-              "explanation": "die Schuhe (Plural) ➔ Akkusativ: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_i",
-              "label": "i)",
-              "lead": "Sie füllt ",
-              "tail": " Formular aus.",
-              "answer": "das",
-              "explanation": "das Formular (neutral) ➔ Akkusativ: das",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_j",
-              "label": "j)",
-              "lead": "Er liest ",
-              "tail": " Text vor.",
-              "answer": "den",
-              "explanation": "der Text (maskulin) ➔ Akkusativ: den",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_k",
-              "label": "k)",
-              "lead": "Ich rufe ",
-              "tail": " Kollegin an.",
-              "answer": "die",
-              "explanation": "die Kollegin (feminin) ➔ Akkusativ: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex1_l",
-              "label": "l)",
-              "lead": "Sie lädt ",
-              "tail": " Handy auf.",
-              "answer": "das",
-              "explanation": "das Handy (neutral) ➔ Akkusativ: das",
-              "isCompact": true
-            }
+          "lessonTitle": "4.2. Nomen und Artikel — Akkusativ",
+          "grammarSummary": "### 📌 4.2. Nomen und Artikel — Der Akkusativ (Direct Object)\n\n#### 1. Das Akkusativobjekt (Wen oder was?)\nIm deutschen Satz steht das direkte Ziel einer Handlung im **Akkusativ**. Man fragt mit **Wen?** (Personen) oder **Was?** (Sachen).\n- *Der Mann* [Subjekt = Nominativ: Wer?] kauft *den Koffer* [Akkusativobjekt: Was?].\n\n---\n\n#### 2. Die goldene Regel: Nur das Maskulinum verändert sich!\nIm Akkusativ wechselt **ausschließlich der maskuline Artikel** die Endung auf **-en**:\n\n| Genus / Numerus | Nominativ (Subjekt) | Akkusativ (Objekt) | Unbestimmt (Akk.) | Verneinung (Akk.) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Maskulin** | **der** Mann | **den** Mann | **einen** Mann | **keinen** Mann |\n| **Feminin** | **die** Frau | **die** Frau | **eine** Frau | **keine** Frau |\n| **Neutral** | **das** Kind | **das** Kind | **ein** Kind | **kein** Kind |\n| **Plural** | **die** Freunde | **die** Freunde | *(kein Plural-u)* | **keine** Freunde |\n\n> ⚠️ **Goldene Regel:** Feminin (*die/eine*), Neutral (*das/ein*) und Plural (*die/keine*) bleiben im Akkusativ **exakt gleich** wie im Nominativ! Nur maskulin wird zu **den / einen / keinen**.\n\n---\n\n#### 3. Wichtige Verben mit Akkusativergänzung (Transitive Verben)\nDiese Verben verlangen fast immer ein Akkusativobjekt:\n- *haben, brauchen, kaufen, suchen, finden, sehen, hören, lesen, schreiben, essen, trinken, bestellen, bezahlen, kennen, verstehen, treffen, anrufen, einladen, packen, schließen*.\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> In modern English, nouns don't change form for direct objects (*The teacher sees the student* vs. *The student sees the teacher*). However, English strictly preserves this distinction in **personal pronouns**:\n> - *he* ➔ **him** (*I know him*, never *I know he*)\n> - *they* ➔ **them**\n> - *who* ➔ **whom**\n> In German, masculine nouns behave like *he ➔ him*: **der ➔ den**, **ein ➔ einen**, **kein ➔ keinen**. Feminine, neuter, and plural nouns do not change at all.",
+          "exercises": [
+                {
+                      "id": "a1_p18_ex1",
+                      "title": "Übung 1: Bestimmter Artikel im Akkusativ",
+                      "instruction": "Ergänzen Sie den bestimmten Artikel im Akkusativ (den, die, das). Nur das Maskulinum verändert sich!",
+                      "wordBox": [
+                            "den",
+                            "die",
+                            "das"
+                      ],
+                      "answers": {
+                            "a1_p18_ex1_a": "den",
+                            "a1_p18_ex1_b": "das",
+                            "a1_p18_ex1_c": "die",
+                            "a1_p18_ex1_d": "die",
+                            "a1_p18_ex1_e": "das",
+                            "a1_p18_ex1_f": "die",
+                            "a1_p18_ex1_g": "den",
+                            "a1_p18_ex1_h": "die",
+                            "a1_p18_ex1_i": "das",
+                            "a1_p18_ex1_j": "den",
+                            "a1_p18_ex1_k": "die",
+                            "a1_p18_ex1_l": "das"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p18_ex1_a",
+                                  "label": "a)",
+                                  "lead": "Ich packe ",
+                                  "tail": " Koffer.",
+                                  "answer": "den",
+                                  "explanation": "der Koffer (maskulin) ➔ Akkusativ: den",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_b",
+                                  "label": "b)",
+                                  "lead": "Wir schließen ",
+                                  "tail": " Fenster.",
+                                  "answer": "das",
+                                  "explanation": "das Fenster (neutral) ➔ Akkusativ: das",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_c",
+                                  "label": "c)",
+                                  "lead": "Ich treffe ",
+                                  "tail": " Freunde.",
+                                  "answer": "die",
+                                  "explanation": "die Freunde (Plural) ➔ Akkusativ: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_d",
+                                  "label": "d)",
+                                  "lead": "Sie bezahlt ",
+                                  "tail": " Miete.",
+                                  "answer": "die",
+                                  "explanation": "die Miete (feminin) ➔ Akkusativ: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_e",
+                                  "label": "e)",
+                                  "lead": "Er versteht ",
+                                  "tail": " Problem nicht.",
+                                  "answer": "das",
+                                  "explanation": "das Problem (neutral) ➔ Akkusativ: das",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_f",
+                                  "label": "f)",
+                                  "lead": "Wir kennen ",
+                                  "tail": " Leute gut.",
+                                  "answer": "die",
+                                  "explanation": "die Leute (Plural) ➔ Akkusativ: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_g",
+                                  "label": "g)",
+                                  "lead": "Er schreibt ",
+                                  "tail": " Termin auf.",
+                                  "answer": "den",
+                                  "explanation": "der Termin (maskulin) ➔ Akkusativ: den",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_h",
+                                  "label": "h)",
+                                  "lead": "Du ziehst ",
+                                  "tail": " Schuhe an.",
+                                  "answer": "die",
+                                  "explanation": "die Schuhe (Plural) ➔ Akkusativ: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_i",
+                                  "label": "i)",
+                                  "lead": "Sie füllt ",
+                                  "tail": " Formular aus.",
+                                  "answer": "das",
+                                  "explanation": "das Formular (neutral) ➔ Akkusativ: das",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_j",
+                                  "label": "j)",
+                                  "lead": "Er liest ",
+                                  "tail": " Text vor.",
+                                  "answer": "den",
+                                  "explanation": "der Text (maskulin) ➔ Akkusativ: den",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_k",
+                                  "label": "k)",
+                                  "lead": "Ich rufe ",
+                                  "tail": " Kollegin an.",
+                                  "answer": "die",
+                                  "explanation": "die Kollegin (feminin) ➔ Akkusativ: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex1_l",
+                                  "label": "l)",
+                                  "lead": "Sie lädt ",
+                                  "tail": " Handy auf.",
+                                  "answer": "das",
+                                  "explanation": "das Handy (neutral) ➔ Akkusativ: das",
+                                  "isCompact": true
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p18_ex2",
+                      "title": "Übung 2: Bestimmter (b) und unbestimmter (u) Artikel im Akkusativ",
+                      "instruction": "Ergänzen Sie den passenden Artikel im Akkusativ. Hinweis: (b) = bestimmter Artikel (den, die, das), (u) = unbestimmter Artikel (einen, eine, ein).",
+                      "wordBox": [
+                            "den",
+                            "die",
+                            "das",
+                            "einen",
+                            "eine",
+                            "ein"
+                      ],
+                      "answers": {
+                            "a1_p18_ex2_a": "den",
+                            "a1_p18_ex2_b": "die",
+                            "a1_p18_ex2_c": "eine",
+                            "a1_p18_ex2_d": "ein",
+                            "a1_p18_ex2_e": "den",
+                            "a1_p18_ex2_f": "ein",
+                            "a1_p18_ex2_g": "die",
+                            "a1_p18_ex2_h": "ein",
+                            "a1_p18_ex2_i": "einen",
+                            "a1_p18_ex2_j": "das",
+                            "a1_p18_ex2_k": "die",
+                            "a1_p18_ex2_l": "ein",
+                            "a1_p18_ex2_m": "die",
+                            "a1_p18_ex2_n": "einen",
+                            "a1_p18_ex2_o": "einen",
+                            "a1_p18_ex2_p": "die",
+                            "a1_p18_ex2_q": "die",
+                            "a1_p18_ex2_r": "eine",
+                            "a1_p18_ex2_s": "die"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p18_ex2_a",
+                                  "label": "a)",
+                                  "lead": "Du besuchst (b) ",
+                                  "tail": " Großvater.",
+                                  "answer": "den",
+                                  "explanation": "der Großvater (maskulin) ➔ bestimmter Artikel: den",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_b",
+                                  "label": "b)",
+                                  "lead": "Ihr bezahlt (b) ",
+                                  "tail": " Fahrkarte.",
+                                  "answer": "die",
+                                  "explanation": "die Fahrkarte (feminin) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_c",
+                                  "label": "c)",
+                                  "lead": "Maria bucht (u) ",
+                                  "tail": " Reise.",
+                                  "answer": "eine",
+                                  "explanation": "die Reise (feminin) ➔ unbestimmter Artikel: eine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_d",
+                                  "label": "d)",
+                                  "lead": "Karl brät (u) ",
+                                  "tail": " Steak.",
+                                  "answer": "ein",
+                                  "explanation": "das Steak (neutral) ➔ unbestimmter Artikel: ein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_e",
+                                  "label": "e)",
+                                  "lead": "Ich kenne (b) ",
+                                  "tail": " Professor.",
+                                  "answer": "den",
+                                  "explanation": "der Professor (maskulin) ➔ bestimmter Artikel: den",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_f",
+                                  "label": "f)",
+                                  "lead": "Ihr kauft (u) ",
+                                  "tail": " Deutschbuch.",
+                                  "answer": "ein",
+                                  "explanation": "das Deutschbuch (neutral) ➔ unbestimmter Artikel: ein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_g",
+                                  "label": "g)",
+                                  "lead": "Wir lernen (b) ",
+                                  "tail": " Wörter.",
+                                  "answer": "die",
+                                  "explanation": "die Wörter (Plural) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_h",
+                                  "label": "h)",
+                                  "lead": "Du brauchst (u) ",
+                                  "tail": " Wörterbuch.",
+                                  "answer": "ein",
+                                  "explanation": "das Wörterbuch (neutral) ➔ unbestimmter Artikel: ein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_i",
+                                  "label": "i)",
+                                  "lead": "Ich trinke (u) ",
+                                  "tail": " Orangensaft.",
+                                  "answer": "einen",
+                                  "explanation": "der Orangensaft (maskulin) ➔ unbestimmter Artikel: einen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_j",
+                                  "label": "j)",
+                                  "lead": "Er versteht (b) ",
+                                  "tail": " Wort nicht.",
+                                  "answer": "das",
+                                  "explanation": "das Wort (neutral) ➔ bestimmter Artikel: das",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_k",
+                                  "label": "k)",
+                                  "lead": "Wir zählen (b) ",
+                                  "tail": " Stühle.",
+                                  "answer": "die",
+                                  "explanation": "die Stühle (Plural) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_l",
+                                  "label": "l)",
+                                  "lead": "Er bestellt (u) ",
+                                  "tail": " Mineralwasser.",
+                                  "answer": "ein",
+                                  "explanation": "das Mineralwasser (neutral) ➔ unbestimmter Artikel: ein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_m",
+                                  "label": "m)",
+                                  "lead": "Du liest (b) ",
+                                  "tail": " Zeitung.",
+                                  "answer": "die",
+                                  "explanation": "die Zeitung (feminin) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_n",
+                                  "label": "n)",
+                                  "lead": "Ich esse (u) ",
+                                  "tail": " Apfel.",
+                                  "answer": "einen",
+                                  "explanation": "der Apfel (maskulin) ➔ unbestimmter Artikel: einen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_o",
+                                  "label": "o)",
+                                  "lead": "Du siehst (u) ",
+                                  "tail": " Film.",
+                                  "answer": "einen",
+                                  "explanation": "der Film (maskulin) ➔ unbestimmter Artikel: einen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_p",
+                                  "label": "p)",
+                                  "lead": "Eva trägt (b) ",
+                                  "tail": " Tasche.",
+                                  "answer": "die",
+                                  "explanation": "die Tasche (feminin) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_q",
+                                  "label": "q)",
+                                  "lead": "Ich treffe (b) ",
+                                  "tail": " Freunde.",
+                                  "answer": "die",
+                                  "explanation": "die Freunde (Plural) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_r",
+                                  "label": "r)",
+                                  "lead": "Du hast (u) ",
+                                  "tail": " Sonnenbrille.",
+                                  "answer": "eine",
+                                  "explanation": "die Sonnenbrille (feminin) ➔ unbestimmter Artikel: eine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p18_ex2_s",
+                                  "label": "s)",
+                                  "lead": "Sie machen (b) ",
+                                  "tail": " Hausaufgabe.",
+                                  "answer": "die",
+                                  "explanation": "die Hausaufgabe (feminin) ➔ bestimmter Artikel: die",
+                                  "isCompact": true
+                            }
+                      ]
+                }
           ]
-        },
-        {
-          "id": "a1_p18_ex2",
-          "title": "Übung 2: Bestimmter (b) und unbestimmter (u) Artikel im Akkusativ",
-          "instruction": "Ergänzen Sie den passenden Artikel im Akkusativ. Hinweis: (b) = bestimmter Artikel (den, die, das), (u) = unbestimmter Artikel (einen, eine, ein).",
-          "wordBox": [
-            "den",
-            "die",
-            "das",
-            "einen",
-            "eine",
-            "ein"
-          ],
-          "answers": {
-            "a1_p18_ex2_a": "den",
-            "a1_p18_ex2_b": "die",
-            "a1_p18_ex2_c": "eine",
-            "a1_p18_ex2_d": "ein",
-            "a1_p18_ex2_e": "den",
-            "a1_p18_ex2_f": "ein",
-            "a1_p18_ex2_g": "die",
-            "a1_p18_ex2_h": "ein",
-            "a1_p18_ex2_i": "einen",
-            "a1_p18_ex2_j": "das",
-            "a1_p18_ex2_k": "die",
-            "a1_p18_ex2_l": "ein",
-            "a1_p18_ex2_m": "die",
-            "a1_p18_ex2_n": "einen",
-            "a1_p18_ex2_o": "einen",
-            "a1_p18_ex2_p": "die",
-            "a1_p18_ex2_q": "die",
-            "a1_p18_ex2_r": "eine",
-            "a1_p18_ex2_s": "die"
-          },
-          "items": [
-            {
-              "id": "a1_p18_ex2_a",
-              "label": "a)",
-              "lead": "Du besuchst (b) ",
-              "tail": " Großvater.",
-              "answer": "den",
-              "explanation": "der Großvater (maskulin) ➔ bestimmter Artikel: den",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_b",
-              "label": "b)",
-              "lead": "Ihr bezahlt (b) ",
-              "tail": " Fahrkarte.",
-              "answer": "die",
-              "explanation": "die Fahrkarte (feminin) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_c",
-              "label": "c)",
-              "lead": "Maria bucht (u) ",
-              "tail": " Reise.",
-              "answer": "eine",
-              "explanation": "die Reise (feminin) ➔ unbestimmter Artikel: eine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_d",
-              "label": "d)",
-              "lead": "Karl brät (u) ",
-              "tail": " Steak.",
-              "answer": "ein",
-              "explanation": "das Steak (neutral) ➔ unbestimmter Artikel: ein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_e",
-              "label": "e)",
-              "lead": "Ich kenne (b) ",
-              "tail": " Professor.",
-              "answer": "den",
-              "explanation": "der Professor (maskulin) ➔ bestimmter Artikel: den",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_f",
-              "label": "f)",
-              "lead": "Ihr kauft (u) ",
-              "tail": " Deutschbuch.",
-              "answer": "ein",
-              "explanation": "das Deutschbuch (neutral) ➔ unbestimmter Artikel: ein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_g",
-              "label": "g)",
-              "lead": "Wir lernen (b) ",
-              "tail": " Wörter.",
-              "answer": "die",
-              "explanation": "die Wörter (Plural) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_h",
-              "label": "h)",
-              "lead": "Du brauchst (u) ",
-              "tail": " Wörterbuch.",
-              "answer": "ein",
-              "explanation": "das Wörterbuch (neutral) ➔ unbestimmter Artikel: ein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_i",
-              "label": "i)",
-              "lead": "Ich trinke (u) ",
-              "tail": " Orangensaft.",
-              "answer": "einen",
-              "explanation": "der Orangensaft (maskulin) ➔ unbestimmter Artikel: einen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_j",
-              "label": "j)",
-              "lead": "Er versteht (b) ",
-              "tail": " Wort nicht.",
-              "answer": "das",
-              "explanation": "das Wort (neutral) ➔ bestimmter Artikel: das",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_k",
-              "label": "k)",
-              "lead": "Wir zählen (b) ",
-              "tail": " Stühle.",
-              "answer": "die",
-              "explanation": "die Stühle (Plural) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_l",
-              "label": "l)",
-              "lead": "Er bestellt (u) ",
-              "tail": " Mineralwasser.",
-              "answer": "ein",
-              "explanation": "das Mineralwasser (neutral) ➔ unbestimmter Artikel: ein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_m",
-              "label": "m)",
-              "lead": "Du liest (b) ",
-              "tail": " Zeitung.",
-              "answer": "die",
-              "explanation": "die Zeitung (feminin) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_n",
-              "label": "n)",
-              "lead": "Ich esse (u) ",
-              "tail": " Apfel.",
-              "answer": "einen",
-              "explanation": "der Apfel (maskulin) ➔ unbestimmter Artikel: einen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_o",
-              "label": "o)",
-              "lead": "Du siehst (u) ",
-              "tail": " Film.",
-              "answer": "einen",
-              "explanation": "der Film (maskulin) ➔ unbestimmter Artikel: einen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_p",
-              "label": "p)",
-              "lead": "Eva trägt (b) ",
-              "tail": " Tasche.",
-              "answer": "die",
-              "explanation": "die Tasche (feminin) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_q",
-              "label": "q)",
-              "lead": "Ich treffe (b) ",
-              "tail": " Freunde.",
-              "answer": "die",
-              "explanation": "die Freunde (Plural) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_r",
-              "label": "r)",
-              "lead": "Du hast (u) ",
-              "tail": " Sonnenbrille.",
-              "answer": "eine",
-              "explanation": "die Sonnenbrille (feminin) ➔ unbestimmter Artikel: eine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p18_ex2_s",
-              "label": "s)",
-              "lead": "Sie machen (b) ",
-              "tail": " Hausaufgabe.",
-              "answer": "die",
-              "explanation": "die Hausaufgabe (feminin) ➔ bestimmter Artikel: die",
-              "isCompact": true
-            }
-          ]
-        }
-      ]
     },
     "19": {
-      "lessonTitle": "4.2. Nomen und Artikel — Akkusativ: Vertiefung & Negation",
-      "grammarSummary": "### 📌 4.2. Nomen und Artikel — Akkusativ: Vertiefung & Negation\n\n#### 1. Die Negation im Akkusativ: *kein-* (Nomen-Verneinung)\nDas Negationswort **kein-** verneint Nomen mit unbestimmtem Artikel (*ein-*) oder Nomen ohne Artikel (*Nullartikel*). Es übernimmt exakt dieselben Endungen wie der unbestimmte Artikel:\n\n| Genus / Numerus | Positiv (Akkusativ) | Negation (Akkusativ) | Signal |\n| :--- | :--- | :--- | :--- |\n| **Maskulin** | Ich möchte *einen* Saft. | Ich möchte **keinen** Saft. | Endung **-en** |\n| **Feminin** | Ich esse *eine* Pizza. | Ich esse **keine** Pizza. | Endung **-e** |\n| **Neutral** | Ich kaufe *ein* Sandwich. | Ich kaufe **kein** Sandwich. | Endung **-** (keine) |\n| **Plural** | Wir kaufen Orangen. | Wir kaufen **keine** Orangen. | Endung **-e** |\n\n---\n\n#### 2. Mengenangaben & Nullartikel bei Speisen und Getränken\n- **Allgemeine Speisen/Getränke (Nullartikel):** *Trinkst du Tee? — Ja, ich trinke gern Tee.*\n- **Portionierte Mengennomen:** *eine Tasse Tee*, *ein Glas Milch*, *ein Stück Kuchen*, *ein Teller Suppe*, *eine Flasche Saft*, *eine Portion Eis*, *eine Tafel Schokolade*.\n- Das Mengennomen steht im Akkusativ (*Ich esse einen Teller Suppe* ➔ *der Teller ➔ einen Teller*).\n\n---\n\n#### 3. Satzstellung: Akkusativobjekt auf Position 1 (Betonung / Inversion)\nIm Deutschen kann das direkte Objekt auf **Position 1** rücken, um es hervorzuheben. Das konjugierte Verb bleibt strikt auf **Position 2** (V2-Regel), das Subjekt folgt auf Position 3:\n- *Was liest du?* ➔ **Den Text hier** [Objekt Akk., Pos. 1] **lese** [Verb, Pos. 2] **ich** [Subjekt, Pos. 3].\n- *Was isst du?* ➔ **Den Salat** [Objekt Akk.] **esse** [Verb] **ich** [Subjekt].\n- ⚠️ **Achtung:** Auch auf Position 1 behält das Objekt seinen Akkusativ (*Den Döner / Den Salat*, NICHT: *Der Döner*)!\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> - **\"No\" vs. \"Not\":** In English, you negate nouns with \"no\" (*I have no time*, *I drink no coffee*), not with \"not\" (*I drink not coffee*). German **kein-** works identically to \"no\".\n> - **Object Fronting:** While English rarely starts with the object (*\"The book I read yesterday\"*), German does this constantly to establish the conversational topic. Remember: German always keeps the verb in second position!",
-      "exercises": [
-        {
-          "id": "a1_p19_ex3",
-          "title": "Übung 3: Satzstellung — Akkusativobjekt auf Position 1",
-          "instruction": "Setzen Sie das Objekt an Position 1. Achten Sie auf den Akkusativ bei maskulinen Nomen!",
-          "wordBox": [
-            "Ein Kotelett",
-            "Eine Tasse Kaffee",
-            "Die Banane hier",
-            "Die Zeitung hier",
-            "Trauben",
-            "Einen Teller Suppe",
-            "Ein Stück Kuchen",
-            "Den Döner hier",
-            "Eine Portion Eis",
-            "Orangensaft",
-            "Den Salat hier",
-            "Eine Tafel Schokolade"
-          ],
-          "answers": {
-            "a1_p19_ex3_a": "Ein Kotelett",
-            "a1_p19_ex3_b": "Eine Tasse Kaffee",
-            "a1_p19_ex3_c": "Die Banane hier",
-            "a1_p19_ex3_d": "Die Zeitung hier",
-            "a1_p19_ex3_e": "Trauben",
-            "a1_p19_ex3_f": "Einen Teller Suppe",
-            "a1_p19_ex3_g": "Ein Stück Kuchen",
-            "a1_p19_ex3_h": "Den Döner hier",
-            "a1_p19_ex3_i": "Eine Portion Eis",
-            "a1_p19_ex3_j": "Orangensaft",
-            "a1_p19_ex3_k": "Den Salat hier",
-            "a1_p19_ex3_l": "Eine Tafel Schokolade"
-          },
-          "items": [
-            {
-              "id": "a1_p19_ex3_a",
-              "label": "a)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "ein Kotelett",
-              "answer": "Ein Kotelett",
-              "explanation": "das Kotelett (neutral) ➔ Ein Kotelett",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_b",
-              "label": "b)",
-              "lead": "Was trinkst du? — ",
-              "tail": " trinke ich.",
-              "prompt": "eine Tasse Kaffee",
-              "answer": "Eine Tasse Kaffee",
-              "explanation": "die Tasse (feminin) ➔ Eine Tasse Kaffee",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_c",
-              "label": "c)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "die Banane hier",
-              "answer": "Die Banane hier",
-              "explanation": "die Banane (feminin) ➔ Die Banane hier",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_d",
-              "label": "d)",
-              "lead": "Was liest du? — ",
-              "tail": " lese ich.",
-              "prompt": "die Zeitung hier",
-              "answer": "Die Zeitung hier",
-              "explanation": "die Zeitung (feminin) ➔ Die Zeitung hier",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_e",
-              "label": "e)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "Trauben",
-              "answer": "Trauben",
-              "explanation": "die Trauben (Plural) ➔ Trauben",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_f",
-              "label": "f)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "ein Teller Suppe",
-              "answer": "Einen Teller Suppe",
-              "explanation": "der Teller (maskulin) ➔ Akkusativ: Einen Teller Suppe",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_g",
-              "label": "g)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "ein Stück Kuchen",
-              "answer": "Ein Stück Kuchen",
-              "explanation": "das Stück (neutral) ➔ Ein Stück Kuchen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_h",
-              "label": "h)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "der Döner hier",
-              "answer": "Den Döner hier",
-              "explanation": "der Döner (maskulin) ➔ Akkusativ: Den Döner hier",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_i",
-              "label": "i)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "eine Portion Eis",
-              "answer": "Eine Portion Eis",
-              "explanation": "die Portion (feminin) ➔ Eine Portion Eis",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_j",
-              "label": "j)",
-              "lead": "Was trinkst du? — ",
-              "tail": " trinke ich.",
-              "prompt": "Orangensaft",
-              "answer": "Orangensaft",
-              "explanation": "der Saft (Nullartikel) ➔ Orangensaft",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_k",
-              "label": "k)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "der Salat hier",
-              "answer": "Den Salat hier",
-              "explanation": "der Salat (maskulin) ➔ Akkusativ: Den Salat hier",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p19_ex3_l",
-              "label": "l)",
-              "lead": "Was isst du? — ",
-              "tail": " esse ich.",
-              "prompt": "eine Tafel Schokolade",
-              "answer": "Eine Tafel Schokolade",
-              "explanation": "die Tafel (feminin) ➔ Eine Tafel Schokolade",
-              "isCompact": false
-            }
+          "lessonTitle": "4.2. Nomen und Artikel — Akkusativ: Vertiefung & Negation",
+          "grammarSummary": "### 📌 4.2. Nomen und Artikel — Akkusativ: Vertiefung & Negation\n\n#### 1. Die Negation im Akkusativ: *kein-* (Nomen-Verneinung)\nDas Negationswort **kein-** verneint Nomen mit unbestimmtem Artikel (*ein-*) oder Nomen ohne Artikel (*Nullartikel*). Es übernimmt exakt dieselben Endungen wie der unbestimmte Artikel:\n\n| Genus / Numerus | Positiv (Akkusativ) | Negation (Akkusativ) | Signal |\n| :--- | :--- | :--- | :--- |\n| **Maskulin** | Ich möchte *einen* Saft. | Ich möchte **keinen** Saft. | Endung **-en** |\n| **Feminin** | Ich esse *eine* Pizza. | Ich esse **keine** Pizza. | Endung **-e** |\n| **Neutral** | Ich kaufe *ein* Sandwich. | Ich kaufe **kein** Sandwich. | Endung **-** (keine) |\n| **Plural** | Wir kaufen Orangen. | Wir kaufen **keine** Orangen. | Endung **-e** |\n\n---\n\n#### 2. Mengenangaben & Nullartikel bei Speisen und Getränken\n- **Allgemeine Speisen/Getränke (Nullartikel):** *Trinkst du Tee? — Ja, ich trinke gern Tee.*\n- **Portionierte Mengennomen:** *eine Tasse Tee*, *ein Glas Milch*, *ein Stück Kuchen*, *ein Teller Suppe*, *eine Flasche Saft*, *eine Portion Eis*, *eine Tafel Schokolade*.\n- Das Mengennomen steht im Akkusativ (*Ich esse einen Teller Suppe* ➔ *der Teller ➔ einen Teller*).\n\n---\n\n#### 3. Satzstellung: Akkusativobjekt auf Position 1 (Betonung / Inversion)\nIm Deutschen kann das direkte Objekt auf **Position 1** rücken, um es hervorzuheben. Das konjugierte Verb bleibt strikt auf **Position 2** (V2-Regel), das Subjekt folgt auf Position 3:\n- *Was liest du?* ➔ **Den Text hier** [Objekt Akk., Pos. 1] **lese** [Verb, Pos. 2] **ich** [Subjekt, Pos. 3].\n- *Was isst du?* ➔ **Den Salat** [Objekt Akk.] **esse** [Verb] **ich** [Subjekt].\n- ⚠️ **Achtung:** Auch auf Position 1 behält das Objekt seinen Akkusativ (*Den Döner / Den Salat*, NICHT: *Der Döner*)!\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> - **\"No\" vs. \"Not\":** In English, you negate nouns with \"no\" (*I have no time*, *I drink no coffee*), not with \"not\" (*I drink not coffee*). German **kein-** works identically to \"no\".\n> - **Object Fronting:** While English rarely starts with the object (*\"The book I read yesterday\"*), German does this constantly to establish the conversational topic. Remember: German always keeps the verb in second position!",
+          "exercises": [
+                {
+                      "id": "a1_p19_ex3",
+                      "title": "Übung 3: Satzstellung — Akkusativobjekt auf Position 1",
+                      "instruction": "Setzen Sie das Objekt an Position 1. Achten Sie auf den Akkusativ bei maskulinen Nomen!",
+                      "wordBox": [
+                            "Ein Kotelett",
+                            "Eine Tasse Kaffee",
+                            "Die Banane hier",
+                            "Die Zeitung hier",
+                            "Trauben",
+                            "Einen Teller Suppe",
+                            "Ein Stück Kuchen",
+                            "Den Döner hier",
+                            "Eine Portion Eis",
+                            "Orangensaft",
+                            "Den Salat hier",
+                            "Eine Tafel Schokolade"
+                      ],
+                      "answers": {
+                            "a1_p19_ex3_a": "Ein Kotelett",
+                            "a1_p19_ex3_b": "Eine Tasse Kaffee",
+                            "a1_p19_ex3_c": "Die Banane hier",
+                            "a1_p19_ex3_d": "Die Zeitung hier",
+                            "a1_p19_ex3_e": "Trauben",
+                            "a1_p19_ex3_f": "Einen Teller Suppe",
+                            "a1_p19_ex3_g": "Ein Stück Kuchen",
+                            "a1_p19_ex3_h": "Den Döner hier",
+                            "a1_p19_ex3_i": "Eine Portion Eis",
+                            "a1_p19_ex3_j": "Orangensaft",
+                            "a1_p19_ex3_k": "Den Salat hier",
+                            "a1_p19_ex3_l": "Eine Tafel Schokolade"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p19_ex3_a",
+                                  "label": "a)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "ein Kotelett",
+                                  "answer": "Ein Kotelett",
+                                  "explanation": "das Kotelett (neutral) ➔ Ein Kotelett",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_b",
+                                  "label": "b)",
+                                  "lead": "Was trinkst du? — ",
+                                  "tail": " trinke ich.",
+                                  "prompt": "eine Tasse Kaffee",
+                                  "answer": "Eine Tasse Kaffee",
+                                  "explanation": "die Tasse (feminin) ➔ Eine Tasse Kaffee",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_c",
+                                  "label": "c)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "die Banane hier",
+                                  "answer": "Die Banane hier",
+                                  "explanation": "die Banane (feminin) ➔ Die Banane hier",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_d",
+                                  "label": "d)",
+                                  "lead": "Was liest du? — ",
+                                  "tail": " lese ich.",
+                                  "prompt": "die Zeitung hier",
+                                  "answer": "Die Zeitung hier",
+                                  "explanation": "die Zeitung (feminin) ➔ Die Zeitung hier",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_e",
+                                  "label": "e)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "Trauben",
+                                  "answer": "Trauben",
+                                  "explanation": "die Trauben (Plural) ➔ Trauben",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_f",
+                                  "label": "f)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "ein Teller Suppe",
+                                  "answer": "Einen Teller Suppe",
+                                  "explanation": "der Teller (maskulin) ➔ Akkusativ: Einen Teller Suppe",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_g",
+                                  "label": "g)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "ein Stück Kuchen",
+                                  "answer": "Ein Stück Kuchen",
+                                  "explanation": "das Stück (neutral) ➔ Ein Stück Kuchen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_h",
+                                  "label": "h)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "der Döner hier",
+                                  "answer": "Den Döner hier",
+                                  "explanation": "der Döner (maskulin) ➔ Akkusativ: Den Döner hier",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_i",
+                                  "label": "i)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "eine Portion Eis",
+                                  "answer": "Eine Portion Eis",
+                                  "explanation": "die Portion (feminin) ➔ Eine Portion Eis",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_j",
+                                  "label": "j)",
+                                  "lead": "Was trinkst du? — ",
+                                  "tail": " trinke ich.",
+                                  "prompt": "Orangensaft",
+                                  "answer": "Orangensaft",
+                                  "explanation": "der Saft (Nullartikel) ➔ Orangensaft",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_k",
+                                  "label": "k)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "der Salat hier",
+                                  "answer": "Den Salat hier",
+                                  "explanation": "der Salat (maskulin) ➔ Akkusativ: Den Salat hier",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p19_ex3_l",
+                                  "label": "l)",
+                                  "lead": "Was isst du? — ",
+                                  "tail": " esse ich.",
+                                  "prompt": "eine Tafel Schokolade",
+                                  "answer": "Eine Tafel Schokolade",
+                                  "explanation": "die Tafel (feminin) ➔ Eine Tafel Schokolade",
+                                  "isCompact": false
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p19_ex4",
+                      "title": "Übung 4: Negation im Akkusativ (keinen, keine, kein)",
+                      "instruction": "Antworten Sie verneinend mit „keinen“, „keine“ oder „kein“ im Akkusativ.",
+                      "wordBox": [
+                            "keinen",
+                            "keine",
+                            "kein"
+                      ],
+                      "answers": {
+                            "a1_p19_ex4_a": "kein",
+                            "a1_p19_ex4_b": "kein",
+                            "a1_p19_ex4_c": "keine",
+                            "a1_p19_ex4_d": "keine",
+                            "a1_p19_ex4_e": "kein",
+                            "a1_p19_ex4_f": "keinen",
+                            "a1_p19_ex4_g": "keine",
+                            "a1_p19_ex4_h": "keine",
+                            "a1_p19_ex4_i": "kein",
+                            "a1_p19_ex4_j": "kein",
+                            "a1_p19_ex4_k": "keine",
+                            "a1_p19_ex4_l": "keinen",
+                            "a1_p19_ex4_m": "keinen",
+                            "a1_p19_ex4_n": "keine",
+                            "a1_p19_ex4_o": "keinen",
+                            "a1_p19_ex4_p": "keinen"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p19_ex4_a",
+                                  "label": "a)",
+                                  "lead": "Isst du ein Stück Kuchen? — Nein danke, ich esse jetzt ",
+                                  "tail": " Stück Kuchen.",
+                                  "answer": "kein",
+                                  "explanation": "das Stück (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_b",
+                                  "label": "b)",
+                                  "lead": "Möchtest du ein Eis? — Nein danke, ich esse jetzt ",
+                                  "tail": " Eis.",
+                                  "answer": "kein",
+                                  "explanation": "das Eis (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_c",
+                                  "label": "c)",
+                                  "lead": "Bestellst du eine Pizza? — Nein danke, ich esse jetzt ",
+                                  "tail": " Pizza.",
+                                  "answer": "keine",
+                                  "explanation": "die Pizza (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_d",
+                                  "label": "d)",
+                                  "lead": "Nimmst du Pommes? — Nein danke, ich esse jetzt ",
+                                  "tail": " Pommes.",
+                                  "answer": "keine",
+                                  "explanation": "die Pommes (Plural) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_e",
+                                  "label": "e)",
+                                  "lead": "Brätst du ein Steak? — Nein danke, ich esse jetzt ",
+                                  "tail": " Steak.",
+                                  "answer": "kein",
+                                  "explanation": "das Steak (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_f",
+                                  "label": "f)",
+                                  "lead": "Trinkst du Kirschsaft? — Nein danke, ich trinke jetzt ",
+                                  "tail": " Kirschsaft.",
+                                  "answer": "keinen",
+                                  "explanation": "der Saft (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_g",
+                                  "label": "g)",
+                                  "lead": "Isst du eine Orange? — Nein danke, ich esse jetzt ",
+                                  "tail": " Orange.",
+                                  "answer": "keine",
+                                  "explanation": "die Orange (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_h",
+                                  "label": "h)",
+                                  "lead": "Möchtest du Erdnüsse? — Nein danke, ich esse jetzt ",
+                                  "tail": " Erdnüsse.",
+                                  "answer": "keine",
+                                  "explanation": "die Erdnüsse (Plural) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_i",
+                                  "label": "i)",
+                                  "lead": "Kaufst du ein Sandwich? — Nein danke, ich esse jetzt ",
+                                  "tail": " Sandwich.",
+                                  "answer": "kein",
+                                  "explanation": "das Sandwich (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_j",
+                                  "label": "j)",
+                                  "lead": "Trinkst du Mineralwasser? — Nein danke, ich trinke jetzt ",
+                                  "tail": " Mineralwasser.",
+                                  "answer": "kein",
+                                  "explanation": "das Wasser (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_k",
+                                  "label": "k)",
+                                  "lead": "Schälst du eine Kiwi? — Nein danke, ich esse jetzt ",
+                                  "tail": " Kiwi.",
+                                  "answer": "keine",
+                                  "explanation": "die Kiwi (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_l",
+                                  "label": "l)",
+                                  "lead": "Isst du Gurkensalat? — Nein danke, ich esse jetzt ",
+                                  "tail": " Gurkensalat.",
+                                  "answer": "keinen",
+                                  "explanation": "der Salat (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_m",
+                                  "label": "m)",
+                                  "lead": "Nimmst du einen Apfel? — Nein danke, ich esse jetzt ",
+                                  "tail": " Apfel.",
+                                  "answer": "keinen",
+                                  "explanation": "der Apfel (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_n",
+                                  "label": "n)",
+                                  "lead": "Kaufst du Erdbeeren? — Nein danke, ich esse jetzt ",
+                                  "tail": " Erdbeeren.",
+                                  "answer": "keine",
+                                  "explanation": "die Erdbeeren (Plural) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_o",
+                                  "label": "o)",
+                                  "lead": "Bestellst du Milchkaffee? — Nein danke, ich trinke jetzt ",
+                                  "tail": " Milchkaffee.",
+                                  "answer": "keinen",
+                                  "explanation": "der Kaffee (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex4_p",
+                                  "label": "p)",
+                                  "lead": "Isst du einen Burger? — Nein danke, ich esse jetzt ",
+                                  "tail": " Burger.",
+                                  "answer": "keinen",
+                                  "explanation": "der Burger (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p19_ex5",
+                      "title": "Übung 5: Feste Ausdrücke mit „haben“ + Negation",
+                      "instruction": "Ergänzen Sie das passende Negationswort (keinen, keine, kein) nach dem Muster: „Leider habe ich keine Uhr.“",
+                      "wordBox": [
+                            "keinen",
+                            "keine",
+                            "kein"
+                      ],
+                      "answers": {
+                            "a1_p19_ex5_a": "keinen",
+                            "a1_p19_ex5_b": "kein",
+                            "a1_p19_ex5_c": "keinen",
+                            "a1_p19_ex5_d": "keine",
+                            "a1_p19_ex5_e": "kein",
+                            "a1_p19_ex5_f": "keinen",
+                            "a1_p19_ex5_g": "kein",
+                            "a1_p19_ex5_h": "keine"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p19_ex5_a",
+                                  "label": "a)",
+                                  "lead": "Urlaub (ihr): Leider haben wir ",
+                                  "tail": " Urlaub.",
+                                  "answer": "keinen",
+                                  "explanation": "der Urlaub (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_b",
+                                  "label": "b)",
+                                  "lead": "Notebook (du): Leider habe ich ",
+                                  "tail": " Notebook.",
+                                  "answer": "kein",
+                                  "explanation": "das Notebook (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_c",
+                                  "label": "c)",
+                                  "lead": "Garten (wir): Leider haben wir ",
+                                  "tail": " Garten.",
+                                  "answer": "keinen",
+                                  "explanation": "der Garten (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_d",
+                                  "label": "d)",
+                                  "lead": "Zeit (Lena): Leider hat sie ",
+                                  "tail": " Zeit.",
+                                  "answer": "keine",
+                                  "explanation": "die Zeit (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_e",
+                                  "label": "e)",
+                                  "lead": "Auto (du): Leider habe ich ",
+                                  "tail": " Auto.",
+                                  "answer": "kein",
+                                  "explanation": "das Auto (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_f",
+                                  "label": "f)",
+                                  "lead": "Stift (ich): Leider habe ich ",
+                                  "tail": " Stift.",
+                                  "answer": "keinen",
+                                  "explanation": "der Stift (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_g",
+                                  "label": "g)",
+                                  "lead": "E-Bike (ihr): Leider haben wir ",
+                                  "tail": " E-Bike.",
+                                  "answer": "kein",
+                                  "explanation": "das E-Bike (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p19_ex5_h",
+                                  "label": "h)",
+                                  "lead": "Informationen (Theo): Leider hat er ",
+                                  "tail": " Informationen.",
+                                  "answer": "keine",
+                                  "explanation": "die Informationen (Plural) ➔ keine",
+                                  "isCompact": true
+                            }
+                      ]
+                }
           ]
-        },
-        {
-          "id": "a1_p19_ex4",
-          "title": "Übung 4: Negation im Akkusativ (keinen, keine, kein)",
-          "instruction": "Antworten Sie verneinend mit „keinen“, „keine“ oder „kein“ im Akkusativ.",
-          "wordBox": [
-            "keinen",
-            "keine",
-            "kein"
-          ],
-          "answers": {
-            "a1_p19_ex4_a": "kein",
-            "a1_p19_ex4_b": "kein",
-            "a1_p19_ex4_c": "keine",
-            "a1_p19_ex4_d": "keine",
-            "a1_p19_ex4_e": "kein",
-            "a1_p19_ex4_f": "keinen",
-            "a1_p19_ex4_g": "keine",
-            "a1_p19_ex4_h": "keine",
-            "a1_p19_ex4_i": "kein",
-            "a1_p19_ex4_j": "kein",
-            "a1_p19_ex4_k": "keine",
-            "a1_p19_ex4_l": "keinen",
-            "a1_p19_ex4_m": "keinen",
-            "a1_p19_ex4_n": "keine",
-            "a1_p19_ex4_o": "keinen",
-            "a1_p19_ex4_p": "keinen"
-          },
-          "items": [
-            {
-              "id": "a1_p19_ex4_a",
-              "label": "a)",
-              "lead": "Isst du ein Stück Kuchen? — Nein danke, ich esse jetzt ",
-              "tail": " Stück Kuchen.",
-              "answer": "kein",
-              "explanation": "das Stück (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_b",
-              "label": "b)",
-              "lead": "Möchtest du ein Eis? — Nein danke, ich esse jetzt ",
-              "tail": " Eis.",
-              "answer": "kein",
-              "explanation": "das Eis (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_c",
-              "label": "c)",
-              "lead": "Bestellst du eine Pizza? — Nein danke, ich esse jetzt ",
-              "tail": " Pizza.",
-              "answer": "keine",
-              "explanation": "die Pizza (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_d",
-              "label": "d)",
-              "lead": "Nimmst du Pommes? — Nein danke, ich esse jetzt ",
-              "tail": " Pommes.",
-              "answer": "keine",
-              "explanation": "die Pommes (Plural) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_e",
-              "label": "e)",
-              "lead": "Brätst du ein Steak? — Nein danke, ich esse jetzt ",
-              "tail": " Steak.",
-              "answer": "kein",
-              "explanation": "das Steak (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_f",
-              "label": "f)",
-              "lead": "Trinkst du Kirschsaft? — Nein danke, ich trinke jetzt ",
-              "tail": " Kirschsaft.",
-              "answer": "keinen",
-              "explanation": "der Saft (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_g",
-              "label": "g)",
-              "lead": "Isst du eine Orange? — Nein danke, ich esse jetzt ",
-              "tail": " Orange.",
-              "answer": "keine",
-              "explanation": "die Orange (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_h",
-              "label": "h)",
-              "lead": "Möchtest du Erdnüsse? — Nein danke, ich esse jetzt ",
-              "tail": " Erdnüsse.",
-              "answer": "keine",
-              "explanation": "die Erdnüsse (Plural) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_i",
-              "label": "i)",
-              "lead": "Kaufst du ein Sandwich? — Nein danke, ich esse jetzt ",
-              "tail": " Sandwich.",
-              "answer": "kein",
-              "explanation": "das Sandwich (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_j",
-              "label": "j)",
-              "lead": "Trinkst du Mineralwasser? — Nein danke, ich trinke jetzt ",
-              "tail": " Mineralwasser.",
-              "answer": "kein",
-              "explanation": "das Wasser (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_k",
-              "label": "k)",
-              "lead": "Schälst du eine Kiwi? — Nein danke, ich esse jetzt ",
-              "tail": " Kiwi.",
-              "answer": "keine",
-              "explanation": "die Kiwi (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_l",
-              "label": "l)",
-              "lead": "Isst du Gurkensalat? — Nein danke, ich esse jetzt ",
-              "tail": " Gurkensalat.",
-              "answer": "keinen",
-              "explanation": "der Salat (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_m",
-              "label": "m)",
-              "lead": "Nimmst du einen Apfel? — Nein danke, ich esse jetzt ",
-              "tail": " Apfel.",
-              "answer": "keinen",
-              "explanation": "der Apfel (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_n",
-              "label": "n)",
-              "lead": "Kaufst du Erdbeeren? — Nein danke, ich esse jetzt ",
-              "tail": " Erdbeeren.",
-              "answer": "keine",
-              "explanation": "die Erdbeeren (Plural) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_o",
-              "label": "o)",
-              "lead": "Bestellst du Milchkaffee? — Nein danke, ich trinke jetzt ",
-              "tail": " Milchkaffee.",
-              "answer": "keinen",
-              "explanation": "der Kaffee (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex4_p",
-              "label": "p)",
-              "lead": "Isst du einen Burger? — Nein danke, ich esse jetzt ",
-              "tail": " Burger.",
-              "answer": "keinen",
-              "explanation": "der Burger (maskulin) ➔ keinen",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p19_ex5",
-          "title": "Übung 5: Feste Ausdrücke mit „haben“ + Negation",
-          "instruction": "Ergänzen Sie das passende Negationswort (keinen, keine, kein) nach dem Muster: „Leider habe ich keine Uhr.“",
-          "wordBox": [
-            "keinen",
-            "keine",
-            "kein"
-          ],
-          "answers": {
-            "a1_p19_ex5_a": "keinen",
-            "a1_p19_ex5_b": "kein",
-            "a1_p19_ex5_c": "keinen",
-            "a1_p19_ex5_d": "keine",
-            "a1_p19_ex5_e": "kein",
-            "a1_p19_ex5_f": "keinen",
-            "a1_p19_ex5_g": "kein",
-            "a1_p19_ex5_h": "keine"
-          },
-          "items": [
-            {
-              "id": "a1_p19_ex5_a",
-              "label": "a)",
-              "lead": "Urlaub (ihr): Leider haben wir ",
-              "tail": " Urlaub.",
-              "answer": "keinen",
-              "explanation": "der Urlaub (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_b",
-              "label": "b)",
-              "lead": "Notebook (du): Leider habe ich ",
-              "tail": " Notebook.",
-              "answer": "kein",
-              "explanation": "das Notebook (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_c",
-              "label": "c)",
-              "lead": "Garten (wir): Leider haben wir ",
-              "tail": " Garten.",
-              "answer": "keinen",
-              "explanation": "der Garten (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_d",
-              "label": "d)",
-              "lead": "Zeit (Lena): Leider hat sie ",
-              "tail": " Zeit.",
-              "answer": "keine",
-              "explanation": "die Zeit (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_e",
-              "label": "e)",
-              "lead": "Auto (du): Leider habe ich ",
-              "tail": " Auto.",
-              "answer": "kein",
-              "explanation": "das Auto (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_f",
-              "label": "f)",
-              "lead": "Stift (ich): Leider habe ich ",
-              "tail": " Stift.",
-              "answer": "keinen",
-              "explanation": "der Stift (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_g",
-              "label": "g)",
-              "lead": "E-Bike (ihr): Leider haben wir ",
-              "tail": " E-Bike.",
-              "answer": "kein",
-              "explanation": "das E-Bike (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p19_ex5_h",
-              "label": "h)",
-              "lead": "Informationen (Theo): Leider hat er ",
-              "tail": " Informationen.",
-              "answer": "keine",
-              "explanation": "die Informationen (Plural) ➔ keine",
-              "isCompact": true
-            }
-          ]
-        }
-      ]
     },
     "20": {
-      "lessonTitle": "4.3. Personalpronomen — Akkusativ",
-      "grammarSummary": "### 📌 4.3. Personalpronomen — Akkusativ (Personal Pronouns as Direct Objects)\n\n#### 1. Übersicht: Personalpronomen im Nominativ und Akkusativ\nWenn ein Personalpronomen das direkte Objekt einer Handlung ist (Frage: *Wen oder was?*), steht es im **Akkusativ**:\n\n| Person | Nominativ (Subjekt) | Akkusativ (Objekt) | Merkhilfe / Signal |\n| :--- | :--- | :--- | :--- |\n| **ich** | ich | **mich** | 1. Person Sg. (*Hörst du mich?*) |\n| **du** | du | **dich** | 2. Person Sg. (*Ich liebe dich.*) |\n| **er** | er | **ihn** | 3. Person Sg. maskulin (*der ➔ den ➔ ihn*) |\n| **sie** | sie | **sie** | 3. Person Sg. feminin (*die ➔ sie*) |\n| **es** | es | **es** | 3. Person Sg. neutral (*das ➔ es*) |\n| **wir** | wir | **uns** | 1. Person Plural (*Er besucht uns.*) |\n| **ihr** | ihr | **euch** | 2. Person Plural (*Ich kenne euch.*) |\n| **sie / Sie** | sie / Sie | **sie / Sie** | 3. Person Plural & Höflichkeitsform |\n\n---\n\n#### 2. Nomen durch Pronomen ersetzen (Pronomen-Referenz)\nPronomen ersetzen Nomen, die bereits genannt wurden, um Wiederholungen zu vermeiden. Das Genus des Nomens bestimmt das Pronomen:\n- *der Kuchen* (maskulin) ➔ Isst du den Kuchen? — Ja, ich esse **ihn**.\n- *die Suppe* (feminin) ➔ Kochst du die Suppe? — Ja, ich koche **sie**.\n- *das Buch* (neutral) ➔ Liest du das Buch? — Ja, ich lese **es**.\n- *die Erdbeeren* (Plural) ➔ Kaufst du die Erdbeeren? — Ja, ich kaufe **sie**.\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> German accusative personal pronouns match English **objective pronouns** almost 1-to-1:\n> - *mich* = **me** (*\"He sees me\"*)\n> - *dich* = **you** (*\"I know you\"*)\n> - *ihn* = **him** (*\"She loves him\"*)\n> - *sie* = **her** (*\"We ask her\"*)\n> - *es* = **it** (*\"I have it\"*)\n> - *uns* = **us** (*\"They call us\"*)\n> - *euch* = **you (all)** (*\"I invite you\"*)\n> - *sie* = **them** (*\"I see them\"*)\n> Just like in English you never say *\"She loves he\"* or *\"He sees I\"*, in German you always use the Akkusativ (*\"Sie liebt ihn\"*, *\"Er sieht mich\"*).",
-      "exercises": [
-        {
-          "id": "a1_p20_ex1",
-          "title": "Übung 1: Artikel ➔ Pronomen im Akkusativ",
-          "instruction": "Ersetzen Sie das Nomen durch das passende Akkusativpronomen (ihn, sie, es).",
-          "wordBox": [
-            "ihn",
-            "sie",
-            "es"
-          ],
-          "answers": {
-            "a1_p20_ex1_a": "sie",
-            "a1_p20_ex1_b": "ihn",
-            "a1_p20_ex1_c": "es",
-            "a1_p20_ex1_d": "es",
-            "a1_p20_ex1_e": "ihn"
-          },
-          "items": [
-            {
-              "id": "a1_p20_ex1_a",
-              "label": "a)",
-              "lead": "„Wer bekommt die Suppe?“ — „Ich bekomme ",
-              "tail": ".“",
-              "answer": "sie",
-              "explanation": "die Suppe (feminin) ➔ sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex1_b",
-              "label": "b)",
-              "lead": "„Wer bekommt den Salat?“ — „Ich bekomme ",
-              "tail": ".“",
-              "answer": "ihn",
-              "explanation": "der Salat (maskulin) ➔ ihn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex1_c",
-              "label": "c)",
-              "lead": "„Wer bekommt das Kotelett?“ — „Ich bekomme ",
-              "tail": ".“",
-              "answer": "es",
-              "explanation": "das Kotelett (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex1_d",
-              "label": "d)",
-              "lead": "„Wer bekommt das Eis?“ — „Ich bekomme ",
-              "tail": ".“",
-              "answer": "es",
-              "explanation": "das Eis (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex1_e",
-              "label": "e)",
-              "lead": "„Wer bekommt den Kaffee?“ — „Ich bekomme ",
-              "tail": ".“",
-              "answer": "ihn",
-              "explanation": "der Kaffee (maskulin) ➔ ihn",
-              "isCompact": true
-            }
+          "lessonTitle": "4.3. Personalpronomen — Akkusativ",
+          "grammarSummary": "### 📌 4.3. Personalpronomen — Akkusativ (Personal Pronouns as Direct Objects)\n\n#### 1. Übersicht: Personalpronomen im Nominativ und Akkusativ\nWenn ein Personalpronomen das direkte Objekt einer Handlung ist (Frage: *Wen oder was?*), steht es im **Akkusativ**:\n\n| Person | Nominativ (Subjekt) | Akkusativ (Objekt) | Merkhilfe / Signal |\n| :--- | :--- | :--- | :--- |\n| **ich** | ich | **mich** | 1. Person Sg. (*Hörst du mich?*) |\n| **du** | du | **dich** | 2. Person Sg. (*Ich liebe dich.*) |\n| **er** | er | **ihn** | 3. Person Sg. maskulin (*der ➔ den ➔ ihn*) |\n| **sie** | sie | **sie** | 3. Person Sg. feminin (*die ➔ sie*) |\n| **es** | es | **es** | 3. Person Sg. neutral (*das ➔ es*) |\n| **wir** | wir | **uns** | 1. Person Plural (*Er besucht uns.*) |\n| **ihr** | ihr | **euch** | 2. Person Plural (*Ich kenne euch.*) |\n| **sie / Sie** | sie / Sie | **sie / Sie** | 3. Person Plural & Höflichkeitsform |\n\n---\n\n#### 2. Nomen durch Pronomen ersetzen (Pronomen-Referenz)\nPronomen ersetzen Nomen, die bereits genannt wurden, um Wiederholungen zu vermeiden. Das Genus des Nomens bestimmt das Pronomen:\n- *der Kuchen* (maskulin) ➔ Isst du den Kuchen? — Ja, ich esse **ihn**.\n- *die Suppe* (feminin) ➔ Kochst du die Suppe? — Ja, ich koche **sie**.\n- *das Buch* (neutral) ➔ Liest du das Buch? — Ja, ich lese **es**.\n- *die Erdbeeren* (Plural) ➔ Kaufst du die Erdbeeren? — Ja, ich kaufe **sie**.\n\n---\n\n> 💡 **Englische Gedankenbrücke (Cognitive Bridge):**\n> German accusative personal pronouns match English **objective pronouns** almost 1-to-1:\n> - *mich* = **me** (*\"He sees me\"*)\n> - *dich* = **you** (*\"I know you\"*)\n> - *ihn* = **him** (*\"She loves him\"*)\n> - *sie* = **her** (*\"We ask her\"*)\n> - *es* = **it** (*\"I have it\"*)\n> - *uns* = **us** (*\"They call us\"*)\n> - *euch* = **you (all)** (*\"I invite you\"*)\n> - *sie* = **them** (*\"I see them\"*)\n> Just like in English you never say *\"She loves he\"* or *\"He sees I\"*, in German you always use the Akkusativ (*\"Sie liebt ihn\"*, *\"Er sieht mich\"*).",
+          "exercises": [
+                {
+                      "id": "a1_p20_ex1",
+                      "title": "Übung 1: Artikel ➔ Pronomen im Akkusativ",
+                      "instruction": "Ersetzen Sie das Nomen durch das passende Akkusativpronomen (ihn, sie, es).",
+                      "wordBox": [
+                            "ihn",
+                            "sie",
+                            "es"
+                      ],
+                      "answers": {
+                            "a1_p20_ex1_a": "sie",
+                            "a1_p20_ex1_b": "ihn",
+                            "a1_p20_ex1_c": "es",
+                            "a1_p20_ex1_d": "es",
+                            "a1_p20_ex1_e": "ihn"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p20_ex1_a",
+                                  "label": "a)",
+                                  "lead": "„Wer bekommt die Suppe?“ — „Ich bekomme ",
+                                  "tail": ".“",
+                                  "answer": "sie",
+                                  "explanation": "die Suppe (feminin) ➔ sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex1_b",
+                                  "label": "b)",
+                                  "lead": "„Wer bekommt den Salat?“ — „Ich bekomme ",
+                                  "tail": ".“",
+                                  "answer": "ihn",
+                                  "explanation": "der Salat (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex1_c",
+                                  "label": "c)",
+                                  "lead": "„Wer bekommt das Kotelett?“ — „Ich bekomme ",
+                                  "tail": ".“",
+                                  "answer": "es",
+                                  "explanation": "das Kotelett (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex1_d",
+                                  "label": "d)",
+                                  "lead": "„Wer bekommt das Eis?“ — „Ich bekomme ",
+                                  "tail": ".“",
+                                  "answer": "es",
+                                  "explanation": "das Eis (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex1_e",
+                                  "label": "e)",
+                                  "lead": "„Wer bekommt den Kaffee?“ — „Ich bekomme ",
+                                  "tail": ".“",
+                                  "answer": "ihn",
+                                  "explanation": "der Kaffee (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p20_ex2",
+                      "title": "Übung 2: Subjekt- und Objektpronomen im Kontrast",
+                      "instruction": "Ergänzen Sie das passende Akkusativpronomen für die angesprochene Person.",
+                      "wordBox": [
+                            "mich",
+                            "dich",
+                            "ihn",
+                            "sie",
+                            "es",
+                            "uns",
+                            "euch"
+                      ],
+                      "answers": {
+                            "a1_p20_ex2_a": "dich",
+                            "a1_p20_ex2_b": "sie",
+                            "a1_p20_ex2_c": "uns",
+                            "a1_p20_ex2_d": "euch",
+                            "a1_p20_ex2_e": "es",
+                            "a1_p20_ex2_f": "ihn",
+                            "a1_p20_ex2_g": "sie"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p20_ex2_a",
+                                  "label": "a)",
+                                  "lead": "Du kennst den Professor, aber er kennt ",
+                                  "tail": " nicht.",
+                                  "answer": "dich",
+                                  "explanation": "du (2. Person Sg.) ➔ Akkusativ: dich",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_b",
+                                  "label": "b)",
+                                  "lead": "Maria kennt den Lehrer, aber er kennt ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "Maria (feminin) ➔ Akkusativ: sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_c",
+                                  "label": "c)",
+                                  "lead": "Wir kennen Arnold Schwarzenegger, aber er kennt ",
+                                  "tail": " nicht.",
+                                  "answer": "uns",
+                                  "explanation": "wir (1. Person Pl.) ➔ Akkusativ: uns",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_d",
+                                  "label": "d)",
+                                  "lead": "Ihr kennt mich, aber ich kenne ",
+                                  "tail": " nicht.",
+                                  "answer": "euch",
+                                  "explanation": "ihr (2. Person Pl.) ➔ Akkusativ: euch",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_e",
+                                  "label": "e)",
+                                  "lead": "Das Mädchen kennt Paul, aber er kennt ",
+                                  "tail": " nicht.",
+                                  "answer": "es",
+                                  "explanation": "das Mädchen (neutral) ➔ Akkusativ: es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_f",
+                                  "label": "f)",
+                                  "lead": "Herr Meier kennt Frau Schneider, aber sie kennt ",
+                                  "tail": " nicht.",
+                                  "answer": "ihn",
+                                  "explanation": "Herr Meier (maskulin) ➔ Akkusativ: ihn",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex2_g",
+                                  "label": "g)",
+                                  "lead": "Frau Berg kennt dich, aber du kennst ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "Frau Berg (feminin) ➔ Akkusativ: sie",
+                                  "isCompact": true
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p20_ex3",
+                      "title": "Übung 3: Nomen durch Pronomen ersetzen (Verneinte Antworten)",
+                      "instruction": "Antworten Sie verneinend mit dem passenden Pronomen (ihn, sie, es) nach dem Muster: „Trinken Sie den Kaffee? — Nein, ich trinke ihn nicht.“",
+                      "wordBox": [
+                            "ihn",
+                            "sie",
+                            "es"
+                      ],
+                      "answers": {
+                            "a1_p20_ex3_a": "ihn",
+                            "a1_p20_ex3_b": "es",
+                            "a1_p20_ex3_c": "sie",
+                            "a1_p20_ex3_d": "es",
+                            "a1_p20_ex3_e": "sie",
+                            "a1_p20_ex3_f": "ihn",
+                            "a1_p20_ex3_g": "sie",
+                            "a1_p20_ex3_h": "es",
+                            "a1_p20_ex3_i": "sie",
+                            "a1_p20_ex3_j": "ihn",
+                            "a1_p20_ex3_k": "es",
+                            "a1_p20_ex3_l": "ihn"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p20_ex3_a",
+                                  "label": "a)",
+                                  "lead": "Essen Sie den Salat hier? — Nein, ich esse ",
+                                  "tail": " nicht.",
+                                  "answer": "ihn",
+                                  "explanation": "der Salat (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_b",
+                                  "label": "b)",
+                                  "lead": "Essen Sie das Sandwich hier? — Nein, ich esse ",
+                                  "tail": " nicht.",
+                                  "answer": "es",
+                                  "explanation": "das Sandwich (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_c",
+                                  "label": "c)",
+                                  "lead": "Trinken Sie die Milch hier? — Nein, ich trinke ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "die Milch (feminin) ➔ sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_d",
+                                  "label": "d)",
+                                  "lead": "Trinken Sie das Bier hier? — Nein, ich trinke ",
+                                  "tail": " nicht.",
+                                  "answer": "es",
+                                  "explanation": "das Bier (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_e",
+                                  "label": "e)",
+                                  "lead": "Essen Sie die Erdbeeren hier? — Nein, ich esse ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "die Erdbeeren (Plural) ➔ sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_f",
+                                  "label": "f)",
+                                  "lead": "Trinken Sie den Apfelsaft hier? — Nein, ich trinke ",
+                                  "tail": " nicht.",
+                                  "answer": "ihn",
+                                  "explanation": "der Apfelsaft (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_g",
+                                  "label": "g)",
+                                  "lead": "Lesen Sie die Zeitung hier? — Nein, ich lese ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "die Zeitung (feminin) ➔ sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_h",
+                                  "label": "h)",
+                                  "lead": "Trinken Sie das Mineralwasser hier? — Nein, ich trinke ",
+                                  "tail": " nicht.",
+                                  "answer": "es",
+                                  "explanation": "das Mineralwasser (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_i",
+                                  "label": "i)",
+                                  "lead": "Essen Sie die Suppe hier? — Nein, ich esse ",
+                                  "tail": " nicht.",
+                                  "answer": "sie",
+                                  "explanation": "die Suppe (feminin) ➔ sie",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_j",
+                                  "label": "j)",
+                                  "lead": "Trinken Sie den Tee hier? — Nein, ich trinke ",
+                                  "tail": " nicht.",
+                                  "answer": "ihn",
+                                  "explanation": "der Tee (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_k",
+                                  "label": "k)",
+                                  "lead": "Lesen Sie das Buch hier? — Nein, ich lese ",
+                                  "tail": " nicht.",
+                                  "answer": "es",
+                                  "explanation": "das Buch (neutral) ➔ es",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex3_l",
+                                  "label": "l)",
+                                  "lead": "Essen Sie den Kuchen hier? — Nein, ich esse ",
+                                  "tail": " nicht.",
+                                  "answer": "ihn",
+                                  "explanation": "der Kuchen (maskulin) ➔ ihn",
+                                  "isCompact": true
+                            }
+                      ]
+                },
+                {
+                      "id": "a1_p20_ex4",
+                      "title": "Übung 4: Akkusativ mit „mögen“ + Negation",
+                      "instruction": "Antworten Sie verneinend mit dem passenden Negationswort (keinen, keine, kein) nach dem Muster: „Mögen Sie Kaffee? — Nein, ich mag keinen Kaffee.“",
+                      "wordBox": [
+                            "keinen",
+                            "keine",
+                            "kein"
+                      ],
+                      "answers": {
+                            "a1_p20_ex4_a": "kein",
+                            "a1_p20_ex4_b": "keinen",
+                            "a1_p20_ex4_c": "keine",
+                            "a1_p20_ex4_d": "keinen",
+                            "a1_p20_ex4_e": "keine",
+                            "a1_p20_ex4_f": "kein",
+                            "a1_p20_ex4_g": "keine",
+                            "a1_p20_ex4_h": "keine"
+                      },
+                      "items": [
+                            {
+                                  "id": "a1_p20_ex4_a",
+                                  "label": "a)",
+                                  "lead": "Mögen Sie Erdbeereis? — Nein, ich mag ",
+                                  "tail": " Erdbeereis.",
+                                  "answer": "kein",
+                                  "explanation": "das Erdbeereis (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_b",
+                                  "label": "b)",
+                                  "lead": "Mögen Sie Kakao? — Nein, ich mag ",
+                                  "tail": " Kakao.",
+                                  "answer": "keinen",
+                                  "explanation": "der Kakao (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_c",
+                                  "label": "c)",
+                                  "lead": "Mögen Sie Tomatensuppe? — Nein, ich mag ",
+                                  "tail": " Tomatensuppe.",
+                                  "answer": "keine",
+                                  "explanation": "die Tomatensuppe (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_d",
+                                  "label": "d)",
+                                  "lead": "Mögen Sie Apfelsaft? — Nein, ich mag ",
+                                  "tail": " Apfelsaft.",
+                                  "answer": "keinen",
+                                  "explanation": "der Apfelsaft (maskulin) ➔ keinen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_e",
+                                  "label": "e)",
+                                  "lead": "Mögen Sie Schokolade? — Nein, ich mag ",
+                                  "tail": " Schokolade.",
+                                  "answer": "keine",
+                                  "explanation": "die Schokolade (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_f",
+                                  "label": "f)",
+                                  "lead": "Mögen Sie Bier? — Nein, ich mag ",
+                                  "tail": " Bier.",
+                                  "answer": "kein",
+                                  "explanation": "das Bier (neutral) ➔ kein",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_g",
+                                  "label": "g)",
+                                  "lead": "Mögen Sie Salami? — Nein, ich mag ",
+                                  "tail": " Salami.",
+                                  "answer": "keine",
+                                  "explanation": "die Salami (feminin) ➔ keine",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p20_ex4_h",
+                                  "label": "h)",
+                                  "lead": "Mögen Sie Pommes? — Nein, ich mag ",
+                                  "tail": " Pommes.",
+                                  "answer": "keine",
+                                  "explanation": "die Pommes (Plural) ➔ keine",
+                                  "isCompact": true
+                            }
+                      ]
+                }
           ]
-        },
-        {
-          "id": "a1_p20_ex2",
-          "title": "Übung 2: Subjekt- und Objektpronomen im Kontrast",
-          "instruction": "Ergänzen Sie das passende Akkusativpronomen für die angesprochene Person.",
-          "wordBox": [
-            "mich",
-            "dich",
-            "ihn",
-            "sie",
-            "es",
-            "uns",
-            "euch"
-          ],
-          "answers": {
-            "a1_p20_ex2_a": "dich",
-            "a1_p20_ex2_b": "sie",
-            "a1_p20_ex2_c": "uns",
-            "a1_p20_ex2_d": "euch",
-            "a1_p20_ex2_e": "es",
-            "a1_p20_ex2_f": "ihn",
-            "a1_p20_ex2_g": "sie"
-          },
-          "items": [
-            {
-              "id": "a1_p20_ex2_a",
-              "label": "a)",
-              "lead": "Du kennst den Professor, aber er kennt ",
-              "tail": " nicht.",
-              "answer": "dich",
-              "explanation": "du (2. Person Sg.) ➔ Akkusativ: dich",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_b",
-              "label": "b)",
-              "lead": "Maria kennt den Lehrer, aber er kennt ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "Maria (feminin) ➔ Akkusativ: sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_c",
-              "label": "c)",
-              "lead": "Wir kennen Arnold Schwarzenegger, aber er kennt ",
-              "tail": " nicht.",
-              "answer": "uns",
-              "explanation": "wir (1. Person Pl.) ➔ Akkusativ: uns",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_d",
-              "label": "d)",
-              "lead": "Ihr kennt mich, aber ich kenne ",
-              "tail": " nicht.",
-              "answer": "euch",
-              "explanation": "ihr (2. Person Pl.) ➔ Akkusativ: euch",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_e",
-              "label": "e)",
-              "lead": "Das Mädchen kennt Paul, aber er kennt ",
-              "tail": " nicht.",
-              "answer": "es",
-              "explanation": "das Mädchen (neutral) ➔ Akkusativ: es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_f",
-              "label": "f)",
-              "lead": "Herr Meier kennt Frau Schneider, aber sie kennt ",
-              "tail": " nicht.",
-              "answer": "ihn",
-              "explanation": "Herr Meier (maskulin) ➔ Akkusativ: ihn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex2_g",
-              "label": "g)",
-              "lead": "Frau Berg kennt dich, aber du kennst ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "Frau Berg (feminin) ➔ Akkusativ: sie",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p20_ex3",
-          "title": "Übung 3: Nomen durch Pronomen ersetzen (Verneinte Antworten)",
-          "instruction": "Antworten Sie verneinend mit dem passenden Pronomen (ihn, sie, es) nach dem Muster: „Trinken Sie den Kaffee? — Nein, ich trinke ihn nicht.“",
-          "wordBox": [
-            "ihn",
-            "sie",
-            "es"
-          ],
-          "answers": {
-            "a1_p20_ex3_a": "ihn",
-            "a1_p20_ex3_b": "es",
-            "a1_p20_ex3_c": "sie",
-            "a1_p20_ex3_d": "es",
-            "a1_p20_ex3_e": "sie",
-            "a1_p20_ex3_f": "ihn",
-            "a1_p20_ex3_g": "sie",
-            "a1_p20_ex3_h": "es",
-            "a1_p20_ex3_i": "sie",
-            "a1_p20_ex3_j": "ihn",
-            "a1_p20_ex3_k": "es",
-            "a1_p20_ex3_l": "ihn"
-          },
-          "items": [
-            {
-              "id": "a1_p20_ex3_a",
-              "label": "a)",
-              "lead": "Essen Sie den Salat hier? — Nein, ich esse ",
-              "tail": " nicht.",
-              "answer": "ihn",
-              "explanation": "der Salat (maskulin) ➔ ihn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_b",
-              "label": "b)",
-              "lead": "Essen Sie das Sandwich hier? — Nein, ich esse ",
-              "tail": " nicht.",
-              "answer": "es",
-              "explanation": "das Sandwich (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_c",
-              "label": "c)",
-              "lead": "Trinken Sie die Milch hier? — Nein, ich trinke ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "die Milch (feminin) ➔ sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_d",
-              "label": "d)",
-              "lead": "Trinken Sie das Bier hier? — Nein, ich trinke ",
-              "tail": " nicht.",
-              "answer": "es",
-              "explanation": "das Bier (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_e",
-              "label": "e)",
-              "lead": "Essen Sie die Erdbeeren hier? — Nein, ich esse ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "die Erdbeeren (Plural) ➔ sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_f",
-              "label": "f)",
-              "lead": "Trinken Sie den Apfelsaft hier? — Nein, ich trinke ",
-              "tail": " nicht.",
-              "answer": "ihn",
-              "explanation": "der Apfelsaft (maskulin) ➔ ihn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_g",
-              "label": "g)",
-              "lead": "Lesen Sie die Zeitung hier? — Nein, ich lese ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "die Zeitung (feminin) ➔ sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_h",
-              "label": "h)",
-              "lead": "Trinken Sie das Mineralwasser hier? — Nein, ich trinke ",
-              "tail": " nicht.",
-              "answer": "es",
-              "explanation": "das Mineralwasser (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_i",
-              "label": "i)",
-              "lead": "Essen Sie die Suppe hier? — Nein, ich esse ",
-              "tail": " nicht.",
-              "answer": "sie",
-              "explanation": "die Suppe (feminin) ➔ sie",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_j",
-              "label": "j)",
-              "lead": "Trinken Sie den Tee hier? — Nein, ich trinke ",
-              "tail": " nicht.",
-              "answer": "ihn",
-              "explanation": "der Tee (maskulin) ➔ ihn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_k",
-              "label": "k)",
-              "lead": "Lesen Sie das Buch hier? — Nein, ich lese ",
-              "tail": " nicht.",
-              "answer": "es",
-              "explanation": "das Buch (neutral) ➔ es",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex3_l",
-              "label": "l)",
-              "lead": "Essen Sie den Kuchen hier? — Nein, ich esse ",
-              "tail": " nicht.",
-              "answer": "ihn",
-              "explanation": "der Kuchen (maskulin) ➔ ihn",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p20_ex4",
-          "title": "Übung 4: Akkusativ mit „mögen“ + Negation",
-          "instruction": "Antworten Sie verneinend mit dem passenden Negationswort (keinen, keine, kein) nach dem Muster: „Mögen Sie Kaffee? — Nein, ich mag keinen Kaffee.“",
-          "wordBox": [
-            "keinen",
-            "keine",
-            "kein"
-          ],
-          "answers": {
-            "a1_p20_ex4_a": "kein",
-            "a1_p20_ex4_b": "keinen",
-            "a1_p20_ex4_c": "keine",
-            "a1_p20_ex4_d": "keinen",
-            "a1_p20_ex4_e": "keine",
-            "a1_p20_ex4_f": "kein",
-            "a1_p20_ex4_g": "keine",
-            "a1_p20_ex4_h": "keine"
-          },
-          "items": [
-            {
-              "id": "a1_p20_ex4_a",
-              "label": "a)",
-              "lead": "Mögen Sie Erdbeereis? — Nein, ich mag ",
-              "tail": " Erdbeereis.",
-              "answer": "kein",
-              "explanation": "das Erdbeereis (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_b",
-              "label": "b)",
-              "lead": "Mögen Sie Kakao? — Nein, ich mag ",
-              "tail": " Kakao.",
-              "answer": "keinen",
-              "explanation": "der Kakao (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_c",
-              "label": "c)",
-              "lead": "Mögen Sie Tomatensuppe? — Nein, ich mag ",
-              "tail": " Tomatensuppe.",
-              "answer": "keine",
-              "explanation": "die Tomatensuppe (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_d",
-              "label": "d)",
-              "lead": "Mögen Sie Apfelsaft? — Nein, ich mag ",
-              "tail": " Apfelsaft.",
-              "answer": "keinen",
-              "explanation": "der Apfelsaft (maskulin) ➔ keinen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_e",
-              "label": "e)",
-              "lead": "Mögen Sie Schokolade? — Nein, ich mag ",
-              "tail": " Schokolade.",
-              "answer": "keine",
-              "explanation": "die Schokolade (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_f",
-              "label": "f)",
-              "lead": "Mögen Sie Bier? — Nein, ich mag ",
-              "tail": " Bier.",
-              "answer": "kein",
-              "explanation": "das Bier (neutral) ➔ kein",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_g",
-              "label": "g)",
-              "lead": "Mögen Sie Salami? — Nein, ich mag ",
-              "tail": " Salami.",
-              "answer": "keine",
-              "explanation": "die Salami (feminin) ➔ keine",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p20_ex4_h",
-              "label": "h)",
-              "lead": "Mögen Sie Pommes? — Nein, ich mag ",
-              "tail": " Pommes.",
-              "answer": "keine",
-              "explanation": "die Pommes (Plural) ➔ keine",
-              "isCompact": true
-            }
-          ]
-        }
-      ]
     },
     "21": {
       "lessonTitle": "5.1. Possessivartikel — Nominativ und Akkusativ",
@@ -10180,4561 +10182,4446 @@ window.WORKBOOKS_KEYS = {
       "grammarSummary": "### 📌 Grammatik-Fokus: Der Imperativ (Die Befehlsform)\n\n#### 1. Was ist der Imperativ?\nDer **Imperativ** drückt Aufforderungen, Befehle, Ratschläge, Hinweise und Bitten aus.\nIm Deutschen steht das finite Verb im Imperativ immer an **Position I** (Satzanfang), und der Satz endet in der Regel mit einem **Ausrufezeichen (!)**.\n\n---\n\n#### 2. Die drei Formen des Imperativs\n\n| Anredeform | Bildung | Besonderheit | Beispiele |\n|:---|:---|:---|:---|\n| **du (informell Sg.)** | **Verbstamm**<br>*(ohne Personalpronomen „du“, ohne Endung „-st“)* | - Stamm auf *-t/-d*: Endung **-e** (*arbeite!*)<br>- Vokalwechsel *e ➔ i/ie* bleibt (*gib! lies!*)<br>- **Kein Umlaut** bei *a/au* (*fahr! lauf!*) | *Frag!*, *Kauf!*, *Arbeite!*, *Fahr!*, *Gib!*, *Lies!* |\n| **ihr (informell Pl.)** | **Präsensform von ihr**<br>*(ohne Personalpronomen „ihr“)* | Endung **-t** wie im normalen Aussagesatz | *Fragt!*, *Kauft!*, *Arbeitet!*, *Fahrt!*, *Gebt!*, *Lest!* |\n| **Sie (formell)** | **Infinitiv + Sie**<br>*(Verb und Pronomen tauschen den Platz)* | Höflichkeitspronomen **Sie** bleibt erhalten | *Fragen Sie!*, *Kaufen Sie!*, *Arbeiten Sie!*, *Fahren Sie!* |\n\n> [!IMPORTANT]\n> **Vier goldene Imperativ-Regeln:**\n> 1. **Kein Umlaut bei du:** Zwar heißt es *du fährst* und *du läufst*, aber im Imperativ heißt es: **Fahr!** und **Lauf!** (ohne Umlaut!).\n> 2. **Vokalwechsel e ➔ i/ie bleibt:** *du gibst ➔ Gib!*, *du liest ➔ Lies!*, *du nimmst ➔ Nimm!*, *du isst ➔ Iss!*.\n> 3. **Endung -e bei -t/-d:** Endet der Verbstamm auf *-t* oder *-d*, hängt man im Singular immer ein **-e** an: *Arbeite!*, *Antworte!*, *Warte!*, *Rede!*.\n> 4. **Sonderform von „sein“:** *du ➔ Sei!*, *ihr ➔ Seid!*, *Sie ➔ Seien Sie!*.\n\n---\n\n#### 3. Trennbare Verben im Imperativ\nBei trennbaren Verben steht der konjugierte Verbstamm am Satzanfang (Position I) und das trennbare Präfix am **Satzende**:\n- **anrufen:** *Ruf mich bitte morgen **an**!*\n- **einsteigen:** *Steigen Sie bitte schnell **ein**!*\n- **zuhören:** *Hört jetzt alle gut **zu**!*\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n- **Targeted Addressing:** While English uses the plain base verb for everyone (*\"Come here!\"*), German strictly tailors the command to whether you address one friend (*Komm!*), several friends (*Kommt!*), or a formal acquaintance (*Kommen Sie!*).\n- **The \"No Umlaut\" Surprise:** Many English learners mistakenly add an umlaut because of *du fährst*. Remember: the imperative strips the umlaut (*Fahr!*, *Schlaf!*, *Lauf!*)."
     },
     "27": {
-      "lessonTitle": "7.2. Modalverben (können, müssen, dürfen, wollen, sollen, möchten)",
-      "exercises": [
-        {
-          "id": "a1_p27_ex1",
-          "title": "📝 Übung 1: Absichten & Fähigkeiten — „wollen“ und „können“",
-          "instruction": "Setzen Sie das angegebene Modalverb in der richtigen Personalform ein. Achten Sie auf die Satzklammer und das Verb am Satzende.",
-          "wordBox": [
-            "wollt",
-            "willst",
-            "will",
-            "kannst",
-            "kann",
-            "können"
+          "lessonTitle": "7.2. Modalverben (können, müssen, dürfen, wollen, sollen, möchten)",
+          "exercises": [
+                {
+                      "id": "a1_p27_ex1",
+                      "title": "📝 Übung 1: Absichten & Fähigkeiten — „wollen“ und „können“",
+                      "instruction": "Setzen Sie das angegebene Modalverb in der richtigen Personalform ein. Achten Sie auf die Satzklammer und das Verb am Satzende.",
+                      "wordBox": [
+                            "wollt",
+                            "willst",
+                            "will",
+                            "kannst",
+                            "kann",
+                            "können"
+                      ],
+                      "items": [
+                            {
+                                  "id": "a1_p27_ex1_a",
+                                  "label": "a)",
+                                  "prompt": "wollen (ihr)",
+                                  "lead": "Ihr ",
+                                  "tail": " nicht so früh aufstehen.",
+                                  "answer": "wollt",
+                                  "explanation": "Subjekt ihr ➔ wollt (wollen)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_b",
+                                  "label": "b)",
+                                  "prompt": "wollen (du)",
+                                  "lead": "Du ",
+                                  "tail": " Klaus heute nicht treffen.",
+                                  "answer": "willst",
+                                  "explanation": "Subjekt du ➔ willst (wollen)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_c",
+                                  "label": "c)",
+                                  "prompt": "wollen (ich)",
+                                  "lead": "Ich ",
+                                  "tail": " den süßen Kuchen nicht essen.",
+                                  "answer": "will",
+                                  "explanation": "Subjekt ich ➔ will (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_d",
+                                  "label": "d)",
+                                  "prompt": "wollen (Eva)",
+                                  "lead": "Eva ",
+                                  "tail": " heute Abend kein Bier trinken.",
+                                  "answer": "will",
+                                  "explanation": "Subjekt Eva (3s) ➔ will (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_e",
+                                  "label": "e)",
+                                  "prompt": "können (du)",
+                                  "lead": "Du ",
+                                  "tail": " den schweren Koffer nicht tragen.",
+                                  "answer": "kannst",
+                                  "explanation": "Subjekt du ➔ kannst (können)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_f",
+                                  "label": "f)",
+                                  "prompt": "können (Carlos)",
+                                  "lead": "Carlos ",
+                                  "tail": " wirklich sehr schnell laufen.",
+                                  "answer": "kann",
+                                  "explanation": "Subjekt Carlos (3s) ➔ kann (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_g",
+                                  "label": "g)",
+                                  "prompt": "können (ich)",
+                                  "lead": "Ich ",
+                                  "tail": " bei dem Lärm nicht einschlafen.",
+                                  "answer": "kann",
+                                  "explanation": "Subjekt ich ➔ kann (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex1_h",
+                                  "label": "h)",
+                                  "prompt": "können (wir)",
+                                  "lead": "Wir ",
+                                  "tail": " euch von hier aus leider nicht sehen.",
+                                  "answer": "können",
+                                  "explanation": "Subjekt wir ➔ können",
+                                  "isCompact": true
+                            }
+                      ],
+                      "answers": {
+                            "a1_p27_ex1_a": "wollt",
+                            "a1_p27_ex1_b": "willst",
+                            "a1_p27_ex1_c": "will",
+                            "a1_p27_ex1_d": "will",
+                            "a1_p27_ex1_e": "kannst",
+                            "a1_p27_ex1_f": "kann",
+                            "a1_p27_ex1_g": "kann",
+                            "a1_p27_ex1_h": "können"
+                      },
+                      "explanations": {
+                            "a1_p27_ex1_a": "Subjekt ihr ➔ wollt (wollen)",
+                            "a1_p27_ex1_b": "Subjekt du ➔ willst (wollen)",
+                            "a1_p27_ex1_c": "Subjekt ich ➔ will (1s = 3s ohne Endung)",
+                            "a1_p27_ex1_d": "Subjekt Eva (3s) ➔ will (1s = 3s ohne Endung)",
+                            "a1_p27_ex1_e": "Subjekt du ➔ kannst (können)",
+                            "a1_p27_ex1_f": "Subjekt Carlos (3s) ➔ kann (1s = 3s ohne Endung)",
+                            "a1_p27_ex1_g": "Subjekt ich ➔ kann (1s = 3s ohne Endung)",
+                            "a1_p27_ex1_h": "Subjekt wir ➔ können"
+                      }
+                },
+                {
+                      "id": "a1_p27_ex2",
+                      "title": "📝 Übung 2: Erlaubnis & Pflicht — „dürfen“ und „müssen“",
+                      "instruction": "Setzen Sie das angegebene Modalverb in der richtigen Personalform ein.",
+                      "wordBox": [
+                            "dürft",
+                            "darf",
+                            "dürfen",
+                            "darfst",
+                            "müsst",
+                            "muss",
+                            "müssen"
+                      ],
+                      "items": [
+                            {
+                                  "id": "a1_p27_ex2_a",
+                                  "label": "a)",
+                                  "prompt": "dürfen (ihr)",
+                                  "lead": "Ihr ",
+                                  "tail": " heute leider nicht mitkommen.",
+                                  "answer": "dürft",
+                                  "explanation": "Subjekt ihr ➔ dürft (dürfen)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_b",
+                                  "label": "b)",
+                                  "prompt": "dürfen (ich)",
+                                  "lead": "Ich ",
+                                  "tail": " laut Arzt nicht mehr rauchen.",
+                                  "answer": "darf",
+                                  "explanation": "Subjekt ich ➔ darf (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_c",
+                                  "label": "c)",
+                                  "prompt": "dürfen (Kinder)",
+                                  "lead": "Kinder ",
+                                  "tail": " keinen Alkohol trinken.",
+                                  "answer": "dürfen",
+                                  "explanation": "Subjekt Kinder (Plural) ➔ dürfen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_d",
+                                  "label": "d)",
+                                  "prompt": "dürfen (du)",
+                                  "lead": "Du ",
+                                  "tail": " wegen der Diät keinen Zucker essen.",
+                                  "answer": "darfst",
+                                  "explanation": "Subjekt du ➔ darfst (dürfen)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_e",
+                                  "label": "e)",
+                                  "prompt": "müssen (ihr)",
+                                  "lead": "Ihr ",
+                                  "tail": " für das Abendessen noch einkaufen.",
+                                  "answer": "müsst",
+                                  "explanation": "Subjekt ihr ➔ müsst (müssen)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_f",
+                                  "label": "f)",
+                                  "prompt": "müssen (ich)",
+                                  "lead": "Ich ",
+                                  "tail": " dreimal täglich das Medikament nehmen.",
+                                  "answer": "muss",
+                                  "explanation": "Subjekt ich ➔ muss (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_g",
+                                  "label": "g)",
+                                  "prompt": "müssen (Paul)",
+                                  "lead": "Paul ",
+                                  "tail": " dringend das Fahrrad reparieren.",
+                                  "answer": "muss",
+                                  "explanation": "Subjekt Paul (3s) ➔ muss (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex2_h",
+                                  "label": "h)",
+                                  "prompt": "müssen (wir)",
+                                  "lead": "Wir ",
+                                  "tail": " am Bahnhof lange auf den Zug warten.",
+                                  "answer": "müssen",
+                                  "explanation": "Subjekt wir ➔ müssen",
+                                  "isCompact": true
+                            }
+                      ],
+                      "answers": {
+                            "a1_p27_ex2_a": "dürft",
+                            "a1_p27_ex2_b": "darf",
+                            "a1_p27_ex2_c": "dürfen",
+                            "a1_p27_ex2_d": "darfst",
+                            "a1_p27_ex2_e": "müsst",
+                            "a1_p27_ex2_f": "muss",
+                            "a1_p27_ex2_g": "muss",
+                            "a1_p27_ex2_h": "müssen"
+                      },
+                      "explanations": {
+                            "a1_p27_ex2_a": "Subjekt ihr ➔ dürft (dürfen)",
+                            "a1_p27_ex2_b": "Subjekt ich ➔ darf (1s = 3s ohne Endung)",
+                            "a1_p27_ex2_c": "Subjekt Kinder (Plural) ➔ dürfen",
+                            "a1_p27_ex2_d": "Subjekt du ➔ darfst (dürfen)",
+                            "a1_p27_ex2_e": "Subjekt ihr ➔ müsst (müssen)",
+                            "a1_p27_ex2_f": "Subjekt ich ➔ muss (1s = 3s ohne Endung)",
+                            "a1_p27_ex2_g": "Subjekt Paul (3s) ➔ muss (1s = 3s ohne Endung)",
+                            "a1_p27_ex2_h": "Subjekt wir ➔ müssen"
+                      }
+                },
+                {
+                      "id": "a1_p27_ex3",
+                      "title": "📝 Übung 3: Freizeitaktivitäten & Hobbys — Verneinung mit „können“",
+                      "instruction": "Antworten Sie verneinend auf die Fragen. Wählen Sie die passende Aktivität mit dem Infinitiv „spielen“ am Satzende aus dem Wortkasten.",
+                      "wordBox": [
+                            "Schach spielen",
+                            "Tischtennis spielen",
+                            "Karten spielen",
+                            "Theater spielen",
+                            "Roulette spielen",
+                            "Geige spielen",
+                            "Golf spielen",
+                            "Fußball spielen"
+                      ],
+                      "items": [
+                            {
+                                  "id": "a1_p27_ex3_a",
+                                  "label": "a)",
+                                  "prompt": "Schach",
+                                  "lead": "Spielst du Schach? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Schach spielen",
+                                  "explanation": "Aktivität im Infinitiv am Satzende ➔ Schach spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_b",
+                                  "label": "b)",
+                                  "prompt": "Tischtennis",
+                                  "lead": "Spielst du Tischtennis? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Tischtennis spielen",
+                                  "explanation": "Aktivität im Infinitiv am Satzende ➔ Tischtennis spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_c",
+                                  "label": "c)",
+                                  "prompt": "Karten",
+                                  "lead": "Spielst du Karten? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Karten spielen",
+                                  "explanation": "Aktivität im Infinitiv am Satzende ➔ Karten spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_d",
+                                  "label": "d)",
+                                  "prompt": "Theater",
+                                  "lead": "Spielst du Theater? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Theater spielen",
+                                  "explanation": "Aktivität im Infinitiv am Satzende ➔ Theater spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_e",
+                                  "label": "e)",
+                                  "prompt": "Roulette",
+                                  "lead": "Spielst du Roulette? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Roulette spielen",
+                                  "explanation": "Aktivität im Infinitiv am Satzende ➔ Roulette spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_f",
+                                  "label": "f)",
+                                  "prompt": "Geige",
+                                  "lead": "Spielst du Geige? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Geige spielen",
+                                  "explanation": "Musikinstrument im Infinitiv am Satzende ➔ Geige spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_g",
+                                  "label": "g)",
+                                  "prompt": "Golf",
+                                  "lead": "Spielst du Golf? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Golf spielen",
+                                  "explanation": "Sportart im Infinitiv am Satzende ➔ Golf spielen",
+                                  "isCompact": false
+                            },
+                            {
+                                  "id": "a1_p27_ex3_h",
+                                  "label": "h)",
+                                  "prompt": "Fußball",
+                                  "lead": "Spielst du Fußball? — Nein, ich kann nicht ",
+                                  "tail": ".",
+                                  "answer": "Fußball spielen",
+                                  "explanation": "Sportart im Infinitiv am Satzende ➔ Fußball spielen",
+                                  "isCompact": false
+                            }
+                      ],
+                      "answers": {
+                            "a1_p27_ex3_a": "Schach spielen",
+                            "a1_p27_ex3_b": "Tischtennis spielen",
+                            "a1_p27_ex3_c": "Karten spielen",
+                            "a1_p27_ex3_d": "Theater spielen",
+                            "a1_p27_ex3_e": "Roulette spielen",
+                            "a1_p27_ex3_f": "Geige spielen",
+                            "a1_p27_ex3_g": "Golf spielen",
+                            "a1_p27_ex3_h": "Fußball spielen"
+                      },
+                      "explanations": {
+                            "a1_p27_ex3_a": "Aktivität im Infinitiv am Satzende ➔ Schach spielen",
+                            "a1_p27_ex3_b": "Aktivität im Infinitiv am Satzende ➔ Tischtennis spielen",
+                            "a1_p27_ex3_c": "Aktivität im Infinitiv am Satzende ➔ Karten spielen",
+                            "a1_p27_ex3_d": "Aktivität im Infinitiv am Satzende ➔ Theater spielen",
+                            "a1_p27_ex3_e": "Aktivität im Infinitiv am Satzende ➔ Roulette spielen",
+                            "a1_p27_ex3_f": "Musikinstrument im Infinitiv am Satzende ➔ Geige spielen",
+                            "a1_p27_ex3_g": "Sportart im Infinitiv am Satzende ➔ Golf spielen",
+                            "a1_p27_ex3_h": "Sportart im Infinitiv am Satzende ➔ Fußball spielen"
+                      }
+                },
+                {
+                      "id": "a1_p27_ex4",
+                      "title": "📝 Übung 4: Ratschläge & Wünsche — „sollen“ und „möchten“",
+                      "instruction": "Setzen Sie das passende Modalverb („sollen“ für Ratschläge/Aufträge oder „möchten“ für Wünsche) in der richtigen Form ein.",
+                      "wordBox": [
+                            "soll",
+                            "sollst",
+                            "sollen",
+                            "möchte",
+                            "möchtest",
+                            "möchten"
+                      ],
+                      "items": [
+                            {
+                                  "id": "a1_p27_ex4_a",
+                                  "label": "a)",
+                                  "prompt": "sollen (ich)",
+                                  "lead": "Der Arzt sagt, ich ",
+                                  "tail": " viel Tee trinken und schlafen.",
+                                  "answer": "soll",
+                                  "explanation": "Ärztliche Empfehlung (1s) ➔ soll (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex4_b",
+                                  "label": "b)",
+                                  "prompt": "sollen (du)",
+                                  "lead": "Was ",
+                                  "tail": " du heute für die Hausaufgabe machen?",
+                                  "answer": "sollst",
+                                  "explanation": "Auftrag/Frage (2s) ➔ sollst",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex4_c",
+                                  "label": "c)",
+                                  "prompt": "sollen (wir)",
+                                  "lead": "Wir ",
+                                  "tail": " leise sein, das Baby schläft.",
+                                  "answer": "sollen",
+                                  "explanation": "Regel/Aufforderung (1p) ➔ sollen",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex4_d",
+                                  "label": "d)",
+                                  "prompt": "möchten (du)",
+                                  "lead": "Was ",
+                                  "tail": " du trinken? Einen Orangensaft?",
+                                  "answer": "möchtest",
+                                  "explanation": "Höflicher Wunsch (2s) ➔ möchtest",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex4_e",
+                                  "label": "e)",
+                                  "prompt": "möchten (ich)",
+                                  "lead": "Ich ",
+                                  "tail": " bitte die Speisekarte sehen.",
+                                  "answer": "möchte",
+                                  "explanation": "Höflicher Wunsch (1s) ➔ möchte (1s = 3s ohne Endung)",
+                                  "isCompact": true
+                            },
+                            {
+                                  "id": "a1_p27_ex4_f",
+                                  "label": "f)",
+                                  "prompt": "möchten (die Gäste)",
+                                  "lead": "Die Gäste ",
+                                  "tail": " gerne draußen auf der Terrasse sitzen.",
+                                  "answer": "möchten",
+                                  "explanation": "Höflicher Wunsch (3p) ➔ möchten",
+                                  "isCompact": true
+                            }
+                      ],
+                      "answers": {
+                            "a1_p27_ex4_a": "soll",
+                            "a1_p27_ex4_b": "sollst",
+                            "a1_p27_ex4_c": "sollen",
+                            "a1_p27_ex4_d": "möchtest",
+                            "a1_p27_ex4_e": "möchte",
+                            "a1_p27_ex4_f": "möchten"
+                      },
+                      "explanations": {
+                            "a1_p27_ex4_a": "Ärztliche Empfehlung (1s) ➔ soll (1s = 3s ohne Endung)",
+                            "a1_p27_ex4_b": "Auftrag/Frage (2s) ➔ sollst",
+                            "a1_p27_ex4_c": "Regel/Aufforderung (1p) ➔ sollen",
+                            "a1_p27_ex4_d": "Höflicher Wunsch (2s) ➔ möchtest",
+                            "a1_p27_ex4_e": "Höflicher Wunsch (1s) ➔ möchte (1s = 3s ohne Endung)",
+                            "a1_p27_ex4_f": "Höflicher Wunsch (3p) ➔ möchten"
+                      }
+                }
           ],
-          "items": [
-            {
-              "id": "a1_p27_ex1_a",
-              "label": "a)",
-              "prompt": "wollen (ihr)",
-              "lead": "Ihr ",
-              "tail": " nicht so früh aufstehen.",
-              "answer": "wollt",
-              "explanation": "Subjekt ihr ➔ wollt (wollen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_b",
-              "label": "b)",
-              "prompt": "wollen (du)",
-              "lead": "Du ",
-              "tail": " Klaus heute nicht treffen.",
-              "answer": "willst",
-              "explanation": "Subjekt du ➔ willst (wollen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_c",
-              "label": "c)",
-              "prompt": "wollen (ich)",
-              "lead": "Ich ",
-              "tail": " den süßen Kuchen nicht essen.",
-              "answer": "will",
-              "explanation": "Subjekt ich ➔ will (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_d",
-              "label": "d)",
-              "prompt": "wollen (Eva)",
-              "lead": "Eva ",
-              "tail": " heute Abend kein Bier trinken.",
-              "answer": "will",
-              "explanation": "Subjekt Eva (3s) ➔ will (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_e",
-              "label": "e)",
-              "prompt": "können (du)",
-              "lead": "Du ",
-              "tail": " den schweren Koffer nicht tragen.",
-              "answer": "kannst",
-              "explanation": "Subjekt du ➔ kannst (können)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_f",
-              "label": "f)",
-              "prompt": "können (Carlos)",
-              "lead": "Carlos ",
-              "tail": " wirklich sehr schnell laufen.",
-              "answer": "kann",
-              "explanation": "Subjekt Carlos (3s) ➔ kann (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_g",
-              "label": "g)",
-              "prompt": "können (ich)",
-              "lead": "Ich ",
-              "tail": " bei dem Lärm nicht einschlafen.",
-              "answer": "kann",
-              "explanation": "Subjekt ich ➔ kann (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex1_h",
-              "label": "h)",
-              "prompt": "können (wir)",
-              "lead": "Wir ",
-              "tail": " euch von hier aus leider nicht sehen.",
-              "answer": "können",
-              "explanation": "Subjekt wir ➔ können",
-              "isCompact": true
-            }
-          ],
-          "answers": {
-            "a1_p27_ex1_a": "wollt",
-            "a1_p27_ex1_b": "willst",
-            "a1_p27_ex1_c": "will",
-            "a1_p27_ex1_d": "will",
-            "a1_p27_ex1_e": "kannst",
-            "a1_p27_ex1_f": "kann",
-            "a1_p27_ex1_g": "kann",
-            "a1_p27_ex1_h": "können"
-          },
-          "explanations": {
-            "a1_p27_ex1_a": "Subjekt ihr ➔ wollt (wollen)",
-            "a1_p27_ex1_b": "Subjekt du ➔ willst (wollen)",
-            "a1_p27_ex1_c": "Subjekt ich ➔ will (1s = 3s ohne Endung)",
-            "a1_p27_ex1_d": "Subjekt Eva (3s) ➔ will (1s = 3s ohne Endung)",
-            "a1_p27_ex1_e": "Subjekt du ➔ kannst (können)",
-            "a1_p27_ex1_f": "Subjekt Carlos (3s) ➔ kann (1s = 3s ohne Endung)",
-            "a1_p27_ex1_g": "Subjekt ich ➔ kann (1s = 3s ohne Endung)",
-            "a1_p27_ex1_h": "Subjekt wir ➔ können"
-          }
-        },
-        {
-          "id": "a1_p27_ex2",
-          "title": "📝 Übung 2: Erlaubnis & Pflicht — „dürfen“ und „müssen“",
-          "instruction": "Setzen Sie das angegebene Modalverb in der richtigen Personalform ein.",
-          "wordBox": [
-            "dürft",
-            "darf",
-            "dürfen",
-            "darfst",
-            "müsst",
-            "muss",
-            "müssen"
-          ],
-          "items": [
-            {
-              "id": "a1_p27_ex2_a",
-              "label": "a)",
-              "prompt": "dürfen (ihr)",
-              "lead": "Ihr ",
-              "tail": " heute leider nicht mitkommen.",
-              "answer": "dürft",
-              "explanation": "Subjekt ihr ➔ dürft (dürfen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_b",
-              "label": "b)",
-              "prompt": "dürfen (ich)",
-              "lead": "Ich ",
-              "tail": " laut Arzt nicht mehr rauchen.",
-              "answer": "darf",
-              "explanation": "Subjekt ich ➔ darf (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_c",
-              "label": "c)",
-              "prompt": "dürfen (Kinder)",
-              "lead": "Kinder ",
-              "tail": " keinen Alkohol trinken.",
-              "answer": "dürfen",
-              "explanation": "Subjekt Kinder (Plural) ➔ dürfen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_d",
-              "label": "d)",
-              "prompt": "dürfen (du)",
-              "lead": "Du ",
-              "tail": " wegen der Diät keinen Zucker essen.",
-              "answer": "darfst",
-              "explanation": "Subjekt du ➔ darfst (dürfen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_e",
-              "label": "e)",
-              "prompt": "müssen (ihr)",
-              "lead": "Ihr ",
-              "tail": " für das Abendessen noch einkaufen.",
-              "answer": "müsst",
-              "explanation": "Subjekt ihr ➔ müsst (müssen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_f",
-              "label": "f)",
-              "prompt": "müssen (ich)",
-              "lead": "Ich ",
-              "tail": " dreimal täglich das Medikament nehmen.",
-              "answer": "muss",
-              "explanation": "Subjekt ich ➔ muss (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_g",
-              "label": "g)",
-              "prompt": "müssen (Paul)",
-              "lead": "Paul ",
-              "tail": " dringend das Fahrrad reparieren.",
-              "answer": "muss",
-              "explanation": "Subjekt Paul (3s) ➔ muss (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex2_h",
-              "label": "h)",
-              "prompt": "müssen (wir)",
-              "lead": "Wir ",
-              "tail": " am Bahnhof lange auf den Zug warten.",
-              "answer": "müssen",
-              "explanation": "Subjekt wir ➔ müssen",
-              "isCompact": true
-            }
-          ],
-          "answers": {
-            "a1_p27_ex2_a": "dürft",
-            "a1_p27_ex2_b": "darf",
-            "a1_p27_ex2_c": "dürfen",
-            "a1_p27_ex2_d": "darfst",
-            "a1_p27_ex2_e": "müsst",
-            "a1_p27_ex2_f": "muss",
-            "a1_p27_ex2_g": "muss",
-            "a1_p27_ex2_h": "müssen"
-          },
-          "explanations": {
-            "a1_p27_ex2_a": "Subjekt ihr ➔ dürft (dürfen)",
-            "a1_p27_ex2_b": "Subjekt ich ➔ darf (1s = 3s ohne Endung)",
-            "a1_p27_ex2_c": "Subjekt Kinder (Plural) ➔ dürfen",
-            "a1_p27_ex2_d": "Subjekt du ➔ darfst (dürfen)",
-            "a1_p27_ex2_e": "Subjekt ihr ➔ müsst (müssen)",
-            "a1_p27_ex2_f": "Subjekt ich ➔ muss (1s = 3s ohne Endung)",
-            "a1_p27_ex2_g": "Subjekt Paul (3s) ➔ muss (1s = 3s ohne Endung)",
-            "a1_p27_ex2_h": "Subjekt wir ➔ müssen"
-          }
-        },
-        {
-          "id": "a1_p27_ex3",
-          "title": "📝 Übung 3: Freizeitaktivitäten & Hobbys — Verneinung mit „können“",
-          "instruction": "Antworten Sie verneinend auf die Fragen. Wählen Sie die passende Aktivität mit dem Infinitiv „spielen“ am Satzende aus dem Wortkasten.",
-          "wordBox": [
-            "Schach spielen",
-            "Tischtennis spielen",
-            "Karten spielen",
-            "Theater spielen",
-            "Roulette spielen",
-            "Geige spielen",
-            "Golf spielen",
-            "Fußball spielen"
-          ],
-          "items": [
-            {
-              "id": "a1_p27_ex3_a",
-              "label": "a)",
-              "prompt": "Schach",
-              "lead": "Spielst du Schach? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Schach spielen",
-              "explanation": "Aktivität im Infinitiv am Satzende ➔ Schach spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_b",
-              "label": "b)",
-              "prompt": "Tischtennis",
-              "lead": "Spielst du Tischtennis? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Tischtennis spielen",
-              "explanation": "Aktivität im Infinitiv am Satzende ➔ Tischtennis spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_c",
-              "label": "c)",
-              "prompt": "Karten",
-              "lead": "Spielst du Karten? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Karten spielen",
-              "explanation": "Aktivität im Infinitiv am Satzende ➔ Karten spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_d",
-              "label": "d)",
-              "prompt": "Theater",
-              "lead": "Spielst du Theater? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Theater spielen",
-              "explanation": "Aktivität im Infinitiv am Satzende ➔ Theater spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_e",
-              "label": "e)",
-              "prompt": "Roulette",
-              "lead": "Spielst du Roulette? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Roulette spielen",
-              "explanation": "Aktivität im Infinitiv am Satzende ➔ Roulette spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_f",
-              "label": "f)",
-              "prompt": "Geige",
-              "lead": "Spielst du Geige? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Geige spielen",
-              "explanation": "Musikinstrument im Infinitiv am Satzende ➔ Geige spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_g",
-              "label": "g)",
-              "prompt": "Golf",
-              "lead": "Spielst du Golf? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Golf spielen",
-              "explanation": "Sportart im Infinitiv am Satzende ➔ Golf spielen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p27_ex3_h",
-              "label": "h)",
-              "prompt": "Fußball",
-              "lead": "Spielst du Fußball? — Nein, ich kann nicht ",
-              "tail": ".",
-              "answer": "Fußball spielen",
-              "explanation": "Sportart im Infinitiv am Satzende ➔ Fußball spielen",
-              "isCompact": false
-            }
-          ],
-          "answers": {
-            "a1_p27_ex3_a": "Schach spielen",
-            "a1_p27_ex3_b": "Tischtennis spielen",
-            "a1_p27_ex3_c": "Karten spielen",
-            "a1_p27_ex3_d": "Theater spielen",
-            "a1_p27_ex3_e": "Roulette spielen",
-            "a1_p27_ex3_f": "Geige spielen",
-            "a1_p27_ex3_g": "Golf spielen",
-            "a1_p27_ex3_h": "Fußball spielen"
-          },
-          "explanations": {
-            "a1_p27_ex3_a": "Aktivität im Infinitiv am Satzende ➔ Schach spielen",
-            "a1_p27_ex3_b": "Aktivität im Infinitiv am Satzende ➔ Tischtennis spielen",
-            "a1_p27_ex3_c": "Aktivität im Infinitiv am Satzende ➔ Karten spielen",
-            "a1_p27_ex3_d": "Aktivität im Infinitiv am Satzende ➔ Theater spielen",
-            "a1_p27_ex3_e": "Aktivität im Infinitiv am Satzende ➔ Roulette spielen",
-            "a1_p27_ex3_f": "Musikinstrument im Infinitiv am Satzende ➔ Geige spielen",
-            "a1_p27_ex3_g": "Sportart im Infinitiv am Satzende ➔ Golf spielen",
-            "a1_p27_ex3_h": "Sportart im Infinitiv am Satzende ➔ Fußball spielen"
-          }
-        },
-        {
-          "id": "a1_p27_ex4",
-          "title": "📝 Übung 4: Ratschläge & Wünsche — „sollen“ und „möchten“",
-          "instruction": "Setzen Sie das passende Modalverb („sollen“ für Ratschläge/Aufträge oder „möchten“ für Wünsche) in der richtigen Form ein.",
-          "wordBox": [
-            "soll",
-            "sollst",
-            "sollen",
-            "möchte",
-            "möchtest",
-            "möchten"
-          ],
-          "items": [
-            {
-              "id": "a1_p27_ex4_a",
-              "label": "a)",
-              "prompt": "sollen (ich)",
-              "lead": "Der Arzt sagt, ich ",
-              "tail": " viel Tee trinken und schlafen.",
-              "answer": "soll",
-              "explanation": "Ärztliche Empfehlung (1s) ➔ soll (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex4_b",
-              "label": "b)",
-              "prompt": "sollen (du)",
-              "lead": "Was ",
-              "tail": " du heute für die Hausaufgabe machen?",
-              "answer": "sollst",
-              "explanation": "Auftrag/Frage (2s) ➔ sollst",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex4_c",
-              "label": "c)",
-              "prompt": "sollen (wir)",
-              "lead": "Wir ",
-              "tail": " leise sein, das Baby schläft.",
-              "answer": "sollen",
-              "explanation": "Regel/Aufforderung (1p) ➔ sollen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex4_d",
-              "label": "d)",
-              "prompt": "möchten (du)",
-              "lead": "Was ",
-              "tail": " du trinken? Einen Orangensaft?",
-              "answer": "möchtest",
-              "explanation": "Höflicher Wunsch (2s) ➔ möchtest",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex4_e",
-              "label": "e)",
-              "prompt": "möchten (ich)",
-              "lead": "Ich ",
-              "tail": " bitte die Speisekarte sehen.",
-              "answer": "möchte",
-              "explanation": "Höflicher Wunsch (1s) ➔ möchte (1s = 3s ohne Endung)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p27_ex4_f",
-              "label": "f)",
-              "prompt": "möchten (die Gäste)",
-              "lead": "Die Gäste ",
-              "tail": " gerne draußen auf der Terrasse sitzen.",
-              "answer": "möchten",
-              "explanation": "Höflicher Wunsch (3p) ➔ möchten",
-              "isCompact": true
-            }
-          ],
-          "answers": {
-            "a1_p27_ex4_a": "soll",
-            "a1_p27_ex4_b": "sollst",
-            "a1_p27_ex4_c": "sollen",
-            "a1_p27_ex4_d": "möchtest",
-            "a1_p27_ex4_e": "möchte",
-            "a1_p27_ex4_f": "möchten"
-          },
-          "explanations": {
-            "a1_p27_ex4_a": "Ärztliche Empfehlung (1s) ➔ soll (1s = 3s ohne Endung)",
-            "a1_p27_ex4_b": "Auftrag/Frage (2s) ➔ sollst",
-            "a1_p27_ex4_c": "Regel/Aufforderung (1p) ➔ sollen",
-            "a1_p27_ex4_d": "Höflicher Wunsch (2s) ➔ möchtest",
-            "a1_p27_ex4_e": "Höflicher Wunsch (1s) ➔ möchte (1s = 3s ohne Endung)",
-            "a1_p27_ex4_f": "Höflicher Wunsch (3p) ➔ möchten"
-          }
-        }
-      ],
-      "grammarSummary": "### 📌 Grammatik-Fokus: Die Modalverben im Präsens\n\n#### 1. Bedeutung und Funktion der sechs Modalverben\nModalverben modifizieren die Aussage eines Vollverbs. Sie drücken aus, wie das Subjekt zu einer Handlung steht:\n- **können**: Fähigkeit (*ability*) oder Möglichkeit (*possibility*) — *Ich kann schwimmen.* / *Wir können morgen kommen.*\n- **müssen**: Notwendigkeit (*necessity*) oder Zwang — *Ich muss arbeiten.* / *Er muss zum Arzt gehen.*\n- **dürfen**: Erlaubnis (*permission*) oder Verbot (*prohibition with nicht*) — *Hier darf man parken.* / *Hier darf man nicht rauchen!*\n- **wollen**: Fester Wille oder Absicht (*intention/will*) — *Ich will Deutsch lernen.* / *Wir wollen reisen.*\n- **sollen**: Auftrag, Empfehlung oder fremder Wille (*duty/advice/recommendation*) — *Der Arzt sagt, ich soll im Bett bleiben.*\n- **möchten**: Höflicher Wunsch (*polite desire / wish*) — *Ich möchte bitte einen Kaffee.*\n\n---\n\n#### 2. Die Satzklammer mit Modalverben (Satzbau)\nIm Aussagesatz bildet das Modalverb zusammen mit dem Vollverb eine **Satzklammer**:\n- **Position II**: Das **konjugierte Modalverb** (angepasst an das Subjekt).\n- **Satzende**: Das **Vollverb im Infinitiv** (Grundform).\n\n| Position I (Subjekt) | Position II (Modalverb) | Mittelfeld (Objekte / Angaben) | Satzende (Infinitiv) |\n| :--- | :--- | :--- | :--- |\n| **Robert** | **muss** | auch am Sonntag | **arbeiten**. |\n| **Julia** | **will** | die Tante in Köln | **besuchen**. |\n| **Wir** | **können** | den Satz leider nicht | **verstehen**. |\n\n> [!IMPORTANT]\n> **Trennbare Verben mit Modalverb:**\n> Trennbare Verben werden am Satzende im Infinitiv **wieder zusammengeschrieben**!\n> - *Eva steht früh auf.* ➔ *Eva **muss** früh **aufstehen**.*\n> - *Ihr kauft noch ein.* ➔ *Ihr **müsst** noch **einkaufen**.*\n\n---\n\n#### 3. Konjugationstabelle der Modalverben im Präsens\n\n| Person | können | müssen | dürfen | wollen | sollen | möchten |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **ich** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |\n| **du** | **kannst** | **musst** | **darfst** | **willst** | **sollst** | **möchtest** |\n| **er / sie / es** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |\n| **wir** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |\n| **ihr** | **könnt** | **müsst** | **dürft** | **wollt** | **sollt** | **möchtet** |\n| **sie / Sie** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |\n\n> [!TIP]\n> **Zwei goldene Konjugationsregeln:**\n> 1. **1. Person = 3. Person Singular:** *ich* und *er/sie/es* sind bei allen Modalverben immer identisch und haben **keine Endung** (*ich kann = er kann*, *ich muss = sie muss*, *ich darf = es darf*, *ich will = er will*)!\n> 2. **Vokalwechsel nur im Singular:** Im Singular ändern fast alle Modalverben den Vokal (*ö ➔ a*, *ü ➔ u*, *ü ➔ a*, *o ➔ i*). Im Plural (*wir, ihr, sie*) bleibt der reguläre Infinitivstamm erhalten!\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n- **Bare Infinitives:** Just like in English (*I can swim*, *You must go*), German modal verbs take a bare infinitive without \"zu\".\n- **Word Order Difference:** While English places the main verb right after the modal (*I must work tomorrow*), German builds a bracket around the entire predicate, pushing the infinitive to the very end (*Ich muss morgen ... arbeiten*).\n- **Critical False Friend:** *Nicht müssen* means \"don't have to / need not\" (*Du musst nicht kommen* = You don't have to come). If something is forbidden, German uses *nicht dürfen* (*Du darfst nicht kommen* = You must not come!)."
+          "grammarSummary": "### 📌 Grammatik-Fokus: Die Modalverben im Präsens\n\n#### 1. Bedeutung und Funktion der sechs Modalverben\nModalverben modifizieren die Aussage eines Vollverbs. Sie drücken aus, wie das Subjekt zu einer Handlung steht:\n- **können**: Fähigkeit (*ability*) oder Möglichkeit (*possibility*) — *Ich kann schwimmen.* / *Wir können morgen kommen.*\n- **müssen**: Notwendigkeit (*necessity*) oder Zwang — *Ich muss arbeiten.* / *Er muss zum Arzt gehen.*\n- **dürfen**: Erlaubnis (*permission*) oder Verbot (*prohibition with nicht*) — *Hier darf man parken.* / *Hier darf man nicht rauchen!*\n- **wollen**: Fester Wille oder Absicht (*intention/will*) — *Ich will Deutsch lernen.* / *Wir wollen reisen.*\n- **sollen**: Auftrag, Empfehlung oder fremder Wille (*duty/advice/recommendation*) — *Der Arzt sagt, ich soll im Bett bleiben.*\n- **möchten**: Höflicher Wunsch (*polite desire / wish*) — *Ich möchte bitte einen Kaffee.*\n\n---\n\n#### 2. Die Satzklammer mit Modalverben (Satzbau)\nIm Aussagesatz bildet das Modalverb zusammen mit dem Vollverb eine **Satzklammer**:\n- **Position II**: Das **konjugierte Modalverb** (angepasst an das Subjekt).\n- **Satzende**: Das **Vollverb im Infinitiv** (Grundform).\n\n| Position I (Subjekt) | Position II (Modalverb) | Mittelfeld (Objekte / Angaben) | Satzende (Infinitiv) |\n| :--- | :--- | :--- | :--- |\n| **Robert** | **muss** | auch am Sonntag | **arbeiten**. |\n| **Julia** | **will** | die Tante in Köln | **besuchen**. |\n| **Wir** | **können** | den Satz leider nicht | **verstehen**. |\n\n> [!IMPORTANT]\n> **Trennbare Verben mit Modalverb:**\n> Trennbare Verben werden am Satzende im Infinitiv **wieder zusammengeschrieben**!\n> - *Eva steht früh auf.* ➔ *Eva **muss** früh **aufstehen**.*\n> - *Ihr kauft noch ein.* ➔ *Ihr **müsst** noch **einkaufen**.*\n\n---\n\n#### 3. Konjugationstabelle der Modalverben im Präsens\n\n| Person | können | müssen | dürfen | wollen | sollen | möchten |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **ich** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |\n| **du** | **kannst** | **musst** | **darfst** | **willst** | **sollst** | **möchtest** |\n| **er / sie / es** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |\n| **wir** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |\n| **ihr** | **könnt** | **müsst** | **dürft** | **wollt** | **sollt** | **möchtet** |\n| **sie / Sie** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |\n\n> [!TIP]\n> **Zwei goldene Konjugationsregeln:**\n> 1. **1. Person = 3. Person Singular:** *ich* und *er/sie/es* sind bei allen Modalverben immer identisch und haben **keine Endung** (*ich kann = er kann*, *ich muss = sie muss*, *ich darf = es darf*, *ich will = er will*)!\n> 2. **Vokalwechsel nur im Singular:** Im Singular ändern fast alle Modalverben den Vokal (*ö ➔ a*, *ü ➔ u*, *ü ➔ a*, *o ➔ i*). Im Plural (*wir, ihr, sie*) bleibt der reguläre Infinitivstamm erhalten!\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n- **Bare Infinitives:** Just like in English (*I can swim*, *You must go*), German modal verbs take a bare infinitive without \"zu\".\n- **Word Order Difference:** While English places the main verb right after the modal (*I must work tomorrow*), German builds a bracket around the entire predicate, pushing the infinitive to the very end (*Ich muss morgen ... arbeiten*).\n- **Critical False Friend:** *Nicht müssen* means \"don't have to / need not\" (*Du musst nicht kommen* = You don't have to come). If something is forbidden, German uses *nicht dürfen* (*Du darfst nicht kommen* = You must not come!)."
     },
     "28": {
       "lessonTitle": "7.3. Präpositionen mit Dativ (Seite 28)",
       "grammarSummary": "### 📌 7.3. Präpositionen mit dem Dativ (Dative Prepositions)\n\nBestimmte Präpositionen im Deutschen fordern **immer** den **Dativ**, unabhängig davon, ob eine Ortsveränderung oder ein Zustand vorliegt.\n\n---\n\n#### 1. Die festen Dativpräpositionen auf einen Blick\n\n| Präposition | Hauptbedeutung | Typische Verwendung | Beispielsatz |\n| :--- | :--- | :--- | :--- |\n| **aus** | Herkunft / Ursprung; Material | Aus einem Raum/Land; aus Holz/Glas | *Er kommt **aus** der Schweiz / **aus** dem Haus.* |\n| **bei** | Aufenthalt / Nähe; Arbeitgeber; Wetter | Bei Personen/Firmen; *beim* Arzt; *bei* Regen | *Maria wohnt **bei** ihren Eltern. Er arbeitet **bei** Siemens.* |\n| **mit** | Gemeinschaft / Begleitung; Mittel / Transport | Zusammen mit Personen; mit dem Bus/Zug/Auto | *Paul fährt **mit** dem Taxi nach Hause.* |\n| **nach** | Richtung (Städte/Länder ohne Artikel); Zeit | Nach Berlin; nach dem Essen; nach der Arbeit | *Wohin gehst du **nach** der Arbeit?* |\n| **seit** | Beginn in der Vergangenheit, dauert noch an | Seit einem Jahr / seit zwei Wochen | *Maria wohnt **seit** einem Jahr in Wien.* |\n| **von** | Herkunft (offener Ort/Person); Urheber | Vom Bahnhof/Flughafen; von Julia/Klaus | *Ich hole das Paket **von** der Post ab.* |\n| **zu** | Ziel (Personen, Institutionen, Lokalitäten) | Zum Bahnhof; zur Schule; zu Klaus | *Heute Nachmittag gehe ich **zu** Klaus.* |\n| **gegenüber** | Räumliche Lage (steht meist **nach** dem Nomen!) | Vis-à-vis; auf der anderen Straßenseite | *Das Hotel liegt **dem Bahnhof gegenüber**.* |\n\n> 💡 **Merkhilfe (Eselsbrücke):**\n> *„Aus, bei, mit, nach, seit, von, zu – fährst du stets im Dativ-Schuh!“* (plus *gegenüber*)\n\n---\n\n#### 2. Deklination der Artikel im Dativ\n\n| Genus / Numerus | Bestimmter Artikel | Unbestimmter Artikel | Negativartikel (*kein-*) | Possessiv (*mein-*) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Maskulin** (*der Mann*) | **dem** Mann | **einem** Mann | **keinem** Mann | **meinem** Mann |\n| **Neutral** (*das Kind*) | **dem** Kind | **einem** Kind | **keinem** Kind | **meinem** Kind |\n| **Feminin** (*die Frau*) | **der** Frau | **einer** Frau | **keiner** Frau | **meiner** Frau |\n| **Plural** (*die Eltern*) | **den** Eltern **+ n** | *(keine)* | **keinen** Eltern **+ n** | **meinen** Eltern **+ n** |\n\n> ⚠️ **Wichtig im Plural:** Substantive im Dativ Plural erhalten ein zusätzliches **-n** (z. B. *den Freunden, den Kindern*), außer sie enden bereits auf *-n* oder *-s*.\n\n---\n\n#### 3. Verschmelzung von Präposition und Artikel\n\nIm Sprachgebrauch verschmelzen Präposition und bestimmter Artikel sehr häufig:\n\n| Vollform | Verschmelzung | Beispiel |\n| :--- | :---: | :--- |\n| **bei + dem** | **beim** | *beim Arzt, beim Essen* |\n| **von + dem** | **vom** | *vom Flughafen, vom Bahnhof* |\n| **zu + dem** | **zum** | *zum Bahnhof, zum Unterricht* |\n| **zu + der** | **zur** | *zur Schule, zur Post, zur Arbeit* |\n\n---\n\n#### 4. Personalpronomen im Dativ\n\n| Nominativ | Dativ | Mit Präposition (Beispiel) |\n| :--- | :--- | :--- |\n| **ich** | **mir** | *Kommst du mit **mir**?* |\n| **du** | **dir** | *Wie viel Geld hast du bei **dir**?* |\n| **er** | **ihm** | *Ich spreche mit **ihm**.* |\n| **sie** *(Singular)* | **ihr** | *Ich komme nicht von **ihr**.* |\n| **es** | **ihm** | *Wir wohnen bei **ihm**.* |\n| **wir** | **uns** | *Er kommt zu **uns**.* |\n| **ihr** | **euch** | *Sie fährt mit **euch**.* |\n| **sie** *(Plural)* | **ihnen** | *Ich lerne mit **ihnen**.* |\n| **Sie** *(Höflichkeitsform)* | **Ihnen** | *Das Geschenk ist von **Ihnen**.* |\n\n---\n\n#### 5. 🇬🇧 English Cognitive Bridge: Fixed Dative Prepositions\n\n- **German prepositions dictate noun cases:** In English, prepositions do not change noun endings (*with the taxi, since a year*). In German, prepositions like *mit, seit, aus, bei, nach, von, zu* **strictly demand the Dative case**, changing articles (*dem, der, einem, einer*) and pronouns (*ihm, ihr, ihnen*).\n- **\"seit\" requires Present Tense:** While English uses the present perfect (\"I have been living here for a year\"), German uses the **present tense** + *seit* (*Ich wohne seit einem Jahr hier*).\n- **Postposition \"gegenüber\":** Note that *gegenüber* typically follows the noun phrase (*dem Bahnhof gegenüber* = \"opposite the station\").",
       "exercises": [
-        {
-          "id": "a1_p28_ex1",
-          "title": "Übung 1: Bestimmte und unbestimmte Artikel nach Dativpräpositionen",
-          "instruction": "Ergänzen Sie den passenden Artikel bzw. das Possessivpronomen im Dativ.",
-          "wordBox": [
-            "dem",
-            "der",
-            "den",
-            "einem",
-            "einer",
-            "seiner"
-          ],
-          "answers": {
-            "a1_p28_ex1_a": "dem",
-            "a1_p28_ex1_b": "einem",
-            "a1_p28_ex1_c": "der",
-            "a1_p28_ex1_d": "dem",
-            "a1_p28_ex1_e": "dem",
-            "a1_p28_ex1_f": "dem",
-            "a1_p28_ex1_g": "den",
-            "a1_p28_ex1_h": "einer",
-            "a1_p28_ex1_i": "dem",
-            "a1_p28_ex1_j": "der",
-            "a1_p28_ex1_k": "dem",
-            "a1_p28_ex1_l": "seiner"
-          },
-          "explanations": {
-            "a1_p28_ex1_a": "das Taxi (neutral) ➔ Dativ: mit dem Taxi",
-            "a1_p28_ex1_b": "ein Jahr (neutral) ➔ Dativ: seit einem Jahr",
-            "a1_p28_ex1_c": "die Post (feminin) ➔ Dativ: von der Post",
-            "a1_p28_ex1_d": "das Haus (neutral) ➔ Dativ: aus dem Haus",
-            "a1_p28_ex1_e": "das Essen (neutral) ➔ Dativ: nach dem Essen",
-            "a1_p28_ex1_f": "der Keller (maskulin) ➔ Dativ: aus dem Keller",
-            "a1_p28_ex1_g": "die Eltern (Plural) ➔ Dativ: bei den Eltern",
-            "a1_p28_ex1_h": "eine Woche (feminin) ➔ Dativ: seit einer Woche",
-            "a1_p28_ex1_i": "der Schrank (maskulin) ➔ Dativ: aus dem Schrank",
-            "a1_p28_ex1_j": "die Arbeit (feminin) ➔ Dativ: nach der Arbeit",
-            "a1_p28_ex1_k": "der Bahnhof (maskulin) ➔ Dativ: dem Bahnhof gegenüber",
-            "a1_p28_ex1_l": "seine Tante (feminin) ➔ Dativ: bei seiner Tante"
-          },
-          "items": [
             {
-              "id": "a1_p28_ex1_a",
-              "label": "a)",
-              "prompt": "",
-              "lead": "Paul fährt mit ",
-              "tail": " Taxi nach Hause.",
-              "answer": "dem",
-              "explanation": "das Taxi (neutral) ➔ Dativ: mit dem Taxi",
-              "isCompact": true
+                  "id": "a1_p28_ex1",
+                  "title": "Übung 1: Bestimmte und unbestimmte Artikel nach Dativpräpositionen",
+                  "instruction": "Ergänzen Sie den passenden Artikel bzw. das Possessivpronomen im Dativ.",
+                  "wordBox": [
+                        "dem",
+                        "der",
+                        "den",
+                        "einem",
+                        "einer",
+                        "seiner"
+                  ],
+                  "answers": {
+                        "a1_p28_ex1_a": "dem",
+                        "a1_p28_ex1_b": "einem",
+                        "a1_p28_ex1_c": "der",
+                        "a1_p28_ex1_d": "dem",
+                        "a1_p28_ex1_e": "dem",
+                        "a1_p28_ex1_f": "dem",
+                        "a1_p28_ex1_g": "den",
+                        "a1_p28_ex1_h": "einer",
+                        "a1_p28_ex1_i": "dem",
+                        "a1_p28_ex1_j": "der",
+                        "a1_p28_ex1_k": "dem",
+                        "a1_p28_ex1_l": "seiner"
+                  },
+                  "explanations": {
+                        "a1_p28_ex1_a": "das Taxi (neutral) ➔ Dativ: mit dem Taxi",
+                        "a1_p28_ex1_b": "ein Jahr (neutral) ➔ Dativ: seit einem Jahr",
+                        "a1_p28_ex1_c": "die Post (feminin) ➔ Dativ: von der Post",
+                        "a1_p28_ex1_d": "das Haus (neutral) ➔ Dativ: aus dem Haus",
+                        "a1_p28_ex1_e": "das Essen (neutral) ➔ Dativ: nach dem Essen",
+                        "a1_p28_ex1_f": "der Keller (maskulin) ➔ Dativ: aus dem Keller",
+                        "a1_p28_ex1_g": "die Eltern (Plural) ➔ Dativ: bei den Eltern",
+                        "a1_p28_ex1_h": "eine Woche (feminin) ➔ Dativ: seit einer Woche",
+                        "a1_p28_ex1_i": "der Schrank (maskulin) ➔ Dativ: aus dem Schrank",
+                        "a1_p28_ex1_j": "die Arbeit (feminin) ➔ Dativ: nach der Arbeit",
+                        "a1_p28_ex1_k": "der Bahnhof (maskulin) ➔ Dativ: dem Bahnhof gegenüber",
+                        "a1_p28_ex1_l": "seine Tante (feminin) ➔ Dativ: bei seiner Tante"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p28_ex1_a",
+                              "label": "a)",
+                              "prompt": "",
+                              "lead": "Paul fährt mit ",
+                              "tail": " Taxi nach Hause.",
+                              "answer": "dem",
+                              "explanation": "das Taxi (neutral) ➔ Dativ: mit dem Taxi",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_b",
+                              "label": "b)",
+                              "prompt": "",
+                              "lead": "Maria wohnt seit ",
+                              "tail": " Jahr in Wien.",
+                              "answer": "einem",
+                              "explanation": "ein Jahr (neutral) ➔ Dativ: seit einem Jahr",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_c",
+                              "label": "c)",
+                              "prompt": "",
+                              "lead": "Ich hole das Paket von ",
+                              "tail": " Post ab.",
+                              "answer": "der",
+                              "explanation": "die Post (feminin) ➔ Dativ: von der Post",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_d",
+                              "label": "d)",
+                              "prompt": "",
+                              "lead": "Wann gehst du morgens aus ",
+                              "tail": " Haus?",
+                              "answer": "dem",
+                              "explanation": "das Haus (neutral) ➔ Dativ: aus dem Haus",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_e",
+                              "label": "e)",
+                              "prompt": "",
+                              "lead": "Wohin gehst du nach ",
+                              "tail": " Essen?",
+                              "answer": "dem",
+                              "explanation": "das Essen (neutral) ➔ Dativ: nach dem Essen",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_f",
+                              "label": "f)",
+                              "prompt": "",
+                              "lead": "Hol bitte den Wein aus ",
+                              "tail": " Keller!",
+                              "answer": "dem",
+                              "explanation": "der Keller (maskulin) ➔ Dativ: aus dem Keller",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_g",
+                              "label": "g)",
+                              "prompt": "",
+                              "lead": "Peter wohnt bei ",
+                              "tail": " Eltern.",
+                              "answer": "den",
+                              "explanation": "die Eltern (Plural) ➔ Dativ: bei den Eltern",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_h",
+                              "label": "h)",
+                              "prompt": "",
+                              "lead": "Eva arbeitet seit ",
+                              "tail": " Woche in Bonn.",
+                              "answer": "einer",
+                              "explanation": "eine Woche (feminin) ➔ Dativ: seit einer Woche",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_i",
+                              "label": "i)",
+                              "prompt": "",
+                              "lead": "Klaus nimmt die Jacke aus ",
+                              "tail": " Schrank.",
+                              "answer": "dem",
+                              "explanation": "der Schrank (maskulin) ➔ Dativ: aus dem Schrank",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_j",
+                              "label": "j)",
+                              "prompt": "",
+                              "lead": "Nach ",
+                              "tail": " Arbeit besucht er Maria.",
+                              "answer": "der",
+                              "explanation": "die Arbeit (feminin) ➔ Dativ: nach der Arbeit",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_k",
+                              "label": "k)",
+                              "prompt": "",
+                              "lead": "Das Hotel liegt ",
+                              "tail": " Bahnhof gegenüber.",
+                              "answer": "dem",
+                              "explanation": "der Bahnhof (maskulin) ➔ Dativ: dem Bahnhof gegenüber",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex1_l",
+                              "label": "l)",
+                              "prompt": "",
+                              "lead": "Max wohnte lange bei ",
+                              "tail": " Tante.",
+                              "answer": "seiner",
+                              "explanation": "seine Tante (feminin) ➔ Dativ: bei seiner Tante",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p28_ex1_b",
-              "label": "b)",
-              "prompt": "",
-              "lead": "Maria wohnt seit ",
-              "tail": " Jahr in Wien.",
-              "answer": "einem",
-              "explanation": "ein Jahr (neutral) ➔ Dativ: seit einem Jahr",
-              "isCompact": true
+                  "id": "a1_p28_ex2",
+                  "title": "Übung 2: Die passende Dativpräposition einsetzen",
+                  "instruction": "Ergänzen Sie die passende Präposition (bzw. Verschmelzung) mit Dativ.",
+                  "wordBox": [
+                        "mit",
+                        "aus",
+                        "gegenüber",
+                        "bei",
+                        "vom",
+                        "zum",
+                        "zu",
+                        "Bei",
+                        "Von"
+                  ],
+                  "answers": {
+                        "a1_p28_ex2_a": "mit",
+                        "a1_p28_ex2_b": "aus",
+                        "a1_p28_ex2_d": "gegenüber",
+                        "a1_p28_ex2_e": "bei",
+                        "a1_p28_ex2_f": "vom",
+                        "a1_p28_ex2_g": "mit",
+                        "a1_p28_ex2_h": "zum",
+                        "a1_p28_ex2_i": "bei",
+                        "a1_p28_ex2_j": "mit",
+                        "a1_p28_ex2_k": "vom",
+                        "a1_p28_ex2_l": "zu",
+                        "a1_p28_ex2_m": "Bei",
+                        "a1_p28_ex2_n": "Von"
+                  },
+                  "explanations": {
+                        "a1_p28_ex2_a": "Begleitung mit Hund ➔ mit",
+                        "a1_p28_ex2_b": "Herkunft aus einem Land ➔ aus",
+                        "a1_p28_ex2_d": "Nachgestellte Lagebezeichnung ➔ gegenüber",
+                        "a1_p28_ex2_e": "Am Körper / bei einer Person ➔ bei",
+                        "a1_p28_ex2_f": "Herkunft von einem Ort (von + dem) ➔ vom",
+                        "a1_p28_ex2_g": "Gemeinschaft mit einer Person ➔ mit",
+                        "a1_p28_ex2_h": "Zielrichtung zu einem Gebäude (zu + dem) ➔ zum",
+                        "a1_p28_ex2_i": "Wohnen bei Personen ➔ bei",
+                        "a1_p28_ex2_j": "Verkehrsmittel ➔ mit",
+                        "a1_p28_ex2_k": "Abholen von einem Ort (von + dem) ➔ vom",
+                        "a1_p28_ex2_l": "Bewegung zu einer Person ➔ zu",
+                        "a1_p28_ex2_m": "Bedingung / Wetter am Satzanfang ➔ Bei",
+                        "a1_p28_ex2_n": "Frage nach Urheber/Schenker am Satzanfang ➔ Von"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p28_ex2_a",
+                              "label": "a)",
+                              "prompt": "",
+                              "lead": "Paul geht ",
+                              "tail": " dem Hund spazieren.",
+                              "answer": "mit",
+                              "explanation": "Begleitung mit Hund ➔ mit",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_b",
+                              "label": "b)",
+                              "prompt": "",
+                              "lead": "Diese Tomaten kommen ",
+                              "tail": " Spanien.",
+                              "answer": "aus",
+                              "explanation": "Herkunft aus einem Land ➔ aus",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_d",
+                              "label": "d)",
+                              "prompt": "",
+                              "lead": "Die Tankstelle liegt dem Parkhaus ",
+                              "tail": ".",
+                              "answer": "gegenüber",
+                              "explanation": "Nachgestellte Lagebezeichnung ➔ gegenüber",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_e",
+                              "label": "e)",
+                              "prompt": "",
+                              "lead": "Wie viel Geld hast du ",
+                              "tail": " dir?",
+                              "answer": "bei",
+                              "explanation": "Am Körper / bei einer Person ➔ bei",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_f",
+                              "label": "f)",
+                              "prompt": "",
+                              "lead": "Kannst du mich ",
+                              "tail": " Flughafen abholen?",
+                              "answer": "vom",
+                              "explanation": "Herkunft von einem Ort (von + dem) ➔ vom",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_g",
+                              "label": "g)",
+                              "prompt": "",
+                              "lead": "Maria will nicht ",
+                              "tail": " mir in Urlaub fahren.",
+                              "answer": "mit",
+                              "explanation": "Gemeinschaft mit einer Person ➔ mit",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_h",
+                              "label": "h)",
+                              "prompt": "",
+                              "lead": "Ich bringe dich ",
+                              "tail": " Bahnhof.",
+                              "answer": "zum",
+                              "explanation": "Zielrichtung zu einem Gebäude (zu + dem) ➔ zum",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_i",
+                              "label": "i)",
+                              "prompt": "",
+                              "lead": "Maria wohnt ",
+                              "tail": " ihren Eltern.",
+                              "answer": "bei",
+                              "explanation": "Wohnen bei Personen ➔ bei",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_j",
+                              "label": "j)",
+                              "prompt": "",
+                              "lead": "Sie fährt ",
+                              "tail": " dem Taxi nach Hause.",
+                              "answer": "mit",
+                              "explanation": "Verkehrsmittel ➔ mit",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_k",
+                              "label": "k)",
+                              "prompt": "",
+                              "lead": "Wir holen unsere Tante ",
+                              "tail": " Bahnhof ab.",
+                              "answer": "vom",
+                              "explanation": "Abholen von einem Ort (von + dem) ➔ vom",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_l",
+                              "label": "l)",
+                              "prompt": "",
+                              "lead": "Heute Nachmittag gehe ich ",
+                              "tail": " Klaus.",
+                              "answer": "zu",
+                              "explanation": "Bewegung zu einer Person ➔ zu",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_m",
+                              "label": "m)",
+                              "prompt": "",
+                              "lead": "",
+                              "tail": " Regen mag ich nicht joggen.",
+                              "answer": "Bei",
+                              "explanation": "Bedingung / Wetter am Satzanfang ➔ Bei",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p28_ex2_n",
+                              "label": "n)",
+                              "prompt": "",
+                              "lead": "",
+                              "tail": " wem ist das Geschenk?",
+                              "answer": "Von",
+                              "explanation": "Frage nach Urheber/Schenker am Satzanfang ➔ Von",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p28_ex1_c",
-              "label": "c)",
-              "prompt": "",
-              "lead": "Ich hole das Paket von ",
-              "tail": " Post ab.",
-              "answer": "der",
-              "explanation": "die Post (feminin) ➔ Dativ: von der Post",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_d",
-              "label": "d)",
-              "prompt": "",
-              "lead": "Wann gehst du morgens aus ",
-              "tail": " Haus?",
-              "answer": "dem",
-              "explanation": "das Haus (neutral) ➔ Dativ: aus dem Haus",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_e",
-              "label": "e)",
-              "prompt": "",
-              "lead": "Wohin gehst du nach ",
-              "tail": " Essen?",
-              "answer": "dem",
-              "explanation": "das Essen (neutral) ➔ Dativ: nach dem Essen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_f",
-              "label": "f)",
-              "prompt": "",
-              "lead": "Hol bitte den Wein aus ",
-              "tail": " Keller!",
-              "answer": "dem",
-              "explanation": "der Keller (maskulin) ➔ Dativ: aus dem Keller",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_g",
-              "label": "g)",
-              "prompt": "",
-              "lead": "Peter wohnt bei ",
-              "tail": " Eltern.",
-              "answer": "den",
-              "explanation": "die Eltern (Plural) ➔ Dativ: bei den Eltern",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_h",
-              "label": "h)",
-              "prompt": "",
-              "lead": "Eva arbeitet seit ",
-              "tail": " Woche in Bonn.",
-              "answer": "einer",
-              "explanation": "eine Woche (feminin) ➔ Dativ: seit einer Woche",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_i",
-              "label": "i)",
-              "prompt": "",
-              "lead": "Klaus nimmt die Jacke aus ",
-              "tail": " Schrank.",
-              "answer": "dem",
-              "explanation": "der Schrank (maskulin) ➔ Dativ: aus dem Schrank",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_j",
-              "label": "j)",
-              "prompt": "",
-              "lead": "Nach ",
-              "tail": " Arbeit besucht er Maria.",
-              "answer": "der",
-              "explanation": "die Arbeit (feminin) ➔ Dativ: nach der Arbeit",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_k",
-              "label": "k)",
-              "prompt": "",
-              "lead": "Das Hotel liegt ",
-              "tail": " Bahnhof gegenüber.",
-              "answer": "dem",
-              "explanation": "der Bahnhof (maskulin) ➔ Dativ: dem Bahnhof gegenüber",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex1_l",
-              "label": "l)",
-              "prompt": "",
-              "lead": "Max wohnte lange bei ",
-              "tail": " Tante.",
-              "answer": "seiner",
-              "explanation": "seine Tante (feminin) ➔ Dativ: bei seiner Tante",
-              "isCompact": true
+                  "id": "a1_p28_ex3",
+                  "title": "Übung 3: Dativpräpositionen mit Personalpronomen",
+                  "instruction": "Antworten Sie verneinend mit der passenden Präposition und dem Personalpronomen im Dativ.",
+                  "wordBox": [
+                        "von ihr",
+                        "mit ihm",
+                        "mit ihr",
+                        "von ihm",
+                        "mit ihnen",
+                        "zu ihr",
+                        "bei ihnen"
+                  ],
+                  "answers": {
+                        "a1_p28_ex3_a": "von ihr",
+                        "a1_p28_ex3_b": "mit ihm",
+                        "a1_p28_ex3_c": "mit ihr",
+                        "a1_p28_ex3_d": "von ihm",
+                        "a1_p28_ex3_e": "mit ihnen",
+                        "a1_p28_ex3_f": "zu ihr",
+                        "a1_p28_ex3_g": "bei ihnen",
+                        "a1_p28_ex3_h": "von ihm"
+                  },
+                  "explanations": {
+                        "a1_p28_ex3_a": "Julia (feminin) ➔ von ihr",
+                        "a1_p28_ex3_b": "der Großvater (maskulin) ➔ mit ihm",
+                        "a1_p28_ex3_c": "die Sekretärin (feminin) ➔ mit ihr",
+                        "a1_p28_ex3_d": "Max (maskulin) ➔ von ihm",
+                        "a1_p28_ex3_e": "die Studentinnen (Plural) ➔ mit ihnen",
+                        "a1_p28_ex3_f": "Frau Berg (feminin) ➔ zu ihr",
+                        "a1_p28_ex3_g": "deine Eltern (Plural) ➔ bei ihnen",
+                        "a1_p28_ex3_h": "Christian (maskulin) ➔ von ihm"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p28_ex3_a",
+                              "label": "a)",
+                              "prompt": "Kommst du von Julia?",
+                              "lead": "Nein, ich komme nicht ",
+                              "tail": ".",
+                              "answer": "von ihr",
+                              "explanation": "Julia (feminin) ➔ von ihr",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_b",
+                              "label": "b)",
+                              "prompt": "Telefonierst du mit dem Großvater?",
+                              "lead": "Nein, ich telefoniere nicht ",
+                              "tail": ".",
+                              "answer": "mit ihm",
+                              "explanation": "der Großvater (maskulin) ➔ mit ihm",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_c",
+                              "label": "c)",
+                              "prompt": "Sprichst du mit der Sekretärin?",
+                              "lead": "Nein, ich spreche nicht ",
+                              "tail": ".",
+                              "answer": "mit ihr",
+                              "explanation": "die Sekretärin (feminin) ➔ mit ihr",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_d",
+                              "label": "d)",
+                              "prompt": "Sind die Blumen von Max?",
+                              "lead": "Nein, sie sind nicht ",
+                              "tail": ".",
+                              "answer": "von ihm",
+                              "explanation": "Max (maskulin) ➔ von ihm",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_e",
+                              "label": "e)",
+                              "prompt": "Lernst du mit den Studentinnen?",
+                              "lead": "Nein, ich lerne nicht ",
+                              "tail": ".",
+                              "answer": "mit ihnen",
+                              "explanation": "die Studentinnen (Plural) ➔ mit ihnen",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_f",
+                              "label": "f)",
+                              "prompt": "Fährst du zu Frau Berg?",
+                              "lead": "Nein, ich fahre nicht ",
+                              "tail": ".",
+                              "answer": "zu ihr",
+                              "explanation": "Frau Berg (feminin) ➔ zu ihr",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_g",
+                              "label": "g)",
+                              "prompt": "Wohnst du bei deinen Eltern?",
+                              "lead": "Nein, ich wohne nicht ",
+                              "tail": ".",
+                              "answer": "bei ihnen",
+                              "explanation": "deine Eltern (Plural) ➔ bei ihnen",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a1_p28_ex3_h",
+                              "label": "h)",
+                              "prompt": "Ist das Geschenk von Christian?",
+                              "lead": "Nein, es ist nicht ",
+                              "tail": ".",
+                              "answer": "von ihm",
+                              "explanation": "Christian (maskulin) ➔ von ihm",
+                              "isCompact": false
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a1_p28_ex2",
-          "title": "Übung 2: Die passende Dativpräposition einsetzen",
-          "instruction": "Ergänzen Sie die passende Präposition (bzw. Verschmelzung) mit Dativ.",
-          "wordBox": [
-            "mit",
-            "aus",
-            "gegenüber",
-            "bei",
-            "vom",
-            "zum",
-            "zu",
-            "Bei",
-            "Von"
-          ],
-          "answers": {
-            "a1_p28_ex2_a": "mit",
-            "a1_p28_ex2_b": "aus",
-            "a1_p28_ex2_d": "gegenüber",
-            "a1_p28_ex2_e": "bei",
-            "a1_p28_ex2_f": "vom",
-            "a1_p28_ex2_g": "mit",
-            "a1_p28_ex2_h": "zum",
-            "a1_p28_ex2_i": "bei",
-            "a1_p28_ex2_j": "mit",
-            "a1_p28_ex2_k": "vom",
-            "a1_p28_ex2_l": "zu",
-            "a1_p28_ex2_m": "Bei",
-            "a1_p28_ex2_n": "Von"
-          },
-          "explanations": {
-            "a1_p28_ex2_a": "Begleitung mit Hund ➔ mit",
-            "a1_p28_ex2_b": "Herkunft aus einem Land ➔ aus",
-            "a1_p28_ex2_d": "Nachgestellte Lagebezeichnung ➔ gegenüber",
-            "a1_p28_ex2_e": "Am Körper / bei einer Person ➔ bei",
-            "a1_p28_ex2_f": "Herkunft von einem Ort (von + dem) ➔ vom",
-            "a1_p28_ex2_g": "Gemeinschaft mit einer Person ➔ mit",
-            "a1_p28_ex2_h": "Zielrichtung zu einem Gebäude (zu + dem) ➔ zum",
-            "a1_p28_ex2_i": "Wohnen bei Personen ➔ bei",
-            "a1_p28_ex2_j": "Verkehrsmittel ➔ mit",
-            "a1_p28_ex2_k": "Abholen von einem Ort (von + dem) ➔ vom",
-            "a1_p28_ex2_l": "Bewegung zu einer Person ➔ zu",
-            "a1_p28_ex2_m": "Bedingung / Wetter am Satzanfang ➔ Bei",
-            "a1_p28_ex2_n": "Frage nach Urheber/Schenker am Satzanfang ➔ Von"
-          },
-          "items": [
-            {
-              "id": "a1_p28_ex2_a",
-              "label": "a)",
-              "prompt": "",
-              "lead": "Paul geht ",
-              "tail": " dem Hund spazieren.",
-              "answer": "mit",
-              "explanation": "Begleitung mit Hund ➔ mit",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_b",
-              "label": "b)",
-              "prompt": "",
-              "lead": "Diese Tomaten kommen ",
-              "tail": " Spanien.",
-              "answer": "aus",
-              "explanation": "Herkunft aus einem Land ➔ aus",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_d",
-              "label": "d)",
-              "prompt": "",
-              "lead": "Die Tankstelle liegt dem Parkhaus ",
-              "tail": ".",
-              "answer": "gegenüber",
-              "explanation": "Nachgestellte Lagebezeichnung ➔ gegenüber",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_e",
-              "label": "e)",
-              "prompt": "",
-              "lead": "Wie viel Geld hast du ",
-              "tail": " dir?",
-              "answer": "bei",
-              "explanation": "Am Körper / bei einer Person ➔ bei",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_f",
-              "label": "f)",
-              "prompt": "",
-              "lead": "Kannst du mich ",
-              "tail": " Flughafen abholen?",
-              "answer": "vom",
-              "explanation": "Herkunft von einem Ort (von + dem) ➔ vom",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_g",
-              "label": "g)",
-              "prompt": "",
-              "lead": "Maria will nicht ",
-              "tail": " mir in Urlaub fahren.",
-              "answer": "mit",
-              "explanation": "Gemeinschaft mit einer Person ➔ mit",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_h",
-              "label": "h)",
-              "prompt": "",
-              "lead": "Ich bringe dich ",
-              "tail": " Bahnhof.",
-              "answer": "zum",
-              "explanation": "Zielrichtung zu einem Gebäude (zu + dem) ➔ zum",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_i",
-              "label": "i)",
-              "prompt": "",
-              "lead": "Maria wohnt ",
-              "tail": " ihren Eltern.",
-              "answer": "bei",
-              "explanation": "Wohnen bei Personen ➔ bei",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_j",
-              "label": "j)",
-              "prompt": "",
-              "lead": "Sie fährt ",
-              "tail": " dem Taxi nach Hause.",
-              "answer": "mit",
-              "explanation": "Verkehrsmittel ➔ mit",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_k",
-              "label": "k)",
-              "prompt": "",
-              "lead": "Wir holen unsere Tante ",
-              "tail": " Bahnhof ab.",
-              "answer": "vom",
-              "explanation": "Abholen von einem Ort (von + dem) ➔ vom",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_l",
-              "label": "l)",
-              "prompt": "",
-              "lead": "Heute Nachmittag gehe ich ",
-              "tail": " Klaus.",
-              "answer": "zu",
-              "explanation": "Bewegung zu einer Person ➔ zu",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_m",
-              "label": "m)",
-              "prompt": "",
-              "lead": "",
-              "tail": " Regen mag ich nicht joggen.",
-              "answer": "Bei",
-              "explanation": "Bedingung / Wetter am Satzanfang ➔ Bei",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p28_ex2_n",
-              "label": "n)",
-              "prompt": "",
-              "lead": "",
-              "tail": " wem ist das Geschenk?",
-              "answer": "Von",
-              "explanation": "Frage nach Urheber/Schenker am Satzanfang ➔ Von",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p28_ex3",
-          "title": "Übung 3: Dativpräpositionen mit Personalpronomen",
-          "instruction": "Antworten Sie verneinend mit der passenden Präposition und dem Personalpronomen im Dativ.",
-          "wordBox": [
-            "von ihr",
-            "mit ihm",
-            "mit ihr",
-            "von ihm",
-            "mit ihnen",
-            "zu ihr",
-            "bei ihnen"
-          ],
-          "answers": {
-            "a1_p28_ex3_a": "von ihr",
-            "a1_p28_ex3_b": "mit ihm",
-            "a1_p28_ex3_c": "mit ihr",
-            "a1_p28_ex3_d": "von ihm",
-            "a1_p28_ex3_e": "mit ihnen",
-            "a1_p28_ex3_f": "zu ihr",
-            "a1_p28_ex3_g": "bei ihnen",
-            "a1_p28_ex3_h": "von ihm"
-          },
-          "explanations": {
-            "a1_p28_ex3_a": "Julia (feminin) ➔ von ihr",
-            "a1_p28_ex3_b": "der Großvater (maskulin) ➔ mit ihm",
-            "a1_p28_ex3_c": "die Sekretärin (feminin) ➔ mit ihr",
-            "a1_p28_ex3_d": "Max (maskulin) ➔ von ihm",
-            "a1_p28_ex3_e": "die Studentinnen (Plural) ➔ mit ihnen",
-            "a1_p28_ex3_f": "Frau Berg (feminin) ➔ zu ihr",
-            "a1_p28_ex3_g": "deine Eltern (Plural) ➔ bei ihnen",
-            "a1_p28_ex3_h": "Christian (maskulin) ➔ von ihm"
-          },
-          "items": [
-            {
-              "id": "a1_p28_ex3_a",
-              "label": "a)",
-              "prompt": "Kommst du von Julia?",
-              "lead": "Nein, ich komme nicht ",
-              "tail": ".",
-              "answer": "von ihr",
-              "explanation": "Julia (feminin) ➔ von ihr",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_b",
-              "label": "b)",
-              "prompt": "Telefonierst du mit dem Großvater?",
-              "lead": "Nein, ich telefoniere nicht ",
-              "tail": ".",
-              "answer": "mit ihm",
-              "explanation": "der Großvater (maskulin) ➔ mit ihm",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_c",
-              "label": "c)",
-              "prompt": "Sprichst du mit der Sekretärin?",
-              "lead": "Nein, ich spreche nicht ",
-              "tail": ".",
-              "answer": "mit ihr",
-              "explanation": "die Sekretärin (feminin) ➔ mit ihr",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_d",
-              "label": "d)",
-              "prompt": "Sind die Blumen von Max?",
-              "lead": "Nein, sie sind nicht ",
-              "tail": ".",
-              "answer": "von ihm",
-              "explanation": "Max (maskulin) ➔ von ihm",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_e",
-              "label": "e)",
-              "prompt": "Lernst du mit den Studentinnen?",
-              "lead": "Nein, ich lerne nicht ",
-              "tail": ".",
-              "answer": "mit ihnen",
-              "explanation": "die Studentinnen (Plural) ➔ mit ihnen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_f",
-              "label": "f)",
-              "prompt": "Fährst du zu Frau Berg?",
-              "lead": "Nein, ich fahre nicht ",
-              "tail": ".",
-              "answer": "zu ihr",
-              "explanation": "Frau Berg (feminin) ➔ zu ihr",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_g",
-              "label": "g)",
-              "prompt": "Wohnst du bei deinen Eltern?",
-              "lead": "Nein, ich wohne nicht ",
-              "tail": ".",
-              "answer": "bei ihnen",
-              "explanation": "deine Eltern (Plural) ➔ bei ihnen",
-              "isCompact": false
-            },
-            {
-              "id": "a1_p28_ex3_h",
-              "label": "h)",
-              "prompt": "Ist das Geschenk von Christian?",
-              "lead": "Nein, es ist nicht ",
-              "tail": ".",
-              "answer": "von ihm",
-              "explanation": "Christian (maskulin) ➔ von ihm",
-              "isCompact": false
-            }
-          ]
-        }
       ]
-    },
+},
     "29": {
       "lessonTitle": "8.1. Perfekt: Regelmäßige und unregelmäßige Verben (Seite 29)",
       "grammarSummary": "### 📌 8.1. Perfekt: Bildung mit „haben“ und „sein“ (The Present Perfect Tense)\n\nDas **Perfekt** ist die wichtigste Zeitform für die Vergangenheit im gesprochenen Deutsch und in informellen Texten (E-Mails, Briefen).\n\n---\n\n#### 1. Der Satzbau im Perfekt: Die Satzklammer (*Sentence Bracket*)\n\nEin Perfektsatz besteht aus zwei Teilen, die das Satzmittelfeld umschließen:\n\n**[Position I: Subjekt]** + **[Position II: haben / sein]** + *... Mittelfeld ...* + **[Satzende: Partizip II]**\n\n- *Ich **habe** gestern ein neues Auto **gekauft**.*\n- *Paul **ist** heute früh nach Berlin **gereist**.*\n\n---\n\n#### 2. Hilfsverb: „haben“ oder „sein“?\n\n| Hilfsverb | Wann wird es verwendet? | Typische Beispiele |\n| :--- | :--- | :--- |\n| **haben** | Die allermeisten Verben: transitive Verben (mit Akkusativobjekt), reflexive Verben, Verben ohne Ortswechsel | *Ich habe gekauft, gearbeitet, telefoniert, gegessen.* |\n| **sein** | 1. **Ortswechsel / Bewegung von A nach B**: *gehen, fahren, reisen, fliegen, starten*<br>2. **Zustandsänderung**: *aufwachen, einschlafen, passieren, sterben*<br>3. Die Ausnahmen: *sein (ist gewesen)*, *bleiben (ist geblieben)* | *Er ist gereist. Das Flugzeug ist gestartet. Ein Unfall ist passiert.* |\n\n---\n\n#### 3. Bildung des Partizip II bei schwachen (regelmäßigen) Verben\n\n| Typ | Bildungsregel | Infinitiv | Partizip II |\n| :--- | :--- | :--- | :--- |\n| **Standard** | **ge-** + Verbstamm + **-t** | *kaufen, hören, spielen* | **ge**kauf**t**, **ge**hör**t**, **ge**spiel**t** |\n| **Stamm auf -t / -d / Konsonant** | **ge-** + Verbstamm + **-et** | *arbeiten, warten, antworten* | **ge**arbeit**et**, **ge**wart**et**, **ge**antwort**et** |\n| **Verben auf -ieren** | Verbstamm + **-t** (❌ **KEIN ge-!**) | *studieren, telefonieren, korrigieren* | studier**t**, telefonier**t**, korrigier**t** |\n\n---\n\n#### 4. Bildung des Partizip II bei starken (unregelmäßigen) Verben\n\nStarke Verben enden im Partizip II auf **-en** und verändern oft ihren Stammvokal:\n\n| Infinitiv | Stammvokalwechsel | Partizip II | Beispielsatz |\n| :--- | :---: | :--- | :--- |\n| **treffen** | e ➔ o | **ge**troff**en** | *Ich habe Carmen **getroffen**.* |\n| **helfen** | e ➔ o | **ge**holf**en** | *Ich habe Paul **geholfen**.* |\n| **schließen** | ie ➔ o | **ge**schloss**en** | *Ich habe das Fenster **geschlossen**.* |\n| **schneiden** | ei ➔ i | **ge**schnitt**en** | *Ich habe die Zwiebel **geschnitten**.* |\n| **schreiben** | ei ➔ ie | **ge**schrieb**en** | *Ich habe einen Brief **geschrieben**.* |\n| **trinken** | i ➔ u | **ge**trunk**en** | *Ich habe Tee **getrunken**.* |\n| **lesen** | e ➔ e (kein Wechsel) | **ge**les**en** | *Ich habe das Buch **gelesen**.* |\n| **waschen** | a ➔ a (kein Wechsel) | **ge**wasch**en** | *Ich habe den Pullover **gewaschen**.* |\n| **essen** | e ➔ e (+ g- Einschub) | **ge**gess**en** | *Ich habe Kuchen **gegessen**.* |\n\n---\n\n#### 5. 🇬🇧 English Cognitive Bridge: The German Perfekt\n\n- **Past vs. Present Perfect:** While English distinguishes between Simple Past (*\"I lived in Berlin\"*) and Present Perfect (*\"I have lived in Berlin\"*), German predominantly uses the **Perfekt** in spoken German for **all completed past actions**.\n- **Sentence Bracket:** In English, auxiliary and participle stick together (*\"I have bought an ice cream\"*). In German, the participle is sent all the way to the **end of the sentence** (*\"Ich habe ein Eis **gekauft**\"*).\n- **Movement uses \"sein\":** English always uses \"have\" (*\"Paul has travelled\"*). German uses **sein** (*\"Paul **ist** gereist\"*) whenever movement or a change of state occurs.",
       "exercises": [
-        {
-          "id": "a1_p29_ex1",
-          "title": "Übung 1: Perfekt der regelmäßigen (schwachen) Verben",
-          "instruction": "Bilden Sie das Partizip II der angegebenen Verben am Satzende. Achten Sie auf Verben mit -et, -ieren und Verben mit „sein“.",
-          "wordBox": [
-            "gewohnt",
-            "gelernt",
-            "gesucht",
-            "geholt",
-            "gebucht",
-            "gedankt",
-            "gespielt",
-            "gesagt",
-            "gepasst",
-            "gewartet",
-            "geantwortet",
-            "gemietet",
-            "korrigiert",
-            "gratuliert",
-            "studiert",
-            "gereist",
-            "passiert",
-            "gestartet"
-          ],
-          "answers": {
-            "a1_p29_ex1_a": "gewohnt",
-            "a1_p29_ex1_b": "gelernt",
-            "a1_p29_ex1_c": "gesucht",
-            "a1_p29_ex1_d": "geholt",
-            "a1_p29_ex1_e": "gebucht",
-            "a1_p29_ex1_f": "gedankt",
-            "a1_p29_ex1_g": "gespielt",
-            "a1_p29_ex1_h": "gesagt",
-            "a1_p29_ex1_i": "gepasst",
-            "a1_p29_ex1_j": "gewartet",
-            "a1_p29_ex1_k": "geantwortet",
-            "a1_p29_ex1_l": "gemietet",
-            "a1_p29_ex1_m": "korrigiert",
-            "a1_p29_ex1_n": "gratuliert",
-            "a1_p29_ex1_o": "studiert",
-            "a1_p29_ex1_p": "gereist",
-            "a1_p29_ex1_q": "passiert",
-            "a1_p29_ex1_r": "gestartet"
-          },
-          "explanations": {
-            "a1_p29_ex1_a": "wohnen ➔ gewohnt (ge- + Stamm + -t)",
-            "a1_p29_ex1_b": "lernen ➔ gelernt (ge- + Stamm + -t)",
-            "a1_p29_ex1_c": "suchen ➔ gesucht (ge- + Stamm + -t)",
-            "a1_p29_ex1_d": "holen ➔ geholt (ge- + Stamm + -t)",
-            "a1_p29_ex1_e": "buchen ➔ gebucht (ge- + Stamm + -t)",
-            "a1_p29_ex1_f": "danken ➔ gedankt (ge- + Stamm + -t)",
-            "a1_p29_ex1_g": "spielen ➔ gespielt (ge- + Stamm + -t)",
-            "a1_p29_ex1_h": "sagen ➔ gesagt (ge- + Stamm + -t)",
-            "a1_p29_ex1_i": "passen ➔ gepasst (ge- + Stamm + -t)",
-            "a1_p29_ex1_j": "warten ➔ gewartet (Stamm auf -t ➔ Endung -et)",
-            "a1_p29_ex1_k": "antworten ➔ geantwortet (Stamm auf -t ➔ Endung -et)",
-            "a1_p29_ex1_l": "mieten ➔ gemietet (Stamm auf -t ➔ Endung -et)",
-            "a1_p29_ex1_m": "korrigieren ➔ korrigiert (Verben auf -ieren ohne ge-)",
-            "a1_p29_ex1_n": "gratulieren ➔ gratuliert (Verben auf -ieren ohne ge-)",
-            "a1_p29_ex1_o": "studieren ➔ studiert (Verben auf -ieren ohne ge-)",
-            "a1_p29_ex1_p": "reisen ➔ gereist (Ortswechsel ➔ Perfekt mit sein)",
-            "a1_p29_ex1_q": "passieren ➔ passiert (Zustandsänderung ➔ Perfekt mit sein, kein ge-)",
-            "a1_p29_ex1_r": "starten ➔ gestartet (Bewegung ➔ Perfekt mit sein, Endung -et)"
-          },
-          "items": [
             {
-              "id": "a1_p29_ex1_a",
-              "label": "a)",
-              "prompt": "wohnen (er)",
-              "lead": "Er hat in Köln ",
-              "tail": ".",
-              "answer": "gewohnt",
-              "explanation": "wohnen ➔ gewohnt (ge- + Stamm + -t)",
-              "isCompact": true
+                  "id": "a1_p29_ex1",
+                  "title": "Übung 1: Perfekt der regelmäßigen (schwachen) Verben",
+                  "instruction": "Bilden Sie das Partizip II der angegebenen Verben am Satzende. Achten Sie auf Verben mit -et, -ieren und Verben mit „sein“.",
+                  "wordBox": [
+                        "gewohnt",
+                        "gelernt",
+                        "gesucht",
+                        "geholt",
+                        "gebucht",
+                        "gedankt",
+                        "gespielt",
+                        "gesagt",
+                        "gepasst",
+                        "gewartet",
+                        "geantwortet",
+                        "gemietet",
+                        "korrigiert",
+                        "gratuliert",
+                        "studiert",
+                        "gereist",
+                        "passiert",
+                        "gestartet"
+                  ],
+                  "answers": {
+                        "a1_p29_ex1_a": "gewohnt",
+                        "a1_p29_ex1_b": "gelernt",
+                        "a1_p29_ex1_c": "gesucht",
+                        "a1_p29_ex1_d": "geholt",
+                        "a1_p29_ex1_e": "gebucht",
+                        "a1_p29_ex1_f": "gedankt",
+                        "a1_p29_ex1_g": "gespielt",
+                        "a1_p29_ex1_h": "gesagt",
+                        "a1_p29_ex1_i": "gepasst",
+                        "a1_p29_ex1_j": "gewartet",
+                        "a1_p29_ex1_k": "geantwortet",
+                        "a1_p29_ex1_l": "gemietet",
+                        "a1_p29_ex1_m": "korrigiert",
+                        "a1_p29_ex1_n": "gratuliert",
+                        "a1_p29_ex1_o": "studiert",
+                        "a1_p29_ex1_p": "gereist",
+                        "a1_p29_ex1_q": "passiert",
+                        "a1_p29_ex1_r": "gestartet"
+                  },
+                  "explanations": {
+                        "a1_p29_ex1_a": "wohnen ➔ gewohnt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_b": "lernen ➔ gelernt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_c": "suchen ➔ gesucht (ge- + Stamm + -t)",
+                        "a1_p29_ex1_d": "holen ➔ geholt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_e": "buchen ➔ gebucht (ge- + Stamm + -t)",
+                        "a1_p29_ex1_f": "danken ➔ gedankt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_g": "spielen ➔ gespielt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_h": "sagen ➔ gesagt (ge- + Stamm + -t)",
+                        "a1_p29_ex1_i": "passen ➔ gepasst (ge- + Stamm + -t)",
+                        "a1_p29_ex1_j": "warten ➔ gewartet (Stamm auf -t ➔ Endung -et)",
+                        "a1_p29_ex1_k": "antworten ➔ geantwortet (Stamm auf -t ➔ Endung -et)",
+                        "a1_p29_ex1_l": "mieten ➔ gemietet (Stamm auf -t ➔ Endung -et)",
+                        "a1_p29_ex1_m": "korrigieren ➔ korrigiert (Verben auf -ieren ohne ge-)",
+                        "a1_p29_ex1_n": "gratulieren ➔ gratuliert (Verben auf -ieren ohne ge-)",
+                        "a1_p29_ex1_o": "studieren ➔ studiert (Verben auf -ieren ohne ge-)",
+                        "a1_p29_ex1_p": "reisen ➔ gereist (Ortswechsel ➔ Perfekt mit sein)",
+                        "a1_p29_ex1_q": "passieren ➔ passiert (Zustandsänderung ➔ Perfekt mit sein, kein ge-)",
+                        "a1_p29_ex1_r": "starten ➔ gestartet (Bewegung ➔ Perfekt mit sein, Endung -et)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p29_ex1_a",
+                              "label": "a)",
+                              "prompt": "wohnen (er)",
+                              "lead": "Er hat in Köln ",
+                              "tail": ".",
+                              "answer": "gewohnt",
+                              "explanation": "wohnen ➔ gewohnt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_b",
+                              "label": "b)",
+                              "prompt": "lernen (Eva)",
+                              "lead": "Eva hat Arabisch ",
+                              "tail": ".",
+                              "answer": "gelernt",
+                              "explanation": "lernen ➔ gelernt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_c",
+                              "label": "c)",
+                              "prompt": "suchen (er)",
+                              "lead": "Er hat seine Brille ",
+                              "tail": ".",
+                              "answer": "gesucht",
+                              "explanation": "suchen ➔ gesucht (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_d",
+                              "label": "d)",
+                              "prompt": "holen (du)",
+                              "lead": "Du hast Bier aus dem Keller ",
+                              "tail": ".",
+                              "answer": "geholt",
+                              "explanation": "holen ➔ geholt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_e",
+                              "label": "e)",
+                              "prompt": "buchen (wir)",
+                              "lead": "Wir haben einen Flug ",
+                              "tail": ".",
+                              "answer": "gebucht",
+                              "explanation": "buchen ➔ gebucht (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_f",
+                              "label": "f)",
+                              "prompt": "danken (ihr)",
+                              "lead": "Ihr habt euren Freunden ",
+                              "tail": ".",
+                              "answer": "gedankt",
+                              "explanation": "danken ➔ gedankt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_g",
+                              "label": "g)",
+                              "prompt": "spielen (sie)",
+                              "lead": "Sie haben Fußball ",
+                              "tail": ".",
+                              "answer": "gespielt",
+                              "explanation": "spielen ➔ gespielt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_h",
+                              "label": "h)",
+                              "prompt": "sagen (Max)",
+                              "lead": "Max hat kein Wort ",
+                              "tail": ".",
+                              "answer": "gesagt",
+                              "explanation": "sagen ➔ gesagt (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_i",
+                              "label": "i)",
+                              "prompt": "passen (die Jacke)",
+                              "lead": "Die Jacke hat mir nicht ",
+                              "tail": ".",
+                              "answer": "gepasst",
+                              "explanation": "passen ➔ gepasst (ge- + Stamm + -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_j",
+                              "label": "j)",
+                              "prompt": "warten (wir)",
+                              "lead": "Wir haben auf den Bus ",
+                              "tail": ".",
+                              "answer": "gewartet",
+                              "explanation": "warten ➔ gewartet (Stamm auf -t ➔ Endung -et)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_k",
+                              "label": "k)",
+                              "prompt": "antworten (du)",
+                              "lead": "Du hast der Reporterin ",
+                              "tail": ".",
+                              "answer": "geantwortet",
+                              "explanation": "antworten ➔ geantwortet (Stamm auf -t ➔ Endung -et)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_l",
+                              "label": "l)",
+                              "prompt": "mieten (Eva und Max)",
+                              "lead": "Eva und Max haben ein Auto ",
+                              "tail": ".",
+                              "answer": "gemietet",
+                              "explanation": "mieten ➔ gemietet (Stamm auf -t ➔ Endung -et)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_m",
+                              "label": "m)",
+                              "prompt": "korrigieren (du)",
+                              "lead": "Du hast den Text ",
+                              "tail": ".",
+                              "answer": "korrigiert",
+                              "explanation": "korrigieren ➔ korrigiert (Verben auf -ieren ohne ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_n",
+                              "label": "n)",
+                              "prompt": "gratulieren (wir)",
+                              "lead": "Wir haben ihm ",
+                              "tail": ".",
+                              "answer": "gratuliert",
+                              "explanation": "gratulieren ➔ gratuliert (Verben auf -ieren ohne ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_o",
+                              "label": "o)",
+                              "prompt": "studieren (Lisa)",
+                              "lead": "Lisa hat Informatik ",
+                              "tail": ".",
+                              "answer": "studiert",
+                              "explanation": "studieren ➔ studiert (Verben auf -ieren ohne ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_p",
+                              "label": "p)",
+                              "prompt": "reisen (Paul)",
+                              "lead": "Paul ist nach Japan ",
+                              "tail": ".",
+                              "answer": "gereist",
+                              "explanation": "reisen ➔ gereist (Ortswechsel ➔ Perfekt mit sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_q",
+                              "label": "q)",
+                              "prompt": "passieren (ein Unfall)",
+                              "lead": "Ein Unfall ist ",
+                              "tail": ".",
+                              "answer": "passiert",
+                              "explanation": "passieren ➔ passiert (Zustandsänderung ➔ Perfekt mit sein, kein ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex1_r",
+                              "label": "r)",
+                              "prompt": "starten (das Flugzeug)",
+                              "lead": "Das Flugzeug ist schon ",
+                              "tail": ".",
+                              "answer": "gestartet",
+                              "explanation": "starten ➔ gestartet (Bewegung ➔ Perfekt mit sein, Endung -et)",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p29_ex1_b",
-              "label": "b)",
-              "prompt": "lernen (Eva)",
-              "lead": "Eva hat Arabisch ",
-              "tail": ".",
-              "answer": "gelernt",
-              "explanation": "lernen ➔ gelernt (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_c",
-              "label": "c)",
-              "prompt": "suchen (er)",
-              "lead": "Er hat seine Brille ",
-              "tail": ".",
-              "answer": "gesucht",
-              "explanation": "suchen ➔ gesucht (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_d",
-              "label": "d)",
-              "prompt": "holen (du)",
-              "lead": "Du hast Bier aus dem Keller ",
-              "tail": ".",
-              "answer": "geholt",
-              "explanation": "holen ➔ geholt (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_e",
-              "label": "e)",
-              "prompt": "buchen (wir)",
-              "lead": "Wir haben einen Flug ",
-              "tail": ".",
-              "answer": "gebucht",
-              "explanation": "buchen ➔ gebucht (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_f",
-              "label": "f)",
-              "prompt": "danken (ihr)",
-              "lead": "Ihr habt euren Freunden ",
-              "tail": ".",
-              "answer": "gedankt",
-              "explanation": "danken ➔ gedankt (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_g",
-              "label": "g)",
-              "prompt": "spielen (sie)",
-              "lead": "Sie haben Fußball ",
-              "tail": ".",
-              "answer": "gespielt",
-              "explanation": "spielen ➔ gespielt (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_h",
-              "label": "h)",
-              "prompt": "sagen (Max)",
-              "lead": "Max hat kein Wort ",
-              "tail": ".",
-              "answer": "gesagt",
-              "explanation": "sagen ➔ gesagt (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_i",
-              "label": "i)",
-              "prompt": "passen (die Jacke)",
-              "lead": "Die Jacke hat mir nicht ",
-              "tail": ".",
-              "answer": "gepasst",
-              "explanation": "passen ➔ gepasst (ge- + Stamm + -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_j",
-              "label": "j)",
-              "prompt": "warten (wir)",
-              "lead": "Wir haben auf den Bus ",
-              "tail": ".",
-              "answer": "gewartet",
-              "explanation": "warten ➔ gewartet (Stamm auf -t ➔ Endung -et)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_k",
-              "label": "k)",
-              "prompt": "antworten (du)",
-              "lead": "Du hast der Reporterin ",
-              "tail": ".",
-              "answer": "geantwortet",
-              "explanation": "antworten ➔ geantwortet (Stamm auf -t ➔ Endung -et)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_l",
-              "label": "l)",
-              "prompt": "mieten (Eva und Max)",
-              "lead": "Eva und Max haben ein Auto ",
-              "tail": ".",
-              "answer": "gemietet",
-              "explanation": "mieten ➔ gemietet (Stamm auf -t ➔ Endung -et)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_m",
-              "label": "m)",
-              "prompt": "korrigieren (du)",
-              "lead": "Du hast den Text ",
-              "tail": ".",
-              "answer": "korrigiert",
-              "explanation": "korrigieren ➔ korrigiert (Verben auf -ieren ohne ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_n",
-              "label": "n)",
-              "prompt": "gratulieren (wir)",
-              "lead": "Wir haben ihm ",
-              "tail": ".",
-              "answer": "gratuliert",
-              "explanation": "gratulieren ➔ gratuliert (Verben auf -ieren ohne ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_o",
-              "label": "o)",
-              "prompt": "studieren (Lisa)",
-              "lead": "Lisa hat Informatik ",
-              "tail": ".",
-              "answer": "studiert",
-              "explanation": "studieren ➔ studiert (Verben auf -ieren ohne ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_p",
-              "label": "p)",
-              "prompt": "reisen (Paul)",
-              "lead": "Paul ist nach Japan ",
-              "tail": ".",
-              "answer": "gereist",
-              "explanation": "reisen ➔ gereist (Ortswechsel ➔ Perfekt mit sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_q",
-              "label": "q)",
-              "prompt": "passieren (ein Unfall)",
-              "lead": "Ein Unfall ist ",
-              "tail": ".",
-              "answer": "passiert",
-              "explanation": "passieren ➔ passiert (Zustandsänderung ➔ Perfekt mit sein, kein ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex1_r",
-              "label": "r)",
-              "prompt": "starten (das Flugzeug)",
-              "lead": "Das Flugzeug ist schon ",
-              "tail": ".",
-              "answer": "gestartet",
-              "explanation": "starten ➔ gestartet (Bewegung ➔ Perfekt mit sein, Endung -et)",
-              "isCompact": true
+                  "id": "a1_p29_ex2",
+                  "title": "Übung 2: Perfekt der unregelmäßigen (starken) Verben",
+                  "instruction": "Antworten Sie auf die Frage im Perfekt mit dem passenden unregelmäßigen Partizip II.",
+                  "wordBox": [
+                        "getroffen",
+                        "gewaschen",
+                        "gelesen",
+                        "gegessen",
+                        "geholfen",
+                        "geschlossen",
+                        "geschnitten",
+                        "geschrieben"
+                  ],
+                  "answers": {
+                        "a1_p29_ex2_a": "getroffen",
+                        "a1_p29_ex2_b": "gewaschen",
+                        "a1_p29_ex2_c": "gelesen",
+                        "a1_p29_ex2_d": "gegessen",
+                        "a1_p29_ex2_e": "geholfen",
+                        "a1_p29_ex2_f": "geschlossen",
+                        "a1_p29_ex2_g": "geschnitten",
+                        "a1_p29_ex2_h": "geschrieben"
+                  },
+                  "explanations": {
+                        "a1_p29_ex2_a": "treffen ➔ getroffen (starkes Verb, Akkusativ: sie)",
+                        "a1_p29_ex2_b": "waschen ➔ gewaschen (starkes Verb, Akkusativ: ihn)",
+                        "a1_p29_ex2_c": "lesen ➔ gelesen (starkes Verb, Akkusativ: sie)",
+                        "a1_p29_ex2_d": "essen ➔ gegessen (starkes Verb, Akkusativ: ihn)",
+                        "a1_p29_ex2_e": "helfen ➔ geholfen (starkes Verb, Dativ: ihm)",
+                        "a1_p29_ex2_f": "schließen ➔ geschlossen (starkes Verb, Akkusativ: es)",
+                        "a1_p29_ex2_g": "schneiden ➔ geschnitten (starkes Verb, Akkusativ: sie)",
+                        "a1_p29_ex2_h": "schreiben ➔ geschrieben (starkes Verb, Dativ: ihnen)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p29_ex2_a",
+                              "label": "a)",
+                              "prompt": "Wann triffst du Carmen?",
+                              "lead": "Ich habe sie schon ",
+                              "tail": ".",
+                              "answer": "getroffen",
+                              "explanation": "treffen ➔ getroffen (starkes Verb, Akkusativ: sie)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_b",
+                              "label": "b)",
+                              "prompt": "Wann wäschst du den Pullover?",
+                              "lead": "Ich habe ihn schon ",
+                              "tail": ".",
+                              "answer": "gewaschen",
+                              "explanation": "waschen ➔ gewaschen (starkes Verb, Akkusativ: ihn)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_c",
+                              "label": "c)",
+                              "prompt": "Wann liest du die Zeitung?",
+                              "lead": "Ich habe sie schon ",
+                              "tail": ".",
+                              "answer": "gelesen",
+                              "explanation": "lesen ➔ gelesen (starkes Verb, Akkusativ: sie)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_d",
+                              "label": "d)",
+                              "prompt": "Wann isst du den Kuchen?",
+                              "lead": "Ich habe ihn schon ",
+                              "tail": ".",
+                              "answer": "gegessen",
+                              "explanation": "essen ➔ gegessen (starkes Verb, Akkusativ: ihn)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_e",
+                              "label": "e)",
+                              "prompt": "Wann hilfst du Paul?",
+                              "lead": "Ich habe ihm schon ",
+                              "tail": ".",
+                              "answer": "geholfen",
+                              "explanation": "helfen ➔ geholfen (starkes Verb, Dativ: ihm)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_f",
+                              "label": "f)",
+                              "prompt": "Wann schließt du das Fenster?",
+                              "lead": "Ich habe es schon ",
+                              "tail": ".",
+                              "answer": "geschlossen",
+                              "explanation": "schließen ➔ geschlossen (starkes Verb, Akkusativ: es)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_g",
+                              "label": "g)",
+                              "prompt": "Wann schneidest du die Zwiebel?",
+                              "lead": "Ich habe sie schon ",
+                              "tail": ".",
+                              "answer": "geschnitten",
+                              "explanation": "schneiden ➔ geschnitten (starkes Verb, Akkusativ: sie)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p29_ex2_h",
+                              "label": "h)",
+                              "prompt": "Wann schreibst du Eva und Maria?",
+                              "lead": "Ich habe ihnen schon ",
+                              "tail": ".",
+                              "answer": "geschrieben",
+                              "explanation": "schreiben ➔ geschrieben (starkes Verb, Dativ: ihnen)",
+                              "isCompact": true
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a1_p29_ex2",
-          "title": "Übung 2: Perfekt der unregelmäßigen (starken) Verben",
-          "instruction": "Antworten Sie auf die Frage im Perfekt mit dem passenden unregelmäßigen Partizip II.",
-          "wordBox": [
-            "getroffen",
-            "gewaschen",
-            "gelesen",
-            "gegessen",
-            "geholfen",
-            "geschlossen",
-            "geschnitten",
-            "geschrieben"
-          ],
-          "answers": {
-            "a1_p29_ex2_a": "getroffen",
-            "a1_p29_ex2_b": "gewaschen",
-            "a1_p29_ex2_c": "gelesen",
-            "a1_p29_ex2_d": "gegessen",
-            "a1_p29_ex2_e": "geholfen",
-            "a1_p29_ex2_f": "geschlossen",
-            "a1_p29_ex2_g": "geschnitten",
-            "a1_p29_ex2_h": "geschrieben"
-          },
-          "explanations": {
-            "a1_p29_ex2_a": "treffen ➔ getroffen (starkes Verb, Akkusativ: sie)",
-            "a1_p29_ex2_b": "waschen ➔ gewaschen (starkes Verb, Akkusativ: ihn)",
-            "a1_p29_ex2_c": "lesen ➔ gelesen (starkes Verb, Akkusativ: sie)",
-            "a1_p29_ex2_d": "essen ➔ gegessen (starkes Verb, Akkusativ: ihn)",
-            "a1_p29_ex2_e": "helfen ➔ geholfen (starkes Verb, Dativ: ihm)",
-            "a1_p29_ex2_f": "schließen ➔ geschlossen (starkes Verb, Akkusativ: es)",
-            "a1_p29_ex2_g": "schneiden ➔ geschnitten (starkes Verb, Akkusativ: sie)",
-            "a1_p29_ex2_h": "schreiben ➔ geschrieben (starkes Verb, Dativ: ihnen)"
-          },
-          "items": [
-            {
-              "id": "a1_p29_ex2_a",
-              "label": "a)",
-              "prompt": "Wann triffst du Carmen?",
-              "lead": "Ich habe sie schon ",
-              "tail": ".",
-              "answer": "getroffen",
-              "explanation": "treffen ➔ getroffen (starkes Verb, Akkusativ: sie)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_b",
-              "label": "b)",
-              "prompt": "Wann wäschst du den Pullover?",
-              "lead": "Ich habe ihn schon ",
-              "tail": ".",
-              "answer": "gewaschen",
-              "explanation": "waschen ➔ gewaschen (starkes Verb, Akkusativ: ihn)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_c",
-              "label": "c)",
-              "prompt": "Wann liest du die Zeitung?",
-              "lead": "Ich habe sie schon ",
-              "tail": ".",
-              "answer": "gelesen",
-              "explanation": "lesen ➔ gelesen (starkes Verb, Akkusativ: sie)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_d",
-              "label": "d)",
-              "prompt": "Wann isst du den Kuchen?",
-              "lead": "Ich habe ihn schon ",
-              "tail": ".",
-              "answer": "gegessen",
-              "explanation": "essen ➔ gegessen (starkes Verb, Akkusativ: ihn)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_e",
-              "label": "e)",
-              "prompt": "Wann hilfst du Paul?",
-              "lead": "Ich habe ihm schon ",
-              "tail": ".",
-              "answer": "geholfen",
-              "explanation": "helfen ➔ geholfen (starkes Verb, Dativ: ihm)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_f",
-              "label": "f)",
-              "prompt": "Wann schließt du das Fenster?",
-              "lead": "Ich habe es schon ",
-              "tail": ".",
-              "answer": "geschlossen",
-              "explanation": "schließen ➔ geschlossen (starkes Verb, Akkusativ: es)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_g",
-              "label": "g)",
-              "prompt": "Wann schneidest du die Zwiebel?",
-              "lead": "Ich habe sie schon ",
-              "tail": ".",
-              "answer": "geschnitten",
-              "explanation": "schneiden ➔ geschnitten (starkes Verb, Akkusativ: sie)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p29_ex2_h",
-              "label": "h)",
-              "prompt": "Wann schreibst du Eva und Maria?",
-              "lead": "Ich habe ihnen schon ",
-              "tail": ".",
-              "answer": "geschrieben",
-              "explanation": "schreiben ➔ geschrieben (starkes Verb, Dativ: ihnen)",
-              "isCompact": true
-            }
-          ]
-        }
       ]
-    },
+},
     "30": {
       "lessonTitle": "8.1. Perfekt: Vertiefung — Gemischte, trennbare und nicht trennbare Verben (Seite 30)",
       "grammarSummary": "### 📌 8.1. Perfekt: Vertiefung (Special Participle Categories)\n\nNach den regulären und starken Verben vertiefen wir hier die drei wichtigsten Sonderkategorien des Perfekts im Deutschen:\n\n---\n\n#### 1. Gemischte Verben (*Mixed Verbs*)\nGemischte Verben verbinden Merkmale von starken und schwachen Verben:\n- Sie ändern den **Stammvokal** (wie starke Verben).\n- Sie erhalten die Endung **-t** (wie schwache Verben):\n\n| Infinitiv | Stammvokalwechsel | Partizip II | Beispielsatz |\n| :--- | :---: | :--- | :--- |\n| **bringen** | i ➔ a | ge**brach**t | *Hast du das Paket **gebracht**?* |\n| **denken** | e ➔ a | ge**dach**t | *Hast du an mich **gedacht**?* |\n| **wissen** | i ➔ u | ge**wuss**t | *Das habe ich nicht **gewusst**.* |\n| **kennen** | e ➔ a | ge**kann**t | *Ich habe sie gut **gekannt**.* |\n| **nennen** | e ➔ a | ge**nann**t | *Er hat seinen Namen **genannt**.* |\n| **rennen** *(sein)* | e ➔ a | ge**rann**t | *Bist du nach Hause **gerannt**?* |\n\n---\n\n#### 2. Nicht trennbare Verben (*Inseparable Prefix Verbs*)\nVerben mit den festen Präfixen **be-, emp-, ent-, er-, ge-, miss-, ver-, zer-** bilden das Partizip II **OHNE ge-**:\n\n- **erklären** ➔ *erklär**t*** (schwach)\n- **bekommen** ➔ *bekomm**en*** (stark)\n- **verstehen** ➔ *verstand**en*** (stark)\n- **vergessen** ➔ *vergess**en*** (stark)\n- **zerbrechen** ➔ *zerbroch**en*** (stark)\n\n---\n\n#### 3. Trennbare Verben (*Separable Prefix Verbs*)\nBei trennbaren Verben schlüpft das **-ge-** genau **zwischen das Präfix und den Verbstamm**:\n\n$$\\text{Präfix} + \\mathbf{-ge-} + \\text{Stamm} + \\mathbf{-t / -en}$$\n\n- **ein**kaufen ➔ *ein**ge**kauf**t***\n- **an**rufen ➔ *an**ge**ruf**en***\n- **mit**bringen ➔ *mit**ge**brach**t***\n- **auf**stehen *(sein)* ➔ *auf**ge**stand**en***\n- **ein**steigen *(sein)* ➔ *ein**ge**stieg**en***\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge: Mixed & Prefix Participles\n\n- **Mixed Verbs:** German mixed verbs correspond neatly to English irregular dental-suffix verbs: *bring ➔ brought*, *think ➔ thought*. They change vowels yet finish with a \"-t/d\" sound.\n- **Inseparable Prefixes:** Just like English *becoming*, *forgiving*, or *understanding*, German inseparable prefixes fuse permanently to the root and **never allow an infix** (*kein ge-*).\n- **Separable Infix \"-ge-\":** German separable verbs insert the participle marker *-ge-* right between the prefix and the stem: *ein-ge-kauft* (literally \"in-bought\").",
       "exercises": [
-        {
-          "id": "a1_p30_ex3",
-          "title": "Übung 3: Fragen im Perfekt mit starken Verben",
-          "instruction": "Bilden Sie Fragen im Perfekt mit „du“. Setzen Sie das Partizip II der angegebenen starken Verben am Satzende ein. Achten Sie auf „haben“ vs. „sein“ (bei Bewegung/Ortswechsel).",
-          "wordBox": [
-            "genommen",
-            "gefunden",
-            "geholfen",
-            "geschlafen",
-            "getragen",
-            "geschrieben",
-            "gelesen",
-            "gesehen",
-            "gegessen",
-            "gegangen",
-            "geblieben",
-            "gelaufen",
-            "gekommen",
-            "gefahren",
-            "geflogen",
-            "gesessen",
-            "gestanden",
-            "gelegen"
-          ],
-          "answers": {
-            "a1_p30_ex3_a": "genommen",
-            "a1_p30_ex3_b": "gefunden",
-            "a1_p30_ex3_c": "geholfen",
-            "a1_p30_ex3_d": "geschlafen",
-            "a1_p30_ex3_e": "getragen",
-            "a1_p30_ex3_f": "geschrieben",
-            "a1_p30_ex3_g": "gelesen",
-            "a1_p30_ex3_h": "gesehen",
-            "a1_p30_ex3_i": "gegessen",
-            "a1_p30_ex3_j": "gegangen",
-            "a1_p30_ex3_k": "geblieben",
-            "a1_p30_ex3_l": "gelaufen",
-            "a1_p30_ex3_m": "gekommen",
-            "a1_p30_ex3_n": "gefahren",
-            "a1_p30_ex3_o": "geflogen",
-            "a1_p30_ex3_p": "gesessen",
-            "a1_p30_ex3_q": "gestanden",
-            "a1_p30_ex3_r": "gelegen"
-          },
-          "explanations": {
-            "a1_p30_ex3_a": "nehmen ➔ genommen (stark: e ➔ o)",
-            "a1_p30_ex3_b": "finden ➔ gefunden (stark: i ➔ u)",
-            "a1_p30_ex3_c": "helfen ➔ geholfen (stark: e ➔ o)",
-            "a1_p30_ex3_d": "schlafen ➔ geschlafen (stark: a ➔ a)",
-            "a1_p30_ex3_e": "tragen ➔ getragen (stark: a ➔ a)",
-            "a1_p30_ex3_f": "schreiben ➔ geschrieben (stark: ei ➔ ie)",
-            "a1_p30_ex3_g": "lesen ➔ gelesen (stark: e ➔ e)",
-            "a1_p30_ex3_h": "sehen ➔ gesehen (stark: e ➔ e)",
-            "a1_p30_ex3_i": "essen ➔ gegessen (stark: e ➔ e + g-)",
-            "a1_p30_ex3_j": "gehen ➔ gegangen (Ortswechsel ➔ sein)",
-            "a1_p30_ex3_k": "bleiben ➔ geblieben (Zustandsverharren ➔ sein)",
-            "a1_p30_ex3_l": "laufen ➔ gelaufen (Bewegung ➔ sein)",
-            "a1_p30_ex3_m": "kommen ➔ gekommen (Ortswechsel ➔ sein)",
-            "a1_p30_ex3_n": "fahren ➔ gefahren (Ortswechsel ➔ sein)",
-            "a1_p30_ex3_o": "fliegen ➔ geflogen (Ortswechsel ➔ sein)",
-            "a1_p30_ex3_p": "sitzen ➔ gesessen (stark: i ➔ e)",
-            "a1_p30_ex3_q": "stehen ➔ gestanden (stark: e ➔ a)",
-            "a1_p30_ex3_r": "liegen ➔ gelegen (stark: ie ➔ e)"
-          },
-          "items": [
             {
-              "id": "a1_p30_ex3_a",
-              "label": "a)",
-              "prompt": "nehmen",
-              "lead": "Was hast du ",
-              "tail": "?",
-              "answer": "genommen",
-              "explanation": "nehmen ➔ genommen (stark: e ➔ o)",
-              "isCompact": true
+                  "id": "a1_p30_ex3",
+                  "title": "Übung 3: Fragen im Perfekt mit starken Verben",
+                  "instruction": "Bilden Sie Fragen im Perfekt mit „du“. Setzen Sie das Partizip II der angegebenen starken Verben am Satzende ein. Achten Sie auf „haben“ vs. „sein“ (bei Bewegung/Ortswechsel).",
+                  "wordBox": [
+                        "genommen",
+                        "gefunden",
+                        "geholfen",
+                        "geschlafen",
+                        "getragen",
+                        "geschrieben",
+                        "gelesen",
+                        "gesehen",
+                        "gegessen",
+                        "gegangen",
+                        "geblieben",
+                        "gelaufen",
+                        "gekommen",
+                        "gefahren",
+                        "geflogen",
+                        "gesessen",
+                        "gestanden",
+                        "gelegen"
+                  ],
+                  "answers": {
+                        "a1_p30_ex3_a": "genommen",
+                        "a1_p30_ex3_b": "gefunden",
+                        "a1_p30_ex3_c": "geholfen",
+                        "a1_p30_ex3_d": "geschlafen",
+                        "a1_p30_ex3_e": "getragen",
+                        "a1_p30_ex3_f": "geschrieben",
+                        "a1_p30_ex3_g": "gelesen",
+                        "a1_p30_ex3_h": "gesehen",
+                        "a1_p30_ex3_i": "gegessen",
+                        "a1_p30_ex3_j": "gegangen",
+                        "a1_p30_ex3_k": "geblieben",
+                        "a1_p30_ex3_l": "gelaufen",
+                        "a1_p30_ex3_m": "gekommen",
+                        "a1_p30_ex3_n": "gefahren",
+                        "a1_p30_ex3_o": "geflogen",
+                        "a1_p30_ex3_p": "gesessen",
+                        "a1_p30_ex3_q": "gestanden",
+                        "a1_p30_ex3_r": "gelegen"
+                  },
+                  "explanations": {
+                        "a1_p30_ex3_a": "nehmen ➔ genommen (stark: e ➔ o)",
+                        "a1_p30_ex3_b": "finden ➔ gefunden (stark: i ➔ u)",
+                        "a1_p30_ex3_c": "helfen ➔ geholfen (stark: e ➔ o)",
+                        "a1_p30_ex3_d": "schlafen ➔ geschlafen (stark: a ➔ a)",
+                        "a1_p30_ex3_e": "tragen ➔ getragen (stark: a ➔ a)",
+                        "a1_p30_ex3_f": "schreiben ➔ geschrieben (stark: ei ➔ ie)",
+                        "a1_p30_ex3_g": "lesen ➔ gelesen (stark: e ➔ e)",
+                        "a1_p30_ex3_h": "sehen ➔ gesehen (stark: e ➔ e)",
+                        "a1_p30_ex3_i": "essen ➔ gegessen (stark: e ➔ e + g-)",
+                        "a1_p30_ex3_j": "gehen ➔ gegangen (Ortswechsel ➔ sein)",
+                        "a1_p30_ex3_k": "bleiben ➔ geblieben (Zustandsverharren ➔ sein)",
+                        "a1_p30_ex3_l": "laufen ➔ gelaufen (Bewegung ➔ sein)",
+                        "a1_p30_ex3_m": "kommen ➔ gekommen (Ortswechsel ➔ sein)",
+                        "a1_p30_ex3_n": "fahren ➔ gefahren (Ortswechsel ➔ sein)",
+                        "a1_p30_ex3_o": "fliegen ➔ geflogen (Ortswechsel ➔ sein)",
+                        "a1_p30_ex3_p": "sitzen ➔ gesessen (stark: i ➔ e)",
+                        "a1_p30_ex3_q": "stehen ➔ gestanden (stark: e ➔ a)",
+                        "a1_p30_ex3_r": "liegen ➔ gelegen (stark: ie ➔ e)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p30_ex3_a",
+                              "label": "a)",
+                              "prompt": "nehmen",
+                              "lead": "Was hast du ",
+                              "tail": "?",
+                              "answer": "genommen",
+                              "explanation": "nehmen ➔ genommen (stark: e ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_b",
+                              "label": "b)",
+                              "prompt": "finden",
+                              "lead": "Was hast du ",
+                              "tail": "?",
+                              "answer": "gefunden",
+                              "explanation": "finden ➔ gefunden (stark: i ➔ u)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_c",
+                              "label": "c)",
+                              "prompt": "helfen",
+                              "lead": "Wem hast du ",
+                              "tail": "?",
+                              "answer": "geholfen",
+                              "explanation": "helfen ➔ geholfen (stark: e ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_d",
+                              "label": "d)",
+                              "prompt": "schlafen",
+                              "lead": "Wie lange hast du ",
+                              "tail": "?",
+                              "answer": "geschlafen",
+                              "explanation": "schlafen ➔ geschlafen (stark: a ➔ a)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_e",
+                              "label": "e)",
+                              "prompt": "tragen",
+                              "lead": "Was hast du ",
+                              "tail": "?",
+                              "answer": "getragen",
+                              "explanation": "tragen ➔ getragen (stark: a ➔ a)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_f",
+                              "label": "f)",
+                              "prompt": "schreiben",
+                              "lead": "Wem hast du ",
+                              "tail": "?",
+                              "answer": "geschrieben",
+                              "explanation": "schreiben ➔ geschrieben (stark: ei ➔ ie)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_g",
+                              "label": "g)",
+                              "prompt": "lesen",
+                              "lead": "Was hast du ",
+                              "tail": "?",
+                              "answer": "gelesen",
+                              "explanation": "lesen ➔ gelesen (stark: e ➔ e)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_h",
+                              "label": "h)",
+                              "prompt": "sehen",
+                              "lead": "Wen hast du ",
+                              "tail": "?",
+                              "answer": "gesehen",
+                              "explanation": "sehen ➔ gesehen (stark: e ➔ e)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_i",
+                              "label": "i)",
+                              "prompt": "essen",
+                              "lead": "Was hast du ",
+                              "tail": "?",
+                              "answer": "gegessen",
+                              "explanation": "essen ➔ gegessen (stark: e ➔ e + g-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_j",
+                              "label": "j)",
+                              "prompt": "gehen (!)",
+                              "lead": "Wohin bist du ",
+                              "tail": "?",
+                              "answer": "gegangen",
+                              "explanation": "gehen ➔ gegangen (Ortswechsel ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_k",
+                              "label": "k)",
+                              "prompt": "bleiben (!)",
+                              "lead": "Wie lange bist du ",
+                              "tail": "?",
+                              "answer": "geblieben",
+                              "explanation": "bleiben ➔ geblieben (Zustandsverharren ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_l",
+                              "label": "l)",
+                              "prompt": "laufen (!)",
+                              "lead": "Wohin bist du ",
+                              "tail": "?",
+                              "answer": "gelaufen",
+                              "explanation": "laufen ➔ gelaufen (Bewegung ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_m",
+                              "label": "m)",
+                              "prompt": "kommen (!)",
+                              "lead": "Wann bist du ",
+                              "tail": "?",
+                              "answer": "gekommen",
+                              "explanation": "kommen ➔ gekommen (Ortswechsel ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_n",
+                              "label": "n)",
+                              "prompt": "fahren (!)",
+                              "lead": "Wohin bist du ",
+                              "tail": "?",
+                              "answer": "gefahren",
+                              "explanation": "fahren ➔ gefahren (Ortswechsel ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_o",
+                              "label": "o)",
+                              "prompt": "fliegen (!)",
+                              "lead": "Wohin bist du ",
+                              "tail": "?",
+                              "answer": "geflogen",
+                              "explanation": "fliegen ➔ geflogen (Ortswechsel ➔ sein)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_p",
+                              "label": "p)",
+                              "prompt": "sitzen",
+                              "lead": "Wo hast du ",
+                              "tail": "?",
+                              "answer": "gesessen",
+                              "explanation": "sitzen ➔ gesessen (stark: i ➔ e)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_q",
+                              "label": "q)",
+                              "prompt": "stehen",
+                              "lead": "Wo hast du ",
+                              "tail": "?",
+                              "answer": "gestanden",
+                              "explanation": "stehen ➔ gestanden (stark: e ➔ a)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex3_r",
+                              "label": "r)",
+                              "prompt": "liegen",
+                              "lead": "Wo hast du ",
+                              "tail": "?",
+                              "answer": "gelegen",
+                              "explanation": "liegen ➔ gelegen (stark: ie ➔ e)",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p30_ex3_b",
-              "label": "b)",
-              "prompt": "finden",
-              "lead": "Was hast du ",
-              "tail": "?",
-              "answer": "gefunden",
-              "explanation": "finden ➔ gefunden (stark: i ➔ u)",
-              "isCompact": true
+                  "id": "a1_p30_ex4",
+                  "title": "Übung 4: Gemischte Verben im Perfekt",
+                  "instruction": "Setzen Sie das Partizip II des gemischten Verbs am Satzende ein. Achten Sie auf Vokalwechsel und die Endung -t.",
+                  "wordBox": [
+                        "genannt",
+                        "gewusst",
+                        "gesandt",
+                        "gekannt",
+                        "gedacht",
+                        "gerannt"
+                  ],
+                  "answers": {
+                        "a1_p30_ex4_a": "genannt",
+                        "a1_p30_ex4_b": "gewusst",
+                        "a1_p30_ex4_c": "gesandt",
+                        "a1_p30_ex4_d": "gekannt",
+                        "a1_p30_ex4_e": "gedacht",
+                        "a1_p30_ex4_f": "gerannt"
+                  },
+                  "explanations": {
+                        "a1_p30_ex4_a": "nennen ➔ genannt (e ➔ a, Endung -t)",
+                        "a1_p30_ex4_b": "wissen ➔ gewusst (i ➔ u, Endung -t)",
+                        "a1_p30_ex4_c": "senden ➔ gesandt (e ➔ a, Endung -t)",
+                        "a1_p30_ex4_d": "kennen ➔ gekannt (e ➔ a, Endung -t)",
+                        "a1_p30_ex4_e": "denken ➔ gedacht (e ➔ a, Endung -t)",
+                        "a1_p30_ex4_f": "rennen ➔ gerannt (Bewegung ➔ sein, e ➔ a)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p30_ex4_a",
+                              "label": "a)",
+                              "prompt": "nennen (die Adresse)",
+                              "lead": "Hast du die Adresse ",
+                              "tail": "?",
+                              "answer": "genannt",
+                              "explanation": "nennen ➔ genannt (e ➔ a, Endung -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex4_b",
+                              "label": "b)",
+                              "prompt": "wissen (die Antwort)",
+                              "lead": "Hast du die Antwort ",
+                              "tail": "?",
+                              "answer": "gewusst",
+                              "explanation": "wissen ➔ gewusst (i ➔ u, Endung -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex4_c",
+                              "label": "c)",
+                              "prompt": "senden (eine E-Mail)",
+                              "lead": "Hast du Paul eine E-Mail ",
+                              "tail": "?",
+                              "answer": "gesandt",
+                              "explanation": "senden ➔ gesandt (e ➔ a, Endung -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex4_d",
+                              "label": "d)",
+                              "prompt": "kennen (die Journalistin)",
+                              "lead": "Hast du die Journalistin ",
+                              "tail": "?",
+                              "answer": "gekannt",
+                              "explanation": "kennen ➔ gekannt (e ➔ a, Endung -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex4_e",
+                              "label": "e)",
+                              "prompt": "denken (an die Verabredung)",
+                              "lead": "Hast du an die Verabredung ",
+                              "tail": "?",
+                              "answer": "gedacht",
+                              "explanation": "denken ➔ gedacht (e ➔ a, Endung -t)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex4_f",
+                              "label": "f)",
+                              "prompt": "rennen (auf die Straße)",
+                              "lead": "Bist du auf die Straße ",
+                              "tail": "?",
+                              "answer": "gerannt",
+                              "explanation": "rennen ➔ gerannt (Bewegung ➔ sein, e ➔ a)",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p30_ex3_c",
-              "label": "c)",
-              "prompt": "helfen",
-              "lead": "Wem hast du ",
-              "tail": "?",
-              "answer": "geholfen",
-              "explanation": "helfen ➔ geholfen (stark: e ➔ o)",
-              "isCompact": true
+                  "id": "a1_p30_ex5",
+                  "title": "Übung 5: Nicht trennbare Verben im Perfekt (ohne ge-)",
+                  "instruction": "Setzen Sie das Partizip II der nicht trennbaren Verben ein (Präfixe be-, emp-, er-, ge-, ver-, zer- ➔ kein ge-!).",
+                  "wordBox": [
+                        "erklärt",
+                        "genossen",
+                        "empfohlen",
+                        "verloren",
+                        "bekommen",
+                        "zerbrochen",
+                        "erwartet",
+                        "vergessen"
+                  ],
+                  "answers": {
+                        "a1_p30_ex5_a": "erklärt",
+                        "a1_p30_ex5_b": "genossen",
+                        "a1_p30_ex5_c": "empfohlen",
+                        "a1_p30_ex5_d": "verloren",
+                        "a1_p30_ex5_e": "bekommen",
+                        "a1_p30_ex5_f": "zerbrochen",
+                        "a1_p30_ex5_g": "erwartet",
+                        "a1_p30_ex5_h": "vergessen"
+                  },
+                  "explanations": {
+                        "a1_p30_ex5_a": "erklären ➔ erklärt (nicht trennbar: kein ge-)",
+                        "a1_p30_ex5_b": "genießen ➔ genossen (nicht trennbar: kein ge-, ie ➔ o)",
+                        "a1_p30_ex5_c": "empfehlen ➔ empfohlen (nicht trennbar: kein ge-, e ➔ o)",
+                        "a1_p30_ex5_d": "verlieren ➔ verloren (nicht trennbar: kein ge-, ie ➔ o)",
+                        "a1_p30_ex5_e": "bekommen ➔ bekommen (nicht trennbar: kein ge-)",
+                        "a1_p30_ex5_f": "zerbrechen ➔ zerbrochen (nicht trennbar: kein ge-, e ➔ o)",
+                        "a1_p30_ex5_g": "erwarten ➔ erwartet (nicht trennbar: kein ge-, Endung -et)",
+                        "a1_p30_ex5_h": "vergessen ➔ vergessen (nicht trennbar: kein ge-)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p30_ex5_a",
+                              "label": "a)",
+                              "prompt": "erklären",
+                              "lead": "Du hast es ",
+                              "tail": ".",
+                              "answer": "erklärt",
+                              "explanation": "erklären ➔ erklärt (nicht trennbar: kein ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_b",
+                              "label": "b)",
+                              "prompt": "genießen",
+                              "lead": "Du hast den Urlaub ",
+                              "tail": ".",
+                              "answer": "genossen",
+                              "explanation": "genießen ➔ genossen (nicht trennbar: kein ge-, ie ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_c",
+                              "label": "c)",
+                              "prompt": "empfehlen",
+                              "lead": "Du hast das Restaurant ",
+                              "tail": ".",
+                              "answer": "empfohlen",
+                              "explanation": "empfehlen ➔ empfohlen (nicht trennbar: kein ge-, e ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_d",
+                              "label": "d)",
+                              "prompt": "verlieren",
+                              "lead": "Du hast den Schlüssel ",
+                              "tail": ".",
+                              "answer": "verloren",
+                              "explanation": "verlieren ➔ verloren (nicht trennbar: kein ge-, ie ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_e",
+                              "label": "e)",
+                              "prompt": "bekommen",
+                              "lead": "Du hast einen Brief ",
+                              "tail": ".",
+                              "answer": "bekommen",
+                              "explanation": "bekommen ➔ bekommen (nicht trennbar: kein ge-)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_f",
+                              "label": "f)",
+                              "prompt": "zerbrechen",
+                              "lead": "Du hast die Tasse ",
+                              "tail": ".",
+                              "answer": "zerbrochen",
+                              "explanation": "zerbrechen ➔ zerbrochen (nicht trennbar: kein ge-, e ➔ o)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_g",
+                              "label": "g)",
+                              "prompt": "erwarten",
+                              "lead": "Du hast Besuch ",
+                              "tail": ".",
+                              "answer": "erwartet",
+                              "explanation": "erwarten ➔ erwartet (nicht trennbar: kein ge-, Endung -et)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex5_h",
+                              "label": "h)",
+                              "prompt": "vergessen",
+                              "lead": "Du hast den Termin ",
+                              "tail": ".",
+                              "answer": "vergessen",
+                              "explanation": "vergessen ➔ vergessen (nicht trennbar: kein ge-)",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p30_ex3_d",
-              "label": "d)",
-              "prompt": "schlafen",
-              "lead": "Wie lange hast du ",
-              "tail": "?",
-              "answer": "geschlafen",
-              "explanation": "schlafen ➔ geschlafen (stark: a ➔ a)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_e",
-              "label": "e)",
-              "prompt": "tragen",
-              "lead": "Was hast du ",
-              "tail": "?",
-              "answer": "getragen",
-              "explanation": "tragen ➔ getragen (stark: a ➔ a)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_f",
-              "label": "f)",
-              "prompt": "schreiben",
-              "lead": "Wem hast du ",
-              "tail": "?",
-              "answer": "geschrieben",
-              "explanation": "schreiben ➔ geschrieben (stark: ei ➔ ie)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_g",
-              "label": "g)",
-              "prompt": "lesen",
-              "lead": "Was hast du ",
-              "tail": "?",
-              "answer": "gelesen",
-              "explanation": "lesen ➔ gelesen (stark: e ➔ e)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_h",
-              "label": "h)",
-              "prompt": "sehen",
-              "lead": "Wen hast du ",
-              "tail": "?",
-              "answer": "gesehen",
-              "explanation": "sehen ➔ gesehen (stark: e ➔ e)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_i",
-              "label": "i)",
-              "prompt": "essen",
-              "lead": "Was hast du ",
-              "tail": "?",
-              "answer": "gegessen",
-              "explanation": "essen ➔ gegessen (stark: e ➔ e + g-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_j",
-              "label": "j)",
-              "prompt": "gehen (!)",
-              "lead": "Wohin bist du ",
-              "tail": "?",
-              "answer": "gegangen",
-              "explanation": "gehen ➔ gegangen (Ortswechsel ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_k",
-              "label": "k)",
-              "prompt": "bleiben (!)",
-              "lead": "Wie lange bist du ",
-              "tail": "?",
-              "answer": "geblieben",
-              "explanation": "bleiben ➔ geblieben (Zustandsverharren ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_l",
-              "label": "l)",
-              "prompt": "laufen (!)",
-              "lead": "Wohin bist du ",
-              "tail": "?",
-              "answer": "gelaufen",
-              "explanation": "laufen ➔ gelaufen (Bewegung ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_m",
-              "label": "m)",
-              "prompt": "kommen (!)",
-              "lead": "Wann bist du ",
-              "tail": "?",
-              "answer": "gekommen",
-              "explanation": "kommen ➔ gekommen (Ortswechsel ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_n",
-              "label": "n)",
-              "prompt": "fahren (!)",
-              "lead": "Wohin bist du ",
-              "tail": "?",
-              "answer": "gefahren",
-              "explanation": "fahren ➔ gefahren (Ortswechsel ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_o",
-              "label": "o)",
-              "prompt": "fliegen (!)",
-              "lead": "Wohin bist du ",
-              "tail": "?",
-              "answer": "geflogen",
-              "explanation": "fliegen ➔ geflogen (Ortswechsel ➔ sein)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_p",
-              "label": "p)",
-              "prompt": "sitzen",
-              "lead": "Wo hast du ",
-              "tail": "?",
-              "answer": "gesessen",
-              "explanation": "sitzen ➔ gesessen (stark: i ➔ e)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_q",
-              "label": "q)",
-              "prompt": "stehen",
-              "lead": "Wo hast du ",
-              "tail": "?",
-              "answer": "gestanden",
-              "explanation": "stehen ➔ gestanden (stark: e ➔ a)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex3_r",
-              "label": "r)",
-              "prompt": "liegen",
-              "lead": "Wo hast du ",
-              "tail": "?",
-              "answer": "gelegen",
-              "explanation": "liegen ➔ gelegen (stark: ie ➔ e)",
-              "isCompact": true
+                  "id": "a1_p30_ex6",
+                  "title": "Übung 6: Trennbare Verben im Perfekt (-ge- nach Präfix)",
+                  "instruction": "Setzen Sie das Partizip II des trennbaren Verbs ein. Achten Sie auf das eingefügte -ge- zwischen Präfix und Verbstamm.",
+                  "wordBox": [
+                        "zugehört",
+                        "angerufen",
+                        "mitgebracht",
+                        "eingeladen",
+                        "aufgeweckt",
+                        "zurückgegeben",
+                        "aufgestanden",
+                        "eingestiegen"
+                  ],
+                  "answers": {
+                        "a1_p30_ex6_a": "zugehört",
+                        "a1_p30_ex6_b": "angerufen",
+                        "a1_p30_ex6_c": "mitgebracht",
+                        "a1_p30_ex6_d": "eingeladen",
+                        "a1_p30_ex6_e": "aufgeweckt",
+                        "a1_p30_ex6_f": "zurückgegeben",
+                        "a1_p30_ex6_g": "aufgestanden",
+                        "a1_p30_ex6_h": "eingestiegen"
+                  },
+                  "explanations": {
+                        "a1_p30_ex6_a": "zuhören ➔ zugehört (Präfix zu- + ge- + hört)",
+                        "a1_p30_ex6_b": "anrufen ➔ angerufen (Präfix an- + ge- + rufen)",
+                        "a1_p30_ex6_c": "mitbringen ➔ mitgebracht (Präfix mit- + ge- + bracht)",
+                        "a1_p30_ex6_d": "einladen ➔ eingeladen (Präfix ein- + ge- + laden)",
+                        "a1_p30_ex6_e": "aufwecken ➔ aufgeweckt (Präfix auf- + ge- + weckt)",
+                        "a1_p30_ex6_f": "zurückgeben ➔ zurückgegeben (Präfix zurück- + ge- + geben)",
+                        "a1_p30_ex6_g": "aufstehen ➔ aufgestanden (Ortswechsel ➔ sein, auf- + ge- + standen)",
+                        "a1_p30_ex6_h": "einsteigen ➔ eingestiegen (Ortswechsel ➔ sein, ein- + ge- + stiegen)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p30_ex6_a",
+                              "label": "a)",
+                              "prompt": "zuhören",
+                              "lead": "Du hast mir ",
+                              "tail": ".",
+                              "answer": "zugehört",
+                              "explanation": "zuhören ➔ zugehört (Präfix zu- + ge- + hört)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_b",
+                              "label": "b)",
+                              "prompt": "anrufen",
+                              "lead": "Du hast mich ",
+                              "tail": ".",
+                              "answer": "angerufen",
+                              "explanation": "anrufen ➔ angerufen (Präfix an- + ge- + rufen)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_c",
+                              "label": "c)",
+                              "prompt": "mitbringen",
+                              "lead": "Du hast etwas ",
+                              "tail": ".",
+                              "answer": "mitgebracht",
+                              "explanation": "mitbringen ➔ mitgebracht (Präfix mit- + ge- + bracht)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_d",
+                              "label": "d)",
+                              "prompt": "einladen",
+                              "lead": "Du hast mich ",
+                              "tail": ".",
+                              "answer": "eingeladen",
+                              "explanation": "einladen ➔ eingeladen (Präfix ein- + ge- + laden)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_e",
+                              "label": "e)",
+                              "prompt": "aufwecken",
+                              "lead": "Du hast mich ",
+                              "tail": ".",
+                              "answer": "aufgeweckt",
+                              "explanation": "aufwecken ➔ aufgeweckt (Präfix auf- + ge- + weckt)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_f",
+                              "label": "f)",
+                              "prompt": "zurückgeben",
+                              "lead": "Du hast das Buch ",
+                              "tail": ".",
+                              "answer": "zurückgegeben",
+                              "explanation": "zurückgeben ➔ zurückgegeben (Präfix zurück- + ge- + geben)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_g",
+                              "label": "g)",
+                              "prompt": "aufstehen (!)",
+                              "lead": "Du bist gerade ",
+                              "tail": ".",
+                              "answer": "aufgestanden",
+                              "explanation": "aufstehen ➔ aufgestanden (Ortswechsel ➔ sein, auf- + ge- + standen)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p30_ex6_h",
+                              "label": "h)",
+                              "prompt": "einsteigen (!)",
+                              "lead": "Du bist ins Taxi ",
+                              "tail": ".",
+                              "answer": "eingestiegen",
+                              "explanation": "einsteigen ➔ eingestiegen (Ortswechsel ➔ sein, ein- + ge- + stiegen)",
+                              "isCompact": true
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a1_p30_ex4",
-          "title": "Übung 4: Gemischte Verben im Perfekt",
-          "instruction": "Setzen Sie das Partizip II des gemischten Verbs am Satzende ein. Achten Sie auf Vokalwechsel und die Endung -t.",
-          "wordBox": [
-            "genannt",
-            "gewusst",
-            "gesandt",
-            "gekannt",
-            "gedacht",
-            "gerannt"
-          ],
-          "answers": {
-            "a1_p30_ex4_a": "genannt",
-            "a1_p30_ex4_b": "gewusst",
-            "a1_p30_ex4_c": "gesandt",
-            "a1_p30_ex4_d": "gekannt",
-            "a1_p30_ex4_e": "gedacht",
-            "a1_p30_ex4_f": "gerannt"
-          },
-          "explanations": {
-            "a1_p30_ex4_a": "nennen ➔ genannt (e ➔ a, Endung -t)",
-            "a1_p30_ex4_b": "wissen ➔ gewusst (i ➔ u, Endung -t)",
-            "a1_p30_ex4_c": "senden ➔ gesandt (e ➔ a, Endung -t)",
-            "a1_p30_ex4_d": "kennen ➔ gekannt (e ➔ a, Endung -t)",
-            "a1_p30_ex4_e": "denken ➔ gedacht (e ➔ a, Endung -t)",
-            "a1_p30_ex4_f": "rennen ➔ gerannt (Bewegung ➔ sein, e ➔ a)"
-          },
-          "items": [
-            {
-              "id": "a1_p30_ex4_a",
-              "label": "a)",
-              "prompt": "nennen (die Adresse)",
-              "lead": "Hast du die Adresse ",
-              "tail": "?",
-              "answer": "genannt",
-              "explanation": "nennen ➔ genannt (e ➔ a, Endung -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex4_b",
-              "label": "b)",
-              "prompt": "wissen (die Antwort)",
-              "lead": "Hast du die Antwort ",
-              "tail": "?",
-              "answer": "gewusst",
-              "explanation": "wissen ➔ gewusst (i ➔ u, Endung -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex4_c",
-              "label": "c)",
-              "prompt": "senden (eine E-Mail)",
-              "lead": "Hast du Paul eine E-Mail ",
-              "tail": "?",
-              "answer": "gesandt",
-              "explanation": "senden ➔ gesandt (e ➔ a, Endung -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex4_d",
-              "label": "d)",
-              "prompt": "kennen (die Journalistin)",
-              "lead": "Hast du die Journalistin ",
-              "tail": "?",
-              "answer": "gekannt",
-              "explanation": "kennen ➔ gekannt (e ➔ a, Endung -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex4_e",
-              "label": "e)",
-              "prompt": "denken (an die Verabredung)",
-              "lead": "Hast du an die Verabredung ",
-              "tail": "?",
-              "answer": "gedacht",
-              "explanation": "denken ➔ gedacht (e ➔ a, Endung -t)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex4_f",
-              "label": "f)",
-              "prompt": "rennen (auf die Straße)",
-              "lead": "Bist du auf die Straße ",
-              "tail": "?",
-              "answer": "gerannt",
-              "explanation": "rennen ➔ gerannt (Bewegung ➔ sein, e ➔ a)",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p30_ex5",
-          "title": "Übung 5: Nicht trennbare Verben im Perfekt (ohne ge-)",
-          "instruction": "Setzen Sie das Partizip II der nicht trennbaren Verben ein (Präfixe be-, emp-, er-, ge-, ver-, zer- ➔ kein ge-!).",
-          "wordBox": [
-            "erklärt",
-            "genossen",
-            "empfohlen",
-            "verloren",
-            "bekommen",
-            "zerbrochen",
-            "erwartet",
-            "vergessen"
-          ],
-          "answers": {
-            "a1_p30_ex5_a": "erklärt",
-            "a1_p30_ex5_b": "genossen",
-            "a1_p30_ex5_c": "empfohlen",
-            "a1_p30_ex5_d": "verloren",
-            "a1_p30_ex5_e": "bekommen",
-            "a1_p30_ex5_f": "zerbrochen",
-            "a1_p30_ex5_g": "erwartet",
-            "a1_p30_ex5_h": "vergessen"
-          },
-          "explanations": {
-            "a1_p30_ex5_a": "erklären ➔ erklärt (nicht trennbar: kein ge-)",
-            "a1_p30_ex5_b": "genießen ➔ genossen (nicht trennbar: kein ge-, ie ➔ o)",
-            "a1_p30_ex5_c": "empfehlen ➔ empfohlen (nicht trennbar: kein ge-, e ➔ o)",
-            "a1_p30_ex5_d": "verlieren ➔ verloren (nicht trennbar: kein ge-, ie ➔ o)",
-            "a1_p30_ex5_e": "bekommen ➔ bekommen (nicht trennbar: kein ge-)",
-            "a1_p30_ex5_f": "zerbrechen ➔ zerbrochen (nicht trennbar: kein ge-, e ➔ o)",
-            "a1_p30_ex5_g": "erwarten ➔ erwartet (nicht trennbar: kein ge-, Endung -et)",
-            "a1_p30_ex5_h": "vergessen ➔ vergessen (nicht trennbar: kein ge-)"
-          },
-          "items": [
-            {
-              "id": "a1_p30_ex5_a",
-              "label": "a)",
-              "prompt": "erklären",
-              "lead": "Du hast es ",
-              "tail": ".",
-              "answer": "erklärt",
-              "explanation": "erklären ➔ erklärt (nicht trennbar: kein ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_b",
-              "label": "b)",
-              "prompt": "genießen",
-              "lead": "Du hast den Urlaub ",
-              "tail": ".",
-              "answer": "genossen",
-              "explanation": "genießen ➔ genossen (nicht trennbar: kein ge-, ie ➔ o)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_c",
-              "label": "c)",
-              "prompt": "empfehlen",
-              "lead": "Du hast das Restaurant ",
-              "tail": ".",
-              "answer": "empfohlen",
-              "explanation": "empfehlen ➔ empfohlen (nicht trennbar: kein ge-, e ➔ o)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_d",
-              "label": "d)",
-              "prompt": "verlieren",
-              "lead": "Du hast den Schlüssel ",
-              "tail": ".",
-              "answer": "verloren",
-              "explanation": "verlieren ➔ verloren (nicht trennbar: kein ge-, ie ➔ o)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_e",
-              "label": "e)",
-              "prompt": "bekommen",
-              "lead": "Du hast einen Brief ",
-              "tail": ".",
-              "answer": "bekommen",
-              "explanation": "bekommen ➔ bekommen (nicht trennbar: kein ge-)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_f",
-              "label": "f)",
-              "prompt": "zerbrechen",
-              "lead": "Du hast die Tasse ",
-              "tail": ".",
-              "answer": "zerbrochen",
-              "explanation": "zerbrechen ➔ zerbrochen (nicht trennbar: kein ge-, e ➔ o)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_g",
-              "label": "g)",
-              "prompt": "erwarten",
-              "lead": "Du hast Besuch ",
-              "tail": ".",
-              "answer": "erwartet",
-              "explanation": "erwarten ➔ erwartet (nicht trennbar: kein ge-, Endung -et)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex5_h",
-              "label": "h)",
-              "prompt": "vergessen",
-              "lead": "Du hast den Termin ",
-              "tail": ".",
-              "answer": "vergessen",
-              "explanation": "vergessen ➔ vergessen (nicht trennbar: kein ge-)",
-              "isCompact": true
-            }
-          ]
-        },
-        {
-          "id": "a1_p30_ex6",
-          "title": "Übung 6: Trennbare Verben im Perfekt (-ge- nach Präfix)",
-          "instruction": "Setzen Sie das Partizip II des trennbaren Verbs ein. Achten Sie auf das eingefügte -ge- zwischen Präfix und Verbstamm.",
-          "wordBox": [
-            "zugehört",
-            "angerufen",
-            "mitgebracht",
-            "eingeladen",
-            "aufgeweckt",
-            "zurückgegeben",
-            "aufgestanden",
-            "eingestiegen"
-          ],
-          "answers": {
-            "a1_p30_ex6_a": "zugehört",
-            "a1_p30_ex6_b": "angerufen",
-            "a1_p30_ex6_c": "mitgebracht",
-            "a1_p30_ex6_d": "eingeladen",
-            "a1_p30_ex6_e": "aufgeweckt",
-            "a1_p30_ex6_f": "zurückgegeben",
-            "a1_p30_ex6_g": "aufgestanden",
-            "a1_p30_ex6_h": "eingestiegen"
-          },
-          "explanations": {
-            "a1_p30_ex6_a": "zuhören ➔ zugehört (Präfix zu- + ge- + hört)",
-            "a1_p30_ex6_b": "anrufen ➔ angerufen (Präfix an- + ge- + rufen)",
-            "a1_p30_ex6_c": "mitbringen ➔ mitgebracht (Präfix mit- + ge- + bracht)",
-            "a1_p30_ex6_d": "einladen ➔ eingeladen (Präfix ein- + ge- + laden)",
-            "a1_p30_ex6_e": "aufwecken ➔ aufgeweckt (Präfix auf- + ge- + weckt)",
-            "a1_p30_ex6_f": "zurückgeben ➔ zurückgegeben (Präfix zurück- + ge- + geben)",
-            "a1_p30_ex6_g": "aufstehen ➔ aufgestanden (Ortswechsel ➔ sein, auf- + ge- + standen)",
-            "a1_p30_ex6_h": "einsteigen ➔ eingestiegen (Ortswechsel ➔ sein, ein- + ge- + stiegen)"
-          },
-          "items": [
-            {
-              "id": "a1_p30_ex6_a",
-              "label": "a)",
-              "prompt": "zuhören",
-              "lead": "Du hast mir ",
-              "tail": ".",
-              "answer": "zugehört",
-              "explanation": "zuhören ➔ zugehört (Präfix zu- + ge- + hört)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_b",
-              "label": "b)",
-              "prompt": "anrufen",
-              "lead": "Du hast mich ",
-              "tail": ".",
-              "answer": "angerufen",
-              "explanation": "anrufen ➔ angerufen (Präfix an- + ge- + rufen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_c",
-              "label": "c)",
-              "prompt": "mitbringen",
-              "lead": "Du hast etwas ",
-              "tail": ".",
-              "answer": "mitgebracht",
-              "explanation": "mitbringen ➔ mitgebracht (Präfix mit- + ge- + bracht)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_d",
-              "label": "d)",
-              "prompt": "einladen",
-              "lead": "Du hast mich ",
-              "tail": ".",
-              "answer": "eingeladen",
-              "explanation": "einladen ➔ eingeladen (Präfix ein- + ge- + laden)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_e",
-              "label": "e)",
-              "prompt": "aufwecken",
-              "lead": "Du hast mich ",
-              "tail": ".",
-              "answer": "aufgeweckt",
-              "explanation": "aufwecken ➔ aufgeweckt (Präfix auf- + ge- + weckt)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_f",
-              "label": "f)",
-              "prompt": "zurückgeben",
-              "lead": "Du hast das Buch ",
-              "tail": ".",
-              "answer": "zurückgegeben",
-              "explanation": "zurückgeben ➔ zurückgegeben (Präfix zurück- + ge- + geben)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_g",
-              "label": "g)",
-              "prompt": "aufstehen (!)",
-              "lead": "Du bist gerade ",
-              "tail": ".",
-              "answer": "aufgestanden",
-              "explanation": "aufstehen ➔ aufgestanden (Ortswechsel ➔ sein, auf- + ge- + standen)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p30_ex6_h",
-              "label": "h)",
-              "prompt": "einsteigen (!)",
-              "lead": "Du bist ins Taxi ",
-              "tail": ".",
-              "answer": "eingestiegen",
-              "explanation": "einsteigen ➔ eingestiegen (Ortswechsel ➔ sein, ein- + ge- + stiegen)",
-              "isCompact": true
-            }
-          ]
-        }
       ]
-    },
+},
     "31": {
       "lessonTitle": "8.2. Konjunktionen: und, aber, oder, denn, sondern (Seite 31)",
       "grammarSummary": "### 📌 8.2. Konjunktionen: Koordinierende Satzverbindungen (Coordinating Conjunctions)\n\nKonjunktionen verbinden Wörter, Wortgruppen oder ganze Hauptsätze miteinander.\n\n---\n\n#### 1. Die fünf koordinierenden Konjunktionen (Position 0 / ADUSO)\n\n| Konjunktion | Funktion / Bedeutung | Beispiel |\n| :--- | :--- | :--- |\n| **und** | Aufzählung / Addition | *Er geht in den Keller **und** er holt eine Flasche Wein.* |\n| **oder** | Alternative / Wahlmöglichkeit | *Wir können ins Kino **oder** ins Theater gehen.* |\n| **aber** | Gegensatz / Einschränkung | *Ich möchte dich einladen, **aber** du hast keine Zeit.* |\n| **denn** | Begründung (warum?) | *Sie fliegen nicht, **denn** ihre Mutter ist krank.* |\n| **sondern** | Richtigstellung / Korrektur *(nur nach Negation!)* | *Paul fährt nicht zu Klaus, **sondern** zu Maria.* |\n\n> 💡 **Merkhilfe (ADUSO):**\n> **A**ber – **D**enn – **U**nd – **S**ondern – **O**der\n\n---\n\n#### 2. Die goldene Wortstellungsregel: Position 0\n\nKoordinierende Konjunktionen stehen grammatikalisch auf **Position 0**. Das bedeutet: Sie verändern die Satzstellung im zweiten Satz **nicht**! Das Subjekt steht auf Position I und das konjugierte Verb auf **Position II**:\n\n| Pos. 0 (Konjunktion) | Pos. I (Subjekt) | Pos. II (Finites Verb) | Mittelfeld / Ende |\n| :---: | :---: | :---: | :--- |\n| *(Komma)* | **Monika** | **spielt** | sehr gut Tennis, |\n| **denn** | sie | **trainiert** | jeden Tag. |\n| **aber** | sie | **hat** | heute keine Zeit. |\n| **und** | ihr Bruder | **spielt** | auch sehr gut. |\n\n---\n\n#### 3. Wichtiger Unterschied: „aber“ vs. „sondern“\n\n- **aber:** Verbindet zwei gegensätzliche Aussagen. Kann nach positiven oder verneinten Sätzen stehen:\n  - *Er lernt viel, **aber** er versteht es nicht.*\n  - *Er hat kein Auto, **aber** er hat ein Fahrrad.*\n- **sondern:** Korrigiert eine falsche Annahme. Steht **NUR nach einer Negation** (*nicht / kein-*):\n  - *Wir gehen nicht ins Kino, **sondern** [wir gehen] ins Theater.*\n  - *Sie trinkt keinen Kaffee, **sondern** Tee.*\n\n---\n\n#### 4. Kommasetzung bei Konjunktionen\n\n- Vor **denn**, **aber** und **sondern** steht **immer ein Komma**!\n- Vor **und** und **oder** steht im Normalfall **kein Komma**.\n\n---\n\n#### 5. 🇬🇧 English Cognitive Bridge: Position 0 Conjunctions\n\n- **No Verb Kick:** In German, subordinate conjunctions like *weil* (\"because\") kick the conjugated verb to the very end of the sentence. However, the ADUSO conjunctions (*denn, aber, und, sondern, oder*) occupy **Position 0**, meaning word order remains standard S-V-O (*Subject-Verb-Object*)!\n- **\"sondern\" vs. \"aber\":** English uses \"but\" for both. In German, if you negate the first part (\"not X, but rather Y\"), you **must use \"sondern\"**, never \"aber\".",
       "exercises": [
-        {
-          "id": "a1_p31_ex1",
-          "title": "Übung 1: Hauptsätze mit Konjunktionen verbinden",
-          "instruction": "Verbinden Sie die beiden Aussagesätze mit der passenden Konjunktion (und, oder, aber, denn, sondern). Achten Sie auf Kommasetzung und Negation.",
-          "wordBox": [
-            "denn",
-            "sondern",
-            "aber",
-            "oder",
-            "und"
-          ],
-          "answers": {
-            "a1_p31_ex1_a": "denn",
-            "a1_p31_ex1_b": "sondern",
-            "a1_p31_ex1_c": "aber",
-            "a1_p31_ex1_d": "oder",
-            "a1_p31_ex1_e": "und",
-            "a1_p31_ex1_f": "sondern",
-            "a1_p31_ex1_g": "sondern",
-            "a1_p31_ex1_h": "und",
-            "a1_p31_ex1_i": "denn",
-            "a1_p31_ex1_j": "denn"
-          },
-          "explanations": {
-            "a1_p31_ex1_a": "Begründung ➔ denn (warum?)",
-            "a1_p31_ex1_b": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
-            "a1_p31_ex1_c": "Gegensatz / Einschränkung ➔ aber",
-            "a1_p31_ex1_d": "Alternative ➔ oder",
-            "a1_p31_ex1_e": "Aufzählung zweier Fakten ➔ und",
-            "a1_p31_ex1_f": "Korrektur nach Negation (keinen ... sondern) ➔ sondern",
-            "a1_p31_ex1_g": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
-            "a1_p31_ex1_h": "Reihung zweier Handlungen ➔ und",
-            "a1_p31_ex1_i": "Begründung ➔ denn (warum?)",
-            "a1_p31_ex1_j": "Begründung ➔ denn (warum?)"
-          },
-          "items": [
             {
-              "id": "a1_p31_ex1_a",
-              "label": "a)",
-              "prompt": "Sie fliegen nicht nach Kreta. Ihre Mutter liegt im Krankenhaus.",
-              "lead": "Sie fliegen nicht nach Kreta, ",
-              "tail": " ihre Mutter liegt im Krankenhaus.",
-              "answer": "denn",
-              "explanation": "Begründung ➔ denn (warum?)",
-              "isCompact": true
+                  "id": "a1_p31_ex1",
+                  "title": "Übung 1: Hauptsätze mit Konjunktionen verbinden",
+                  "instruction": "Verbinden Sie die beiden Aussagesätze mit der passenden Konjunktion (und, oder, aber, denn, sondern). Achten Sie auf Kommasetzung und Negation.",
+                  "wordBox": [
+                        "denn",
+                        "sondern",
+                        "aber",
+                        "oder",
+                        "und"
+                  ],
+                  "answers": {
+                        "a1_p31_ex1_a": "denn",
+                        "a1_p31_ex1_b": "sondern",
+                        "a1_p31_ex1_c": "aber",
+                        "a1_p31_ex1_d": "oder",
+                        "a1_p31_ex1_e": "und",
+                        "a1_p31_ex1_f": "sondern",
+                        "a1_p31_ex1_g": "sondern",
+                        "a1_p31_ex1_h": "und",
+                        "a1_p31_ex1_i": "denn",
+                        "a1_p31_ex1_j": "denn"
+                  },
+                  "explanations": {
+                        "a1_p31_ex1_a": "Begründung ➔ denn (warum?)",
+                        "a1_p31_ex1_b": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
+                        "a1_p31_ex1_c": "Gegensatz / Einschränkung ➔ aber",
+                        "a1_p31_ex1_d": "Alternative ➔ oder",
+                        "a1_p31_ex1_e": "Aufzählung zweier Fakten ➔ und",
+                        "a1_p31_ex1_f": "Korrektur nach Negation (keinen ... sondern) ➔ sondern",
+                        "a1_p31_ex1_g": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
+                        "a1_p31_ex1_h": "Reihung zweier Handlungen ➔ und",
+                        "a1_p31_ex1_i": "Begründung ➔ denn (warum?)",
+                        "a1_p31_ex1_j": "Begründung ➔ denn (warum?)"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p31_ex1_a",
+                              "label": "a)",
+                              "prompt": "Sie fliegen nicht nach Kreta. Ihre Mutter liegt im Krankenhaus.",
+                              "lead": "Sie fliegen nicht nach Kreta, ",
+                              "tail": " ihre Mutter liegt im Krankenhaus.",
+                              "answer": "denn",
+                              "explanation": "Begründung ➔ denn (warum?)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_b",
+                              "label": "b)",
+                              "prompt": "Paul fährt nicht zu Klaus. Er fährt zu Maria.",
+                              "lead": "Paul fährt nicht zu Klaus, ",
+                              "tail": " er fährt zu Maria.",
+                              "answer": "sondern",
+                              "explanation": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_c",
+                              "label": "c)",
+                              "prompt": "Ich möchte dich einladen. Du hast keine Zeit.",
+                              "lead": "Ich möchte dich einladen, ",
+                              "tail": " du hast keine Zeit.",
+                              "answer": "aber",
+                              "explanation": "Gegensatz / Einschränkung ➔ aber",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_d",
+                              "label": "d)",
+                              "prompt": "Lisa besucht mich vielleicht am Montag. Vielleicht besucht sie mich am Dienstag.",
+                              "lead": "Lisa besucht mich vielleicht am Montag, ",
+                              "tail": " vielleicht besucht sie mich am Dienstag.",
+                              "answer": "oder",
+                              "explanation": "Alternative ➔ oder",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_e",
+                              "label": "e)",
+                              "prompt": "Werner ist Journalist. Er arbeitet bei einer Tageszeitung.",
+                              "lead": "Werner ist Journalist ",
+                              "tail": " er arbeitet bei einer Tageszeitung.",
+                              "answer": "und",
+                              "explanation": "Aufzählung zweier Fakten ➔ und",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_f",
+                              "label": "f)",
+                              "prompt": "Maria bestellt keinen Wein. Sie bestellt Bier.",
+                              "lead": "Maria bestellt keinen Wein, ",
+                              "tail": " sie bestellt Bier.",
+                              "answer": "sondern",
+                              "explanation": "Korrektur nach Negation (keinen ... sondern) ➔ sondern",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_g",
+                              "label": "g)",
+                              "prompt": "Wir gehen nicht ins Kino. Wir gehen ins Theater.",
+                              "lead": "Wir gehen nicht ins Kino, ",
+                              "tail": " wir gehen ins Theater.",
+                              "answer": "sondern",
+                              "explanation": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_h",
+                              "label": "h)",
+                              "prompt": "Er geht in den Keller. Er holt eine Flasche Wein.",
+                              "lead": "Er geht in den Keller ",
+                              "tail": " er holt eine Flasche Wein.",
+                              "answer": "und",
+                              "explanation": "Reihung zweier Handlungen ➔ und",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_i",
+                              "label": "i)",
+                              "prompt": "Wir wollen Lisa besuchen. Sie hat morgen Geburtstag.",
+                              "lead": "Wir wollen Lisa besuchen, ",
+                              "tail": " sie hat morgen Geburtstag.",
+                              "answer": "denn",
+                              "explanation": "Begründung ➔ denn (warum?)",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex1_j",
+                              "label": "j)",
+                              "prompt": "Er will die Wohnung nicht mieten. Sie ist viel zu dunkel.",
+                              "lead": "Er will die Wohnung nicht mieten, ",
+                              "tail": " sie ist viel zu dunkel.",
+                              "answer": "denn",
+                              "explanation": "Begründung ➔ denn (warum?)",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p31_ex1_b",
-              "label": "b)",
-              "prompt": "Paul fährt nicht zu Klaus. Er fährt zu Maria.",
-              "lead": "Paul fährt nicht zu Klaus, ",
-              "tail": " er fährt zu Maria.",
-              "answer": "sondern",
-              "explanation": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_c",
-              "label": "c)",
-              "prompt": "Ich möchte dich einladen. Du hast keine Zeit.",
-              "lead": "Ich möchte dich einladen, ",
-              "tail": " du hast keine Zeit.",
-              "answer": "aber",
-              "explanation": "Gegensatz / Einschränkung ➔ aber",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_d",
-              "label": "d)",
-              "prompt": "Lisa besucht mich vielleicht am Montag. Vielleicht besucht sie mich am Dienstag.",
-              "lead": "Lisa besucht mich vielleicht am Montag, ",
-              "tail": " vielleicht besucht sie mich am Dienstag.",
-              "answer": "oder",
-              "explanation": "Alternative ➔ oder",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_e",
-              "label": "e)",
-              "prompt": "Werner ist Journalist. Er arbeitet bei einer Tageszeitung.",
-              "lead": "Werner ist Journalist ",
-              "tail": " er arbeitet bei einer Tageszeitung.",
-              "answer": "und",
-              "explanation": "Aufzählung zweier Fakten ➔ und",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_f",
-              "label": "f)",
-              "prompt": "Maria bestellt keinen Wein. Sie bestellt Bier.",
-              "lead": "Maria bestellt keinen Wein, ",
-              "tail": " sie bestellt Bier.",
-              "answer": "sondern",
-              "explanation": "Korrektur nach Negation (keinen ... sondern) ➔ sondern",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_g",
-              "label": "g)",
-              "prompt": "Wir gehen nicht ins Kino. Wir gehen ins Theater.",
-              "lead": "Wir gehen nicht ins Kino, ",
-              "tail": " wir gehen ins Theater.",
-              "answer": "sondern",
-              "explanation": "Korrektur nach Negation (nicht ... sondern) ➔ sondern",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_h",
-              "label": "h)",
-              "prompt": "Er geht in den Keller. Er holt eine Flasche Wein.",
-              "lead": "Er geht in den Keller ",
-              "tail": " er holt eine Flasche Wein.",
-              "answer": "und",
-              "explanation": "Reihung zweier Handlungen ➔ und",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_i",
-              "label": "i)",
-              "prompt": "Wir wollen Lisa besuchen. Sie hat morgen Geburtstag.",
-              "lead": "Wir wollen Lisa besuchen, ",
-              "tail": " sie hat morgen Geburtstag.",
-              "answer": "denn",
-              "explanation": "Begründung ➔ denn (warum?)",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex1_j",
-              "label": "j)",
-              "prompt": "Er will die Wohnung nicht mieten. Sie ist viel zu dunkel.",
-              "lead": "Er will die Wohnung nicht mieten, ",
-              "tail": " sie ist viel zu dunkel.",
-              "answer": "denn",
-              "explanation": "Begründung ➔ denn (warum?)",
-              "isCompact": true
+                  "id": "a1_p31_ex2",
+                  "title": "Übung 2: Die passende Konjunktion einsetzen",
+                  "instruction": "Ergänzen Sie die passende koordinierende Konjunktion (und, aber, oder, denn, sondern).",
+                  "wordBox": [
+                        "denn",
+                        "oder",
+                        "und",
+                        "aber",
+                        "sondern"
+                  ],
+                  "answers": {
+                        "a1_p31_ex2_a": "denn",
+                        "a1_p31_ex2_b": "oder",
+                        "a1_p31_ex2_c": "und",
+                        "a1_p31_ex2_d": "aber",
+                        "a1_p31_ex2_e": "oder",
+                        "a1_p31_ex2_f": "denn",
+                        "a1_p31_ex2_g": "aber",
+                        "a1_p31_ex2_h": "und",
+                        "a1_p31_ex2_i": "sondern",
+                        "a1_p31_ex2_j": "und",
+                        "a1_p31_ex2_k": "aber"
+                  },
+                  "explanations": {
+                        "a1_p31_ex2_a": "Begründung ➔ denn",
+                        "a1_p31_ex2_b": "Alternative ➔ oder",
+                        "a1_p31_ex2_c": "Aufzählung ➔ und",
+                        "a1_p31_ex2_d": "Gegensatz / Einschränkung ➔ aber",
+                        "a1_p31_ex2_e": "Alternative ➔ oder",
+                        "a1_p31_ex2_f": "Begründung ➔ denn",
+                        "a1_p31_ex2_g": "Gegensatz ➔ aber",
+                        "a1_p31_ex2_h": "Aufzählung zweier Subjekte/Aktionen ➔ und",
+                        "a1_p31_ex2_i": "Korrektur nach Verneinung (keine ... sondern) ➔ sondern",
+                        "a1_p31_ex2_j": "Reihung zweier Personen ➔ und",
+                        "a1_p31_ex2_k": "Gegensatz / Widerspruch ➔ aber"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p31_ex2_a",
+                              "label": "a)",
+                              "prompt": "",
+                              "lead": "Jonas kann mich heute nicht besuchen, ",
+                              "tail": " er muss noch lange arbeiten.",
+                              "answer": "denn",
+                              "explanation": "Begründung ➔ denn",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_b",
+                              "label": "b)",
+                              "prompt": "",
+                              "lead": "Du kannst wählen. Wir können ins Kino ",
+                              "tail": " ins Theater gehen.",
+                              "answer": "oder",
+                              "explanation": "Alternative ➔ oder",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_c",
+                              "label": "c)",
+                              "prompt": "",
+                              "lead": "Paul ist ein sehr guter Koch ",
+                              "tail": " er kocht oft für seine Familie.",
+                              "answer": "und",
+                              "explanation": "Aufzählung ➔ und",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_d",
+                              "label": "d)",
+                              "prompt": "",
+                              "lead": "Wir möchten nächsten Monat in Urlaub fahren, ",
+                              "tail": " wir haben leider kein Geld.",
+                              "answer": "aber",
+                              "explanation": "Gegensatz / Einschränkung ➔ aber",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_e",
+                              "label": "e)",
+                              "prompt": "",
+                              "lead": "Sie können die Rechnung bar ",
+                              "tail": " mit Karte bezahlen.",
+                              "answer": "oder",
+                              "explanation": "Alternative ➔ oder",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_f",
+                              "label": "f)",
+                              "prompt": "",
+                              "lead": "Ich will nicht in dieses Restaurant gehen, ",
+                              "tail": " der Service ist sehr schlecht.",
+                              "answer": "denn",
+                              "explanation": "Begründung ➔ denn",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_g",
+                              "label": "g)",
+                              "prompt": "",
+                              "lead": "Maria hat gestern Claudia besucht, ",
+                              "tail": " sie ist nicht sehr lange geblieben.",
+                              "answer": "aber",
+                              "explanation": "Gegensatz ➔ aber",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_h",
+                              "label": "h)",
+                              "prompt": "",
+                              "lead": "Ich räume mein Zimmer auf, ",
+                              "tail": " Robert putzt die Küche.",
+                              "answer": "und",
+                              "explanation": "Aufzählung zweier Subjekte/Aktionen ➔ und",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_i",
+                              "label": "i)",
+                              "prompt": "",
+                              "lead": "Ich schicke dir keine E-Mail, ",
+                              "tail": " ein Foto.",
+                              "answer": "sondern",
+                              "explanation": "Korrektur nach Verneinung (keine ... sondern) ➔ sondern",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_j",
+                              "label": "j)",
+                              "prompt": "",
+                              "lead": "Bei dem Projekt helfen mir Paul ",
+                              "tail": " sein Bruder.",
+                              "answer": "und",
+                              "explanation": "Reihung zweier Personen ➔ und",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p31_ex2_k",
+                              "label": "k)",
+                              "prompt": "",
+                              "lead": "Boris arbeitet viel und hart, ",
+                              "tail": " er verdient nur sehr wenig Geld.",
+                              "answer": "aber",
+                              "explanation": "Gegensatz / Widerspruch ➔ aber",
+                              "isCompact": true
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a1_p31_ex2",
-          "title": "Übung 2: Die passende Konjunktion einsetzen",
-          "instruction": "Ergänzen Sie die passende koordinierende Konjunktion (und, aber, oder, denn, sondern).",
-          "wordBox": [
-            "denn",
-            "oder",
-            "und",
-            "aber",
-            "sondern"
-          ],
-          "answers": {
-            "a1_p31_ex2_a": "denn",
-            "a1_p31_ex2_b": "oder",
-            "a1_p31_ex2_c": "und",
-            "a1_p31_ex2_d": "aber",
-            "a1_p31_ex2_e": "oder",
-            "a1_p31_ex2_f": "denn",
-            "a1_p31_ex2_g": "aber",
-            "a1_p31_ex2_h": "und",
-            "a1_p31_ex2_i": "sondern",
-            "a1_p31_ex2_j": "und",
-            "a1_p31_ex2_k": "aber"
-          },
-          "explanations": {
-            "a1_p31_ex2_a": "Begründung ➔ denn",
-            "a1_p31_ex2_b": "Alternative ➔ oder",
-            "a1_p31_ex2_c": "Aufzählung ➔ und",
-            "a1_p31_ex2_d": "Gegensatz / Einschränkung ➔ aber",
-            "a1_p31_ex2_e": "Alternative ➔ oder",
-            "a1_p31_ex2_f": "Begründung ➔ denn",
-            "a1_p31_ex2_g": "Gegensatz ➔ aber",
-            "a1_p31_ex2_h": "Aufzählung zweier Subjekte/Aktionen ➔ und",
-            "a1_p31_ex2_i": "Korrektur nach Verneinung (keine ... sondern) ➔ sondern",
-            "a1_p31_ex2_j": "Reihung zweier Personen ➔ und",
-            "a1_p31_ex2_k": "Gegensatz / Widerspruch ➔ aber"
-          },
-          "items": [
-            {
-              "id": "a1_p31_ex2_a",
-              "label": "a)",
-              "prompt": "",
-              "lead": "Jonas kann mich heute nicht besuchen, ",
-              "tail": " er muss noch lange arbeiten.",
-              "answer": "denn",
-              "explanation": "Begründung ➔ denn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_b",
-              "label": "b)",
-              "prompt": "",
-              "lead": "Du kannst wählen. Wir können ins Kino ",
-              "tail": " ins Theater gehen.",
-              "answer": "oder",
-              "explanation": "Alternative ➔ oder",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_c",
-              "label": "c)",
-              "prompt": "",
-              "lead": "Paul ist ein sehr guter Koch ",
-              "tail": " er kocht oft für seine Familie.",
-              "answer": "und",
-              "explanation": "Aufzählung ➔ und",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_d",
-              "label": "d)",
-              "prompt": "",
-              "lead": "Wir möchten nächsten Monat in Urlaub fahren, ",
-              "tail": " wir haben leider kein Geld.",
-              "answer": "aber",
-              "explanation": "Gegensatz / Einschränkung ➔ aber",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_e",
-              "label": "e)",
-              "prompt": "",
-              "lead": "Sie können die Rechnung bar ",
-              "tail": " mit Karte bezahlen.",
-              "answer": "oder",
-              "explanation": "Alternative ➔ oder",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_f",
-              "label": "f)",
-              "prompt": "",
-              "lead": "Ich will nicht in dieses Restaurant gehen, ",
-              "tail": " der Service ist sehr schlecht.",
-              "answer": "denn",
-              "explanation": "Begründung ➔ denn",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_g",
-              "label": "g)",
-              "prompt": "",
-              "lead": "Maria hat gestern Claudia besucht, ",
-              "tail": " sie ist nicht sehr lange geblieben.",
-              "answer": "aber",
-              "explanation": "Gegensatz ➔ aber",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_h",
-              "label": "h)",
-              "prompt": "",
-              "lead": "Ich räume mein Zimmer auf, ",
-              "tail": " Robert putzt die Küche.",
-              "answer": "und",
-              "explanation": "Aufzählung zweier Subjekte/Aktionen ➔ und",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_i",
-              "label": "i)",
-              "prompt": "",
-              "lead": "Ich schicke dir keine E-Mail, ",
-              "tail": " ein Foto.",
-              "answer": "sondern",
-              "explanation": "Korrektur nach Verneinung (keine ... sondern) ➔ sondern",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_j",
-              "label": "j)",
-              "prompt": "",
-              "lead": "Bei dem Projekt helfen mir Paul ",
-              "tail": " sein Bruder.",
-              "answer": "und",
-              "explanation": "Reihung zweier Personen ➔ und",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p31_ex2_k",
-              "label": "k)",
-              "prompt": "",
-              "lead": "Boris arbeitet viel und hart, ",
-              "tail": " er verdient nur sehr wenig Geld.",
-              "answer": "aber",
-              "explanation": "Gegensatz / Widerspruch ➔ aber",
-              "isCompact": true
-            }
-          ]
-        }
       ]
-    },
+},
     "32": {
       "lessonTitle": "8.3. Präpositionen mit Akkusativ",
       "grammarSummary": "### 📌 Grammatik-Fokus: 8.3. Präpositionen mit Akkusativ (DOGFU / FUDG-B)\n\nPräpositionen bestimmen den Fall (Kasus) des nachfolgenden Nomens oder Pronomens. Die folgenden Präpositionen verlangen **immer** und **ausnahmslos den Akkusativ**:\n\n---\n\n#### 1. Die reinen Akkusativ-Präpositionen im Überblick\n\n| Präposition | Primäre Bedeutung | Typische Beispiele |\n| :--- | :--- | :--- |\n| **bis** | Zeitliche / örtliche Grenze (*until, up to*) | Der Zug fährt nur **bis** Frankfurt. / **Bis** morgen! |\n| **durch** | Bewegung hindurch (*through*), Vermittlung | Peter geht **durch** den Park / **durch** das Fenster. |\n| **für** | Zweck, Empfänger (*for*), Zeitdauer | Das Geschenk ist **für** meinen Großvater / **für** eine Woche. |\n| **gegen** | Stoß / Richtung (*against*), Ablehnung, ca. Zeit | Er lief **gegen** den Stuhl. / Ich bin **gegen** den Plan. |\n| **ohne** | Fehlen (*without* — meist ohne Artikel!) | Geh nicht **ohne** Jacke raus! / Paul fährt **ohne** mich. |\n| **um** | Im Kreis herum (*around*), feste Uhrzeit (*at*) | Wir sitzen **um** den Tisch. / Sie kommt **um** 18:00 Uhr. |\n\n💡 **Merkformel DOGFU** (oder **FUDG-B**):\n- **D**urch — **O**hne — **G**egen — **F**ür — **U**m (plus **B**is).\n\n---\n\n#### 2. Deklination der Artikel und Pronomen im Akkusativ\n\n> ⚠️ **Goldene Akkusativ-Regel:**\n> Nur das **Maskulinum** verändert seine Endung von **-r** zu **-n** (**der ➔ den**, **ein ➔ einen**, **kein ➔ keinen**)!\n> Femininum, Neutrum und Plural bleiben unverändert wie im Nominativ.\n\n| Kasus | Maskulinum (m) | Neutrum (n) | Femininum (f) | Plural (Pl.) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Bestimmt** | für **den** Baum | durch **das** Fenster | um **die** Ecke | gegen **die** Teams |\n| **Unbestimmt** | ohne **einen** Schirm | für **ein** Kind | für **eine** Woche | ohne *(keine)* Fehler |\n| **Negativ** | gegen **keinen** Gegner | ohne **kein** Wort | ohne **keine** Jacke | ohne **keine** Regeln |\n| **Possessiv** | für **deinen** Vater | durch **unser** Dorf | ohne **seine** Kollegin | um **ihre** Freunde |\n| **Personalpronomen** | ohne **ihn** (*er*) | für **es** (*es*) | gegen **sie** (*sie*) | für **uns** / **euch** / **sie** / **mich** / **dich** |\n\n---\n\n#### 3. Verschmelzungen (Präposition + Artikel)\nHäufig verschmelzen Akkusativ-Präpositionen mit dem neutralen Artikel **das**:\n- **durch + das** ➔ **durchs** (*durchs Mikroskop, durchs Fenster*)\n- **für + das** ➔ **fürs** (*fürs Kind, fürs Leben*)\n- **um + das** ➔ **ums** (*ums Haus, ums Eck*)\n\n---\n\n#### 4. Fragewörter im Akkusativ\n- Nach Personen: **Wen?** (*Für wen ist das Geschenk? — Für meinen Vater.*)\n- Nach Sachen: **Was?** oder **Wofür / Wogegen / Worum?** (*Wofür brauchst du das?*)\n\n---\n\n#### 5. 🇬🇧 English Cognitive Bridge\nIn English, prepositions don't change noun words: *\"for the man\"*, *\"for the woman\"*. Only pronouns change: *\"for him\"*, *\"without them\"*.\nIn German, prepositions like **für**, **durch**, **gegen**, **ohne**, and **um** strictly force the **accusative case** on both nouns and pronouns.\nRemember: **Only masculine singular shifts to -en** (*der ➔ den, ein ➔ einen, mein ➔ meinen*). Feminin, neutral, and plural keep their familiar forms!",
       "exercises": [
-        {
-          "id": "a1_p32_ex1",
-          "title": "Übung 1: Artikel und Pronomen im Akkusativ",
-          "instruction": "Ergänzen Sie den passenden Artikel bzw. das passende Pronomen im Akkusativ.",
-          "wordBox": [
-            "den",
-            "die",
-            "einen",
-            "eine",
-            "seine",
-            "deinen",
-            "mich",
-            "wen"
-          ],
-          "answers": {
-            "a1_p32_ex1_a": "seine",
-            "a1_p32_ex1_b": "den",
-            "a1_p32_ex1_c": "den",
-            "a1_p32_ex1_d": "einen",
-            "a1_p32_ex1_e": "deinen",
-            "a1_p32_ex1_f": "die",
-            "a1_p32_ex1_g": "eine",
-            "a1_p32_ex1_h": "den",
-            "a1_p32_ex1_i": "mich",
-            "a1_p32_ex1_j": "die",
-            "a1_p32_ex1_k": "einen",
-            "a1_p32_ex1_l": "die",
-            "a1_p32_ex1_m": "die",
-            "a1_p32_ex1_n": "eine",
-            "a1_p32_ex1_o": "die",
-            "a1_p32_ex1_p": "wen"
-          },
-          "explanations": {
-            "a1_p32_ex1_a": "die Kollegin (feminin) ➔ ohne seine Kollegin",
-            "a1_p32_ex1_b": "der Baum (maskulin) ➔ um den Baum",
-            "a1_p32_ex1_c": "der Stuhl (maskulin) ➔ gegen den Stuhl",
-            "a1_p32_ex1_d": "der Schirm (maskulin) ➔ ohne einen Schirm",
-            "a1_p32_ex1_e": "der Großvater (maskulin) ➔ für deinen Großvater",
-            "a1_p32_ex1_f": "die Fußgängerzone (feminin) ➔ durch die Fußgängerzone",
-            "a1_p32_ex1_g": "die Woche (feminin) ➔ für eine Woche",
-            "a1_p32_ex1_h": "der Keller (maskulin) ➔ für den Keller",
-            "a1_p32_ex1_i": "Personalpronomen 1. Person Sg. im Akkusativ: ohne mich",
-            "a1_p32_ex1_j": "die Ministerin (feminin) ➔ um die Ministerin",
-            "a1_p32_ex1_k": "der Fehler (maskulin) ➔ ohne einen Fehler",
-            "a1_p32_ex1_l": "die Bahnhofsstraße (feminin) ➔ durch die Bahnhofsstraße",
-            "a1_p32_ex1_m": "die Mannschaft (feminin) ➔ gegen die Mannschaft",
-            "a1_p32_ex1_n": "die Erklärung (feminin) ➔ ohne eine Erklärung",
-            "a1_p32_ex1_o": "die Prüfung (feminin) ➔ für die Prüfung",
-            "a1_p32_ex1_p": "Fragewort für Personen im Akkusativ: Für wen"
-          },
-          "items": [
             {
-              "id": "a1_p32_ex1_a",
-              "label": "a)",
-              "prompt": "(sein...)",
-              "lead": "Paul fährt ohne ",
-              "tail": " Kollegin zur Konferenz.",
-              "answer": "seine",
-              "explanation": "die Kollegin (feminin) ➔ ohne seine Kollegin",
-              "isCompact": true
+                  "id": "a1_p32_ex1",
+                  "title": "Übung 1: Artikel und Pronomen im Akkusativ",
+                  "instruction": "Ergänzen Sie den passenden Artikel bzw. das passende Pronomen im Akkusativ.",
+                  "wordBox": [
+                        "den",
+                        "die",
+                        "einen",
+                        "eine",
+                        "seine",
+                        "deinen",
+                        "mich",
+                        "wen"
+                  ],
+                  "answers": {
+                        "a1_p32_ex1_a": "seine",
+                        "a1_p32_ex1_b": "den",
+                        "a1_p32_ex1_c": "den",
+                        "a1_p32_ex1_d": "einen",
+                        "a1_p32_ex1_e": "deinen",
+                        "a1_p32_ex1_f": "die",
+                        "a1_p32_ex1_g": "eine",
+                        "a1_p32_ex1_h": "den",
+                        "a1_p32_ex1_i": "mich",
+                        "a1_p32_ex1_j": "die",
+                        "a1_p32_ex1_k": "einen",
+                        "a1_p32_ex1_l": "die",
+                        "a1_p32_ex1_m": "die",
+                        "a1_p32_ex1_n": "eine",
+                        "a1_p32_ex1_o": "die",
+                        "a1_p32_ex1_p": "wen"
+                  },
+                  "explanations": {
+                        "a1_p32_ex1_a": "die Kollegin (feminin) ➔ ohne seine Kollegin",
+                        "a1_p32_ex1_b": "der Baum (maskulin) ➔ um den Baum",
+                        "a1_p32_ex1_c": "der Stuhl (maskulin) ➔ gegen den Stuhl",
+                        "a1_p32_ex1_d": "der Schirm (maskulin) ➔ ohne einen Schirm",
+                        "a1_p32_ex1_e": "der Großvater (maskulin) ➔ für deinen Großvater",
+                        "a1_p32_ex1_f": "die Fußgängerzone (feminin) ➔ durch die Fußgängerzone",
+                        "a1_p32_ex1_g": "die Woche (feminin) ➔ für eine Woche",
+                        "a1_p32_ex1_h": "der Keller (maskulin) ➔ für den Keller",
+                        "a1_p32_ex1_i": "Personalpronomen 1. Person Sg. im Akkusativ: ohne mich",
+                        "a1_p32_ex1_j": "die Ministerin (feminin) ➔ um die Ministerin",
+                        "a1_p32_ex1_k": "der Fehler (maskulin) ➔ ohne einen Fehler",
+                        "a1_p32_ex1_l": "die Bahnhofsstraße (feminin) ➔ durch die Bahnhofsstraße",
+                        "a1_p32_ex1_m": "die Mannschaft (feminin) ➔ gegen die Mannschaft",
+                        "a1_p32_ex1_n": "die Erklärung (feminin) ➔ ohne eine Erklärung",
+                        "a1_p32_ex1_o": "die Prüfung (feminin) ➔ für die Prüfung",
+                        "a1_p32_ex1_p": "Fragewort für Personen im Akkusativ: Für wen"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p32_ex1_a",
+                              "label": "a)",
+                              "prompt": "(sein...)",
+                              "lead": "Paul fährt ohne ",
+                              "tail": " Kollegin zur Konferenz.",
+                              "answer": "seine",
+                              "explanation": "die Kollegin (feminin) ➔ ohne seine Kollegin",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_b",
+                              "label": "b)",
+                              "prompt": "(d...)",
+                              "lead": "Der Hund läuft um ",
+                              "tail": " Baum.",
+                              "answer": "den",
+                              "explanation": "der Baum (maskulin) ➔ um den Baum",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_c",
+                              "label": "c)",
+                              "prompt": "(d...)",
+                              "lead": "Ich bin gegen ",
+                              "tail": " Stuhl gelaufen. Aua!",
+                              "answer": "den",
+                              "explanation": "der Stuhl (maskulin) ➔ gegen den Stuhl",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_d",
+                              "label": "d)",
+                              "prompt": "(ein...)",
+                              "lead": "Sie geht nie ohne ",
+                              "tail": " Schirm spazieren.",
+                              "answer": "einen",
+                              "explanation": "der Schirm (maskulin) ➔ ohne einen Schirm",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_e",
+                              "label": "e)",
+                              "prompt": "(dein...)",
+                              "lead": "Das Geschenk ist für ",
+                              "tail": " Großvater.",
+                              "answer": "deinen",
+                              "explanation": "der Großvater (maskulin) ➔ für deinen Großvater",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_f",
+                              "label": "f)",
+                              "prompt": "(d...)",
+                              "lead": "Peter geht durch ",
+                              "tail": " Fußgängerzone.",
+                              "answer": "die",
+                              "explanation": "die Fußgängerzone (feminin) ➔ durch die Fußgängerzone",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_g",
+                              "label": "g)",
+                              "prompt": "(ein...)",
+                              "lead": "Robert fährt für ",
+                              "tail": " Woche nach Italien.",
+                              "answer": "eine",
+                              "explanation": "die Woche (feminin) ➔ für eine Woche",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_h",
+                              "label": "h)",
+                              "prompt": "(d...)",
+                              "lead": "Wo ist der Schlüssel für ",
+                              "tail": " Keller?",
+                              "answer": "den",
+                              "explanation": "der Keller (maskulin) ➔ für den Keller",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_i",
+                              "label": "i)",
+                              "prompt": "(ich)",
+                              "lead": "Er will nicht ohne ",
+                              "tail": " nach Spanien fliegen.",
+                              "answer": "mich",
+                              "explanation": "Personalpronomen 1. Person Sg. im Akkusativ: ohne mich",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_j",
+                              "label": "j)",
+                              "prompt": "(d...)",
+                              "lead": "Die Reporter stehen um ",
+                              "tail": " Ministerin.",
+                              "answer": "die",
+                              "explanation": "die Ministerin (feminin) ➔ um die Ministerin",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_k",
+                              "label": "k)",
+                              "prompt": "(ein...)",
+                              "lead": "Eva schreibt das Diktat ohne ",
+                              "tail": " Fehler.",
+                              "answer": "einen",
+                              "explanation": "der Fehler (maskulin) ➔ ohne einen Fehler",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_l",
+                              "label": "l)",
+                              "prompt": "(d...)",
+                              "lead": "Gehen wir nicht durch ",
+                              "tail": " Bahnhofsstraße?",
+                              "answer": "die",
+                              "explanation": "die Bahnhofsstraße (feminin) ➔ durch die Bahnhofsstraße",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_m",
+                              "label": "m)",
+                              "prompt": "(d...)",
+                              "lead": "Wir spielen gegen ",
+                              "tail": " Mannschaft aus Köln.",
+                              "answer": "die",
+                              "explanation": "die Mannschaft (feminin) ➔ gegen die Mannschaft",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_n",
+                              "label": "n)",
+                              "prompt": "(ein...)",
+                              "lead": "Jonas ist ohne ",
+                              "tail": " Erklärung weggegangen.",
+                              "answer": "eine",
+                              "explanation": "die Erklärung (feminin) ➔ ohne eine Erklärung",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_o",
+                              "label": "o)",
+                              "prompt": "(d...)",
+                              "lead": "Peter muss noch für ",
+                              "tail": " Prüfung lernen.",
+                              "answer": "die",
+                              "explanation": "die Prüfung (feminin) ➔ für die Prüfung",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex1_p",
+                              "label": "p)",
+                              "prompt": "(wer)",
+                              "lead": "Für ",
+                              "tail": " ist die Torte hier?",
+                              "answer": "wen",
+                              "explanation": "Fragewort für Personen im Akkusativ: Für wen",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a1_p32_ex1_b",
-              "label": "b)",
-              "prompt": "(d...)",
-              "lead": "Der Hund läuft um ",
-              "tail": " Baum.",
-              "answer": "den",
-              "explanation": "der Baum (maskulin) ➔ um den Baum",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_c",
-              "label": "c)",
-              "prompt": "(d...)",
-              "lead": "Ich bin gegen ",
-              "tail": " Stuhl gelaufen. Aua!",
-              "answer": "den",
-              "explanation": "der Stuhl (maskulin) ➔ gegen den Stuhl",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_d",
-              "label": "d)",
-              "prompt": "(ein...)",
-              "lead": "Sie geht nie ohne ",
-              "tail": " Schirm spazieren.",
-              "answer": "einen",
-              "explanation": "der Schirm (maskulin) ➔ ohne einen Schirm",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_e",
-              "label": "e)",
-              "prompt": "(dein...)",
-              "lead": "Das Geschenk ist für ",
-              "tail": " Großvater.",
-              "answer": "deinen",
-              "explanation": "der Großvater (maskulin) ➔ für deinen Großvater",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_f",
-              "label": "f)",
-              "prompt": "(d...)",
-              "lead": "Peter geht durch ",
-              "tail": " Fußgängerzone.",
-              "answer": "die",
-              "explanation": "die Fußgängerzone (feminin) ➔ durch die Fußgängerzone",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_g",
-              "label": "g)",
-              "prompt": "(ein...)",
-              "lead": "Robert fährt für ",
-              "tail": " Woche nach Italien.",
-              "answer": "eine",
-              "explanation": "die Woche (feminin) ➔ für eine Woche",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_h",
-              "label": "h)",
-              "prompt": "(d...)",
-              "lead": "Wo ist der Schlüssel für ",
-              "tail": " Keller?",
-              "answer": "den",
-              "explanation": "der Keller (maskulin) ➔ für den Keller",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_i",
-              "label": "i)",
-              "prompt": "(ich)",
-              "lead": "Er will nicht ohne ",
-              "tail": " nach Spanien fliegen.",
-              "answer": "mich",
-              "explanation": "Personalpronomen 1. Person Sg. im Akkusativ: ohne mich",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_j",
-              "label": "j)",
-              "prompt": "(d...)",
-              "lead": "Die Reporter stehen um ",
-              "tail": " Ministerin.",
-              "answer": "die",
-              "explanation": "die Ministerin (feminin) ➔ um die Ministerin",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_k",
-              "label": "k)",
-              "prompt": "(ein...)",
-              "lead": "Eva schreibt das Diktat ohne ",
-              "tail": " Fehler.",
-              "answer": "einen",
-              "explanation": "der Fehler (maskulin) ➔ ohne einen Fehler",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_l",
-              "label": "l)",
-              "prompt": "(d...)",
-              "lead": "Gehen wir nicht durch ",
-              "tail": " Bahnhofsstraße?",
-              "answer": "die",
-              "explanation": "die Bahnhofsstraße (feminin) ➔ durch die Bahnhofsstraße",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_m",
-              "label": "m)",
-              "prompt": "(d...)",
-              "lead": "Wir spielen gegen ",
-              "tail": " Mannschaft aus Köln.",
-              "answer": "die",
-              "explanation": "die Mannschaft (feminin) ➔ gegen die Mannschaft",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_n",
-              "label": "n)",
-              "prompt": "(ein...)",
-              "lead": "Jonas ist ohne ",
-              "tail": " Erklärung weggegangen.",
-              "answer": "eine",
-              "explanation": "die Erklärung (feminin) ➔ ohne eine Erklärung",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_o",
-              "label": "o)",
-              "prompt": "(d...)",
-              "lead": "Peter muss noch für ",
-              "tail": " Prüfung lernen.",
-              "answer": "die",
-              "explanation": "die Prüfung (feminin) ➔ für die Prüfung",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex1_p",
-              "label": "p)",
-              "prompt": "(wer)",
-              "lead": "Für ",
-              "tail": " ist die Torte hier?",
-              "answer": "wen",
-              "explanation": "Fragewort für Personen im Akkusativ: Für wen",
-              "isCompact": true
+                  "id": "a1_p32_ex2",
+                  "title": "Übung 2: Präpositionen mit Akkusativ einsetzen",
+                  "instruction": "Setzen Sie die passende Präposition mit Akkusativ ein: bis, durch, für, gegen, ohne, um.",
+                  "wordBox": [
+                        "bis",
+                        "durch",
+                        "für",
+                        "gegen",
+                        "ohne",
+                        "um",
+                        "Für"
+                  ],
+                  "answers": {
+                        "a1_p32_ex2_a": "um",
+                        "a1_p32_ex2_b": "bis",
+                        "a1_p32_ex2_c": "durch",
+                        "a1_p32_ex2_d": "ohne",
+                        "a1_p32_ex2_e": "für",
+                        "a1_p32_ex2_f": "durch",
+                        "a1_p32_ex2_g": "gegen",
+                        "a1_p32_ex2_h": "um",
+                        "a1_p32_ex2_i": "ohne",
+                        "a1_p32_ex2_j": "bis",
+                        "a1_p32_ex2_k": "durch",
+                        "a1_p32_ex2_l": "ohne",
+                        "a1_p32_ex2_m": "Für",
+                        "a1_p32_ex2_n": "ohne"
+                  },
+                  "explanations": {
+                        "a1_p32_ex2_a": "räumlich im Kreis herum ➔ um den Tisch",
+                        "a1_p32_ex2_b": "zeitlicher Endtermin ➔ bis nächsten Freitag",
+                        "a1_p32_ex2_c": "hindurchsehen ➔ durch das Mikroskop",
+                        "a1_p32_ex2_d": "fehlendes Kleidungsstück ➔ ohne Jacke",
+                        "a1_p32_ex2_e": "Empfängerin / Zweck ➔ für die Freundin",
+                        "a1_p32_ex2_f": "räumliche Bewegung hindurch ➔ durch den Park",
+                        "a1_p32_ex2_g": "Opposition / Ablehnung ➔ gegen die Idee",
+                        "a1_p32_ex2_h": "feste Uhrzeit ➔ um 18.00 Uhr",
+                        "a1_p32_ex2_i": "fehlende Unterstützung ➔ ohne Hilfe",
+                        "a1_p32_ex2_j": "Endstation / Endziel ➔ bis Frankfurt",
+                        "a1_p32_ex2_k": "Blickrichtung durch Öffnung ➔ durch das Fenster",
+                        "a1_p32_ex2_l": "ohne etwas erscheinen ➔ ohne ein Geschenk",
+                        "a1_p32_ex2_m": "Satzanfang: Frage nach dem Empfänger ➔ Für wen",
+                        "a1_p32_ex2_n": "grundlos ➔ ohne Grund"
+                  },
+                  "items": [
+                        {
+                              "id": "a1_p32_ex2_a",
+                              "label": "a)",
+                              "prompt": "",
+                              "lead": "Die Gäste sitzen ",
+                              "tail": " den Tisch und trinken Wein.",
+                              "answer": "um",
+                              "explanation": "räumlich im Kreis herum ➔ um den Tisch",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_b",
+                              "label": "b)",
+                              "prompt": "",
+                              "lead": "Der Mechaniker muss den Wagen ",
+                              "tail": " nächsten Freitag reparieren.",
+                              "answer": "bis",
+                              "explanation": "zeitlicher Endtermin ➔ bis nächsten Freitag",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_c",
+                              "label": "c)",
+                              "prompt": "",
+                              "lead": "Sie sieht ",
+                              "tail": " das Mikroskop.",
+                              "answer": "durch",
+                              "explanation": "hindurchsehen ➔ durch das Mikroskop",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_d",
+                              "label": "d)",
+                              "prompt": "",
+                              "lead": "Es ist kalt. Geh nicht ",
+                              "tail": " Jacke raus!",
+                              "answer": "ohne",
+                              "explanation": "fehlendes Kleidungsstück ➔ ohne Jacke",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_e",
+                              "label": "e)",
+                              "prompt": "",
+                              "lead": "Er will Rosen ",
+                              "tail": " die Freundin kaufen.",
+                              "answer": "für",
+                              "explanation": "Empfängerin / Zweck ➔ für die Freundin",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_f",
+                              "label": "f)",
+                              "prompt": "",
+                              "lead": "Geh nachts nicht ",
+                              "tail": " den Park! Das ist zu gefährlich.",
+                              "answer": "durch",
+                              "explanation": "räumliche Bewegung hindurch ➔ durch den Park",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_g",
+                              "label": "g)",
+                              "prompt": "",
+                              "lead": "Das ist eine schlechte Idee. Ich bin ",
+                              "tail": " die Idee.",
+                              "answer": "gegen",
+                              "explanation": "Opposition / Ablehnung ➔ gegen die Idee",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_h",
+                              "label": "h)",
+                              "prompt": "",
+                              "lead": "Sie kommt immer ",
+                              "tail": " 18.00 Uhr nach Hause.",
+                              "answer": "um",
+                              "explanation": "feste Uhrzeit ➔ um 18.00 Uhr",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_i",
+                              "label": "i)",
+                              "prompt": "",
+                              "lead": "Ich kann die Arbeit ",
+                              "tail": " Hilfe nicht machen.",
+                              "answer": "ohne",
+                              "explanation": "fehlende Unterstützung ➔ ohne Hilfe",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_j",
+                              "label": "j)",
+                              "prompt": "",
+                              "lead": "Der Zug fährt nur ",
+                              "tail": " Frankfurt. Dort müssen Sie umsteigen.",
+                              "answer": "bis",
+                              "explanation": "Endstation / Endziel ➔ bis Frankfurt",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_k",
+                              "label": "k)",
+                              "prompt": "",
+                              "lead": "Er sieht ",
+                              "tail": " das Fenster auf die Straße.",
+                              "answer": "durch",
+                              "explanation": "Blickrichtung durch Öffnung ➔ durch das Fenster",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_l",
+                              "label": "l)",
+                              "prompt": "",
+                              "lead": "Du kannst nicht ",
+                              "tail": " ein Geschenk zur Party gehen!",
+                              "answer": "ohne",
+                              "explanation": "ohne etwas erscheinen ➔ ohne ein Geschenk",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_m",
+                              "label": "m)",
+                              "prompt": "",
+                              "lead": "",
+                              "tail": " wen ist das Geschenk?",
+                              "answer": "Für",
+                              "explanation": "Satzanfang: Frage nach dem Empfänger ➔ Für wen",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a1_p32_ex2_n",
+                              "label": "n)",
+                              "prompt": "",
+                              "lead": "Der Mann lacht ",
+                              "tail": " Grund.",
+                              "answer": "ohne",
+                              "explanation": "grundlos ➔ ohne Grund",
+                              "isCompact": true
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a1_p32_ex2",
-          "title": "Übung 2: Präpositionen mit Akkusativ einsetzen",
-          "instruction": "Setzen Sie die passende Präposition mit Akkusativ ein: bis, durch, für, gegen, ohne, um.",
-          "wordBox": [
-            "bis",
-            "durch",
-            "für",
-            "gegen",
-            "ohne",
-            "um",
-            "Für"
-          ],
-          "answers": {
-            "a1_p32_ex2_a": "um",
-            "a1_p32_ex2_b": "bis",
-            "a1_p32_ex2_c": "durch",
-            "a1_p32_ex2_d": "ohne",
-            "a1_p32_ex2_e": "für",
-            "a1_p32_ex2_f": "durch",
-            "a1_p32_ex2_g": "gegen",
-            "a1_p32_ex2_h": "um",
-            "a1_p32_ex2_i": "ohne",
-            "a1_p32_ex2_j": "bis",
-            "a1_p32_ex2_k": "durch",
-            "a1_p32_ex2_l": "ohne",
-            "a1_p32_ex2_m": "Für",
-            "a1_p32_ex2_n": "ohne"
-          },
-          "explanations": {
-            "a1_p32_ex2_a": "räumlich im Kreis herum ➔ um den Tisch",
-            "a1_p32_ex2_b": "zeitlicher Endtermin ➔ bis nächsten Freitag",
-            "a1_p32_ex2_c": "hindurchsehen ➔ durch das Mikroskop",
-            "a1_p32_ex2_d": "fehlendes Kleidungsstück ➔ ohne Jacke",
-            "a1_p32_ex2_e": "Empfängerin / Zweck ➔ für die Freundin",
-            "a1_p32_ex2_f": "räumliche Bewegung hindurch ➔ durch den Park",
-            "a1_p32_ex2_g": "Opposition / Ablehnung ➔ gegen die Idee",
-            "a1_p32_ex2_h": "feste Uhrzeit ➔ um 18.00 Uhr",
-            "a1_p32_ex2_i": "fehlende Unterstützung ➔ ohne Hilfe",
-            "a1_p32_ex2_j": "Endstation / Endziel ➔ bis Frankfurt",
-            "a1_p32_ex2_k": "Blickrichtung durch Öffnung ➔ durch das Fenster",
-            "a1_p32_ex2_l": "ohne etwas erscheinen ➔ ohne ein Geschenk",
-            "a1_p32_ex2_m": "Satzanfang: Frage nach dem Empfänger ➔ Für wen",
-            "a1_p32_ex2_n": "grundlos ➔ ohne Grund"
-          },
-          "items": [
-            {
-              "id": "a1_p32_ex2_a",
-              "label": "a)",
-              "prompt": "",
-              "lead": "Die Gäste sitzen ",
-              "tail": " den Tisch und trinken Wein.",
-              "answer": "um",
-              "explanation": "räumlich im Kreis herum ➔ um den Tisch",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_b",
-              "label": "b)",
-              "prompt": "",
-              "lead": "Der Mechaniker muss den Wagen ",
-              "tail": " nächsten Freitag reparieren.",
-              "answer": "bis",
-              "explanation": "zeitlicher Endtermin ➔ bis nächsten Freitag",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_c",
-              "label": "c)",
-              "prompt": "",
-              "lead": "Sie sieht ",
-              "tail": " das Mikroskop.",
-              "answer": "durch",
-              "explanation": "hindurchsehen ➔ durch das Mikroskop",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_d",
-              "label": "d)",
-              "prompt": "",
-              "lead": "Es ist kalt. Geh nicht ",
-              "tail": " Jacke raus!",
-              "answer": "ohne",
-              "explanation": "fehlendes Kleidungsstück ➔ ohne Jacke",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_e",
-              "label": "e)",
-              "prompt": "",
-              "lead": "Er will Rosen ",
-              "tail": " die Freundin kaufen.",
-              "answer": "für",
-              "explanation": "Empfängerin / Zweck ➔ für die Freundin",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_f",
-              "label": "f)",
-              "prompt": "",
-              "lead": "Geh nachts nicht ",
-              "tail": " den Park! Das ist zu gefährlich.",
-              "answer": "durch",
-              "explanation": "räumliche Bewegung hindurch ➔ durch den Park",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_g",
-              "label": "g)",
-              "prompt": "",
-              "lead": "Das ist eine schlechte Idee. Ich bin ",
-              "tail": " die Idee.",
-              "answer": "gegen",
-              "explanation": "Opposition / Ablehnung ➔ gegen die Idee",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_h",
-              "label": "h)",
-              "prompt": "",
-              "lead": "Sie kommt immer ",
-              "tail": " 18.00 Uhr nach Hause.",
-              "answer": "um",
-              "explanation": "feste Uhrzeit ➔ um 18.00 Uhr",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_i",
-              "label": "i)",
-              "prompt": "",
-              "lead": "Ich kann die Arbeit ",
-              "tail": " Hilfe nicht machen.",
-              "answer": "ohne",
-              "explanation": "fehlende Unterstützung ➔ ohne Hilfe",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_j",
-              "label": "j)",
-              "prompt": "",
-              "lead": "Der Zug fährt nur ",
-              "tail": " Frankfurt. Dort müssen Sie umsteigen.",
-              "answer": "bis",
-              "explanation": "Endstation / Endziel ➔ bis Frankfurt",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_k",
-              "label": "k)",
-              "prompt": "",
-              "lead": "Er sieht ",
-              "tail": " das Fenster auf die Straße.",
-              "answer": "durch",
-              "explanation": "Blickrichtung durch Öffnung ➔ durch das Fenster",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_l",
-              "label": "l)",
-              "prompt": "",
-              "lead": "Du kannst nicht ",
-              "tail": " ein Geschenk zur Party gehen!",
-              "answer": "ohne",
-              "explanation": "ohne etwas erscheinen ➔ ohne ein Geschenk",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_m",
-              "label": "m)",
-              "prompt": "",
-              "lead": "",
-              "tail": " wen ist das Geschenk?",
-              "answer": "Für",
-              "explanation": "Satzanfang: Frage nach dem Empfänger ➔ Für wen",
-              "isCompact": true
-            },
-            {
-              "id": "a1_p32_ex2_n",
-              "label": "n)",
-              "prompt": "",
-              "lead": "Der Mann lacht ",
-              "tail": " Grund.",
-              "answer": "ohne",
-              "explanation": "grundlos ➔ ohne Grund",
-              "isCompact": true
-            }
-          ]
-        }
       ]
-    }
+}
   },
   "A2": {
     "3": {
       "lessonTitle": "1.1. Nebensätze — kausal (weil)",
       "grammarSummary": "### 📌 Grammatik-Fokus: 1.1. Kausale Nebensätze mit „weil“ (Satzbau & Inversion)\n\nKausale Nebensätze begründen eine Handlung und antworten auf die Frage **Warum?** oder **Wieso?**.\n\n---\n\n#### 1. Grundregel: Das konjugierte Verb steht am SATZENDE!\nIm Gegensatz zu nebenordnenden Konjunktionen (*denn*, Position 0) ist **weil** eine **unterordnende Konjunktion (Subjunktion)**. Sie leitet einen Nebensatz ein und schickt das konjugierte Verb an die **letzte Position**.\n\n| Satztyp | Position I | Position II | Mittelfeld | Satzende |\n| :--- | :--- | :--- | :--- | :--- |\n| **Hauptsatz (HS)** | Monika | **spielt** | sehr gut | Tennis. |\n| **Nebensatz mit „weil“ (NS)** | , weil | sie | jeden Tag fleißig | **trainiert**. |\n\n---\n\n#### 2. Besondere Verbformen im Nebensatz\n\n1. **Trennbare Verben**: \n   - Im Hauptsatz trennen sie sich: *Paul **hört** nie richtig **zu**.*\n   - Im Nebensatz werden sie am Satzende **wieder zusammengeschrieben**: *..., weil er nie richtig **zuhört**.*\n2. **Modalverben**:\n   - Das Modalverb wird konjugiert und steht **ganz am Ende** nach dem Infinitiv: *..., weil sie noch etwas **erledigen muss**.*\n3. **Perfekt**:\n   - Das Hilfsverb (*haben / sein*) steht **ganz am Ende** nach dem Partizip II: *..., weil er sich **erkältet hat**.*\n\n---\n\n#### 3. Vorangestellter Nebensatz (Inversion im Hauptsatz)\nBeginnt das Satzgefüge mit dem Nebensatz (Position 1), muss der folgende Hauptsatz strikt mit dem **konjugierten Verb auf Position 2** beginnen:\n\n> **Formel:**\n> **[Position 1: Weil-Nebensatz ...,]** + **[Position 2: Verb]** + **[Position 3: Subjekt]** + **...**\n\n- *Weil Max sich unwohl fühlt, **geht** er zum Arzt.*\n- *Weil Anja einen Flug buchen möchte, **geht** sie zum Reisebüro.*\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n- In English, \"because\" does not change word order: *\"He comes late because he misses the bus.\"* (Subject + Verb + Object).\n- In German, **weil** is a subordinating conjunction that **kicks the conjugated verb to the absolute end of the clause**: *\"..., weil er den Bus verpasst.\"*\n- If the \"because\"-clause comes first, the following main clause MUST trigger **V2 inversion**: *\"Because he is tired, sleeps he early\"* (*Weil er müde ist, **schläft** er früh*).",
       "exercises": [
-        {
-          "id": "a2_p3_ex1",
-          "title": "Übung 1: Kausalsätze mit „weil“ bilden",
-          "instruction": "Warum kommen die Leute nicht? Ergänzen Sie das Verb bzw. die Verbgruppe am Satzende.",
-          "wordBox": [
-            "hat",
-            "erledigen muss",
-            "bekommt",
-            "lernen muss",
-            "besuchen",
-            "reparieren muss",
-            "aufräumt",
-            "vorbereite",
-            "abholt",
-            "ausgeht",
-            "teilnimmst",
-            "ansieht",
-            "umzieht"
-          ],
-          "answers": {
-            "a2_p3_ex1_a": "hat",
-            "a2_p3_ex1_b": "hat",
-            "a2_p3_ex1_c": "erledigen muss",
-            "a2_p3_ex1_d": "bekommt",
-            "a2_p3_ex1_e": "lernen muss",
-            "a2_p3_ex1_f": "besuchen",
-            "a2_p3_ex1_g": "reparieren muss",
-            "a2_p3_ex1_h": "aufräumt",
-            "a2_p3_ex1_i": "vorbereite",
-            "a2_p3_ex1_j": "abholt",
-            "a2_p3_ex1_k": "ausgeht",
-            "a2_p3_ex1_l": "teilnimmst",
-            "a2_p3_ex1_m": "ansieht",
-            "a2_p3_ex1_n": "umzieht"
-          },
-          "explanations": {
-            "a2_p3_ex1_a": "haben (3. Pers. Sg.) am Satzende ➔ hat",
-            "a2_p3_ex1_b": "haben (3. Pers. Sg.) am Satzende ➔ hat",
-            "a2_p3_ex1_c": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ erledigen muss",
-            "a2_p3_ex1_d": "bekommen (3. Pers. Sg.) am Satzende ➔ bekommt",
-            "a2_p3_ex1_e": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ lernen muss",
-            "a2_p3_ex1_f": "besuchen (1. Pers. Pl.) am Satzende ➔ besuchen",
-            "a2_p3_ex1_g": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ reparieren muss",
-            "a2_p3_ex1_h": "Trennbare Verben werden im Nebensatz zusammengeschrieben: aufräumen ➔ aufräumt",
-            "a2_p3_ex1_i": "Trennbare Verben im Nebensatz: vorbereiten ➔ vorbereite",
-            "a2_p3_ex1_j": "Trennbare Verben im Nebensatz: abholen ➔ abholt",
-            "a2_p3_ex1_k": "Trennbare Verben im Nebensatz: ausgehen ➔ ausgeht",
-            "a2_p3_ex1_l": "Trennbare Verben mit Vokalwechsel: teilnehmen ➔ teilnimmst",
-            "a2_p3_ex1_m": "Trennbare Verben mit Vokalwechsel: ansehen ➔ ansieht",
-            "a2_p3_ex1_n": "Trennbare Verben im Nebensatz: umziehen ➔ umzieht"
-          },
-          "items": [
             {
-              "id": "a2_p3_ex1_a",
-              "label": "a)",
-              "prompt": "Beate: Kopfschmerzen (haben)",
-              "lead": "Beate kommt nicht, weil sie starke Kopfschmerzen ",
-              "tail": ".",
-              "answer": "hat",
-              "explanation": "haben (3. Pers. Sg.) am Satzende ➔ hat",
-              "isCompact": true
+                  "id": "a2_p3_ex1",
+                  "title": "Übung 1: Kausalsätze mit „weil“ bilden",
+                  "instruction": "Warum kommen die Leute nicht? Ergänzen Sie das Verb bzw. die Verbgruppe am Satzende.",
+                  "wordBox": [
+                        "hat",
+                        "erledigen muss",
+                        "bekommt",
+                        "lernen muss",
+                        "besuchen",
+                        "reparieren muss",
+                        "aufräumt",
+                        "vorbereite",
+                        "abholt",
+                        "ausgeht",
+                        "teilnimmst",
+                        "ansieht",
+                        "umzieht"
+                  ],
+                  "answers": {
+                        "a2_p3_ex1_a": "hat",
+                        "a2_p3_ex1_b": "hat",
+                        "a2_p3_ex1_c": "erledigen muss",
+                        "a2_p3_ex1_d": "bekommt",
+                        "a2_p3_ex1_e": "lernen muss",
+                        "a2_p3_ex1_f": "besuchen",
+                        "a2_p3_ex1_g": "reparieren muss",
+                        "a2_p3_ex1_h": "aufräumt",
+                        "a2_p3_ex1_i": "vorbereite",
+                        "a2_p3_ex1_j": "abholt",
+                        "a2_p3_ex1_k": "ausgeht",
+                        "a2_p3_ex1_l": "teilnimmst",
+                        "a2_p3_ex1_m": "ansieht",
+                        "a2_p3_ex1_n": "umzieht"
+                  },
+                  "explanations": {
+                        "a2_p3_ex1_a": "haben (3. Pers. Sg.) am Satzende ➔ hat",
+                        "a2_p3_ex1_b": "haben (3. Pers. Sg.) am Satzende ➔ hat",
+                        "a2_p3_ex1_c": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ erledigen muss",
+                        "a2_p3_ex1_d": "bekommen (3. Pers. Sg.) am Satzende ➔ bekommt",
+                        "a2_p3_ex1_e": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ lernen muss",
+                        "a2_p3_ex1_f": "besuchen (1. Pers. Pl.) am Satzende ➔ besuchen",
+                        "a2_p3_ex1_g": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ reparieren muss",
+                        "a2_p3_ex1_h": "Trennbare Verben werden im Nebensatz zusammengeschrieben: aufräumen ➔ aufräumt",
+                        "a2_p3_ex1_i": "Trennbare Verben im Nebensatz: vorbereiten ➔ vorbereite",
+                        "a2_p3_ex1_j": "Trennbare Verben im Nebensatz: abholen ➔ abholt",
+                        "a2_p3_ex1_k": "Trennbare Verben im Nebensatz: ausgehen ➔ ausgeht",
+                        "a2_p3_ex1_l": "Trennbare Verben mit Vokalwechsel: teilnehmen ➔ teilnimmst",
+                        "a2_p3_ex1_m": "Trennbare Verben mit Vokalwechsel: ansehen ➔ ansieht",
+                        "a2_p3_ex1_n": "Trennbare Verben im Nebensatz: umziehen ➔ umzieht"
+                  },
+                  "items": [
+                        {
+                              "id": "a2_p3_ex1_a",
+                              "label": "a)",
+                              "prompt": "Beate: Kopfschmerzen (haben)",
+                              "lead": "Beate kommt nicht, weil sie starke Kopfschmerzen ",
+                              "tail": ".",
+                              "answer": "hat",
+                              "explanation": "haben (3. Pers. Sg.) am Satzende ➔ hat",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_b",
+                              "label": "b)",
+                              "prompt": "Christian: Termin beim Zahnarzt (haben)",
+                              "lead": "Christian kommt nicht, weil er einen Termin beim Zahnarzt ",
+                              "tail": ".",
+                              "answer": "hat",
+                              "explanation": "haben (3. Pers. Sg.) am Satzende ➔ hat",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_c",
+                              "label": "c)",
+                              "prompt": "Inge: noch etwas (erledigen müssen)",
+                              "lead": "Inge kommt nicht, weil sie noch etwas ",
+                              "tail": ".",
+                              "answer": "erledigen muss",
+                              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ erledigen muss",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p3_ex1_d",
+                              "label": "d)",
+                              "prompt": "Eva: Besuch von einer Freundin (bekommen)",
+                              "lead": "Eva kommt nicht, weil sie Besuch von einer Freundin ",
+                              "tail": ".",
+                              "answer": "bekommt",
+                              "explanation": "bekommen (3. Pers. Sg.) am Satzende ➔ bekommt",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_e",
+                              "label": "e)",
+                              "prompt": "Klaus: für die nächste Prüfung (lernen müssen)",
+                              "lead": "Klaus kommt nicht, weil er für die nächste Prüfung ",
+                              "tail": ".",
+                              "answer": "lernen muss",
+                              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ lernen muss",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p3_ex1_f",
+                              "label": "f)",
+                              "prompt": "Wir: unseren Onkel (besuchen)",
+                              "lead": "Wir kommen nicht, weil wir unseren Onkel ",
+                              "tail": ".",
+                              "answer": "besuchen",
+                              "explanation": "besuchen (1. Pers. Pl.) am Satzende ➔ besuchen",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_g",
+                              "label": "g)",
+                              "prompt": "Dora: ihr Fahrrad (reparieren müssen)",
+                              "lead": "Dora kommt nicht, weil sie ihr Fahrrad ",
+                              "tail": ".",
+                              "answer": "reparieren muss",
+                              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ reparieren muss",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p3_ex1_h",
+                              "label": "h)",
+                              "prompt": "Carmen: ihre Wohnung (aufräumen)",
+                              "lead": "Carmen kommt nicht, weil sie ihre Wohnung ",
+                              "tail": ".",
+                              "answer": "aufräumt",
+                              "explanation": "Trennbare Verben werden im Nebensatz zusammengeschrieben: aufräumen ➔ aufräumt",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_i",
+                              "label": "i)",
+                              "prompt": "Ich: ein Referat (vorbereiten)",
+                              "lead": "Ich komme nicht, weil ich ein Referat ",
+                              "tail": ".",
+                              "answer": "vorbereite",
+                              "explanation": "Trennbare Verben im Nebensatz: vorbereiten ➔ vorbereite",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_j",
+                              "label": "j)",
+                              "prompt": "Maria: ihren Mann vom Flughafen (abholen)",
+                              "lead": "Maria kommt nicht, weil sie ihren Mann vom Flughafen ",
+                              "tail": ".",
+                              "answer": "abholt",
+                              "explanation": "Trennbare Verben im Nebensatz: abholen ➔ abholt",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_k",
+                              "label": "k)",
+                              "prompt": "Jochen: diese Woche nicht (ausgehen)",
+                              "lead": "Jochen kommt nicht, weil er diese Woche nicht ",
+                              "tail": ".",
+                              "answer": "ausgeht",
+                              "explanation": "Trennbare Verben im Nebensatz: ausgehen ➔ ausgeht",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_l",
+                              "label": "l)",
+                              "prompt": "Du: an einem Kochkurs (teilnehmen)",
+                              "lead": "Du kommst nicht, weil du an einem Kochkurs ",
+                              "tail": ".",
+                              "answer": "teilnimmst",
+                              "explanation": "Trennbare Verben mit Vokalwechsel: teilnehmen ➔ teilnimmst",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_m",
+                              "label": "m)",
+                              "prompt": "Werner: sich eine neue Wohnung (ansehen)",
+                              "lead": "Werner kommt nicht, weil er sich eine neue Wohnung ",
+                              "tail": ".",
+                              "answer": "ansieht",
+                              "explanation": "Trennbare Verben mit Vokalwechsel: ansehen ➔ ansieht",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex1_n",
+                              "label": "n)",
+                              "prompt": "Lisa: bald nach Wien (umziehen)",
+                              "lead": "Lisa kommt nicht, weil sie bald nach Wien ",
+                              "tail": ".",
+                              "answer": "umzieht",
+                              "explanation": "Trennbare Verben im Nebensatz: umziehen ➔ umzieht",
+                              "isCompact": true
+                        }
+                  ]
             },
             {
-              "id": "a2_p3_ex1_b",
-              "label": "b)",
-              "prompt": "Christian: Termin beim Zahnarzt (haben)",
-              "lead": "Christian kommt nicht, weil er einen Termin beim Zahnarzt ",
-              "tail": ".",
-              "answer": "hat",
-              "explanation": "haben (3. Pers. Sg.) am Satzende ➔ hat",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_c",
-              "label": "c)",
-              "prompt": "Inge: noch etwas (erledigen müssen)",
-              "lead": "Inge kommt nicht, weil sie noch etwas ",
-              "tail": ".",
-              "answer": "erledigen muss",
-              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ erledigen muss",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p3_ex1_d",
-              "label": "d)",
-              "prompt": "Eva: Besuch von einer Freundin (bekommen)",
-              "lead": "Eva kommt nicht, weil sie Besuch von einer Freundin ",
-              "tail": ".",
-              "answer": "bekommt",
-              "explanation": "bekommen (3. Pers. Sg.) am Satzende ➔ bekommt",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_e",
-              "label": "e)",
-              "prompt": "Klaus: für die nächste Prüfung (lernen müssen)",
-              "lead": "Klaus kommt nicht, weil er für die nächste Prüfung ",
-              "tail": ".",
-              "answer": "lernen muss",
-              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ lernen muss",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p3_ex1_f",
-              "label": "f)",
-              "prompt": "Wir: unseren Onkel (besuchen)",
-              "lead": "Wir kommen nicht, weil wir unseren Onkel ",
-              "tail": ".",
-              "answer": "besuchen",
-              "explanation": "besuchen (1. Pers. Pl.) am Satzende ➔ besuchen",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_g",
-              "label": "g)",
-              "prompt": "Dora: ihr Fahrrad (reparieren müssen)",
-              "lead": "Dora kommt nicht, weil sie ihr Fahrrad ",
-              "tail": ".",
-              "answer": "reparieren muss",
-              "explanation": "Modalverb am Satzende: Infinitiv + konjugiertes Modalverb ➔ reparieren muss",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p3_ex1_h",
-              "label": "h)",
-              "prompt": "Carmen: ihre Wohnung (aufräumen)",
-              "lead": "Carmen kommt nicht, weil sie ihre Wohnung ",
-              "tail": ".",
-              "answer": "aufräumt",
-              "explanation": "Trennbare Verben werden im Nebensatz zusammengeschrieben: aufräumen ➔ aufräumt",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_i",
-              "label": "i)",
-              "prompt": "Ich: ein Referat (vorbereiten)",
-              "lead": "Ich komme nicht, weil ich ein Referat ",
-              "tail": ".",
-              "answer": "vorbereite",
-              "explanation": "Trennbare Verben im Nebensatz: vorbereiten ➔ vorbereite",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_j",
-              "label": "j)",
-              "prompt": "Maria: ihren Mann vom Flughafen (abholen)",
-              "lead": "Maria kommt nicht, weil sie ihren Mann vom Flughafen ",
-              "tail": ".",
-              "answer": "abholt",
-              "explanation": "Trennbare Verben im Nebensatz: abholen ➔ abholt",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_k",
-              "label": "k)",
-              "prompt": "Jochen: diese Woche nicht (ausgehen)",
-              "lead": "Jochen kommt nicht, weil er diese Woche nicht ",
-              "tail": ".",
-              "answer": "ausgeht",
-              "explanation": "Trennbare Verben im Nebensatz: ausgehen ➔ ausgeht",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_l",
-              "label": "l)",
-              "prompt": "Du: an einem Kochkurs (teilnehmen)",
-              "lead": "Du kommst nicht, weil du an einem Kochkurs ",
-              "tail": ".",
-              "answer": "teilnimmst",
-              "explanation": "Trennbare Verben mit Vokalwechsel: teilnehmen ➔ teilnimmst",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_m",
-              "label": "m)",
-              "prompt": "Werner: sich eine neue Wohnung (ansehen)",
-              "lead": "Werner kommt nicht, weil er sich eine neue Wohnung ",
-              "tail": ".",
-              "answer": "ansieht",
-              "explanation": "Trennbare Verben mit Vokalwechsel: ansehen ➔ ansieht",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex1_n",
-              "label": "n)",
-              "prompt": "Lisa: bald nach Wien (umziehen)",
-              "lead": "Lisa kommt nicht, weil sie bald nach Wien ",
-              "tail": ".",
-              "answer": "umzieht",
-              "explanation": "Trennbare Verben im Nebensatz: umziehen ➔ umzieht",
-              "isCompact": true
+                  "id": "a2_p3_ex2",
+                  "title": "Übung 2: Vorangestellte Kausalsätze (Inversion im Hauptsatz)",
+                  "instruction": "Bilden Sie Sätze mit vorangestelltem „Weil“-Nebensatz. Achten Sie auf das Verb im Hauptsatz (Position 2).",
+                  "wordBox": [
+                        "geht",
+                        "kann",
+                        "kauft",
+                        "meldet",
+                        "ruft",
+                        "lernt"
+                  ],
+                  "answers": {
+                        "a2_p3_ex2_a": "geht",
+                        "a2_p3_ex2_b": "kann",
+                        "a2_p3_ex2_c": "kauft",
+                        "a2_p3_ex2_d": "meldet",
+                        "a2_p3_ex2_e": "ruft",
+                        "a2_p3_ex2_f": "kann",
+                        "a2_p3_ex2_g": "lernt"
+                  },
+                  "explanations": {
+                        "a2_p3_ex2_a": "Hauptsatz folgt mit Verb auf Position 2: geht sie zum Reisebüro",
+                        "a2_p3_ex2_b": "Hauptsatz folgt mit Modalverb auf Position 2: kann sie nicht kommen",
+                        "a2_p3_ex2_c": "Hauptsatz folgt mit Verb auf Position 2: kauft Paul einen Blumenstrauß",
+                        "a2_p3_ex2_d": "Hauptsatz folgt mit trennbarem Verb: meldet er sich ... an",
+                        "a2_p3_ex2_e": "Hauptsatz folgt mit trennbarem Verb: ruft er sie an",
+                        "a2_p3_ex2_f": "Hauptsatz folgt mit Modalverb auf Position 2: kann er nicht mitkommen",
+                        "a2_p3_ex2_g": "Hauptsatz folgt mit Verb auf Position 2: lernt sie den ganzen Tag"
+                  },
+                  "items": [
+                        {
+                              "id": "a2_p3_ex2_a",
+                              "label": "a)",
+                              "prompt": "Anja: Flug buchen ➔ Reisebüro (gehen)",
+                              "lead": "Weil Anja einen Flug buchen möchte, ",
+                              "tail": " sie zum Reisebüro.",
+                              "answer": "geht",
+                              "explanation": "Hauptsatz folgt mit Verb auf Position 2: geht sie zum Reisebüro",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_b",
+                              "label": "b)",
+                              "prompt": "Eva: Arbeit nicht fertig ➔ nicht kommen (können)",
+                              "lead": "Weil Eva mit der Arbeit noch nicht fertig ist, ",
+                              "tail": " sie nicht kommen.",
+                              "answer": "kann",
+                              "explanation": "Hauptsatz folgt mit Modalverb auf Position 2: kann sie nicht kommen",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_c",
+                              "label": "c)",
+                              "prompt": "Lisa: Geburtstag ➔ Paul: Blumenstrauß (kaufen)",
+                              "lead": "Weil Lisa heute Geburtstag hat, ",
+                              "tail": " Paul einen Blumenstrauß.",
+                              "answer": "kauft",
+                              "explanation": "Hauptsatz folgt mit Verb auf Position 2: kauft Paul einen Blumenstrauß",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_d",
+                              "label": "d)",
+                              "prompt": "Max: Italienisch lernen ➔ Sprachkurs (anmelden)",
+                              "lead": "Weil Max Italienisch lernen möchte, ",
+                              "tail": " er sich für einen Sprachkurs an.",
+                              "answer": "meldet",
+                              "explanation": "Hauptsatz folgt mit trennbarem Verb: meldet er sich ... an",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_e",
+                              "label": "e)",
+                              "prompt": "Robert: spazieren gehen ➔ Maria (anrufen)",
+                              "lead": "Weil Robert mit Maria spazieren gehen möchte, ",
+                              "tail": " er sie an.",
+                              "answer": "ruft",
+                              "explanation": "Hauptsatz folgt mit trennbarem Verb: ruft er sie an",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_f",
+                              "label": "f)",
+                              "prompt": "Christian: erkältet ➔ nicht mitkommen (können)",
+                              "lead": "Weil Christian sich erkältet hat, ",
+                              "tail": " er nicht mitkommen.",
+                              "answer": "kann",
+                              "explanation": "Hauptsatz folgt mit Modalverb auf Position 2: kann er nicht mitkommen",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p3_ex2_g",
+                              "label": "g)",
+                              "prompt": "Inge: wichtige Prüfung ➔ ganzen Tag (lernen)",
+                              "lead": "Weil Inge bald eine wichtige Prüfung schreibt, ",
+                              "tail": " sie den ganzen Tag.",
+                              "answer": "lernt",
+                              "explanation": "Hauptsatz folgt mit Verb auf Position 2: lernt sie den ganzen Tag",
+                              "isCompact": true
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a2_p3_ex2",
-          "title": "Übung 2: Vorangestellte Kausalsätze (Inversion im Hauptsatz)",
-          "instruction": "Bilden Sie Sätze mit vorangestelltem „Weil“-Nebensatz. Achten Sie auf das Verb im Hauptsatz (Position 2).",
-          "wordBox": [
-            "geht",
-            "kann",
-            "kauft",
-            "meldet",
-            "ruft",
-            "lernt"
-          ],
-          "answers": {
-            "a2_p3_ex2_a": "geht",
-            "a2_p3_ex2_b": "kann",
-            "a2_p3_ex2_c": "kauft",
-            "a2_p3_ex2_d": "meldet",
-            "a2_p3_ex2_e": "ruft",
-            "a2_p3_ex2_f": "kann",
-            "a2_p3_ex2_g": "lernt"
-          },
-          "explanations": {
-            "a2_p3_ex2_a": "Hauptsatz folgt mit Verb auf Position 2: geht sie zum Reisebüro",
-            "a2_p3_ex2_b": "Hauptsatz folgt mit Modalverb auf Position 2: kann sie nicht kommen",
-            "a2_p3_ex2_c": "Hauptsatz folgt mit Verb auf Position 2: kauft Paul einen Blumenstrauß",
-            "a2_p3_ex2_d": "Hauptsatz folgt mit trennbarem Verb: meldet er sich ... an",
-            "a2_p3_ex2_e": "Hauptsatz folgt mit trennbarem Verb: ruft er sie an",
-            "a2_p3_ex2_f": "Hauptsatz folgt mit Modalverb auf Position 2: kann er nicht mitkommen",
-            "a2_p3_ex2_g": "Hauptsatz folgt mit Verb auf Position 2: lernt sie den ganzen Tag"
-          },
-          "items": [
-            {
-              "id": "a2_p3_ex2_a",
-              "label": "a)",
-              "prompt": "Anja: Flug buchen ➔ Reisebüro (gehen)",
-              "lead": "Weil Anja einen Flug buchen möchte, ",
-              "tail": " sie zum Reisebüro.",
-              "answer": "geht",
-              "explanation": "Hauptsatz folgt mit Verb auf Position 2: geht sie zum Reisebüro",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_b",
-              "label": "b)",
-              "prompt": "Eva: Arbeit nicht fertig ➔ nicht kommen (können)",
-              "lead": "Weil Eva mit der Arbeit noch nicht fertig ist, ",
-              "tail": " sie nicht kommen.",
-              "answer": "kann",
-              "explanation": "Hauptsatz folgt mit Modalverb auf Position 2: kann sie nicht kommen",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_c",
-              "label": "c)",
-              "prompt": "Lisa: Geburtstag ➔ Paul: Blumenstrauß (kaufen)",
-              "lead": "Weil Lisa heute Geburtstag hat, ",
-              "tail": " Paul einen Blumenstrauß.",
-              "answer": "kauft",
-              "explanation": "Hauptsatz folgt mit Verb auf Position 2: kauft Paul einen Blumenstrauß",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_d",
-              "label": "d)",
-              "prompt": "Max: Italienisch lernen ➔ Sprachkurs (anmelden)",
-              "lead": "Weil Max Italienisch lernen möchte, ",
-              "tail": " er sich für einen Sprachkurs an.",
-              "answer": "meldet",
-              "explanation": "Hauptsatz folgt mit trennbarem Verb: meldet er sich ... an",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_e",
-              "label": "e)",
-              "prompt": "Robert: spazieren gehen ➔ Maria (anrufen)",
-              "lead": "Weil Robert mit Maria spazieren gehen möchte, ",
-              "tail": " er sie an.",
-              "answer": "ruft",
-              "explanation": "Hauptsatz folgt mit trennbarem Verb: ruft er sie an",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_f",
-              "label": "f)",
-              "prompt": "Christian: erkältet ➔ nicht mitkommen (können)",
-              "lead": "Weil Christian sich erkältet hat, ",
-              "tail": " er nicht mitkommen.",
-              "answer": "kann",
-              "explanation": "Hauptsatz folgt mit Modalverb auf Position 2: kann er nicht mitkommen",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p3_ex2_g",
-              "label": "g)",
-              "prompt": "Inge: wichtige Prüfung ➔ ganzen Tag (lernen)",
-              "lead": "Weil Inge bald eine wichtige Prüfung schreibt, ",
-              "tail": " sie den ganzen Tag.",
-              "answer": "lernt",
-              "explanation": "Hauptsatz folgt mit Verb auf Position 2: lernt sie den ganzen Tag",
-              "isCompact": true
-            }
-          ]
-        }
       ]
-    },
+},
     "4": {
       "lessonTitle": "1.2. Verben mit Dativ- und Akkusativobjekt",
       "grammarSummary": "### 📌 Grammatik-Fokus: 1.2. Verben mit Dativ- und Akkusativobjekt\n\nViele Verben des Gebens, Sagens, Zeigens und Sendens verlangen **zwei Objekte**:\n- **Dativobjekt (Wem?)**: meist die beteiligte **Person** (Empfänger / Nutznießer).\n- **Akkusativobjekt (Wen / Was?)**: meist die übertragene **Sache** oder Information.\n\n---\n\n#### 1. Die drei goldenen Stellungsregeln im Satz\n\n| Fallkonstellation | Stellungsregel | Beispielsatz |\n| :--- | :--- | :--- |\n| **1. Zwei Nomen** | **Dativ vor Akkusativ** (*Person vor Sache*) | Der Ober bringt **den Gästen** *(Dat.)* **die Getränke** *(Akk.)*. |\n| **2. Nomen + Pronomen** | **Pronomen vor Nomen** (*immer!*) | Ich gebe **ihr** *(Pron.)* **das Buch** *(Nomen)*. / Ich gebe **es** *(Pron.)* **der Studentin** *(Nomen)*. |\n| **3. Zwei Personalpronomen** | **Akkusativ vor Dativ** (*alphabetisch: A vor D!*) | Der Ober bringt **es** *(Akk.)* **ihm** *(Dat.)*. / Ich gebe **es** *(Akk.)* **ihr** *(Dat.)*. |\n\n---\n\n#### 2. Deklinationstabelle: Dativ- und Akkusativformen\n\n| Form | Maskulinum (m) | Neutrum (n) | Femininum (f) | Plural (Pl.) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Dativ (Person: Wem?)** | **dem / einem** Freund | **dem / einem** Kind | **der / einer** Tante | **den** Freunden **+ n** |\n| **Dativ-Pronomen** | **ihm** | **ihm** | **ihr** | **ihnen** (*Sie: Ihnen*) |\n| **Akkusativ (Sache: Was?)** | **den / einen** Schlüssel | **das / ein** Paket | **die / eine** E-Mail | **die** Bücher |\n| **Akkusativ-Pronomen** | **ihn** | **es** | **sie** | **sie** (*Sie: Sie*) |\n\n---\n\n#### 3. Typische Verben mit zwei Objekten\n- *geben, schenken, schicken, mitbringen, zeigen, erklären, erzählen, anbieten, vorlesen, empfehlen, verkaufen, stehlen*.\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n- In English, word order distinguishes indirect and direct objects: *\"I give the student the book\"* or with preposition *\"I give the book to the student\"*.\n- In German, case endings make the relationship clear without prepositions.\n- **Rule of Thumb:**\n  - With two nouns: **Person (Dative) comes before Thing (Accusative)**.\n  - With two pronouns: **It flips! Thing (Accusative) comes before Person (Dative)** (*\"Er gibt es ihm\"* = *\"He gives it to him\"*).",
       "exercises": [
-        {
-          "id": "a2_p4_ex1",
-          "title": "Übung 1: Dativobjekt vor Akkusativobjekt",
-          "instruction": "Setzen Sie die Person im Dativ ein (Dativ vor Akkusativ).",
-          "wordBox": [
-            "den Kindern",
-            "dem Freund",
-            "dir",
-            "uns",
-            "der Tante",
-            "dem Kind",
-            "einer Reporterin",
-            "den Freunden",
-            "ihr",
-            "mir",
-            "einer Touristin"
-          ],
-          "answers": {
-            "a2_p4_ex1_a": "den Kindern",
-            "a2_p4_ex1_b": "dem Freund",
-            "a2_p4_ex1_c": "dir",
-            "a2_p4_ex1_d": "uns",
-            "a2_p4_ex1_e": "der Tante",
-            "a2_p4_ex1_f": "dem Kind",
-            "a2_p4_ex1_g": "einer Reporterin",
-            "a2_p4_ex1_h": "den Freunden",
-            "a2_p4_ex1_i": "ihr",
-            "a2_p4_ex1_j": "uns",
-            "a2_p4_ex1_k": "mir",
-            "a2_p4_ex1_l": "einer Touristin"
-          },
-          "explanations": {
-            "a2_p4_ex1_a": "die Kinder (Plural) ➔ Dativ: den Kindern",
-            "a2_p4_ex1_b": "der Freund (maskulin) ➔ Dativ: dem Freund",
-            "a2_p4_ex1_c": "Personalpronomen (du) ➔ Dativ: dir",
-            "a2_p4_ex1_d": "Personalpronomen (wir) ➔ Dativ: uns",
-            "a2_p4_ex1_e": "die Tante (feminin) ➔ Dativ: der Tante",
-            "a2_p4_ex1_f": "das Kind (neutral) ➔ Dativ: dem Kind",
-            "a2_p4_ex1_g": "eine Reporterin (feminin unbestimmt) ➔ Dativ: einer Reporterin",
-            "a2_p4_ex1_h": "die Freunde (Plural) ➔ Dativ: den Freunden",
-            "a2_p4_ex1_i": "Personalpronomen (sie) ➔ Dativ: ihr",
-            "a2_p4_ex1_j": "Personalpronomen (wir) ➔ Dativ: uns",
-            "a2_p4_ex1_k": "Personalpronomen (ich) ➔ Dativ: mir",
-            "a2_p4_ex1_l": "eine Touristin (feminin unbestimmt) ➔ Dativ: einer Touristin"
-          },
-          "items": [
             {
-              "id": "a2_p4_ex1_a",
-              "label": "a)",
-              "prompt": "Kinder (b)",
-              "lead": "Du schenkst ",
-              "tail": " Schokolade.",
-              "answer": "den Kindern",
-              "explanation": "die Kinder (Plural) ➔ Dativ: den Kindern",
-              "isCompact": false
+                  "id": "a2_p4_ex1",
+                  "title": "Übung 1: Dativobjekt vor Akkusativobjekt",
+                  "instruction": "Setzen Sie die Person im Dativ ein (Dativ vor Akkusativ).",
+                  "wordBox": [
+                        "den Kindern",
+                        "dem Freund",
+                        "dir",
+                        "uns",
+                        "der Tante",
+                        "dem Kind",
+                        "einer Reporterin",
+                        "den Freunden",
+                        "ihr",
+                        "mir",
+                        "einer Touristin"
+                  ],
+                  "answers": {
+                        "a2_p4_ex1_a": "den Kindern",
+                        "a2_p4_ex1_b": "dem Freund",
+                        "a2_p4_ex1_c": "dir",
+                        "a2_p4_ex1_d": "uns",
+                        "a2_p4_ex1_e": "der Tante",
+                        "a2_p4_ex1_f": "dem Kind",
+                        "a2_p4_ex1_g": "einer Reporterin",
+                        "a2_p4_ex1_h": "den Freunden",
+                        "a2_p4_ex1_i": "ihr",
+                        "a2_p4_ex1_j": "uns",
+                        "a2_p4_ex1_k": "mir",
+                        "a2_p4_ex1_l": "einer Touristin"
+                  },
+                  "explanations": {
+                        "a2_p4_ex1_a": "die Kinder (Plural) ➔ Dativ: den Kindern",
+                        "a2_p4_ex1_b": "der Freund (maskulin) ➔ Dativ: dem Freund",
+                        "a2_p4_ex1_c": "Personalpronomen (du) ➔ Dativ: dir",
+                        "a2_p4_ex1_d": "Personalpronomen (wir) ➔ Dativ: uns",
+                        "a2_p4_ex1_e": "die Tante (feminin) ➔ Dativ: der Tante",
+                        "a2_p4_ex1_f": "das Kind (neutral) ➔ Dativ: dem Kind",
+                        "a2_p4_ex1_g": "eine Reporterin (feminin unbestimmt) ➔ Dativ: einer Reporterin",
+                        "a2_p4_ex1_h": "die Freunde (Plural) ➔ Dativ: den Freunden",
+                        "a2_p4_ex1_i": "Personalpronomen (sie) ➔ Dativ: ihr",
+                        "a2_p4_ex1_j": "Personalpronomen (wir) ➔ Dativ: uns",
+                        "a2_p4_ex1_k": "Personalpronomen (ich) ➔ Dativ: mir",
+                        "a2_p4_ex1_l": "eine Touristin (feminin unbestimmt) ➔ Dativ: einer Touristin"
+                  },
+                  "items": [
+                        {
+                              "id": "a2_p4_ex1_a",
+                              "label": "a)",
+                              "prompt": "Kinder (b)",
+                              "lead": "Du schenkst ",
+                              "tail": " Schokolade.",
+                              "answer": "den Kindern",
+                              "explanation": "die Kinder (Plural) ➔ Dativ: den Kindern",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_b",
+                              "label": "b)",
+                              "prompt": "Freund (b)",
+                              "lead": "Ich schreibe ",
+                              "tail": " eine SMS.",
+                              "answer": "dem Freund",
+                              "explanation": "der Freund (maskulin) ➔ Dativ: dem Freund",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_c",
+                              "label": "c)",
+                              "prompt": "du (Pronomen)",
+                              "lead": "Die Lehrerin zeigt ",
+                              "tail": " die Fehler.",
+                              "answer": "dir",
+                              "explanation": "Personalpronomen (du) ➔ Dativ: dir",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p4_ex1_d",
+                              "label": "d)",
+                              "prompt": "wir (Pronomen)",
+                              "lead": "Der Lehrer erklärt ",
+                              "tail": " die Grammatik.",
+                              "answer": "uns",
+                              "explanation": "Personalpronomen (wir) ➔ Dativ: uns",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p4_ex1_e",
+                              "label": "e)",
+                              "prompt": "Tante (b)",
+                              "lead": "Claudia schickt ",
+                              "tail": " eine E-Mail.",
+                              "answer": "der Tante",
+                              "explanation": "die Tante (feminin) ➔ Dativ: der Tante",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_f",
+                              "label": "f)",
+                              "prompt": "Kind (b)",
+                              "lead": "Die Großmutter erzählt ",
+                              "tail": " eine Geschichte.",
+                              "answer": "dem Kind",
+                              "explanation": "das Kind (neutral) ➔ Dativ: dem Kind",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_g",
+                              "label": "g)",
+                              "prompt": "Reporterin (u)",
+                              "lead": "Der Minister beantwortet ",
+                              "tail": " die Fragen.",
+                              "answer": "einer Reporterin",
+                              "explanation": "eine Reporterin (feminin unbestimmt) ➔ Dativ: einer Reporterin",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_h",
+                              "label": "h)",
+                              "prompt": "Freunde (b)",
+                              "lead": "Robert bietet ",
+                              "tail": " ein Getränk an.",
+                              "answer": "den Freunden",
+                              "explanation": "die Freunde (Plural) ➔ Dativ: den Freunden",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex1_i",
+                              "label": "i)",
+                              "prompt": "ihr (Pronomen)",
+                              "lead": "Klaus liest ",
+                              "tail": " den Text vor.",
+                              "answer": "ihr",
+                              "explanation": "Personalpronomen (sie) ➔ Dativ: ihr",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p4_ex1_j",
+                              "label": "j)",
+                              "prompt": "wir (Pronomen)",
+                              "lead": "Lisa bringt ",
+                              "tail": " Obst mit.",
+                              "answer": "uns",
+                              "explanation": "Personalpronomen (wir) ➔ Dativ: uns",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p4_ex1_k",
+                              "label": "k)",
+                              "prompt": "ich (Pronomen)",
+                              "lead": "Der Kellner empfiehlt ",
+                              "tail": " das Steak.",
+                              "answer": "mir",
+                              "explanation": "Personalpronomen (ich) ➔ Dativ: mir",
+                              "isCompact": true
+                        },
+                        {
+                              "id": "a2_p4_ex1_l",
+                              "label": "l)",
+                              "prompt": "Touristin (u)",
+                              "lead": "Der Dieb stiehlt ",
+                              "tail": " die Kamera.",
+                              "answer": "einer Touristin",
+                              "explanation": "eine Touristin (feminin unbestimmt) ➔ Dativ: einer Touristin",
+                              "isCompact": false
+                        }
+                  ]
             },
             {
-              "id": "a2_p4_ex1_b",
-              "label": "b)",
-              "prompt": "Freund (b)",
-              "lead": "Ich schreibe ",
-              "tail": " eine SMS.",
-              "answer": "dem Freund",
-              "explanation": "der Freund (maskulin) ➔ Dativ: dem Freund",
-              "isCompact": false
+                  "id": "a2_p4_ex2",
+                  "title": "Übung 2: Dativpronomen und Akkusativartikel",
+                  "instruction": "Ergänzen Sie das Personalpronomen im Dativ und den Artikel im Akkusativ.",
+                  "wordBox": [
+                        "mir den",
+                        "mir eine",
+                        "dir ein",
+                        "dir das",
+                        "mir einen"
+                  ],
+                  "answers": {
+                        "a2_p4_ex2_a": "mir den",
+                        "a2_p4_ex2_b": "mir eine",
+                        "a2_p4_ex2_c": "dir ein",
+                        "a2_p4_ex2_d": "dir das",
+                        "a2_p4_ex2_e": "mir einen",
+                        "a2_p4_ex2_f": "dir das"
+                  },
+                  "explanations": {
+                        "a2_p4_ex2_a": "Dativ (ich): mir; Akkusativ (der Schlüssel): den Schlüssel",
+                        "a2_p4_ex2_b": "Dativ (ich): mir; Akkusativ (eine Geschichte): eine Geschichte",
+                        "a2_p4_ex2_c": "Dativ (du): dir; Akkusativ (ein Paket): ein Paket",
+                        "a2_p4_ex2_d": "Dativ (du): dir; Akkusativ (das Zimmer): das Zimmer",
+                        "a2_p4_ex2_e": "Dativ (ich): mir; Akkusativ (ein Orangensaft): einen Orangensaft",
+                        "a2_p4_ex2_f": "Dativ (du): dir; Akkusativ (das Problem): das Problem"
+                  },
+                  "items": [
+                        {
+                              "id": "a2_p4_ex2_a",
+                              "label": "a)",
+                              "prompt": "(ich / der)",
+                              "lead": "Du gibst ",
+                              "tail": " Schlüssel.",
+                              "answer": "mir den",
+                              "explanation": "Dativ (ich): mir; Akkusativ (der Schlüssel): den Schlüssel",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex2_b",
+                              "label": "b)",
+                              "prompt": "(ich / eine)",
+                              "lead": "Er erzählt ",
+                              "tail": " Geschichte.",
+                              "answer": "mir eine",
+                              "explanation": "Dativ (ich): mir; Akkusativ (eine Geschichte): eine Geschichte",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex2_c",
+                              "label": "c)",
+                              "prompt": "(du / ein)",
+                              "lead": "Max schickt ",
+                              "tail": " Paket.",
+                              "answer": "dir ein",
+                              "explanation": "Dativ (du): dir; Akkusativ (ein Paket): ein Paket",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex2_d",
+                              "label": "d)",
+                              "prompt": "(du / das)",
+                              "lead": "Ich zeige ",
+                              "tail": " Zimmer.",
+                              "answer": "dir das",
+                              "explanation": "Dativ (du): dir; Akkusativ (das Zimmer): das Zimmer",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex2_e",
+                              "label": "e)",
+                              "prompt": "(ich / ein)",
+                              "lead": "Du bringst ",
+                              "tail": " Orangensaft.",
+                              "answer": "mir einen",
+                              "explanation": "Dativ (ich): mir; Akkusativ (ein Orangensaft): einen Orangensaft",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex2_f",
+                              "label": "f)",
+                              "prompt": "(du / das)",
+                              "lead": "Lena erklärt ",
+                              "tail": " Problem.",
+                              "answer": "dir das",
+                              "explanation": "Dativ (du): dir; Akkusativ (das Problem): das Problem",
+                              "isCompact": false
+                        }
+                  ]
             },
             {
-              "id": "a2_p4_ex1_c",
-              "label": "c)",
-              "prompt": "du (Pronomen)",
-              "lead": "Die Lehrerin zeigt ",
-              "tail": " die Fehler.",
-              "answer": "dir",
-              "explanation": "Personalpronomen (du) ➔ Dativ: dir",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p4_ex1_d",
-              "label": "d)",
-              "prompt": "wir (Pronomen)",
-              "lead": "Der Lehrer erklärt ",
-              "tail": " die Grammatik.",
-              "answer": "uns",
-              "explanation": "Personalpronomen (wir) ➔ Dativ: uns",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p4_ex1_e",
-              "label": "e)",
-              "prompt": "Tante (b)",
-              "lead": "Claudia schickt ",
-              "tail": " eine E-Mail.",
-              "answer": "der Tante",
-              "explanation": "die Tante (feminin) ➔ Dativ: der Tante",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex1_f",
-              "label": "f)",
-              "prompt": "Kind (b)",
-              "lead": "Die Großmutter erzählt ",
-              "tail": " eine Geschichte.",
-              "answer": "dem Kind",
-              "explanation": "das Kind (neutral) ➔ Dativ: dem Kind",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex1_g",
-              "label": "g)",
-              "prompt": "Reporterin (u)",
-              "lead": "Der Minister beantwortet ",
-              "tail": " die Fragen.",
-              "answer": "einer Reporterin",
-              "explanation": "eine Reporterin (feminin unbestimmt) ➔ Dativ: einer Reporterin",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex1_h",
-              "label": "h)",
-              "prompt": "Freunde (b)",
-              "lead": "Robert bietet ",
-              "tail": " ein Getränk an.",
-              "answer": "den Freunden",
-              "explanation": "die Freunde (Plural) ➔ Dativ: den Freunden",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex1_i",
-              "label": "i)",
-              "prompt": "ihr (Pronomen)",
-              "lead": "Klaus liest ",
-              "tail": " den Text vor.",
-              "answer": "ihr",
-              "explanation": "Personalpronomen (sie) ➔ Dativ: ihr",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p4_ex1_j",
-              "label": "j)",
-              "prompt": "wir (Pronomen)",
-              "lead": "Lisa bringt ",
-              "tail": " Obst mit.",
-              "answer": "uns",
-              "explanation": "Personalpronomen (wir) ➔ Dativ: uns",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p4_ex1_k",
-              "label": "k)",
-              "prompt": "ich (Pronomen)",
-              "lead": "Der Kellner empfiehlt ",
-              "tail": " das Steak.",
-              "answer": "mir",
-              "explanation": "Personalpronomen (ich) ➔ Dativ: mir",
-              "isCompact": true
-            },
-            {
-              "id": "a2_p4_ex1_l",
-              "label": "l)",
-              "prompt": "Touristin (u)",
-              "lead": "Der Dieb stiehlt ",
-              "tail": " die Kamera.",
-              "answer": "einer Touristin",
-              "explanation": "eine Touristin (feminin unbestimmt) ➔ Dativ: einer Touristin",
-              "isCompact": false
+                  "id": "a2_p4_ex3",
+                  "title": "Übung 3: Zwei Personalpronomen (Akkusativ vor Dativ)",
+                  "instruction": "Ersetzen Sie beide Objekte durch Pronomen (Akkusativ vor Dativ).",
+                  "wordBox": [
+                        "sie dir",
+                        "es dir",
+                        "sie euch",
+                        "es ihr",
+                        "ihn ihnen",
+                        "sie ihm",
+                        "sie ihr",
+                        "sie ihnen",
+                        "ihn dir"
+                  ],
+                  "answers": {
+                        "a2_p4_ex3_a": "sie dir",
+                        "a2_p4_ex3_b": "es dir",
+                        "a2_p4_ex3_c": "sie euch",
+                        "a2_p4_ex3_d": "es ihr",
+                        "a2_p4_ex3_e": "ihn ihnen",
+                        "a2_p4_ex3_f": "sie ihm",
+                        "a2_p4_ex3_g": "sie dir",
+                        "a2_p4_ex3_h": "sie ihr",
+                        "a2_p4_ex3_i": "sie ihnen",
+                        "a2_p4_ex3_j": "ihn dir"
+                  },
+                  "explanations": {
+                        "a2_p4_ex3_a": "die Übung (f) ➔ sie; mir ➔ dir ➔ sie dir",
+                        "a2_p4_ex3_b": "das Bild (n) ➔ es; mir ➔ dir ➔ es dir",
+                        "a2_p4_ex3_c": "die Pakete (Pl.) ➔ sie; uns ➔ euch ➔ sie euch",
+                        "a2_p4_ex3_d": "das Museum (n) ➔ es; Lena (f) ➔ ihr ➔ es ihr",
+                        "a2_p4_ex3_e": "den Weg (m) ➔ ihn; den Touristen (Pl.) ➔ ihnen ➔ ihn ihnen",
+                        "a2_p4_ex3_f": "die Geschichte (f) ➔ sie; dem Onkel (m) ➔ ihm ➔ sie ihm",
+                        "a2_p4_ex3_g": "die Adresse (f) ➔ sie; mir ➔ dir ➔ sie dir",
+                        "a2_p4_ex3_h": "die Blumen (Pl.) ➔ sie; der Tante (f) ➔ ihr ➔ sie ihr",
+                        "a2_p4_ex3_i": "deine Hilfe (f) ➔ sie; den Freunden (Pl.) ➔ ihnen ➔ sie ihnen",
+                        "a2_p4_ex3_j": "den Wagen (m) ➔ ihn; mir ➔ dir ➔ ihn dir"
+                  },
+                  "items": [
+                        {
+                              "id": "a2_p4_ex3_a",
+                              "label": "a)",
+                              "prompt": "Liest du mir die Übung vor?",
+                              "lead": "Ja, ich lese ",
+                              "tail": " vor.",
+                              "answer": "sie dir",
+                              "explanation": "die Übung (f) ➔ sie; mir ➔ dir ➔ sie dir",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_b",
+                              "label": "b)",
+                              "prompt": "Schenkst du mir das Bild?",
+                              "lead": "Ja, ich schenke ",
+                              "tail": ".",
+                              "answer": "es dir",
+                              "explanation": "das Bild (n) ➔ es; mir ➔ dir ➔ es dir",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_c",
+                              "label": "c)",
+                              "prompt": "Bringst du uns die Pakete mit?",
+                              "lead": "Ja, ich bringe ",
+                              "tail": " mit.",
+                              "answer": "sie euch",
+                              "explanation": "die Pakete (Pl.) ➔ sie; uns ➔ euch ➔ sie euch",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_d",
+                              "label": "d)",
+                              "prompt": "Zeigst du Lena das Museum?",
+                              "lead": "Ja, ich zeige ",
+                              "tail": ".",
+                              "answer": "es ihr",
+                              "explanation": "das Museum (n) ➔ es; Lena (f) ➔ ihr ➔ es ihr",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_e",
+                              "label": "e)",
+                              "prompt": "Erklärst du den Touristen den Weg?",
+                              "lead": "Ja, ich erkläre ",
+                              "tail": ".",
+                              "answer": "ihn ihnen",
+                              "explanation": "den Weg (m) ➔ ihn; den Touristen (Pl.) ➔ ihnen ➔ ihn ihnen",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_f",
+                              "label": "f)",
+                              "prompt": "Erzählst du dem Onkel die Geschichte?",
+                              "lead": "Ja, ich erzähle ",
+                              "tail": ".",
+                              "answer": "sie ihm",
+                              "explanation": "die Geschichte (f) ➔ sie; dem Onkel (m) ➔ ihm ➔ sie ihm",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_g",
+                              "label": "g)",
+                              "prompt": "Schreibst du mir die Adresse auf?",
+                              "lead": "Ja, ich schreibe ",
+                              "tail": " auf.",
+                              "answer": "sie dir",
+                              "explanation": "die Adresse (f) ➔ sie; mir ➔ dir ➔ sie dir",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_h",
+                              "label": "h)",
+                              "prompt": "Schickst du der Tante die Blumen?",
+                              "lead": "Ja, ich schicke ",
+                              "tail": ".",
+                              "answer": "sie ihr",
+                              "explanation": "die Blumen (Pl.) ➔ sie; der Tante (f) ➔ ihr ➔ sie ihr",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_i",
+                              "label": "i)",
+                              "prompt": "Bietest du den Freunden deine Hilfe an?",
+                              "lead": "Ja, ich biete ",
+                              "tail": " an.",
+                              "answer": "sie ihnen",
+                              "explanation": "deine Hilfe (f) ➔ sie; den Freunden (Pl.) ➔ ihnen ➔ sie ihnen",
+                              "isCompact": false
+                        },
+                        {
+                              "id": "a2_p4_ex3_j",
+                              "label": "j)",
+                              "prompt": "Verkaufst du mir den Wagen?",
+                              "lead": "Ja, ich verkaufe ",
+                              "tail": ".",
+                              "answer": "ihn dir",
+                              "explanation": "den Wagen (m) ➔ ihn; mir ➔ dir ➔ ihn dir",
+                              "isCompact": false
+                        }
+                  ]
             }
-          ]
-        },
-        {
-          "id": "a2_p4_ex2",
-          "title": "Übung 2: Dativpronomen und Akkusativartikel",
-          "instruction": "Ergänzen Sie das Personalpronomen im Dativ und den Artikel im Akkusativ.",
-          "wordBox": [
-            "mir den",
-            "mir eine",
-            "dir ein",
-            "dir das",
-            "mir einen"
-          ],
-          "answers": {
-            "a2_p4_ex2_a": "mir den",
-            "a2_p4_ex2_b": "mir eine",
-            "a2_p4_ex2_c": "dir ein",
-            "a2_p4_ex2_d": "dir das",
-            "a2_p4_ex2_e": "mir einen",
-            "a2_p4_ex2_f": "dir das"
-          },
-          "explanations": {
-            "a2_p4_ex2_a": "Dativ (ich): mir; Akkusativ (der Schlüssel): den Schlüssel",
-            "a2_p4_ex2_b": "Dativ (ich): mir; Akkusativ (eine Geschichte): eine Geschichte",
-            "a2_p4_ex2_c": "Dativ (du): dir; Akkusativ (ein Paket): ein Paket",
-            "a2_p4_ex2_d": "Dativ (du): dir; Akkusativ (das Zimmer): das Zimmer",
-            "a2_p4_ex2_e": "Dativ (ich): mir; Akkusativ (ein Orangensaft): einen Orangensaft",
-            "a2_p4_ex2_f": "Dativ (du): dir; Akkusativ (das Problem): das Problem"
-          },
-          "items": [
-            {
-              "id": "a2_p4_ex2_a",
-              "label": "a)",
-              "prompt": "(ich / der)",
-              "lead": "Du gibst ",
-              "tail": " Schlüssel.",
-              "answer": "mir den",
-              "explanation": "Dativ (ich): mir; Akkusativ (der Schlüssel): den Schlüssel",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex2_b",
-              "label": "b)",
-              "prompt": "(ich / eine)",
-              "lead": "Er erzählt ",
-              "tail": " Geschichte.",
-              "answer": "mir eine",
-              "explanation": "Dativ (ich): mir; Akkusativ (eine Geschichte): eine Geschichte",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex2_c",
-              "label": "c)",
-              "prompt": "(du / ein)",
-              "lead": "Max schickt ",
-              "tail": " Paket.",
-              "answer": "dir ein",
-              "explanation": "Dativ (du): dir; Akkusativ (ein Paket): ein Paket",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex2_d",
-              "label": "d)",
-              "prompt": "(du / das)",
-              "lead": "Ich zeige ",
-              "tail": " Zimmer.",
-              "answer": "dir das",
-              "explanation": "Dativ (du): dir; Akkusativ (das Zimmer): das Zimmer",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex2_e",
-              "label": "e)",
-              "prompt": "(ich / ein)",
-              "lead": "Du bringst ",
-              "tail": " Orangensaft.",
-              "answer": "mir einen",
-              "explanation": "Dativ (ich): mir; Akkusativ (ein Orangensaft): einen Orangensaft",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex2_f",
-              "label": "f)",
-              "prompt": "(du / das)",
-              "lead": "Lena erklärt ",
-              "tail": " Problem.",
-              "answer": "dir das",
-              "explanation": "Dativ (du): dir; Akkusativ (das Problem): das Problem",
-              "isCompact": false
-            }
-          ]
-        },
-        {
-          "id": "a2_p4_ex3",
-          "title": "Übung 3: Zwei Personalpronomen (Akkusativ vor Dativ)",
-          "instruction": "Ersetzen Sie beide Objekte durch Pronomen (Akkusativ vor Dativ).",
-          "wordBox": [
-            "sie dir",
-            "es dir",
-            "sie euch",
-            "es ihr",
-            "ihn ihnen",
-            "sie ihm",
-            "sie ihr",
-            "sie ihnen",
-            "ihn dir"
-          ],
-          "answers": {
-            "a2_p4_ex3_a": "sie dir",
-            "a2_p4_ex3_b": "es dir",
-            "a2_p4_ex3_c": "sie euch",
-            "a2_p4_ex3_d": "es ihr",
-            "a2_p4_ex3_e": "ihn ihnen",
-            "a2_p4_ex3_f": "sie ihm",
-            "a2_p4_ex3_g": "sie dir",
-            "a2_p4_ex3_h": "sie ihr",
-            "a2_p4_ex3_i": "sie ihnen",
-            "a2_p4_ex3_j": "ihn dir"
-          },
-          "explanations": {
-            "a2_p4_ex3_a": "die Übung (f) ➔ sie; mir ➔ dir ➔ sie dir",
-            "a2_p4_ex3_b": "das Bild (n) ➔ es; mir ➔ dir ➔ es dir",
-            "a2_p4_ex3_c": "die Pakete (Pl.) ➔ sie; uns ➔ euch ➔ sie euch",
-            "a2_p4_ex3_d": "das Museum (n) ➔ es; Lena (f) ➔ ihr ➔ es ihr",
-            "a2_p4_ex3_e": "den Weg (m) ➔ ihn; den Touristen (Pl.) ➔ ihnen ➔ ihn ihnen",
-            "a2_p4_ex3_f": "die Geschichte (f) ➔ sie; dem Onkel (m) ➔ ihm ➔ sie ihm",
-            "a2_p4_ex3_g": "die Adresse (f) ➔ sie; mir ➔ dir ➔ sie dir",
-            "a2_p4_ex3_h": "die Blumen (Pl.) ➔ sie; der Tante (f) ➔ ihr ➔ sie ihr",
-            "a2_p4_ex3_i": "deine Hilfe (f) ➔ sie; den Freunden (Pl.) ➔ ihnen ➔ sie ihnen",
-            "a2_p4_ex3_j": "den Wagen (m) ➔ ihn; mir ➔ dir ➔ ihn dir"
-          },
-          "items": [
-            {
-              "id": "a2_p4_ex3_a",
-              "label": "a)",
-              "prompt": "Liest du mir die Übung vor?",
-              "lead": "Ja, ich lese ",
-              "tail": " vor.",
-              "answer": "sie dir",
-              "explanation": "die Übung (f) ➔ sie; mir ➔ dir ➔ sie dir",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_b",
-              "label": "b)",
-              "prompt": "Schenkst du mir das Bild?",
-              "lead": "Ja, ich schenke ",
-              "tail": ".",
-              "answer": "es dir",
-              "explanation": "das Bild (n) ➔ es; mir ➔ dir ➔ es dir",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_c",
-              "label": "c)",
-              "prompt": "Bringst du uns die Pakete mit?",
-              "lead": "Ja, ich bringe ",
-              "tail": " mit.",
-              "answer": "sie euch",
-              "explanation": "die Pakete (Pl.) ➔ sie; uns ➔ euch ➔ sie euch",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_d",
-              "label": "d)",
-              "prompt": "Zeigst du Lena das Museum?",
-              "lead": "Ja, ich zeige ",
-              "tail": ".",
-              "answer": "es ihr",
-              "explanation": "das Museum (n) ➔ es; Lena (f) ➔ ihr ➔ es ihr",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_e",
-              "label": "e)",
-              "prompt": "Erklärst du den Touristen den Weg?",
-              "lead": "Ja, ich erkläre ",
-              "tail": ".",
-              "answer": "ihn ihnen",
-              "explanation": "den Weg (m) ➔ ihn; den Touristen (Pl.) ➔ ihnen ➔ ihn ihnen",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_f",
-              "label": "f)",
-              "prompt": "Erzählst du dem Onkel die Geschichte?",
-              "lead": "Ja, ich erzähle ",
-              "tail": ".",
-              "answer": "sie ihm",
-              "explanation": "die Geschichte (f) ➔ sie; dem Onkel (m) ➔ ihm ➔ sie ihm",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_g",
-              "label": "g)",
-              "prompt": "Schreibst du mir die Adresse auf?",
-              "lead": "Ja, ich schreibe ",
-              "tail": " auf.",
-              "answer": "sie dir",
-              "explanation": "die Adresse (f) ➔ sie; mir ➔ dir ➔ sie dir",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_h",
-              "label": "h)",
-              "prompt": "Schickst du der Tante die Blumen?",
-              "lead": "Ja, ich schicke ",
-              "tail": ".",
-              "answer": "sie ihr",
-              "explanation": "die Blumen (Pl.) ➔ sie; der Tante (f) ➔ ihr ➔ sie ihr",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_i",
-              "label": "i)",
-              "prompt": "Bietest du den Freunden deine Hilfe an?",
-              "lead": "Ja, ich biete ",
-              "tail": " an.",
-              "answer": "sie ihnen",
-              "explanation": "deine Hilfe (f) ➔ sie; den Freunden (Pl.) ➔ ihnen ➔ sie ihnen",
-              "isCompact": false
-            },
-            {
-              "id": "a2_p4_ex3_j",
-              "label": "j)",
-              "prompt": "Verkaufst du mir den Wagen?",
-              "lead": "Ja, ich verkaufe ",
-              "tail": ".",
-              "answer": "ihn dir",
-              "explanation": "den Wagen (m) ➔ ihn; mir ➔ dir ➔ ihn dir",
-              "isCompact": false
-            }
-          ]
-        }
       ]
-    },
+},
     "5": {
-      "lessonTitle": "1.3. Präteritum (Imperfekt) — Modalverben",
+      "lessonTitle": "1.3. Präteritum (Imperfekt) - Modalverben (Seite 5)",
       "exercises": [
         {
           "id": "a2_p5_ex1",
-          "title": "Übung 1: Modalverb im Präteritum einsetzen",
-          "instruction": "Bilden Sie Sätze im Präteritum. Setzen Sie das angegebene Modalverb in der richtigen Form (3. Person Singular) ein.",
-          "wordBox": [
-            "musste",
-            "wollte",
-            "durfte",
-            "konnte",
-            "sollte"
-          ],
+          "title": "Übung 1",
+          "instruction": "Bilden Sie einen Satz mit Modalverb im Präteritum.",
           "answers": {
-            "a2_p5_ex1_a": "musste",
-            "a2_p5_ex1_b": "wollte",
-            "a2_p5_ex1_c": "musste",
-            "a2_p5_ex1_d": "durfte",
-            "a2_p5_ex1_e": "konnte",
-            "a2_p5_ex1_f": "sollte"
+            "a2_p5_ex1_a": "muss",
+            "a2_p5_ex1_b": "will",
+            "a2_p5_ex1_c": "muss",
+            "a2_p5_ex1_d": "darf",
+            "a2_p5_ex1_e": "kann",
+            "a2_p5_ex1_f": "soll"
           },
           "explanations": {
-            "a2_p5_ex1_a": "müssen (3s) ➔ er musste",
-            "a2_p5_ex1_b": "wollen (3s) ➔ er wollte",
-            "a2_p5_ex1_c": "müssen (3s) ➔ er musste",
-            "a2_p5_ex1_d": "dürfen (3s) ➔ er durfte",
-            "a2_p5_ex1_e": "können (3s) ➔ er konnte",
-            "a2_p5_ex1_f": "sollen (3s) ➔ er sollte"
+            "a2_p5_ex1_a": "Modalverb müssen (3s) ➔ muss",
+            "a2_p5_ex1_b": "Modalverb wollen (3s) ➔ will",
+            "a2_p5_ex1_c": "Modalverb müssen (3s) ➔ muss",
+            "a2_p5_ex1_d": "Modalverb dürfen (3s) ➔ darf",
+            "a2_p5_ex1_e": "Modalverb können (3s) ➔ kann",
+            "a2_p5_ex1_f": "Modalverb sollen (3s) ➔ soll"
           },
           "items": [
             {
               "id": "a2_p5_ex1_a",
               "label": "a)",
               "prompt": "müssen",
-              "lead": "Er",
-              "tail": "eine Fahrkarte kaufen.",
-              "answer": "musste",
-              "explanation": "müssen (3s) ➔ er musste",
+              "lead": "- eine Fahrkarte - kaufen",
+              "tail": "",
+              "answer": "muss",
+              "explanation": "Modalverb müssen (3s) ➔ muss",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex1_b",
               "label": "b)",
               "prompt": "wollen",
-              "lead": "Er",
-              "tail": "einen Platz reservieren.",
-              "answer": "wollte",
-              "explanation": "wollen (3s) ➔ er wollte",
+              "lead": "- ein Platz - reservieren",
+              "tail": "",
+              "answer": "will",
+              "explanation": "Modalverb wollen (3s) ➔ will",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex1_c",
               "label": "c)",
               "prompt": "müssen",
-              "lead": "Er",
-              "tail": "in Nürnberg umsteigen.",
-              "answer": "musste",
-              "explanation": "müssen (3s) ➔ er musste",
+              "lead": "- in Nürnberg - umsteigen",
+              "tail": "",
+              "answer": "muss",
+              "explanation": "Modalverb müssen (3s) ➔ muss",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex1_d",
               "label": "d)",
               "prompt": "dürfen",
-              "lead": "Er",
-              "tail": "nicht zu spät ankommen.",
-              "answer": "durfte",
-              "explanation": "dürfen (3s) ➔ er durfte",
+              "lead": "- nicht - zu spät ankommen",
+              "tail": "",
+              "answer": "darf",
+              "explanation": "Modalverb dürfen (3s) ➔ darf",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex1_e",
               "label": "e)",
               "prompt": "können",
-              "lead": "Er",
-              "tail": "seinen Freund besuchen.",
-              "answer": "konnte",
-              "explanation": "können (3s) ➔ er konnte",
+              "lead": "- sein Freund - besuchen",
+              "tail": "",
+              "answer": "kann",
+              "explanation": "Modalverb können (3s) ➔ kann",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex1_f",
               "label": "f)",
               "prompt": "sollen",
-              "lead": "Er",
-              "tail": "ein Paket mitnehmen.",
-              "answer": "sollte",
-              "explanation": "sollen (3s) ➔ er sollte",
+              "lead": "- ein Paket - mitnehmen",
+              "tail": "",
+              "answer": "soll",
+              "explanation": "Modalverb sollen (3s) ➔ soll",
               "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p5_ex2",
-          "title": "Übung 2: Sätze ins Präteritum umformen",
-          "instruction": "Formen Sie die Aussagen ins Präteritum um. Achten Sie auf die richtige Personalform des Modalverbs.",
-          "wordBox": [
-            "wollte",
-            "konnte",
-            "musstest",
-            "konnten",
-            "solltet",
-            "musste",
-            "wolltest",
-            "sollte",
-            "durftest",
-            "wollten",
-            "mussten",
-            "musstet"
-          ],
+          "title": "Übung 2",
+          "instruction": "Bilden Sie einen Satz mit Modalverb im Präteritum.",
           "answers": {
-            "a2_p5_ex2_a": "wollte",
-            "a2_p5_ex2_b": "konnte",
-            "a2_p5_ex2_c": "musstest",
-            "a2_p5_ex2_d": "konnten",
-            "a2_p5_ex2_e": "solltet",
-            "a2_p5_ex2_f": "musste",
-            "a2_p5_ex2_g": "wolltest",
-            "a2_p5_ex2_h": "sollte",
-            "a2_p5_ex2_i": "durftest",
-            "a2_p5_ex2_j": "konnte",
-            "a2_p5_ex2_k": "wollten",
-            "a2_p5_ex2_l": "musstest",
-            "a2_p5_ex2_m": "konnte",
-            "a2_p5_ex2_n": "mussten",
-            "a2_p5_ex2_o": "musstet",
-            "a2_p5_ex2_p": "wollte"
+            "a2_p5_ex2_a": "—",
+            "a2_p5_ex2_b": "—",
+            "a2_p5_ex2_c": "—",
+            "a2_p5_ex2_d": "—",
+            "a2_p5_ex2_e": "—",
+            "a2_p5_ex2_f": "—",
+            "a2_p5_ex2_g": "—",
+            "a2_p5_ex2_h": "—",
+            "a2_p5_ex2_i": "—",
+            "a2_p5_ex2_j": "—",
+            "a2_p5_ex2_k": "—",
+            "a2_p5_ex2_l": "—",
+            "a2_p5_ex2_m": "—",
+            "a2_p5_ex2_n": "—",
+            "a2_p5_ex2_o": "—",
+            "a2_p5_ex2_p": "—"
           },
           "explanations": {
-            "a2_p5_ex2_a": "Präsens „will“ ➔ Präteritum 1s: wollte",
-            "a2_p5_ex2_b": "Präsens „kann“ ➔ Präteritum 1s: konnte",
-            "a2_p5_ex2_c": "Präsens „musst“ ➔ Präteritum 2s: musstest",
-            "a2_p5_ex2_d": "Präsens „können“ ➔ Präteritum 1p: konnten",
-            "a2_p5_ex2_e": "Präsens „sollt“ ➔ Präteritum 2p: solltet",
-            "a2_p5_ex2_f": "Präsens „muss“ ➔ Präteritum 1s: musste",
-            "a2_p5_ex2_g": "Präsens „willst“ ➔ Präteritum 2s: wolltest",
-            "a2_p5_ex2_h": "Präsens „soll“ ➔ Präteritum 3s: sollte",
-            "a2_p5_ex2_i": "Präsens „darfst“ ➔ Präteritum 2s: durftest",
-            "a2_p5_ex2_j": "Präsens „kann“ ➔ Präteritum 1s: konnte",
-            "a2_p5_ex2_k": "Präsens „wollen“ ➔ Präteritum 1p: wollten",
-            "a2_p5_ex2_l": "Präsens „musst“ ➔ Präteritum 2s: musstest",
-            "a2_p5_ex2_m": "Präsens „kann“ ➔ Präteritum 1s: konnte",
-            "a2_p5_ex2_n": "Präsens „müssen“ ➔ Präteritum 1p: mussten",
-            "a2_p5_ex2_o": "Präsens „müsst“ ➔ Präteritum 2p: musstet",
-            "a2_p5_ex2_p": "Präsens „will“ ➔ Präteritum 1s: wollte"
+            "a2_p5_ex2_a": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_b": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_c": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_d": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_e": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_f": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_g": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_h": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_i": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_j": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_k": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_l": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_m": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_n": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_o": "Vollständiger Beispielsatz",
+            "a2_p5_ex2_p": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p5_ex2_a",
               "label": "a)",
-              "prompt": "Am Wochenende will ich ins Kino gehen.",
-              "lead": "Am Wochenende",
-              "tail": "ich ins Kino gehen.",
-              "answer": "wollte",
-              "explanation": "Präsens „will“ ➔ Präteritum 1s: wollte",
+              "prompt": "",
+              "lead": "Am Wochenende will ich ins Kino gehen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_b",
               "label": "b)",
-              "prompt": "Leider kann ich nicht mitkommen.",
-              "lead": "Leider",
-              "tail": "ich nicht mitkommen.",
-              "answer": "konnte",
-              "explanation": "Präsens „kann“ ➔ Präteritum 1s: konnte",
+              "prompt": "",
+              "lead": "Leider kann ich nicht mitkommen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_c",
               "label": "c)",
-              "prompt": "Du musst am Samstag arbeiten.",
-              "lead": "Du",
-              "tail": "am Samstag arbeiten.",
-              "answer": "musstest",
-              "explanation": "Präsens „musst“ ➔ Präteritum 2s: musstest",
+              "prompt": "",
+              "lead": "Du musst am Samstag arbeiten.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_d",
               "label": "d)",
-              "prompt": "Wir können das Problem lösen.",
-              "lead": "Wir",
-              "tail": "das Problem lösen.",
-              "answer": "konnten",
-              "explanation": "Präsens „können“ ➔ Präteritum 1p: konnten",
+              "prompt": "",
+              "lead": "Wir können das Problem lösen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_e",
               "label": "e)",
-              "prompt": "Ihr sollt den Chef anrufen.",
-              "lead": "Ihr",
-              "tail": "den Chef anrufen.",
-              "answer": "solltet",
-              "explanation": "Präsens „sollt“ ➔ Präteritum 2p: solltet",
+              "prompt": "",
+              "lead": "Ihr sollt den Chef anrufen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_f",
               "label": "f)",
-              "prompt": "Ich muss das Paket abholen.",
-              "lead": "Ich",
-              "tail": "das Paket abholen.",
-              "answer": "musste",
-              "explanation": "Präsens „muss“ ➔ Präteritum 1s: musste",
+              "prompt": "",
+              "lead": "Ich muss das Paket abholen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_g",
               "label": "g)",
-              "prompt": "Du willst deine Freunde einladen.",
-              "lead": "Du",
-              "tail": "deine Freunde einladen.",
-              "answer": "wolltest",
-              "explanation": "Präsens „willst“ ➔ Präteritum 2s: wolltest",
+              "prompt": "",
+              "lead": "Du willst deine Freunde einladen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_h",
               "label": "h)",
-              "prompt": "Max soll bei der Firma anrufen.",
-              "lead": "Max",
-              "tail": "bei der Firma anrufen.",
-              "answer": "sollte",
-              "explanation": "Präsens „soll“ ➔ Präteritum 3s: sollte",
+              "prompt": "",
+              "lead": "Max soll bei der Firma anrufen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_i",
               "label": "i)",
-              "prompt": "Du darfst den Zettel nicht zerreißen.",
-              "lead": "Du",
-              "tail": "den Zettel nicht zerreißen.",
-              "answer": "durftest",
-              "explanation": "Präsens „darfst“ ➔ Präteritum 2s: durftest",
+              "prompt": "",
+              "lead": "Du darfst den Zettel nicht zerreißen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_j",
               "label": "j)",
-              "prompt": "Ich kann das Fahrrad nicht reparieren.",
-              "lead": "Ich",
-              "tail": "das Fahrrad nicht reparieren.",
-              "answer": "konnte",
-              "explanation": "Präsens „kann“ ➔ Präteritum 1s: konnte",
+              "prompt": "",
+              "lead": "Ich kann das Fahrrad nicht reparieren.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_k",
               "label": "k)",
-              "prompt": "Wir wollen das Museum besichtigen.",
-              "lead": "Wir",
-              "tail": "das Museum besichtigen.",
-              "answer": "wollten",
-              "explanation": "Präsens „wollen“ ➔ Präteritum 1p: wollten",
+              "prompt": "",
+              "lead": "Wir wollen das Museum besichtigen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_l",
               "label": "l)",
-              "prompt": "Du musst den Mülleimer ausleeren.",
-              "lead": "Du",
-              "tail": "den Mülleimer ausleeren.",
-              "answer": "musstest",
-              "explanation": "Präsens „musst“ ➔ Präteritum 2s: musstest",
+              "prompt": "",
+              "lead": "Du musst den Mülleimer ausleeren.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_m",
               "label": "m)",
-              "prompt": "Ich kann nicht gut schwimmen.",
-              "lead": "Ich",
-              "tail": "nicht gut schwimmen.",
-              "answer": "konnte",
-              "explanation": "Präsens „kann“ ➔ Präteritum 1s: konnte",
+              "prompt": "",
+              "lead": "Ich kann nicht gut schwimmen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_n",
               "label": "n)",
-              "prompt": "Wir müssen die Rechnung bezahlen.",
-              "lead": "Wir",
-              "tail": "die Rechnung bezahlen.",
-              "answer": "mussten",
-              "explanation": "Präsens „müssen“ ➔ Präteritum 1p: mussten",
+              "prompt": "",
+              "lead": "Wir müssen die Rechnung bezahlen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_o",
               "label": "o)",
-              "prompt": "Ihr müsst die U-Bahn nehmen.",
-              "lead": "Ihr",
-              "tail": "die U-Bahn nehmen.",
-              "answer": "musstet",
-              "explanation": "Präsens „müsst“ ➔ Präteritum 2p: musstet",
+              "prompt": "",
+              "lead": "Ihr müsst die U-Bahn nehmen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p5_ex2_p",
               "label": "p)",
-              "prompt": "Ich will die Nachrichten sehen.",
-              "lead": "Ich",
-              "tail": "die Nachrichten sehen.",
-              "answer": "wollte",
-              "explanation": "Präsens „will“ ➔ Präteritum 1s: wollte",
+              "prompt": "",
+              "lead": "Ich will die Nachrichten sehen.",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p5_ex3",
-          "title": "Übung 3: Modalverb im Präteritum mit Dativ- und Akkusativobjekt",
-          "instruction": "Setzen Sie die beiden Objekte (Dativ: Person vor Akkusativ: Sache) in der richtigen Form in die Satzklammer ein.",
-          "wordBox": [
-            "meinem Bruder ein Buch",
-            "meinem Onkel eine Karte",
-            "meinen Freunden die Stadt",
-            "meiner Kollegin das Problem",
-            "meiner Schwester den Schlüssel",
-            "meinem Freund nichts",
-            "meiner Kollegin das Buch",
-            "meiner Tante meine Hilfe",
-            "meinen Kollegen den Text",
-            "meinem Freund das Restaurant"
-          ],
+          "title": "Übung 3",
+          "instruction": "Bilden Sie einen Satz mit Modalverb im Präteritum und mit Dativ- und Akkusativobjekt.",
           "answers": {
-            "a2_p5_ex3_a": "meinem Bruder ein Buch",
-            "a2_p5_ex3_b": "meinem Onkel eine Karte",
-            "a2_p5_ex3_c": "meinen Freunden die Stadt",
-            "a2_p5_ex3_d": "meiner Kollegin das Problem",
-            "a2_p5_ex3_e": "meiner Schwester den Schlüssel",
-            "a2_p5_ex3_f": "meinem Freund nichts",
-            "a2_p5_ex3_g": "meiner Kollegin das Buch",
-            "a2_p5_ex3_h": "meiner Tante meine Hilfe",
-            "a2_p5_ex3_i": "meinen Kollegen den Text",
-            "a2_p5_ex3_j": "meinem Freund das Restaurant"
+            "a2_p5_ex3_a": "das",
+            "a2_p5_ex3_b": "—",
+            "a2_p5_ex3_c": "—",
+            "a2_p5_ex3_d": "—",
+            "a2_p5_ex3_e": "—",
+            "a2_p5_ex3_f": "—",
+            "a2_p5_ex3_g": "das",
+            "a2_p5_ex3_h": "—",
+            "a2_p5_ex3_i": "—",
+            "a2_p5_ex3_j": "—"
           },
           "explanations": {
-            "a2_p5_ex3_a": "Dativ maskulin (meinem Bruder) + Akkusativ neutral (ein Buch)",
-            "a2_p5_ex3_b": "Dativ maskulin (meinem Onkel) + Akkusativ feminin (eine Karte)",
-            "a2_p5_ex3_c": "Dativ Plural (meinen Freunden) + Akkusativ feminin (die Stadt)",
-            "a2_p5_ex3_d": "Dativ feminin (meiner Kollegin) + Akkusativ neutral (das Problem)",
-            "a2_p5_ex3_e": "Dativ feminin (meiner Schwester) + Akkusativ maskulin (den Schlüssel)",
-            "a2_p5_ex3_f": "Dativ maskulin (meinem Freund) + Indefinitpronomen (nichts)",
-            "a2_p5_ex3_g": "Dativ feminin (meiner Kollegin) + Akkusativ neutral (das Buch)",
-            "a2_p5_ex3_h": "Dativ feminin (meiner Tante) + Akkusativ feminin (meine Hilfe)",
-            "a2_p5_ex3_i": "Dativ Plural (meinen Kollegen) + Akkusativ maskulin (den Text)",
-            "a2_p5_ex3_j": "Dativ maskulin (meinem Freund) + Akkusativ neutral (das Restaurant)"
+            "a2_p5_ex3_a": "Neutral ➔ das",
+            "a2_p5_ex3_b": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_c": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_d": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_e": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_f": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_g": "Neutral ➔ das",
+            "a2_p5_ex3_h": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_i": "Vollständiger Beispielsatz",
+            "a2_p5_ex3_j": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p5_ex3_a",
               "label": "a)",
-              "prompt": "wollen · mein Bruder · ein Buch · schenken",
-              "lead": "Ich wollte",
-              "tail": "schenken.",
-              "answer": "meinem Bruder ein Buch",
-              "explanation": "Dativ maskulin (meinem Bruder) + Akkusativ neutral (ein Buch)",
-              "isCompact": false
+              "prompt": "schenken",
+              "lead": "- wollen - mein Bruder - ein Buch",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_b",
               "label": "b)",
-              "prompt": "sollen · mein Onkel · eine Karte · schreiben",
-              "lead": "Ich sollte",
-              "tail": "schreiben.",
-              "answer": "meinem Onkel eine Karte",
-              "explanation": "Dativ maskulin (meinem Onkel) + Akkusativ feminin (eine Karte)",
-              "isCompact": false
+              "prompt": "schreiben",
+              "lead": "- sollen - mein Onkel - eine Karte",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_c",
               "label": "c)",
-              "prompt": "können · meine Freunde · die Stadt · zeigen",
-              "lead": "Ich konnte",
-              "tail": "zeigen.",
-              "answer": "meinen Freunden die Stadt",
-              "explanation": "Dativ Plural (meinen Freunden) + Akkusativ feminin (die Stadt)",
-              "isCompact": false
+              "prompt": "zeigen",
+              "lead": "- können - meine Freunde - die Stadt",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_d",
               "label": "d)",
-              "prompt": "müssen · meine Kollegin · das Problem · erklären",
-              "lead": "Ich musste",
-              "tail": "erklären.",
-              "answer": "meiner Kollegin das Problem",
-              "explanation": "Dativ feminin (meiner Kollegin) + Akkusativ neutral (das Problem)",
-              "isCompact": false
+              "prompt": "erklären",
+              "lead": "- müssen - meine Kollegin - das Problem",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_e",
               "label": "e)",
-              "prompt": "sollen · meine Schwester · der Schlüssel · geben",
-              "lead": "Ich sollte",
-              "tail": "geben.",
-              "answer": "meiner Schwester den Schlüssel",
-              "explanation": "Dativ feminin (meiner Schwester) + Akkusativ maskulin (den Schlüssel)",
-              "isCompact": false
+              "prompt": "geben",
+              "lead": "- sollen - meine Schwester - der Schlüssel",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_f",
               "label": "f)",
-              "prompt": "dürfen · mein Freund · nichts · erzählen",
-              "lead": "Ich durfte",
-              "tail": "erzählen.",
-              "answer": "meinem Freund nichts",
-              "explanation": "Dativ maskulin (meinem Freund) + Indefinitpronomen (nichts)",
-              "isCompact": false
+              "prompt": "erzählen",
+              "lead": "- dürfen - mein Freund - nichts",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_g",
               "label": "g)",
-              "prompt": "wollen · meine Kollegin · das Buch · zurückgeben",
-              "lead": "Ich wollte",
-              "tail": "zurückgeben.",
-              "answer": "meiner Kollegin das Buch",
-              "explanation": "Dativ feminin (meiner Kollegin) + Akkusativ neutral (das Buch)",
-              "isCompact": false
+              "prompt": "zurückgeben",
+              "lead": "- wollen - meine Kollegin - das Buch",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_h",
               "label": "h)",
-              "prompt": "sollen · meine Tante · meine Hilfe · anbieten",
-              "lead": "Ich sollte",
-              "tail": "anbieten.",
-              "answer": "meiner Tante meine Hilfe",
-              "explanation": "Dativ feminin (meiner Tante) + Akkusativ feminin (meine Hilfe)",
-              "isCompact": false
+              "prompt": "anbieten",
+              "lead": "- sollen - meine Tante - meine Hilfe",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_i",
               "label": "i)",
-              "prompt": "können · meine Kollegen · der Text · vorlesen",
-              "lead": "Ich konnte",
-              "tail": "vorlesen.",
-              "answer": "meinen Kollegen den Text",
-              "explanation": "Dativ Plural (meinen Kollegen) + Akkusativ maskulin (den Text)",
-              "isCompact": false
+              "prompt": "vorlesen",
+              "lead": "- können - meine Kollegen - der Text",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p5_ex3_j",
               "label": "j)",
-              "prompt": "können · mein Freund · das Restaurant · empfehlen",
-              "lead": "Ich konnte",
-              "tail": "empfehlen.",
-              "answer": "meinem Freund das Restaurant",
-              "explanation": "Dativ maskulin (meinem Freund) + Akkusativ neutral (das Restaurant)",
-              "isCompact": false
+              "prompt": "empfehlen",
+              "lead": "- können - mein Freund - das Restaurant",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             }
           ]
         }
       ],
-      "grammarSummary": "### 📌 Unterricht & Grammatik-Fokus: Präteritum der Modalverben\n\nIm gesprochenen Deutsch verwenden wir für die Vergangenheit meistens das **Perfekt** (*„Ich habe gegessen“*). Bei den **Modalverben** (*können, müssen, dürfen, wollen, sollen, mögen*) verwendet man jedoch fast ausnahmslos das **Präteritum** — auch in der Alltagssprache!\n\n#### 1. Die zwei goldenen Regeln der Modalverben im Präteritum\n1. **Kein Umlaut**: Alle Umlaute fallen im Präteritum weg! (*können ➔ konnte*, *müssen ➔ musste*, *dürfen ➔ durfte*).\n2. **1. und 3. Person Singular sind immer identisch**: *ich konnte = er/sie/es konnte*; *ich musste = er/sie/es musste*. Es gibt keine Endung *-t* in der 3. Person!\n3. **Sonderfall „möchte“**: Die Höflichkeitsform *möchte* (Konjunktiv II) hat **kein eigenes Präteritum**. In der Vergangenheit verwendet man immer **wollte** (*„Ich möchte einen Kaffee“ ➔ „Ich wollte einen Kaffee“*).\n\n#### 2. Konjugationstabelle der Modalverben im Präteritum\n| Person | wollen | können | müssen | dürfen | sollen | mögen |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **ich** | wollte | konnte | musste | durfte | sollte | mochte |\n| **du** | wolltest | konntest | musstest | durftest | solltest | mochtest |\n| **er / sie / es** | **wollte** | **konnte** | **musste** | **durfte** | **sollte** | **mochte** |\n| **wir** | wollten | konnten | mussten | durften | sollten | mochten |\n| **ihr** | wolltet | konntet | musstet | durftet | solltet | mochtet |\n| **sie / Sie** | wollten | konnten | mussten | durften | sollten | mochten |\n\n#### 3. Satzklammer im Präteritum\nDas konjugierte Modalverb steht auf **Position 2**, das Vollverb steht im **Infinitiv am Satzende**:\n* *„Gestern **musste** (Pos. 2) ich bis 20 Uhr im Büro **arbeiten** (Satzende).“*\n* *„Ich **wollte** (Pos. 2) meiner Schwester ein Buch **schenken** (Satzende).“*\n\n#### 🇬🇧 English Cognitive Bridge\n* German modal verbs in the past tense correspond cleanly to English equivalents: *konnte* = *could / was able to*, *musste* = *had to*, *durfte* = *was allowed to*, *wollte* = *wanted to*, *sollte* = *was supposed to / should have*.\n* Notice that while German uses the Perfekt (*haben/sein + Partizip II*) for almost all standard verbs in daily conversation, native speakers **almost exclusively use the Präteritum for modal verbs** because forms like *„ich habe gekonnt / ich habe gemusst“* sound clumsy and archaic."
+      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• 1.3. Präteritum (Imperfekt) - Modalverben\n• wollen\n• ich wo l lte\n• du wo l ltest\n• er / sie / es wo l lte\n• wir wo l lten\n• ihr wo l ltet\n• sie / Sie wo l lten\n• ich will (möchte) ➔ ich wollte\n• ich mag ➔ ich mochte\n• ich kann ➔ ich konnte\n• ich muss ➔ ich musste\n• ich soll ➔ ich sollte\n• ich darf ➔ ich durfte"
     },
     "6": {
-      "lessonTitle": "2.1. Genitiv — Nomen und Artikel",
+      "lessonTitle": "Lektion 2 (Seite 6)",
       "exercises": [
         {
           "id": "a2_p6_ex1",
-          "title": "Übung 1: Genitiv im Satz bilden",
-          "instruction": "Bilden Sie Sätze mit Genitiv. Achten Sie auf die richtige Artikel- und Nomenendung (-(e)s bei Maskulinum und Neutrum) bzw. den Genitiv bei Eigennamen.",
-          "wordBox": [
-            "des Flusses",
-            "der Studentin",
-            "der Geschichte",
-            "des Schulkindes",
-            "des Professors",
-            "der Gäste",
-            "Evas",
-            "des Bio-Marktes",
-            "des Problems"
-          ],
+          "title": "Übung 1",
+          "instruction": "Bilden Sie einen Satz mit Genitiv.",
           "answers": {
-            "a2_p6_ex1_a": "des Flusses",
-            "a2_p6_ex1_b": "der Studentin",
-            "a2_p6_ex1_c": "der Geschichte",
-            "a2_p6_ex1_d": "des Schulkindes",
-            "a2_p6_ex1_e": "des Professors",
-            "a2_p6_ex1_f": "der Gäste",
-            "a2_p6_ex1_g": "Evas",
-            "a2_p6_ex1_h": "des Bio-Marktes",
-            "a2_p6_ex1_i": "des Problems"
+            "a2_p6_ex1_a": "—",
+            "a2_p6_ex1_b": "—",
+            "a2_p6_ex1_c": "—",
+            "a2_p6_ex1_d": "das",
+            "a2_p6_ex1_e": "—",
+            "a2_p6_ex1_f": "—",
+            "a2_p6_ex1_g": "—",
+            "a2_p6_ex1_h": "—",
+            "a2_p6_ex1_i": "—"
           },
           "explanations": {
-            "a2_p6_ex1_a": "Maskulin Genitiv: des + Fluss + -es (Zischlaut -ss) ➔ des Flusses",
-            "a2_p6_ex1_b": "Feminin Genitiv: der Studentin (keine Endung am Nomen)",
-            "a2_p6_ex1_c": "Feminin Genitiv: der Geschichte (keine Endung am Nomen)",
-            "a2_p6_ex1_d": "Neutral Genitiv: des + Schulkind + -es ➔ des Schulkindes",
-            "a2_p6_ex1_e": "Maskulin Genitiv: des + Professor + -s ➔ des Professors",
-            "a2_p6_ex1_f": "Plural Genitiv: der Gäste (keine Endung am Nomen)",
-            "a2_p6_ex1_g": "Eigenname vor dem Nomen: Eva + -s ➔ Evas Waschmaschine",
-            "a2_p6_ex1_h": "Maskulin Genitiv: des + Bio-Markt + -es ➔ des Bio-Marktes",
-            "a2_p6_ex1_i": "Neutral Genitiv: des + Problem + -s ➔ des Problems"
+            "a2_p6_ex1_a": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_b": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_c": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_d": "Neutral ➔ das",
+            "a2_p6_ex1_e": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_f": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_g": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_h": "Vollständiger Beispielsatz",
+            "a2_p6_ex1_i": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p6_ex1_a",
               "label": "a)",
-              "prompt": "der Fluss",
-              "lead": "Das Wasser",
-              "tail": "ist schmutzig.",
-              "answer": "des Flusses",
-              "explanation": "Maskulin Genitiv: des + Fluss + -es ➔ des Flusses",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Wasser - Fluss - schmutzig",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_b",
               "label": "b)",
-              "prompt": "die Studentin",
-              "lead": "Das Apartment",
-              "tail": "ist klein.",
-              "answer": "der Studentin",
-              "explanation": "Feminin Genitiv: der Studentin",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Apartment - Studentin - klein",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_c",
               "label": "c)",
-              "prompt": "die Geschichte",
-              "lead": "Das Ende",
-              "tail": "ist traurig.",
-              "answer": "der Geschichte",
-              "explanation": "Feminin Genitiv: der Geschichte",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Ende - Geschichte - traurig",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_d",
               "label": "d)",
-              "prompt": "das Schulkind",
-              "lead": "Die Eltern",
-              "tail": "sind krank.",
-              "answer": "des Schulkindes",
-              "alternatives": [
-                "des Schulkinds"
-              ],
-              "explanation": "Neutral Genitiv: des + Schulkind + -es ➔ des Schulkindes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Eltern - Schulkind - krank",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_e",
               "label": "e)",
-              "prompt": "der Professor",
-              "lead": "Der Garten",
-              "tail": "ist groß.",
-              "answer": "des Professors",
-              "explanation": "Maskulin Genitiv: des + Professor + -s ➔ des Professors",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Garten - Professor - groß",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_f",
               "label": "f)",
-              "prompt": "die Gäste (Pl.)",
-              "lead": "Das Gepäck",
-              "tail": "ist schwer.",
-              "answer": "der Gäste",
-              "explanation": "Plural Genitiv: der Gäste",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Gepäck - Gäste - schwer",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_g",
               "label": "g)",
-              "prompt": "Eva (Eigenname)",
-              "lead": "",
-              "tail": "Waschmaschine ist kaputt.",
-              "answer": "Evas",
-              "explanation": "Eigenname vor dem Nomen mit -s: Evas Waschmaschine",
+              "prompt": "",
+              "lead": "Waschmaschine - Eva - kaputt",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p6_ex1_h",
               "label": "h)",
-              "prompt": "der Bio-Markt",
-              "lead": "Die Preise",
-              "tail": "sind hoch.",
-              "answer": "des Bio-Marktes",
-              "alternatives": [
-                "des Bio-Markts"
-              ],
-              "explanation": "Maskulin Genitiv: des + Bio-Markt + -es ➔ des Bio-Marktes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Preise - Bio-Markt - hoch",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex1_i",
               "label": "i)",
-              "prompt": "das Problem",
-              "lead": "Die Lösung",
-              "tail": "ist schwierig.",
-              "answer": "des Problems",
-              "explanation": "Neutral Genitiv: des + Problem + -s ➔ des Problems",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Lösung - Problem - schwierig",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p6_ex2",
-          "title": "Übung 2: Genitiv mit bestimmtem Artikel",
-          "instruction": "Ergänzen Sie den Genitiv des angegebenen Nomens mit dem bestimmten Artikel (des / der).",
-          "wordBox": [
-            "der Bank",
-            "des Romans",
-            "des Liedes",
-            "des Ministers",
-            "der Stadt",
-            "der Studentin",
-            "des Landes",
-            "der Vorlesung",
-            "der Nachbarin"
-          ],
+          "title": "Übung 2",
+          "instruction": "",
           "answers": {
-            "a2_p6_ex2_a": "der Bank",
-            "a2_p6_ex2_b": "des Romans",
-            "a2_p6_ex2_c": "des Liedes",
-            "a2_p6_ex2_d": "des Ministers",
-            "a2_p6_ex2_e": "der Stadt",
-            "a2_p6_ex2_f": "der Studentin",
-            "a2_p6_ex2_g": "des Landes",
-            "a2_p6_ex2_h": "der Vorlesung",
-            "a2_p6_ex2_i": "der Nachbarin"
+            "a2_p6_ex2_a": "—",
+            "a2_p6_ex2_b": "das",
+            "a2_p6_ex2_c": "—",
+            "a2_p6_ex2_d": "die",
+            "a2_p6_ex2_e": "—",
+            "a2_p6_ex2_f": "—",
+            "a2_p6_ex2_g": "—",
+            "a2_p6_ex2_h": "—",
+            "a2_p6_ex2_i": "—"
           },
           "explanations": {
-            "a2_p6_ex2_a": "die Bank (f) ➔ Genitiv: der Bank",
-            "a2_p6_ex2_b": "der Roman (m) ➔ Genitiv: des Romans",
-            "a2_p6_ex2_c": "das Lied (n) ➔ Genitiv: des Liedes",
-            "a2_p6_ex2_d": "der Minister (m) ➔ Genitiv: des Ministers",
-            "a2_p6_ex2_e": "die Stadt (f) ➔ Genitiv: der Stadt",
-            "a2_p6_ex2_f": "die Studentin (f) ➔ Genitiv: der Studentin",
-            "a2_p6_ex2_g": "das Land (n) ➔ Genitiv: des Landes",
-            "a2_p6_ex2_h": "die Vorlesung (f) ➔ Genitiv: der Vorlesung",
-            "a2_p6_ex2_i": "die Nachbarin (f) ➔ Genitiv: der Nachbarin"
+            "a2_p6_ex2_a": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_b": "Neutral ➔ das",
+            "a2_p6_ex2_c": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_d": "Feminin ➔ die",
+            "a2_p6_ex2_e": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_f": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_g": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_h": "Vollständiger Beispielsatz",
+            "a2_p6_ex2_i": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p6_ex2_a",
               "label": "a)",
-              "prompt": "die Bank",
-              "lead": "Kennst du die Direktorin",
-              "tail": "?",
-              "answer": "der Bank",
-              "explanation": "die Bank (f) ➔ Genitiv: der Bank",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Direktorin - Bank",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_b",
               "label": "b)",
-              "prompt": "der Roman",
-              "lead": "Kennst du den Autor",
-              "tail": "?",
-              "answer": "des Romans",
-              "explanation": "der Roman (m) ➔ Genitiv: des Romans",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Autor - Roman",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_c",
               "label": "c)",
-              "prompt": "das Lied",
-              "lead": "Kennst du den Text",
-              "tail": "?",
-              "answer": "des Liedes",
-              "alternatives": [
-                "des Lieds"
-              ],
-              "explanation": "das Lied (n) ➔ Genitiv: des Liedes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Text - Lied",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_d",
               "label": "d)",
-              "prompt": "der Minister",
-              "lead": "Kennst du die Frau",
-              "tail": "?",
-              "answer": "des Ministers",
-              "explanation": "der Minister (m) ➔ Genitiv: des Ministers",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Frau - Minister",
+              "tail": "",
+              "answer": "die",
+              "explanation": "Feminin ➔ die",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_e",
               "label": "e)",
-              "prompt": "die Stadt",
-              "lead": "Kennst du das Zentrum",
-              "tail": "?",
-              "answer": "der Stadt",
-              "explanation": "die Stadt (f) ➔ Genitiv: der Stadt",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Zentrum - Stadt",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_f",
               "label": "f)",
-              "prompt": "die Studentin",
-              "lead": "Kennst du den Vater",
-              "tail": "?",
-              "answer": "der Studentin",
-              "explanation": "die Studentin (f) ➔ Genitiv: der Studentin",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Vater - Studentin",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_g",
               "label": "g)",
-              "prompt": "das Land",
-              "lead": "Kennst du die Hauptstadt",
-              "tail": "?",
-              "answer": "des Landes",
-              "explanation": "das Land (n) ➔ Genitiv: des Landes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Hauptstadt - Land",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_h",
               "label": "h)",
-              "prompt": "die Vorlesung",
-              "lead": "Kennst du das Thema",
-              "tail": "?",
-              "answer": "der Vorlesung",
-              "explanation": "die Vorlesung (f) ➔ Genitiv: der Vorlesung",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Thema - Vorlesung",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex2_i",
               "label": "i)",
-              "prompt": "die Nachbarin",
-              "lead": "Kennst du den Sohn",
-              "tail": "?",
-              "answer": "der Nachbarin",
-              "explanation": "die Nachbarin (f) ➔ Genitiv: der Nachbarin",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Sohn - Nachbarin",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p6_ex3",
-          "title": "Übung 3: Possessivartikel im Genitiv (Wessen ...?)",
-          "instruction": "Beantworten Sie die Frage nach dem Besitzer (Wessen ...?) mit dem passenden Possessivartikel im Genitiv.",
-          "wordBox": [
-            "seines Vaters",
-            "unserer Tante",
-            "ihres Großvaters",
-            "eurer Gäste",
-            "ihrer Tochter",
-            "meines Freundes",
-            "deines Onkels",
-            "meiner Kollegin",
-            "seines Sohnes"
-          ],
+          "title": "Übung 3",
+          "instruction": "",
           "answers": {
-            "a2_p6_ex3_a": "seines Vaters",
-            "a2_p6_ex3_b": "unserer Tante",
-            "a2_p6_ex3_c": "ihres Großvaters",
-            "a2_p6_ex3_d": "eurer Gäste",
-            "a2_p6_ex3_e": "ihrer Tochter",
-            "a2_p6_ex3_f": "meines Freundes",
-            "a2_p6_ex3_g": "deines Onkels",
-            "a2_p6_ex3_h": "meiner Kollegin",
-            "a2_p6_ex3_i": "seines Sohnes"
+            "a2_p6_ex3_a": "—",
+            "a2_p6_ex3_b": "—",
+            "a2_p6_ex3_c": "—",
+            "a2_p6_ex3_d": "—",
+            "a2_p6_ex3_e": "—",
+            "a2_p6_ex3_f": "—",
+            "a2_p6_ex3_g": "—",
+            "a2_p6_ex3_h": "das",
+            "a2_p6_ex3_i": "—"
           },
           "explanations": {
-            "a2_p6_ex3_a": "sein Vater (m) ➔ Genitiv: seines Vaters",
-            "a2_p6_ex3_b": "unsere Tante (f) ➔ Genitiv: unserer Tante",
-            "a2_p6_ex3_c": "ihr Großvater (m) ➔ Genitiv: ihres Großvaters",
-            "a2_p6_ex3_d": "eure Gäste (Pl.) ➔ Genitiv: eurer Gäste",
-            "a2_p6_ex3_e": "ihre Tochter (f) ➔ Genitiv: ihrer Tochter",
-            "a2_p6_ex3_f": "mein Freund (m) ➔ Genitiv: meines Freundes",
-            "a2_p6_ex3_g": "dein Onkel (m) ➔ Genitiv: deines Onkels",
-            "a2_p6_ex3_h": "meine Kollegin (f) ➔ Genitiv: meiner Kollegin",
-            "a2_p6_ex3_i": "sein Sohn (m) ➔ Genitiv: seines Sohnes"
+            "a2_p6_ex3_a": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_b": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_c": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_d": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_e": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_f": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_g": "Vollständiger Beispielsatz",
+            "a2_p6_ex3_h": "Neutral ➔ das",
+            "a2_p6_ex3_i": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p6_ex3_a",
               "label": "a)",
-              "prompt": "sein Vater",
-              "lead": "Wessen Wagen ist das? — Das ist der Wagen",
-              "tail": ".",
-              "answer": "seines Vaters",
-              "explanation": "sein Vater (m) ➔ Genitiv: seines Vaters",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Wagen - sein Vater",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_b",
               "label": "b)",
-              "prompt": "unsere Tante",
-              "lead": "Wessen Brille ist das? — Das ist die Brille",
-              "tail": ".",
-              "answer": "unserer Tante",
-              "explanation": "unsere Tante (f) ➔ Genitiv: unserer Tante",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Brille - unsere Tante",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_c",
               "label": "c)",
-              "prompt": "ihr Großvater",
-              "lead": "Wessen Hund ist das? — Das ist der Hund",
-              "tail": ".",
-              "answer": "ihres Großvaters",
-              "explanation": "ihr Großvater (m) ➔ Genitiv: ihres Großvaters",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Hund - ihr Großvater",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_d",
               "label": "d)",
-              "prompt": "eure Gäste",
-              "lead": "Wessen Gepäck ist das? — Das ist das Gepäck",
-              "tail": ".",
-              "answer": "eurer Gäste",
-              "explanation": "eure Gäste (Pl.) ➔ Genitiv: eurer Gäste",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Gepäck - eure Gäste",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_e",
               "label": "e)",
-              "prompt": "ihre Tochter",
-              "lead": "Wessen Stifte sind das? — Das sind die Stifte",
-              "tail": ".",
-              "answer": "ihrer Tochter",
-              "explanation": "ihre Tochter (f) ➔ Genitiv: ihrer Tochter",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Stifte - ihre Tochter",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_f",
               "label": "f)",
-              "prompt": "mein Freund",
-              "lead": "Wessen Computer ist das? — Das ist der Computer",
-              "tail": ".",
-              "answer": "meines Freundes",
-              "alternatives": [
-                "meines Freunds"
-              ],
-              "explanation": "mein Freund (m) ➔ Genitiv: meines Freundes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Computer - mein Freund",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_g",
               "label": "g)",
-              "prompt": "dein Onkel",
-              "lead": "Wessen Schirm ist das? — Das ist der Schirm",
-              "tail": ".",
-              "answer": "deines Onkels",
-              "explanation": "dein Onkel (m) ➔ Genitiv: deines Onkels",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Schirm - dein Onkel",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_h",
               "label": "h)",
-              "prompt": "meine Kollegin",
-              "lead": "Wessen Auto ist das? — Das ist das Auto",
-              "tail": ".",
-              "answer": "meiner Kollegin",
-              "explanation": "meine Kollegin (f) ➔ Genitiv: meiner Kollegin",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Auto - meine Kollegin",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p6_ex3_i",
               "label": "i)",
-              "prompt": "sein Sohn",
-              "lead": "Wessen Bücher sind das? — Das sind die Bücher",
-              "tail": ".",
-              "answer": "seines Sohnes",
-              "alternatives": [
-                "seines Sohns"
-              ],
-              "explanation": "sein Sohn (m) ➔ Genitiv: seines Sohnes",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Bücher - sein Sohn",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             }
           ]
         }
       ],
-      "grammarSummary": "### 📌 Unterricht & Grammatik-Fokus: Der Genitiv — Nomen und Artikel\n\nDer **Genitiv (2. Fall)** drückt einen **Besitz**, ein **Zugehörigkeitsverhältnis** oder eine nähere Bestimmung aus. Das Fragewort lautet: **Wessen?**\n* *„**Wessen** Koffer ist das?“ ➔ „Das ist der Koffer **des Gastes**.“*\n\n#### 1. Artikel und Nomen-Endungen im Genitiv\n| Genus / Numerus | Bestimmter Artikel | Unbestimmter Artikel | Possessivartikel | Nomen-Endung |\n| :--- | :--- | :--- | :--- | :--- |\n| **Maskulin** | **des** Vaters | **eines** Vaters | **meines** Vaters | **-(e)s** |\n| **Neutral** | **des** Kindes | **eines** Kindes | **meines** Kindes | **-(e)s** |\n| **Feminin** | **der** Mutter | **einer** Mutter | **meiner** Mutter | *(keine)* |\n| **Plural** | **der** Eltern | *(keine)* Eltern | **meiner** Eltern | *(keine)* |\n\n#### 2. Wann bekommt das Nomen `-es` und wann `-s`?\n* **Endung `-es`**:\n  1. Bei den meisten **einsilbigen Nomen**: *des Mannes, des Buches, des Flusses, des Liedes, des Tages*.\n  2. Bei Nomen, die auf einen **Zischlaut** enden (*-s, -ss, -ß, -z, -tz, -sch, -x*): *des Platzes, des Arztes, des Schreibtisches*.\n* **Endung `-s`**:\n  1. Bei **mehrsilbigen Nomen**: *des Computers, des Doktors, des Bio-Markts, des Professors*.\n  2. Bei Nomen auf **-el, -en, -er, -ling**: *des Onkels, des Wagens, des Lehrers, des Frühlings*.\n\n#### 3. Eigennamen von Personen\n* Personennamen stehen im Genitiv meist **vor** dem Bezugswort und erhalten ein **-s** (ohne Apostroph):\n  * *„Das ist **Pauls** Fahrrad.“*\n  * *„Das ist **Evas** Waschmaschine.“*\n* Endet der Name bereits auf einen Zischlaut (*-s, -ß, -z, -x*), steht nur ein **Apostroph am Ende**: *„Das ist **Max'** Computer.“*\n\n#### 🇬🇧 English Cognitive Bridge\n* The Genitive case corresponds to the English **apostrophe-s** (*\"Eva's car\" = „Evas Auto“*) and prepositional **\"of\"** phrases (*\"the capital of the country\" = „die Hauptstadt des Landes“*).\n* **Crucial difference**: In German, feminine (*der Frau*) and plural (*der Kinder*) nouns **never take an -s on the noun itself**; only the article changes to *der*!"
+      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Lektion 2\n• 2.1. Genitiv\n• Genitiv - Artikel\n• Der Gast hat einen Koffer. Das ist der Koffer des Gastes.\n• Die Studentin hat zwei Taschen. Das sind die Taschen der Studentin.\n• Das Mädchen hat ein Fahrrad. Das ist das Fahrrad des Mädchens.\n• Die Touristen haben Gepäck. Das ist das Gepäck der Touristen.\n• Achtung: Nur maskuline und neutrale Nomen können im Genitiv ein -s oder -es bekommen.\n• -s bei vielen mehrsilbigen Nomen z. B. auf -en, -el, -er, -or, -ling etc. ➔ mask. / neutr.\n• des Wagens, des Onkels, des Reporters, des Doktors, des Frühlings, des Lebens, des Fensters\n• -es bei vielen einsilbigen Nomen und bei Nomen auf -s, -ss, -ß, -sch, -z, -tz etc. ➔ mask. / neutr.\n• des Buches, des Flusses, des Fußes, des Schreibtisches, des Fußballplatzes / auch: der Bus ➔ Busses\n• Julia hat eine Wohnung. Das ist Julias Wohnung.\n• Paul hat ein Fahrrad. Das ist Pauls Fahrrad. ! ➔ Namen von Personen + s vor dem Nomen\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Genitiv - Fragewort\n• Wessen Haus ist das?\n• Das ist das Haus meiner Tante.\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• maskulin\n• feminin\n• neutral\n• Plural\n• bestimmt unbestimmt\n• des\n• der\n• des\n• der\n• -[e]s\n• -[e]s\n• eines\n• einer\n• eines\n• -\n• -[e]s\n• -[e]s"
     },
     "7": {
-      "lessonTitle": "2.2. n-Deklination (Schwache Nomen)",
+      "lessonTitle": "2.2. n-Deklination (Seite 7)",
       "exercises": [
         {
           "id": "a2_p7_ex1",
-          "title": "Übung 1: n-Deklination im Akkusativ einsetzen",
-          "instruction": "Setzen Sie das maskuline Nomen mit der passenden Endung (-n bzw. -en) im Akkusativ ein.",
-          "wordBox": [
-            "Kollegen",
-            "Studenten",
-            "Touristen",
-            "Postboten",
-            "Patienten",
-            "Polizisten",
-            "Soldaten",
-            "Praktikanten",
-            "Kunden",
-            "Agenten",
-            "Fotografen",
-            "Architekten",
-            "Herrn",
-            "Juristen",
-            "Nachbarn"
-          ],
+          "title": "Übung 1",
+          "instruction": "",
           "answers": {
-            "a2_p7_ex1_a": "Kollegen",
-            "a2_p7_ex1_b": "Studenten",
-            "a2_p7_ex1_c": "Touristen",
-            "a2_p7_ex1_d": "Postboten",
-            "a2_p7_ex1_e": "Patienten",
-            "a2_p7_ex1_f": "Polizisten",
-            "a2_p7_ex1_g": "Soldaten",
-            "a2_p7_ex1_h": "Praktikanten",
-            "a2_p7_ex1_i": "Kunden",
-            "a2_p7_ex1_j": "Agenten",
-            "a2_p7_ex1_k": "Fotografen",
-            "a2_p7_ex1_l": "Architekten",
-            "a2_p7_ex1_m": "Herrn",
-            "a2_p7_ex1_n": "Juristen",
-            "a2_p7_ex1_o": "Nachbarn"
+            "a2_p7_ex1_a": "—",
+            "a2_p7_ex1_b": "—",
+            "a2_p7_ex1_c": "—",
+            "a2_p7_ex1_d": "—",
+            "a2_p7_ex1_e": "—",
+            "a2_p7_ex1_f": "—",
+            "a2_p7_ex1_g": "—",
+            "a2_p7_ex1_h": "—",
+            "a2_p7_ex1_i": "—",
+            "a2_p7_ex1_j": "—",
+            "a2_p7_ex1_k": "—",
+            "a2_p7_ex1_l": "—",
+            "a2_p7_ex1_m": "—",
+            "a2_p7_ex1_n": "—",
+            "a2_p7_ex1_o": "—"
           },
           "explanations": {
-            "a2_p7_ex1_a": "der Kollege (-e) ➔ Akkusativ: den Kollegen",
-            "a2_p7_ex1_b": "der Student (-ent) ➔ Akkusativ: den Studenten",
-            "a2_p7_ex1_c": "der Tourist (-ist) ➔ Akkusativ: den Touristen",
-            "a2_p7_ex1_d": "der Postbote (-e) ➔ Akkusativ: den Postboten",
-            "a2_p7_ex1_e": "der Patient (-ent) ➔ Akkusativ: den Patienten",
-            "a2_p7_ex1_f": "der Polizist (-ist) ➔ Akkusativ: den Polizisten",
-            "a2_p7_ex1_g": "der Soldat (-at) ➔ Akkusativ: den Soldaten",
-            "a2_p7_ex1_h": "der Praktikant (-ant) ➔ Akkusativ: den Praktikanten",
-            "a2_p7_ex1_i": "der Kunde (-e) ➔ Akkusativ: den Kunden",
-            "a2_p7_ex1_j": "der Agent (-ent) ➔ Akkusativ: den Agenten",
-            "a2_p7_ex1_k": "der Fotograf (-af) ➔ Akkusativ: den Fotografen",
-            "a2_p7_ex1_l": "der Architekt (-ekt) ➔ Akkusativ: den Architekten",
-            "a2_p7_ex1_m": "der Herr (Sonderform) ➔ Akkusativ: den Herrn",
-            "a2_p7_ex1_n": "der Jurist (-ist) ➔ Akkusativ: den Juristen",
-            "a2_p7_ex1_o": "der Nachbar (-ar) ➔ Akkusativ: den Nachbarn"
+            "a2_p7_ex1_a": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_b": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_c": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_d": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_e": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_f": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_g": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_h": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_i": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_j": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_k": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_l": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_m": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_n": "Vollständiger Beispielsatz",
+            "a2_p7_ex1_o": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p7_ex1_a",
               "label": "a)",
-              "prompt": "der Kollege",
-              "lead": "Wie heißt der Kollege? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Kollegen",
-              "explanation": "der Kollege (-e) ➔ Akkusativ: den Kollegen",
+              "prompt": "",
+              "lead": "Kollege",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_b",
               "label": "b)",
-              "prompt": "der Student",
-              "lead": "Wie heißt der Student? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Studenten",
-              "explanation": "der Student (-ent) ➔ Akkusativ: den Studenten",
+              "prompt": "",
+              "lead": "Student",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_c",
               "label": "c)",
-              "prompt": "der Tourist",
-              "lead": "Wie heißt der Tourist? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Touristen",
-              "explanation": "der Tourist (-ist) ➔ Akkusativ: den Touristen",
+              "prompt": "",
+              "lead": "Tourist",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_d",
               "label": "d)",
-              "prompt": "der Postbote",
-              "lead": "Wie heißt der Postbote? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Postboten",
-              "explanation": "der Postbote (-e) ➔ Akkusativ: den Postboten",
+              "prompt": "",
+              "lead": "Postbote",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_e",
               "label": "e)",
-              "prompt": "der Patient",
-              "lead": "Wie heißt der Patient? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Patienten",
-              "explanation": "der Patient (-ent) ➔ Akkusativ: den Patienten",
+              "prompt": "",
+              "lead": "Patient",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_f",
               "label": "f)",
-              "prompt": "der Polizist",
-              "lead": "Wie heißt der Polizist? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Polizisten",
-              "explanation": "der Polizist (-ist) ➔ Akkusativ: den Polizisten",
+              "prompt": "",
+              "lead": "Polizist",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_g",
               "label": "g)",
-              "prompt": "der Soldat",
-              "lead": "Wie heißt der Soldat? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Soldaten",
-              "explanation": "der Soldat (-at) ➔ Akkusativ: den Soldaten",
+              "prompt": "",
+              "lead": "Soldat",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_h",
               "label": "h)",
-              "prompt": "der Praktikant",
-              "lead": "Wie heißt der Praktikant? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Praktikanten",
-              "explanation": "der Praktikant (-ant) ➔ Akkusativ: den Praktikanten",
+              "prompt": "",
+              "lead": "Praktikant",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_i",
               "label": "i)",
-              "prompt": "der Kunde",
-              "lead": "Wie heißt der Kunde? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Kunden",
-              "explanation": "der Kunde (-e) ➔ Akkusativ: den Kunden",
+              "prompt": "",
+              "lead": "Kunde",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_j",
               "label": "j)",
-              "prompt": "der Agent",
-              "lead": "Wie heißt der Agent? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Agenten",
-              "explanation": "der Agent (-ent) ➔ Akkusativ: den Agenten",
+              "prompt": "",
+              "lead": "Agent",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_k",
               "label": "k)",
-              "prompt": "der Fotograf",
-              "lead": "Wie heißt der Fotograf? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Fotografen",
-              "explanation": "der Fotograf (-af) ➔ Akkusativ: den Fotografen",
+              "prompt": "",
+              "lead": "Fotograf",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_l",
               "label": "l)",
-              "prompt": "der Architekt",
-              "lead": "Wie heißt der Architekt? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Architekten",
-              "explanation": "der Architekt (-ekt) ➔ Akkusativ: den Architekten",
+              "prompt": "",
+              "lead": "Architekt",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_m",
               "label": "m)",
-              "prompt": "der Herr",
-              "lead": "Wie heißt der Herr? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Herrn",
-              "explanation": "der Herr (Sonderform) ➔ Akkusativ: den Herrn",
+              "prompt": "",
+              "lead": "Herr",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_n",
               "label": "n)",
-              "prompt": "der Jurist",
-              "lead": "Wie heißt der Jurist? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Juristen",
-              "explanation": "der Jurist (-ist) ➔ Akkusativ: den Juristen",
+              "prompt": "",
+              "lead": "Jurist",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             },
             {
               "id": "a2_p7_ex1_o",
               "label": "o)",
-              "prompt": "der Nachbar",
-              "lead": "Wie heißt der Nachbar? — Ich kenne den",
-              "tail": "nicht.",
-              "answer": "Nachbarn",
-              "explanation": "der Nachbar (-ar) ➔ Akkusativ: den Nachbarn",
+              "prompt": "",
+              "lead": "Nachbar",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
               "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p7_ex2",
-          "title": "Übung 2: n-Deklination im Kontext (Akkusativ vs. Dativ)",
-          "instruction": "Bilden Sie Fragen mit dem passenden Artikel und Nomen der n-Deklination. Achten Sie darauf, ob das Verb bzw. die Präposition den Akkusativ (den ...) oder Dativ (dem ...) verlangt.",
-          "wordBox": [
-            "dem Studenten",
-            "den Gitarristen",
-            "den Nachbarn",
-            "den Diamanten",
-            "den Automaten",
-            "dem Journalisten",
-            "dem Postboten",
-            "den Elefanten",
-            "den Polizisten",
-            "den Kollegen",
-            "dem Experten",
-            "den Präsidenten",
-            "den Jungen",
-            "den Kometen",
-            "Herrn Berg"
-          ],
+          "title": "Übung 2",
+          "instruction": "",
           "answers": {
-            "a2_p7_ex2_a": "dem Studenten",
-            "a2_p7_ex2_b": "den Gitarristen",
-            "a2_p7_ex2_c": "den Nachbarn",
-            "a2_p7_ex2_d": "den Diamanten",
-            "a2_p7_ex2_e": "den Automaten",
-            "a2_p7_ex2_f": "dem Journalisten",
-            "a2_p7_ex2_g": "dem Postboten",
-            "a2_p7_ex2_h": "den Elefanten",
-            "a2_p7_ex2_i": "den Polizisten",
-            "a2_p7_ex2_j": "den Kollegen",
-            "a2_p7_ex2_k": "dem Experten",
-            "a2_p7_ex2_l": "den Präsidenten",
-            "a2_p7_ex2_m": "den Jungen",
-            "a2_p7_ex2_n": "den Kometen",
-            "a2_p7_ex2_o": "Herrn Berg"
+            "a2_p7_ex2_a": "—",
+            "a2_p7_ex2_b": "—",
+            "a2_p7_ex2_c": "—",
+            "a2_p7_ex2_d": "—",
+            "a2_p7_ex2_e": "das",
+            "a2_p7_ex2_f": "—",
+            "a2_p7_ex2_g": "—",
+            "a2_p7_ex2_h": "—",
+            "a2_p7_ex2_i": "—",
+            "a2_p7_ex2_j": "—",
+            "a2_p7_ex2_k": "—",
+            "a2_p7_ex2_l": "—",
+            "a2_p7_ex2_m": "—",
+            "a2_p7_ex2_n": "—",
+            "a2_p7_ex2_o": "—"
           },
           "explanations": {
-            "a2_p7_ex2_a": "helfen verlangt Dativ ➔ dem Studenten",
-            "a2_p7_ex2_b": "kennen verlangt Akkusativ ➔ den Gitarristen",
-            "a2_p7_ex2_c": "besuchen verlangt Akkusativ ➔ den Nachbarn",
-            "a2_p7_ex2_d": "kaufen verlangt Akkusativ ➔ den Diamanten",
-            "a2_p7_ex2_e": "reparieren verlangt Akkusativ ➔ den Automaten",
-            "a2_p7_ex2_f": "antworten verlangt Dativ ➔ dem Journalisten",
-            "a2_p7_ex2_g": "mit verlangt Dativ ➔ dem Postboten",
-            "a2_p7_ex2_h": "fotografieren verlangt Akkusativ ➔ den Elefanten",
-            "a2_p7_ex2_i": "anrufen verlangt Akkusativ ➔ den Polizisten",
-            "a2_p7_ex2_j": "einladen verlangt Akkusativ ➔ den Kollegen",
-            "a2_p7_ex2_k": "glauben verlangt Dativ ➔ dem Experten",
-            "a2_p7_ex2_l": "erkennen verlangt Akkusativ ➔ den Präsidenten",
-            "a2_p7_ex2_m": "aufwecken verlangt Akkusativ ➔ den Jungen",
-            "a2_p7_ex2_n": "sehen verlangt Akkusativ ➔ den Kometen",
-            "a2_p7_ex2_o": "vertrauen verlangt Dativ; Anrede Herr ➔ Herrn Berg"
+            "a2_p7_ex2_a": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_b": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_c": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_d": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_e": "Neutral ➔ das",
+            "a2_p7_ex2_f": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_g": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_h": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_i": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_j": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_k": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_l": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_m": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_n": "Vollständiger Beispielsatz",
+            "a2_p7_ex2_o": "Vollständiger Beispielsatz"
           },
           "items": [
             {
               "id": "a2_p7_ex2_a",
               "label": "a)",
-              "prompt": "der Student · helfen",
-              "lead": "Hilfst du",
-              "tail": "?",
-              "answer": "dem Studenten",
-              "explanation": "helfen verlangt Dativ ➔ dem Studenten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Student - helfen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_b",
               "label": "b)",
-              "prompt": "der Gitarrist · kennen",
-              "lead": "Kennst du",
-              "tail": "?",
-              "answer": "den Gitarristen",
-              "explanation": "kennen verlangt Akkusativ ➔ den Gitarristen",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Gitarrist - kennen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_c",
               "label": "c)",
-              "prompt": "der Nachbar · besuchen",
-              "lead": "Besuchst du",
-              "tail": "?",
-              "answer": "den Nachbarn",
-              "explanation": "besuchen verlangt Akkusativ ➔ den Nachbarn",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Nachbar - besuchen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_d",
               "label": "d)",
-              "prompt": "der Diamant · kaufen",
-              "lead": "Kaufst du",
-              "tail": "?",
-              "answer": "den Diamanten",
-              "explanation": "kaufen verlangt Akkusativ ➔ den Diamanten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Diamant - kaufen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_e",
               "label": "e)",
-              "prompt": "der Automat · reparieren",
-              "lead": "Reparierst du",
-              "tail": "?",
-              "answer": "den Automaten",
-              "explanation": "reparieren verlangt Akkusativ ➔ den Automaten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Automat - reparieren",
+              "tail": "",
+              "answer": "das",
+              "explanation": "Neutral ➔ das",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_f",
               "label": "f)",
-              "prompt": "der Journalist · antworten",
-              "lead": "Antwortest du",
-              "tail": "?",
-              "answer": "dem Journalisten",
-              "explanation": "antworten verlangt Dativ ➔ dem Journalisten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Journalist - antworten",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_g",
               "label": "g)",
-              "prompt": "der Postbote · sprechen mit",
-              "lead": "Sprichst du mit",
-              "tail": "?",
-              "answer": "dem Postboten",
-              "explanation": "mit verlangt Dativ ➔ dem Postboten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Postbote - sprechen mit",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_h",
               "label": "h)",
-              "prompt": "der Elefant · fotografieren",
-              "lead": "Fotografierst du",
-              "tail": "?",
-              "answer": "den Elefanten",
-              "explanation": "fotografieren verlangt Akkusativ ➔ den Elefanten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Elefant - fotografieren",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_i",
               "label": "i)",
-              "prompt": "der Polizist · anrufen",
-              "lead": "Rufst du",
-              "tail": "an?",
-              "answer": "den Polizisten",
-              "explanation": "anrufen verlangt Akkusativ ➔ den Polizisten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Polizist - anrufen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_j",
               "label": "j)",
-              "prompt": "der Kollege · einladen",
-              "lead": "Lädst du",
-              "tail": "ein?",
-              "answer": "den Kollegen",
-              "explanation": "einladen verlangt Akkusativ ➔ den Kollegen",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Kollege - einladen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_k",
               "label": "k)",
-              "prompt": "der Experte · glauben",
-              "lead": "Glaubst du",
-              "tail": "?",
-              "answer": "dem Experten",
-              "explanation": "glauben verlangt Dativ ➔ dem Experten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Experte - glauben",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_l",
               "label": "l)",
-              "prompt": "der Präsident · erkennen",
-              "lead": "Erkennst du",
-              "tail": "?",
-              "answer": "den Präsidenten",
-              "explanation": "erkennen verlangt Akkusativ ➔ den Präsidenten",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Präsident - erkennen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_m",
               "label": "m)",
-              "prompt": "der Junge · aufwecken",
-              "lead": "Weckst du",
-              "tail": "auf?",
-              "answer": "den Jungen",
-              "explanation": "aufwecken verlangt Akkusativ ➔ den Jungen",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Junge - aufwecken",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_n",
               "label": "n)",
-              "prompt": "der Komet · sehen",
-              "lead": "Siehst du",
-              "tail": "?",
-              "answer": "den Kometen",
-              "explanation": "sehen verlangt Akkusativ ➔ den Kometen",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Komet - sehen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             },
             {
               "id": "a2_p7_ex2_o",
               "label": "o)",
-              "prompt": "Herr Berg · vertrauen",
-              "lead": "Vertraust du",
-              "tail": "?",
-              "answer": "Herrn Berg",
-              "explanation": "vertrauen verlangt Dativ; Anrede Herr ➔ Herrn Berg",
-              "isCompact": false
+              "prompt": "",
+              "lead": "Herr Berg - vertrauen",
+              "tail": "",
+              "answer": "—",
+              "explanation": "Vollständiger Beispielsatz",
+              "isCompact": true
             }
           ]
         }
       ],
-      "grammarSummary": "### 📌 Unterricht & Grammatik-Fokus: Die n-Deklination (Schwache Nomen)\n\nDie **n-Deklination** betrifft eine spezielle Gruppe **maskuliner Nomen** (sowie eine einzige Ausnahme im Neutrum: *das Herz*), die in allen Fällen außer dem Nominativ Singular die Endung **`-n` oder `-en`** erhalten.\n\n#### 1. Übersicht: Starke vs. Schwache Deklination\n| Kasus | Starkes Maskulinum (*der Arzt*) | Schwaches Maskulinum (*der Patient*) | Plural (*die Patienten*) |\n| :--- | :--- | :--- | :--- |\n| **Nominativ** | der Arzt | **der Patient** | die Patienten |\n| **Akkusativ** | den Arzt | **den Patienten** | die Patienten |\n| **Dativ** | dem Arzt | **dem Patienten** | den Patienten |\n| **Genitiv** | des Arztes *(+es)* | **des Patienten** *(kein -s!)* | der Patienten |\n\n#### 2. Typische Gruppen der n-Deklination\n1. **Maskuline Nomen auf `-e`** (Personen, Tiere, Nationalitäten):\n   * *der Junge, der Kollege, der Kunde, der Neffe, der Zeuge, der Experte*\n   * *der Löwe, der Hase, der Affe, der Falke*\n   * *der Pole, der Russe, der Franzose, der Kroate, der Däne*\n2. **Maskuline Fremdwörter mit bestimmten Endungen** (meist Personen oder Berufe):\n   * **`-ist`**: *der Tourist, der Polizist, der Journalist, der Gitarrist, der Spezialist*\n   * **`-ent / -ant`**: *der Student, der Patient, der Präsident, der Praktikant, der Diamant, der Elefant*\n   * **`-at / -et / -it / -ot`**: *der Soldat, der Automat, der Komet, der Planet, der Satellit, der Pilot*\n   * **`-oge`**: *der Biologe, der Pädagoge, der Psychologe, der Geologe*\n3. **Weitere wichtige schwache Maskulina**:\n   * *der Mensch, der Nachbar, der Herr, der Bär, der Prinz, der Fotograf, der Architekt, der Jurist*\n\n#### 3. Wichtige Ausnahmen\n* **`der Herr`**: Erhält im Singular nur **`-n`**, im Plural jedoch **`-en`**:\n  * *den Herrn, dem Herrn, des Herrn* (Sg.) ➔ *die / den / der Herren* (Pl.).\n* **`das Herz`** (einziges Neutrum):\n  * *das Herz (Nom.), das Herz (Akk.), dem Herzen (Dat.), des Herzens (Gen. mit -ens!)*.\n\n#### 🇬🇧 English Cognitive Bridge\n* English has no weak nouns today, but historical plurals like *ox ➔ oxen* and *child ➔ children* share the same Germanic root suffix *-en*.\n* **The Golden Rule**: If a German noun belongs to the n-declension and is **not the grammatical subject (Nominativ)**, you must attach **`-n` or `-en`**!"
+      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• 2.2. n-Deklination\n• Singular Plural Singular Plural\n• Nom.\n• Akk.\n• Dat.\n• Gen.\n• der Arzt\n• den Arzt\n• dem Arzt\n• des Arztes\n• die Ärzte\n• die Ärzte\n• den Ärzten\n• der Ärzte\n• der Patient\n• den Patienten\n• dem Patienten\n• des Patienten\n• die Patienten\n• die Patienten\n• den Patienten\n• der Patienten\n• n-Deklination  bei maskulinen Nomen mit folgenden Endungen:\n• e der Junge, der Experte, der Kunde\n• (Berufe) der Biologe , der Pädagoge, der Psychologe\n• (Tiere) der Hase , der Löwe, der Affe\n• (Nationalitäten etc.) der Pole , der Kroate, der Sachse\n• ist der Journalist , der Tourist, der Kapitalist\n• ent der Student , der Patient, der Präsident\n• ant der Praktikant, der Diamant, der Elefant\n• at, et, it, ot der Automat , der Athlet, der Satellit, der Pilot\n• Weitere mask. Nomen mit n-Deklination:\n• der Gymnasiast, der Mensch, der Prinz, der Bub, der Bär\n• Achtung: Singular Plural Singular Plural\n• Bauer, Nachbar, Ungar\n• Sg. Akk. / Dat. / Gen. ➔ -n / Pl. ➔ -n\n• Herr\n• Sg. Akk. / Dat. / Gen. ➔ -n / Pl. ➔ -en\n• Nom. der Bauer die  Bauern der Herr die  Herren\n• Akk. den Bauern die  Bauern den Herrn die  Herren\n• Dat. dem Bauern den  Bauern dem Herrn den  Herren\n• Gen. des Bauern der  Bauern des Herrn der  Herren"
     },
     "8": {
       "lessonTitle": "2.3. Deklination des Adjektivs (Seite 8)",
@@ -20342,393 +20229,919 @@ window.WORKBOOKS_KEYS = {
       ],
       "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• die Jahreszeiten\n• der Frühling / das Frühjahr - der Sommer - der Herbst - der Winter\n• die Monate\n• der Januar - der Februar - der März - der April - der Mai - der Juni - der Juli\n• der August - der September - der Oktober - der November - der Dezember\n• die Wochentage\n• der Sonntag - der Montag - der Dienstag - der Mittwoch - der Donnerstag - der Freitag - der Samstag\n• die Tageszeiten\n• der Morgen - der Vormittag - der Mittag - der Nachmittag - der Abend - die Nacht\n• schon ←➔ erst: früh oder früher als gedacht ➔ schon / spät oder später als gedacht ➔ erst\n• Bist du schon heute fertig? ➔ Nein, ich werde erst morgen fertig."
     },
-    "23": {
-      "lessonTitle": "Lektion 6 (Seite 23)",
+        "22": {
+      "lessonTitle": "Lektion 5: 5.3. Ähnliche Verben / Positions- & Richtungsverben (Seite 22)",
+      "exercises": [
+        {
+          "id": "a2_p22_ex1",
+          "title": "Übung 1: stellen vs. stehen (Wohin? + Akk. vs. Wo? + Dat.)",
+          "instruction": "Ergänzen Sie die passende Form von „stellen“ (Aktion ➔ Wohin? + Akk.) oder „stehen“ (Position ➔ Wo? + Dat.).",
+          "wordBox": [
+            "stehe",
+            "stehen",
+            "steht",
+            "stelle",
+            "stellen",
+            "stellst",
+            "stellt"
+          ],
+          "answers": {
+            "a2_p22_ex1_a": "stelle",
+            "a2_p22_ex1_b": "steht",
+            "a2_p22_ex1_c": "stellst",
+            "a2_p22_ex1_d": "steht",
+            "a2_p22_ex1_e": "stehen",
+            "a2_p22_ex1_f": "stellt",
+            "a2_p22_ex1_g": "stehen",
+            "a2_p22_ex1_h": "steht"
+          },
+          "explanations": {
+            "a2_p22_ex1_a": "Aktion (Wohin? + Akk.) ➔ ich stelle das Glas auf den Tisch",
+            "a2_p22_ex1_b": "Position (Wo? + Dat.) ➔ das Glas steht neben der Flasche",
+            "a2_p22_ex1_c": "Aktion (Wohin? + Akk.) ➔ du stellst das Auto vor die Garage",
+            "a2_p22_ex1_d": "Position (Wo? + Dat.) ➔ Paul steht vor der Tür",
+            "a2_p22_ex1_e": "Position (Wo? + Dat., Plural) ➔ viele Leute stehen an der Kinokasse",
+            "a2_p22_ex1_f": "Aktion (Wohin? + Akk.) ➔ Maria stellt den Roller vor das Haus",
+            "a2_p22_ex1_g": "Position (Wo? + Dat., 1. Plural) ➔ wir stehen an der Bushaltestelle",
+            "a2_p22_ex1_h": "Position (Wo? + Dat.) ➔ er steht zwischen seinen Eltern"
+          },
+          "items": [
+            {
+              "id": "a2_p22_ex1_a",
+              "label": "a)",
+              "prompt": "Ich — Glas — auf — Tisch",
+              "lead": "Ich ",
+              "tail": " das Glas auf den Tisch.",
+              "answer": "stelle",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ ich stelle das Glas auf den Tisch",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_b",
+              "label": "b)",
+              "prompt": "Glas — neben — Flasche",
+              "lead": "Das Glas ",
+              "tail": " neben der Flasche.",
+              "answer": "steht",
+              "explanation": "Position (Wo? + Dat.) ➔ das Glas steht neben der Flasche",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_c",
+              "label": "c)",
+              "prompt": "Du — Auto — vor — Garage",
+              "lead": "Du ",
+              "tail": " das Auto vor die Garage.",
+              "answer": "stellst",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ du stellst das Auto vor die Garage",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_d",
+              "label": "d)",
+              "prompt": "Paul — vor — Tür",
+              "lead": "Paul ",
+              "tail": " vor der Tür.",
+              "answer": "steht",
+              "explanation": "Position (Wo? + Dat.) ➔ Paul steht vor der Tür",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_e",
+              "label": "e)",
+              "prompt": "Viele Leute — an — Kinokasse",
+              "lead": "Viele Leute ",
+              "tail": " an der Kinokasse.",
+              "answer": "stehen",
+              "explanation": "Position (Wo? + Dat., Plural) ➔ viele Leute stehen an der Kinokasse",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_f",
+              "label": "f)",
+              "prompt": "Maria — Roller — vor — Haus",
+              "lead": "Maria ",
+              "tail": " den Roller vor das Haus.",
+              "answer": "stellt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Maria stellt den Roller vor das Haus",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_g",
+              "label": "g)",
+              "prompt": "Wir — an — Bushaltestelle",
+              "lead": "Wir ",
+              "tail": " an der Bushaltestelle.",
+              "answer": "stehen",
+              "explanation": "Position (Wo? + Dat., 1. Plural) ➔ wir stehen an der Bushaltestelle",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex1_h",
+              "label": "h)",
+              "prompt": "Er — zwischen — seine Eltern",
+              "lead": "Er ",
+              "tail": " zwischen seinen Eltern.",
+              "answer": "steht",
+              "explanation": "Position (Wo? + Dat.) ➔ er steht zwischen seinen Eltern",
+              "isCompact": true
+            }
+          ]
+        },
+        {
+          "id": "a2_p22_ex2",
+          "title": "Übung 2: legen vs. liegen (Wohin? + Akk. vs. Wo? + Dat.)",
+          "instruction": "Ergänzen Sie die passende Form von „legen“ (Aktion ➔ Wohin? + Akk.) oder „liegen“ (Position ➔ Wo? + Dat.).",
+          "wordBox": [
+            "lege",
+            "legen",
+            "legst",
+            "legt",
+            "liege",
+            "liegen",
+            "liegt"
+          ],
+          "answers": {
+            "a2_p22_ex2_a": "liegt",
+            "a2_p22_ex2_b": "liegt",
+            "a2_p22_ex2_c": "legt",
+            "a2_p22_ex2_d": "legt",
+            "a2_p22_ex2_e": "legt",
+            "a2_p22_ex2_f": "liege",
+            "a2_p22_ex2_g": "legst",
+            "a2_p22_ex2_h": "liegen"
+          },
+          "explanations": {
+            "a2_p22_ex2_a": "Position (Wo? + Dat.) ➔ der Brief liegt auf dem Schreibtisch",
+            "a2_p22_ex2_b": "Position (Wo? + Dat.) ➔ Julia liegt auf dem Sofa",
+            "a2_p22_ex2_c": "Aktion (Wohin? + Akk.) ➔ Maria legt das Buch ins Regal",
+            "a2_p22_ex2_d": "Aktion (Wohin? + Akk.) ➔ er legt den Pass neben das Ticket",
+            "a2_p22_ex2_e": "Aktion (Wohin? + Akk.) ➔ sie legt den Hut in den Schrank",
+            "a2_p22_ex2_f": "Position (Wo? + Dat.) ➔ ich liege im Bett",
+            "a2_p22_ex2_g": "Aktion (Wohin? + Akk.) ➔ du legst die Mappe auf den Tisch",
+            "a2_p22_ex2_h": "Position (Wo? + Dat., Plural) ➔ die Zeitungen liegen auf dem Boden"
+          },
+          "items": [
+            {
+              "id": "a2_p22_ex2_a",
+              "label": "a)",
+              "prompt": "Brief — auf — Schreibtisch",
+              "lead": "Der Brief ",
+              "tail": " auf dem Schreibtisch.",
+              "answer": "liegt",
+              "explanation": "Position (Wo? + Dat.) ➔ der Brief liegt auf dem Schreibtisch",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_b",
+              "label": "b)",
+              "prompt": "Julia — auf — Sofa",
+              "lead": "Julia ",
+              "tail": " auf dem Sofa.",
+              "answer": "liegt",
+              "explanation": "Position (Wo? + Dat.) ➔ Julia liegt auf dem Sofa",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_c",
+              "label": "c)",
+              "prompt": "Maria — Buch — in — Regal",
+              "lead": "Maria ",
+              "tail": " das Buch ins Regal.",
+              "answer": "legt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Maria legt das Buch ins Regal",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_d",
+              "label": "d)",
+              "prompt": "Er — Pass — neben — Ticket",
+              "lead": "Er ",
+              "tail": " den Pass neben das Ticket.",
+              "answer": "legt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ er legt den Pass neben das Ticket",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_e",
+              "label": "e)",
+              "prompt": "Sie — Hut — in — Schrank",
+              "lead": "Sie ",
+              "tail": " den Hut in den Schrank.",
+              "answer": "legt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ sie legt den Hut in den Schrank",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_f",
+              "label": "f)",
+              "prompt": "Ich — in — Bett",
+              "lead": "Ich ",
+              "tail": " noch im Bett.",
+              "answer": "liege",
+              "explanation": "Position (Wo? + Dat.) ➔ ich liege im Bett",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_g",
+              "label": "g)",
+              "prompt": "Du — Mappe — auf — Tisch",
+              "lead": "Du ",
+              "tail": " die Mappe auf den Tisch.",
+              "answer": "legst",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ du legst die Mappe auf den Tisch",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex2_h",
+              "label": "h)",
+              "prompt": "Zeitungen — auf — Boden",
+              "lead": "Die Zeitungen ",
+              "tail": " auf dem Boden.",
+              "answer": "liegen",
+              "explanation": "Position (Wo? + Dat., Plural) ➔ die Zeitungen liegen auf dem Boden",
+              "isCompact": true
+            }
+          ]
+        },
+        {
+          "id": "a2_p22_ex3",
+          "title": "Übung 3: setzen (sich) vs. sitzen (Wohin? + Akk. vs. Wo? + Dat.)",
+          "instruction": "Ergänzen Sie die passende Form von „setzen“ (Aktion ➔ Wohin? + Akk.) oder „sitzen“ (Position ➔ Wo? + Dat.).",
+          "wordBox": [
+            "setze",
+            "setzen",
+            "setzt",
+            "sitze",
+            "sitzen",
+            "sitzt"
+          ],
+          "answers": {
+            "a2_p22_ex3_a": "sitze",
+            "a2_p22_ex3_b": "setzt",
+            "a2_p22_ex3_c": "setzt",
+            "a2_p22_ex3_d": "sitzen",
+            "a2_p22_ex3_e": "setzt",
+            "a2_p22_ex3_f": "sitze",
+            "a2_p22_ex3_g": "setzt",
+            "a2_p22_ex3_h": "sitzt"
+          },
+          "explanations": {
+            "a2_p22_ex3_a": "Position (Wo? + Dat.) ➔ ich sitze am Fenster",
+            "a2_p22_ex3_b": "Aktion (Wohin? + Akk.) ➔ Julia setzt das Kind auf das Bett",
+            "a2_p22_ex3_c": "Aktion (Wohin? + Akk.) ➔ du setzt die Katze auf das Sofa",
+            "a2_p22_ex3_d": "Position (Wo? + Dat., Plural) ➔ wir sitzen im Bus",
+            "a2_p22_ex3_e": "Aktion (Wohin? + Akk.) ➔ Paul setzt seinen Sohn ins Auto",
+            "a2_p22_ex3_f": "Position (Wo? + Dat.) ➔ ich sitze zwischen Onkel und Tante",
+            "a2_p22_ex3_g": "Aktion (Wohin? + Akk.) ➔ Eva setzt die Brille auf die Nase",
+            "a2_p22_ex3_h": "Position (Wo? + Dat.) ➔ du sitzt vor dem Fernseher"
+          },
+          "items": [
+            {
+              "id": "a2_p22_ex3_a",
+              "label": "a)",
+              "prompt": "Ich — an — Fenster",
+              "lead": "Ich ",
+              "tail": " gern am Fenster.",
+              "answer": "sitze",
+              "explanation": "Position (Wo? + Dat.) ➔ ich sitze am Fenster",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_b",
+              "label": "b)",
+              "prompt": "Julia — Kind — auf — Bett",
+              "lead": "Julia ",
+              "tail": " das Kind auf das Bett.",
+              "answer": "setzt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Julia setzt das Kind auf das Bett",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_c",
+              "label": "c)",
+              "prompt": "Du — Katze — auf — Sofa",
+              "lead": "Du ",
+              "tail": " die Katze auf das Sofa.",
+              "answer": "setzt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ du setzt die Katze auf das Sofa",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_d",
+              "label": "d)",
+              "prompt": "Wir — in — Bus",
+              "lead": "Wir ",
+              "tail": " zusammen im Bus.",
+              "answer": "sitzen",
+              "explanation": "Position (Wo? + Dat., Plural) ➔ wir sitzen im Bus",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_e",
+              "label": "e)",
+              "prompt": "Paul — sein Sohn — in — Auto",
+              "lead": "Paul ",
+              "tail": " seinen Sohn ins Auto.",
+              "answer": "setzt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Paul setzt seinen Sohn ins Auto",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_f",
+              "label": "f)",
+              "prompt": "Ich — zwischen — Onkel — Tante",
+              "lead": "Ich ",
+              "tail": " zwischen Onkel und Tante.",
+              "answer": "sitze",
+              "explanation": "Position (Wo? + Dat.) ➔ ich sitze zwischen Onkel und Tante",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_g",
+              "label": "g)",
+              "prompt": "Eva — Brille — auf — Nase",
+              "lead": "Eva ",
+              "tail": " die Brille auf die Nase.",
+              "answer": "setzt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Eva setzt die Brille auf die Nase",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex3_h",
+              "label": "h)",
+              "prompt": "Du — vor — Fernseher",
+              "lead": "Du ",
+              "tail": " den ganzen Tag vor dem Fernseher.",
+              "answer": "sitzt",
+              "explanation": "Position (Wo? + Dat.) ➔ du sitzt vor dem Fernseher",
+              "isCompact": true
+            }
+          ]
+        },
+        {
+          "id": "a2_p22_ex4",
+          "title": "Übung 4: hängen & stecken (Aktionsverb vs. Positionsverb)",
+          "instruction": "Ergänzen Sie die passende Form von „hängen“ oder „stecken“ im Präsens.",
+          "wordBox": [
+            "hänge",
+            "hängen",
+            "hängt",
+            "stecke",
+            "stecken",
+            "steckt"
+          ],
+          "answers": {
+            "a2_p22_ex4_a": "hängt",
+            "a2_p22_ex4_b": "hänge",
+            "a2_p22_ex4_c": "hängt",
+            "a2_p22_ex4_d": "hängt",
+            "a2_p22_ex4_e": "hängt",
+            "a2_p22_ex4_f": "steckt",
+            "a2_p22_ex4_g": "steckt",
+            "a2_p22_ex4_h": "stecken",
+            "a2_p22_ex4_i": "stecke",
+            "a2_p22_ex4_j": "steckt"
+          },
+          "explanations": {
+            "a2_p22_ex4_a": "Position (Wo? + Dat.) ➔ der Apfel hängt am Baum",
+            "a2_p22_ex4_b": "Aktion (Wohin? + Akk.) ➔ ich hänge die Uhr an die Wand",
+            "a2_p22_ex4_c": "Aktion (Wohin? + Akk.) ➔ Maria hängt das Poster an die Tür",
+            "a2_p22_ex4_d": "Position (Wo? + Dat.) ➔ das Handtuch hängt neben der Badewanne",
+            "a2_p22_ex4_e": "Aktion (Wohin? + Akk.) ➔ Paul hängt die Hose in den Schrank",
+            "a2_p22_ex4_f": "Position (Wo? + Dat.) ➔ der Schlüssel steckt im Schloss",
+            "a2_p22_ex4_g": "Aktion (Wohin? + Akk.) ➔ er steckt das Geld in die Tasche",
+            "a2_p22_ex4_h": "Position (Wo? + Dat., Plural) ➔ die Füße stecken in warmen Schuhen",
+            "a2_p22_ex4_i": "Aktion (Wohin? + Akk.) ➔ ich stecke das Foto zwischen die Briefe",
+            "a2_p22_ex4_j": "Position (Wo? + Dat.) ➔ der Zettel steckt hinter dem Spiegel"
+          },
+          "items": [
+            {
+              "id": "a2_p22_ex4_a",
+              "label": "a)",
+              "prompt": "Apfel — an — Baum (hängen)",
+              "lead": "Der Apfel ",
+              "tail": " noch am Baum.",
+              "answer": "hängt",
+              "explanation": "Position (Wo? + Dat.) ➔ der Apfel hängt am Baum",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_b",
+              "label": "b)",
+              "prompt": "Ich — Uhr — an — Wand (hängen)",
+              "lead": "Ich ",
+              "tail": " die neue Uhr an die Wand.",
+              "answer": "hänge",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ ich hänge die Uhr an die Wand",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_c",
+              "label": "c)",
+              "prompt": "Maria — Poster — an — Tür (hängen)",
+              "lead": "Maria ",
+              "tail": " das Poster an die Tür.",
+              "answer": "hängt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Maria hängt das Poster an die Tür",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_d",
+              "label": "d)",
+              "prompt": "Handtuch — neben — Badewanne (hängen)",
+              "lead": "Das Handtuch ",
+              "tail": " neben der Badewanne.",
+              "answer": "hängt",
+              "explanation": "Position (Wo? + Dat.) ➔ das Handtuch hängt neben der Badewanne",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_e",
+              "label": "e)",
+              "prompt": "Paul — Hose — in — Schrank (hängen)",
+              "lead": "Paul ",
+              "tail": " seine Hose in den Schrank.",
+              "answer": "hängt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ Paul hängt die Hose in den Schrank",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_f",
+              "label": "f)",
+              "prompt": "Schlüssel — in — Schloss (stecken)",
+              "lead": "Der Schlüssel ",
+              "tail": " im Schloss.",
+              "answer": "steckt",
+              "explanation": "Position (Wo? + Dat.) ➔ der Schlüssel steckt im Schloss",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_g",
+              "label": "g)",
+              "prompt": "Er — Geld — in — Tasche (stecken)",
+              "lead": "Er ",
+              "tail": " das Geld in die Tasche.",
+              "answer": "steckt",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ er steckt das Geld in die Tasche",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_h",
+              "label": "h)",
+              "prompt": "Füße — in — Schuhe (stecken)",
+              "lead": "Die Füße ",
+              "tail": " in warmen Schuhen.",
+              "answer": "stecken",
+              "explanation": "Position (Wo? + Dat., Plural) ➔ die Füße stecken in Schuhen",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_i",
+              "label": "i)",
+              "prompt": "Ich — Foto — zwischen — Briefe (stecken)",
+              "lead": "Ich ",
+              "tail": " das Foto zwischen die Briefe.",
+              "answer": "stecke",
+              "explanation": "Aktion (Wohin? + Akk.) ➔ ich stecke das Foto zwischen die Briefe",
+              "isCompact": true
+            },
+            {
+              "id": "a2_p22_ex4_j",
+              "label": "j)",
+              "prompt": "Zettel — hinter — Spiegel (stecken)",
+              "lead": "Der Zettel ",
+              "tail": " hinter dem Spiegel.",
+              "answer": "steckt",
+              "explanation": "Position (Wo? + Dat.) ➔ der Zettel steckt hinter dem Spiegel",
+              "isCompact": true
+            }
+          ]
+        }
+      ],
+      "grammarSummary": "### 📌 Grammatik-Fokus: 5.3. Ähnliche Verben / Positions- & Richtungsverben\n\n#### 1. Die Verbpaare im Überblick (Aktion vs. Position)\nIm Deutschen unterscheidet man strikt zwischen der **Handlung** (jemand bewegt etwas an einen neuen Ort) und dem **Zustand** (etwas befindet sich bereits an einem Ort):\n\n| Aktionsverb (Wohin? + AKKUSATIV) | Bedeutung / Richtung | Positionsverb (Wo? + DATIV) | Bedeutung / Lage |\n| :--- | :--- | :--- | :--- |\n| **stellen** (*stellte, gestellt*) | senkrecht hinstellen | **stehen** (*stand, gestanden*) | senkrecht stehen |\n| **legen** (*legte, gelegt*) | waagerecht hinlegen | **liegen** (*lag, gelegen*) | flach ruhen/liegen |\n| **setzen (sich)** (*setzte, gesetzt*) | hinsetzen | **sitzen** (*saß, gesessen*) | sitzen |\n| **hängen** (*hängte, gehängt*) | aufhängen | **hängen** (*hing, gehangen*) | hängen (Zustand) |\n| **stecken** (*steckte, gesteckt*) | hineinstecken | **stecken** (*steckte, gesteckt*) | drinnen stecken |\n\n---\n\n#### 2. Die goldene Grammatikregel\n- **Aktionsverben sind REGELMÄSSIG (schwach) und transitiv:**  \n  Sie verlangen immer ein Akkusativobjekt (Wen/Was?) und eine Richtungsangabe (**Wohin? ➔ Akkusativ**).  \n  *„Ich **stelle** das Glas (Akk.) auf **den** Tisch (Akk.).“*  \n  *„Ich **lege** mich (Akk.) auf **das** Sofa (Akk.).“*\n- **Positionsverben sind UNREGELMÄSSIG (stark) und intransitiv:**  \n  Sie haben kein Akkusativobjekt und verlangen eine Ortsangabe (**Wo? ➔ Dativ**).  \n  *„Das Glas **steht** auf **dem** Tisch (Dat.).“*  \n  *„Ich **liege** auf **dem** Sofa (Dat.).“*\n\n---\n\n#### 3. Der Sonderfall: „hängen“ und „stecken“\n- **hängen** existiert in zwei Varianten:\n  - Als Aktion (schwach): *„Ich **hänge** das Bild an die Wand.“* (Präteritum: *hängte*)\n  - Als Position (stark): *„Das Bild **hängt** an der Wand.“* (Präteritum: *hing*)\n- **stecken** wird meist regelmäßig konjugiert:\n  - Als Aktion: *„Er **steckt** den Schlüssel ins Schloss.“*\n  - Als Position: *„Der Schlüssel **steckt** im Schloss.“*\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n> English has similar verb pairs, but uses them less strictly:\n> - **lay / lie:** *to lay* (transitive / action: *I lay the book on the table*) vs. *to lie* (intransitive / state: *The book lies on the table*). In German, this distinction is mandatory for **legen / liegen**!\n> - **set / sit:** *to set* (*Ich setze das Kind ins Auto*) vs. *to sit* (*Das Kind sitzt im Auto*).\n> - **put:** English frequently uses the universal verb *\"to put\"* (*I put the glass on the table*, *I put the book on the desk*). **German NEVER allows a universal \"put\"!** You MUST decide:\n>   - Stands upright? ➔ **stellen**\n>   - Lies flat? ➔ **legen**\n>   - Placed seated? ➔ **setzen**\n>   - Placed inside a narrow space? ➔ **stecken**\n>   - Suspended from above? ➔ **hängen**"
+    },
+"23": {
+      "lessonTitle": "Lektion 6: 6.1. Präteritum (Imperfekt) — Regelmäßige & trennbare Verben (Seite 23)",
       "exercises": [
         {
           "id": "a2_p23_ex1",
-          "title": "Übung 1",
-          "instruction": "",
+          "title": "Übung 1: Regelmäßige Verben im Präteritum (Fragen beantworten)",
+          "instruction": "Beantworten Sie die Fragen im Präteritum mit „gestern“ und dem passenden Personalpronomen.",
+          "wordBox": [
+            "antworteten",
+            "besichtigten",
+            "besuchte",
+            "buchten",
+            "entschuldigte",
+            "fragte",
+            "gratulierte",
+            "holte",
+            "informierten",
+            "kündigte",
+            "lernten",
+            "lieferte",
+            "mietete",
+            "putzte",
+            "reparierte",
+            "reservierte",
+            "wechselte",
+            "änderte"
+          ],
           "answers": {
-            "a2_p23_ex1_a": "—",
-            "a2_p23_ex1_b": "—",
-            "a2_p23_ex1_c": "—",
-            "a2_p23_ex1_d": "—",
-            "a2_p23_ex1_e": "—",
-            "a2_p23_ex1_f": "—",
-            "a2_p23_ex1_g": "—",
-            "a2_p23_ex1_h": "—",
-            "a2_p23_ex1_i": "—",
-            "a2_p23_ex1_j": "—",
-            "a2_p23_ex1_k": "das",
-            "a2_p23_ex1_l": "—",
-            "a2_p23_ex1_m": "—",
-            "a2_p23_ex1_n": "das",
-            "a2_p23_ex1_o": "—",
-            "a2_p23_ex1_p": "—",
-            "a2_p23_ex1_q": "—",
-            "a2_p23_ex1_r": "—"
+            "a2_p23_ex1_a": "fragte",
+            "a2_p23_ex1_b": "holte",
+            "a2_p23_ex1_c": "kündigte",
+            "a2_p23_ex1_d": "reparierte",
+            "a2_p23_ex1_e": "lieferte",
+            "a2_p23_ex1_f": "putzte",
+            "a2_p23_ex1_g": "änderte",
+            "a2_p23_ex1_h": "reservierte",
+            "a2_p23_ex1_i": "lernten",
+            "a2_p23_ex1_j": "besuchte",
+            "a2_p23_ex1_k": "buchten",
+            "a2_p23_ex1_l": "wechselte",
+            "a2_p23_ex1_m": "besichtigten",
+            "a2_p23_ex1_n": "mietete",
+            "a2_p23_ex1_o": "gratulierte",
+            "a2_p23_ex1_p": "antworteten",
+            "a2_p23_ex1_q": "entschuldigte",
+            "a2_p23_ex1_r": "informierten"
           },
           "explanations": {
-            "a2_p23_ex1_a": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_b": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_c": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_d": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_e": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_f": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_g": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_h": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_i": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_j": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_k": "Neutral ➔ das",
-            "a2_p23_ex1_l": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_m": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_n": "Neutral ➔ das",
-            "a2_p23_ex1_o": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_p": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_q": "Vollständiger Beispielsatz",
-            "a2_p23_ex1_r": "Vollständiger Beispielsatz"
+            "a2_p23_ex1_a": "Theo (er) ➔ fragte sie gestern",
+            "a2_p23_ex1_b": "du ➔ ich holte sie gestern",
+            "a2_p23_ex1_c": "Yasmin (sie) ➔ kündigte ihn gestern",
+            "a2_p23_ex1_d": "Murat (er) ➔ reparierte es gestern (-ieren ➔ -ierte)",
+            "a2_p23_ex1_e": "man ➔ lieferte sie gestern",
+            "a2_p23_ex1_f": "du ➔ ich putzte sie gestern",
+            "a2_p23_ex1_g": "Julia (sie) ➔ änderte ihn gestern (-ern ➔ -erte)",
+            "a2_p23_ex1_h": "du ➔ ich reservierte ihn gestern (-ieren ➔ -ierte)",
+            "a2_p23_ex1_i": "ihr ➔ wir lernten sie gestern",
+            "a2_p23_ex1_j": "du ➔ ich besuchte ihn gestern",
+            "a2_p23_ex1_k": "ihr ➔ wir buchten sie gestern",
+            "a2_p23_ex1_l": "Lena (sie) ➔ wechselte es gestern (-eln ➔ -elte)",
+            "a2_p23_ex1_m": "ihr ➔ wir besichtigten sie gestern (-igen ➔ -igten)",
+            "a2_p23_ex1_n": "du ➔ ich mietete es gestern (Stamm auf -t ➔ -ete)",
+            "a2_p23_ex1_o": "du ➔ ich gratulierte ihm gestern (-ieren ➔ -ierte)",
+            "a2_p23_ex1_p": "ihr ➔ wir antworteten ihr gestern (Stamm auf -t ➔ -eten)",
+            "a2_p23_ex1_q": "du ➔ ich entschuldigte mich gestern (reflexiv)",
+            "a2_p23_ex1_r": "ihr ➔ wir informierten uns gestern (reflexiv)"
           },
           "items": [
             {
               "id": "a2_p23_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Wann fragt Theo die Lehrerin?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann fragt Theo die Lehrerin?",
+              "lead": "Wann fragt Theo die Lehrerin? — Er ",
+              "tail": " sie gestern.",
+              "answer": "fragte",
+              "explanation": "Theo (er) ➔ fragte sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Wann holst du die Tickets?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann holst du die Tickets?",
+              "lead": "Wann holst du die Tickets? — Ich ",
+              "tail": " sie gestern.",
+              "answer": "holte",
+              "explanation": "du ➔ ich holte sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Wann kündigt Yasmin den Vertrag?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann kündigt Yasmin den Vertrag?",
+              "lead": "Wann kündigt Yasmin den Vertrag? — Sie ",
+              "tail": " ihn gestern.",
+              "answer": "kündigte",
+              "explanation": "Yasmin (sie) ➔ kündigte ihn gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Wann repariert Murat das Fahrrad?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann repariert Murat das Fahrrad?",
+              "lead": "Wann repariert Murat das Fahrrad? — Er ",
+              "tail": " es gestern.",
+              "answer": "reparierte",
+              "explanation": "Murat (er) ➔ reparierte es gestern (-ieren ➔ -ierte)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Wann liefert man die Maschinen?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann liefert man die Maschinen?",
+              "lead": "Wann liefert man die Maschinen? — Man ",
+              "tail": " sie gestern.",
+              "answer": "lieferte",
+              "explanation": "man ➔ lieferte sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Wann putzt du die Fenster?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann putzt du die Fenster?",
+              "lead": "Wann putzt du die Fenster? — Ich ",
+              "tail": " sie gestern.",
+              "answer": "putzte",
+              "explanation": "du ➔ ich putzte sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Wann ändert Julia den PIN-Code?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann ändert Julia den PIN-Code?",
+              "lead": "Wann ändert Julia den PIN-Code? — Sie ",
+              "tail": " ihn gestern.",
+              "answer": "änderte",
+              "explanation": "Julia (sie) ➔ änderte ihn gestern (-ern ➔ -erte)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Wann reservierst du den Tisch?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann reservierst du den Tisch?",
+              "lead": "Wann reservierst du den Tisch? — Ich ",
+              "tail": " ihn gestern.",
+              "answer": "reservierte",
+              "explanation": "du ➔ ich reservierte ihn gestern (-ieren ➔ -ierte)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Wann lernt ihr die starken Verben?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann lernt ihr die starken Verben?",
+              "lead": "Wann lernt ihr die starken Verben? — Wir ",
+              "tail": " sie gestern.",
+              "answer": "lernten",
+              "explanation": "ihr ➔ wir lernten sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Wann besuchst du Paul?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann besuchst du Paul?",
+              "lead": "Wann besuchst du Paul? — Ich ",
+              "tail": " ihn gestern.",
+              "answer": "besuchte",
+              "explanation": "du ➔ ich besuchte ihn gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Wann bucht ihr die Reise?",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Wann bucht ihr die Reise?",
+              "lead": "Wann bucht ihr die Reise? — Wir ",
+              "tail": " sie gestern.",
+              "answer": "buchten",
+              "explanation": "ihr ➔ wir buchten sie gestern",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Wann wechselt Lena das Geld?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann wechselt Lena das Geld?",
+              "lead": "Wann wechselt Lena das Geld? — Sie ",
+              "tail": " es gestern.",
+              "answer": "wechselte",
+              "explanation": "Lena (sie) ➔ wechselte es gestern (-eln ➔ -elte)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_m",
               "label": "m)",
-              "prompt": "",
-              "lead": "Wann besichtigt ihr die Burg?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann besichtigt ihr die Burg?",
+              "lead": "Wann besichtigt ihr die Burg? — Wir ",
+              "tail": " sie gestern.",
+              "answer": "besichtigten",
+              "explanation": "ihr ➔ wir besichtigten sie gestern (-igen ➔ -igten)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_n",
               "label": "n)",
-              "prompt": "",
-              "lead": "Wann mietest du das Auto?",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Wann mietest du das Auto?",
+              "lead": "Wann mietest du das Auto? — Ich ",
+              "tail": " es gestern.",
+              "answer": "mietete",
+              "explanation": "du ➔ ich mietete es gestern (Stamm auf -t ➔ -ete)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_o",
               "label": "o)",
-              "prompt": "",
-              "lead": "Wann gratulierst du deinem Großvater?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann gratulierst du deinem Großvater?",
+              "lead": "Wann gratulierst du deinem Großvater? — Ich ",
+              "tail": " ihm gestern.",
+              "answer": "gratulierte",
+              "explanation": "du ➔ ich gratulierte ihm gestern (-ieren ➔ -ierte)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_p",
               "label": "p)",
-              "prompt": "",
-              "lead": "Wann antwortet ihr der Kollegin?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann antwortet ihr der Kollegin?",
+              "lead": "Wann antwortet ihr der Kollegin? — Wir ",
+              "tail": " ihr gestern.",
+              "answer": "antworteten",
+              "explanation": "ihr ➔ wir antworteten ihr gestern (Stamm auf -t ➔ -eten)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_q",
               "label": "q)",
-              "prompt": "",
-              "lead": "Wann entschuldigst du dich?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann entschuldigst du dich?",
+              "lead": "Wann entschuldigst du dich? — Ich ",
+              "tail": " mich gestern.",
+              "answer": "entschuldigte",
+              "explanation": "du ➔ ich entschuldigte mich gestern (reflexiv)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex1_r",
               "label": "r)",
-              "prompt": "",
-              "lead": "Wann informiert ihr euch?",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wann informiert ihr euch?",
+              "lead": "Wann informiert ihr euch? — Wir ",
+              "tail": " uns gestern.",
+              "answer": "informierten",
+              "explanation": "ihr ➔ wir informierten uns gestern (reflexiv)",
               "isCompact": true
             }
           ]
         },
         {
           "id": "a2_p23_ex2",
-          "title": "Übung 2",
-          "instruction": "",
+          "title": "Übung 2: Trennbare Verben im Präteritum (Satzklammer)",
+          "instruction": "Setzen Sie die trennbaren Verben ins Präteritum. Achten Sie auf die richtige Verbendung.",
+          "wordBox": [
+            "füllten",
+            "holte",
+            "kreuzte",
+            "lehntest",
+            "machte",
+            "machten",
+            "packte",
+            "räumtest",
+            "sagte",
+            "schaltetet",
+            "zahltet",
+            "zündetest"
+          ],
           "answers": {
-            "a2_p23_ex2_a": "—",
-            "a2_p23_ex2_b": "—",
-            "a2_p23_ex2_c": "die",
-            "a2_p23_ex2_d": "—",
-            "a2_p23_ex2_e": "—",
-            "a2_p23_ex2_f": "—",
-            "a2_p23_ex2_g": "—",
-            "a2_p23_ex2_h": "—",
-            "a2_p23_ex2_i": "—",
-            "a2_p23_ex2_j": "—",
-            "a2_p23_ex2_k": "—",
-            "a2_p23_ex2_l": "—"
+            "a2_p23_ex2_a": "räumtest",
+            "a2_p23_ex2_b": "holte",
+            "a2_p23_ex2_c": "machte",
+            "a2_p23_ex2_d": "lehntest",
+            "a2_p23_ex2_e": "zahltet",
+            "a2_p23_ex2_f": "füllten",
+            "a2_p23_ex2_g": "schaltetet",
+            "a2_p23_ex2_h": "machten",
+            "a2_p23_ex2_i": "kreuzte",
+            "a2_p23_ex2_j": "packte",
+            "a2_p23_ex2_k": "zündetest",
+            "a2_p23_ex2_l": "sagte"
           },
           "explanations": {
-            "a2_p23_ex2_a": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_b": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_c": "Feminin ➔ die",
-            "a2_p23_ex2_d": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_e": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_f": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_g": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_h": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_i": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_j": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_k": "Vollständiger Beispielsatz",
-            "a2_p23_ex2_l": "Vollständiger Beispielsatz"
+            "a2_p23_ex2_a": "du ➔ räumtest den Keller auf",
+            "a2_p23_ex2_b": "ich ➔ holte die Pakete ab",
+            "a2_p23_ex2_c": "Max (er) ➔ machte die Tür zu",
+            "a2_p23_ex2_d": "du ➔ lehntest das Angebot ab",
+            "a2_p23_ex2_e": "ihr ➔ zahltet den Kredit zurück",
+            "a2_p23_ex2_f": "wir ➔ füllten das Formular aus",
+            "a2_p23_ex2_g": "ihr ➔ schaltetet das Gerät aus (Stamm auf -t ➔ -etet)",
+            "a2_p23_ex2_h": "wir ➔ machten alle Fenster zu",
+            "a2_p23_ex2_i": "ich ➔ kreuzte die richtige Antwort an",
+            "a2_p23_ex2_j": "Jana (sie) ➔ packte den Koffer aus",
+            "a2_p23_ex2_k": "du ➔ zündetest eine Kerze an (Stamm auf -d ➔ -etest)",
+            "a2_p23_ex2_l": "Paul (er) ➔ sagte den Termin ab"
           },
           "items": [
             {
               "id": "a2_p23_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "du - den Keller - aufräumen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "du — den Keller — aufräumen",
+              "lead": "Du ",
+              "tail": " den Keller auf.",
+              "answer": "räumtest",
+              "explanation": "du ➔ räumtest den Keller auf",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "ich - die Pakete - abholen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "ich — die Pakete — abholen",
+              "lead": "Ich ",
+              "tail": " die Pakete ab.",
+              "answer": "holte",
+              "explanation": "ich ➔ holte die Pakete ab",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Max - die Tür - zumachen",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
+              "prompt": "Max — die Tür — zumachen",
+              "lead": "Max ",
+              "tail": " die Tür zu.",
+              "answer": "machte",
+              "explanation": "Max (er) ➔ machte die Tür zu",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "du - das Angebot - ablehnen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "du — das Angebot — ablehnen",
+              "lead": "Du ",
+              "tail": " das Angebot ab.",
+              "answer": "lehntest",
+              "explanation": "du ➔ lehntest das Angebot ab",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "ihr - den Kredit - zurückzahlen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "ihr — den Kredit — zurückzahlen",
+              "lead": "Ihr ",
+              "tail": " den Kredit zurück.",
+              "answer": "zahltet",
+              "explanation": "ihr ➔ zahltet den Kredit zurück",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "wir - das Formular - ausfüllen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "wir — das Formular — ausfüllen",
+              "lead": "Wir ",
+              "tail": " das Formular aus.",
+              "answer": "füllten",
+              "explanation": "wir ➔ füllten das Formular aus",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "ihr - das Gerät - ausschalten",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "ihr — das Gerät — ausschalten",
+              "lead": "Ihr ",
+              "tail": " das Gerät aus.",
+              "answer": "schaltetet",
+              "explanation": "ihr ➔ schaltetet das Gerät aus (Stamm auf -t ➔ -etet)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "wir - alle Fenster - zumachen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "wir — alle Fenster — zumachen",
+              "lead": "Wir ",
+              "tail": " alle Fenster zu.",
+              "answer": "machten",
+              "explanation": "wir ➔ machten alle Fenster zu",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "ich - die richtige Antwort - ankreuzen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "ich — die richtige Antwort — ankreuzen",
+              "lead": "Ich ",
+              "tail": " die richtige Antwort an.",
+              "answer": "kreuzte",
+              "explanation": "ich ➔ kreuzte die richtige Antwort an",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Jana - den Koffer - auspacken",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Jana — den Koffer — auspacken",
+              "lead": "Jana ",
+              "tail": " den Koffer aus.",
+              "answer": "packte",
+              "explanation": "Jana (sie) ➔ packte den Koffer aus",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "du - eine Kerze - anzünden",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "du — eine Kerze — anzünden",
+              "lead": "Du ",
+              "tail": " eine Kerze an.",
+              "answer": "zündetest",
+              "explanation": "du ➔ zündetest eine Kerze an (Stamm auf -d ➔ -etest)",
               "isCompact": true
             },
             {
               "id": "a2_p23_ex2_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Paul - den Termin - absagen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Paul — den Termin — absagen",
+              "lead": "Paul ",
+              "tail": " den Termin ab.",
+              "answer": "sagte",
+              "explanation": "Paul (er) ➔ sagte den Termin ab",
               "isCompact": true
             }
           ]
         }
       ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Lektion 6\n• 6.1. Präteritum (Imperfekt)\n• Präteritum - schwache Verben (regelmäßig)\n• Infinitiv\n• Präteritum\n• ich kauf-t-e\n• du kauf-t-est\n• er / sie / es kauf-t-e\n• wir kauf-t-en\n• ihr kauf-t-et\n• sie / Sie kauf-t-en\n• ich arbeit-et-e\n• du arbeit-et-est\n• er / sie / es arbeit-et-e\n• wir arbeit-et-en\n• ihr arbeit-et-et\n• sie / Sie arbeit-et-en\n• Verben mit Stamm auf -t, -d, chn, ffn, gn ➔ Präteritum mit et\n• ich antwortete, wir redeten, er rechnete, ich öffnete, es regnete\n• Achtung: Immer schwach sind Verben auf  -eln, -ern, -igen, -ieren.\n• ich sammelte, ich änderte, ich besichtigte, ich telefonierte\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• kauf-en\n• kauf-t-e\n• arbeit-en\n• arbeit-et-e"
+      "grammarSummary": "### 📌 Grammatik-Fokus: 6.1. Präteritum (Imperfekt) — Regelmäßige & trennbare Verben\n\n#### 1. Verwendung des Präteritums\nDas Präteritum (auch Imperfekt) wird vor allem in der **Schriftsprache** verwendet (Zeitungsartikel, Berichte, Romane, Erzählungen). In der gesprochenen Sprache verwendet man meist das Perfekt — außer bei Hilfsverben (*sein*, *haben*) und Modalverben (*können*, *müssen* etc.).\n\n---\n\n#### 2. Konjugation der regelmäßigen (schwachen) Verben\nRegelmäßige Verben bilden das Präteritum mit dem Stamm + **-t-** + Personalendung:\n\n| Person | Endung | kaufen (*kauf-*) | lernen (*lern-*) | arbeiten (*arbeit-*) [Stamm auf -t/-d] |\n| :--- | :---: | :--- | :--- | :--- |\n| **ich** | **-te** | ich kauf**te** | ich lern**te** | ich arbeit**ete** |\n| **du** | **-test** | du kauf**test** | du lern**test** | du arbeit**etest** |\n| **er / sie / es** | **-te** | er kauf**te** | sie lern**te** | es arbeit**ete** |\n| **wir** | **-ten** | wir kauf**ten** | wir lern**ten** | wir arbeit**eten** |\n| **ihr** | **-tet** | ihr kauf**tet** | ihr lern**tet** | ihr arbeit**etet** |\n| **sie / Sie** | **-ten** | sie kauf**ten** | Sie lern**ten** | sie arbeit**eten** |\n\n> ⚠️ **Wichtig:** Die 1. Person (*ich*) und die 3. Person (*er/sie/es*) sind im Präteritum immer **identisch** (*ich kaufte = er kaufte*)!\n\n---\n\n#### 3. Lautliche Besonderheiten & Verbgruppen\n1. **Stamm auf -t, -d, -chn, -ffn, -gn:**  \n   Zur besseren Aussprache wird ein **-e-** vor das *-t-* geschoben (*-ete, -etest, -ete, -eten, -etet, -eten*):  \n   - *antworten ➔ ich antwortete, ihr antwortetet*  \n   - *mieten ➔ ich mietete*  \n   - *anzünden ➔ du zündetest an*  \n   - *schalten ➔ ihr schaltetet*  \n2. **Verben auf -eln, -ern, -igen, -ieren (immer schwach!):**  \n   - *ändern ➔ sie änderte*  \n   - *besichtigen ➔ wir besichtigten*  \n   - *reservieren ➔ ich reservierte*  \n   - *reparieren ➔ er reparierte*\n\n---\n\n#### 4. Trennbare Verben im Präteritum\nBei trennbaren Verben wird das Präfix abgetrennt und steht am **Satzende (Satzklammer)**:\n- *aufräumen ➔ Du **räumtest** gestern den Keller **auf**.*\n- *einkaufen ➔ Ich **kaufte** im Supermarkt **ein**.*\n- *ausfüllen ➔ Wir **füllten** das Formular **aus**.*\n\n---\n\n#### 5. 🇬🇧 English Cognitive Bridge\n> In English, the simple past of regular verbs is formed with **-ed** (*learn ➔ learned, ask ➔ asked*).  \n> In German, the regular past uses **-te** (*lernte, fragte*).  \n> Notice the close phonetic correspondence between English *-ed* and German *-te*!  \n> For verbs ending in dental consonants (*-t*, *-d*), English adds an extra syllable (*waited, rented*), exactly like German adds **-e-** (*wartete, mietete*)."
     },
     "24": {
       "lessonTitle": "6.1. Präteritum (Imperfekt) — Vertiefung & Übungen (Seite 24)",
