@@ -55,59 +55,37 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Verben - Vergangenheit
-> • 1. Das Perfekt
-> • Das Perfekt bildet man mit haben oder sein und dem  Partizip II.
-> • Das Partizip II bildet man schwach, stark oder gemischt.
-> • schwach stark gemischt
-> • gelernt gegangen gekannt
-> • In der Regel steht das Hilfsverb an der Position II und das Partizip II am Ende des Satzes.
-> • Paula hat gekocht und Peter hat aufgeräumt.
-> • Allerdings kann das Partizip II auch an der Position I stehen.
-> • Gekocht hat Paula und aufgeräumt hat Peter.
-> • Die meisten Verben bilden das Perfekt mit haben.
-> • Bei den Positionsverben  stehen,  sitzen,  liegen,  hängen, bildet man das Perfekt in Süddeutschland, Öster -
-> • reich und der Schweiz in der Regel mit sein, im übrigen deutschen Sprachraum mit haben.
-> • Ich habe in der ersten Reihe gesessen. ➔ Ich bin in der ersten Reihe gesessen.
-> • Oft gebraucht man das Perfekt für mündliche Erzählungen und Berichte.
-> • Ich habe das Glas auf den Tisch gestellt. / Wir sind nach Hause gegangen.
-> • 1.1. Schwache Verben
-> • Das Partizip II der schwachen Verben bildet man mit ge vor dem Verbstamm und der Endung t.
-> • lernen warten reparieren
-> • ge-lern-t ge-wart-et reparier-t
-> • Verben auf -ieren ➔ ohne  ge
-> • ich habe gelernt ich bin gereist
-> • du hast gelernt du bist gereist
-> • er, sie, es hat gelernt er, sie, es ist gereist
-> • wir haben gelernt wir sind gereist
-> • ihr habt gelernt ihr seid gereist
-> • sie / Sie haben gelernt sie / Sie sind gereist
-> • Verben auf eln / ern / igen / ieren sind schwach. ➔ -t
-> • bügeln ➔ gebügelt kündigen ➔ gekündigt
-> • liefern ➔ geliefert reagieren ➔ reagiert
-
+> • **Das Perfekt:** *haben* oder *sein* (Präsens) + *Partizip II* am Satzende.
+> • **Schwache Verben:** *ge-* + Stamm + *-t* (*gefragt, gelernt*).
+> • **Stamm auf -t / -d:** Einschub von *-e-* (*gewartet, geantwortet, geredet*).
+> • **Verben auf -ieren:** bilden das Partizip II **ohne ge-** (*kontrolliert, repariert, gratuliert*).
+> • **Perfekt mit sein:** Verben der Ortsänderung (*reisen ➔ ist gereist, wandern ➔ ist gewandert, folgen ➔ ist gefolgt*).
 
 ### ✍️ Übung 1
-> 💡 **Beispiel:** lange arbeiten     Hast   du lange   gearbeitet  ?
+*Bilden Sie eine Frage im Perfekt (du-Form).*
 
-- **a)** Paul fragen
-- **b)** ihm glauben
-- **c)** Geld wechseln
-- **d)** *(den)* Termin ändern
-- **e)** ihm den Weg zeigen
-- **f)** die Stühle zählen
-- **g)** die Rechnung kontrollieren
-- **h)** *(den)* Flug buchen
-- **i)** Paul gratulieren
-- **j)** das Paket von der Post holen
-- **k)** ihm antworten
-- **l)** die Wohnung putzen
-- **m)** auf den Bus warten
-- **n)** mit den Kollegen reden
-- **o)** sich vor dem Hund fürchten
-- **p)** *(ihnen)* folgen
-- **q)** nach Griechenland reisen
-- **r)** in den Alpen wandern
+> 💡 **Beispiel:** lange arbeiten ➔ **Hast** du lange **gearbeitet**?
+
+**Wortbox:** `geändert` • `geantwortet` • `gebucht` • `gefolgt` • `gefragt` • `gefürchtet` • `geglaubt` • `geholt` • `geputzt` • `geredet` • `gereist` • `gewandert` • `gewartet` • `gewechselt` • `gezeigt` • `gezählt` • `gratuliert` • `kontrolliert`
+
+- **a)** Paul fragen ➔ Hast du Paul _____ ?
+- **b)** ihm glauben ➔ Hast du ihm _____ ?
+- **c)** Geld wechseln ➔ Hast du Geld _____ ?
+- **d)** den Termin ändern ➔ Hast du den Termin _____ ?
+- **e)** ihm den Weg zeigen ➔ Hast du ihm den Weg _____ ?
+- **f)** die Stühle zählen ➔ Hast du die Stühle _____ ?
+- **g)** die Rechnung kontrollieren ➔ Hast du die Rechnung _____ ?
+- **h)** den Flug buchen ➔ Hast du den Flug _____ ?
+- **i)** Paul gratulieren ➔ Hast du Paul _____ ?
+- **j)** das Paket von der Post holen ➔ Hast du das Paket von der Post _____ ?
+- **k)** ihm antworten ➔ Hast du ihm _____ ?
+- **l)** die Wohnung putzen ➔ Hast du die Wohnung _____ ?
+- **m)** auf den Bus warten ➔ Hast du auf den Bus _____ ?
+- **n)** mit den Kollegen reden ➔ Hast du mit den Kollegen _____ ?
+- **o)** sich vor dem Hund fürchten ➔ Hast du dich vor dem Hund _____ ?
+- **p)** ihnen folgen ➔ Bist du ihnen _____ ?
+- **q)** nach Griechenland reisen ➔ Bist du nach Griechenland _____ ?
+- **r)** in den Alpen wandern ➔ Bist du in den Alpen _____ ?
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 3)</strong></summary>
@@ -115,24 +93,24 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **1.1. Schwache Verben**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `den` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `den` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `ihnen` — Grammatische Ergänzung
-- **q)** `—` — Grammatische Ergänzung
-- **r)** `—` — Grammatische Ergänzung
+- **a)** `gefragt` — *fragen ➔ gefragt*
+- **b)** `geglaubt` — *glauben ➔ geglaubt*
+- **c)** `gewechselt` — *wechseln ➔ gewechselt*
+- **d)** `geändert` — *ändern ➔ geändert*
+- **e)** `gezeigt` — *zeigen ➔ gezeigt*
+- **f)** `gezählt` — *zählen ➔ gezählt*
+- **g)** `kontrolliert` — *kontrollieren (-ieren) ➔ kontrolliert*
+- **h)** `gebucht` — *buchen ➔ gebucht*
+- **i)** `gratuliert` — *gratulieren (-ieren) ➔ gratuliert*
+- **j)** `geholt` — *holen ➔ geholt*
+- **k)** `geantwortet` — *antworten (Dentalstamm) ➔ geantwortet*
+- **l)** `geputzt` — *putzen ➔ geputzt*
+- **m)** `gewartet` — *warten (Dentalstamm) ➔ gewartet*
+- **n)** `geredet` — *reden (Dentalstamm) ➔ geredet*
+- **o)** `gefürchtet` — *sich fürchten (Dentalstamm) ➔ gefürchtet*
+- **p)** `gefolgt` — *folgen (Perfekt mit sein) ➔ gefolgt*
+- **q)** `gereist` — *reisen (Perfekt mit sein) ➔ gereist*
+- **r)** `gewandert` — *wandern (Perfekt mit sein) ➔ gewandert*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 3)**](#workbooks:B1:3) mit automatischer Korrektur und Sofort-Feedback.
@@ -142,124 +120,87 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-4"></a>
-## 📄 Seite 4: 1.3. Gemischte Verben
+
+## 📄 Seite 4: 1.2. Starke & gemischte Verben im Perfekt
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 1.2. Starke Verben
-> • Das Partizip II der starken Verben bildet man mit ge vor dem Verbstamm und der Endung en.
-> • sprechen
-> • ge-sproch-en
-> • gehen
-> • ge-gang-en
-> • ich habe gesprochen ich bin gegangen
-> • du hast gesprochen du bist gegangen
-> • er, sie, es hat gesprochen er, sie, es ist gegangen
-> • wir haben gesprochen wir sind gegangen
-> • ihr habt gesprochen ihr seid gegangen
-> • sie / Sie haben gesprochen sie / Sie sind gegangen
-> • Das Partizip II hat z. T. den gleichen Vokal wie der Präsensstamm:  sehen ➔ ges ehen
-> • Oft ändert sich aber der Vokal: tr inken ➔ getr unken
-> • Häufige Vokalreihen (Beispiele):
-> • a ➔ a ie ➔ o1 e ➔ e / o2 i ➔ u / o3 ei ➔ i / ie4
-> • fahren ➔ gefahren
-> • braten ➔ gebraten
-> • fliegen ➔ geflogen
-> • ziehen ➔ gezogen
-> • lesen ➔ gelesen
-> • nehmen ➔ genommen
-> • trinken ➔ getrunken
-> • rinnen ➔ geronnen
-> • streiten ➔ gestritten
-> • leihen ➔ geliehen
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • ge-brach-t
-> • Gemischte Verben: bringen, denken, wissen
-> • brennen, kennen, nennen, rennen
-> • senden, wenden
-
+> • **Starke Verben:** *ge-* + Stamm (mit Vokalwechsel) + *-en* (*gesprochen, gegangen, getrunken, geschnitten*).
+> • **Gemischte Verben:** Stammvokalwechsel + schwache Endung *-t* (*gebracht, gedacht, gewusst, gekannt, genannt, gerannt, gesandt*).
 
 ### ✍️ Übung 2
-*Bilden Sie Sätze im Perfekt.*
+*Bilden Sie das Partizip II der starken Verben.*
 
-> 💡 **Beispiel:** ein Nachtisch - nehmen    Du   hast   einen Nachtisch   genommen  .
+> 💡 **Beispiel:** ein Nachtisch — nehmen ➔ Du hast einen Nachtisch **genommen**.
 
-- **a)** das Steak — braten
-- **b)** der Rucksack — tragen
-- **c)** die Sahne — schlagen
-- **d)** ein Fisch — fangen
-- **e)** die Datei — schließen
-- **f)** die Blumen — gießen
-- **g)** der Roman — lesen
-- **h)** der Ball — werfen
-- **i)** ein Sandwich — essen
-- **j)** dein Cousin — treffen
-- **k)** die Schuhe — binden
-- **l)** eine Lösung — finden
-- **m)** ein Lied — singen
-- **n)** ein Tee — trinken
-- **o)** der Flur — streichen
-- **p)** eine SMS — schreiben
-- **q)** das Brot — schneiden
-- **r)** die Karotten — reiben
-- **1.** 3. Gemischte Verben
+**Wortbox:** `gebraten` • `gebunden` • `gegessen` • `gefangen` • `gefunden` • `gegossen` • `gelesen` • `gerieben` • `geschlagen` • `geschlossen` • `geschnitten` • `gesungen` • `gestrichen` • `getragen` • `getroffen` • `getrunken` • `geworfen`
+
+- **a)** das Steak — braten ➔ Du hast das Steak _____ .
+- **b)** der Rucksack — tragen ➔ Du hast den Rucksack _____ .
+- **c)** die Sahne — schlagen ➔ Du hast die Sahne _____ .
+- **d)** ein Fisch — fangen ➔ Du hast einen Fisch _____ .
+- **e)** die Datei — schließen ➔ Du hast die Datei _____ .
+- **f)** die Blumen — gießen ➔ Du hast die Blumen _____ .
+- **g)** der Roman — lesen ➔ Du hast den Roman _____ .
+- **h)** der Ball — werfen ➔ Du hast den Ball _____ .
+- **i)** ein Sandwich — essen ➔ Du hast ein Sandwich _____ .
+- **j)** dein Cousin — treffen ➔ Du hast deinen Cousin _____ .
+- **k)** die Schuhe — binden ➔ Du hast die Schuhe _____ .
+- **l)** eine Lösung — finden ➔ Du hast eine Lösung _____ .
+- **m)** ein Lied — singen ➔ Du hast ein Lied _____ .
+- **n)** ein Tee — trinken ➔ Du hast einen Tee _____ .
+- **o)** der Flur — streichen ➔ Du hast den Flur _____ .
+- **p)** eine SMS — schreiben ➔ Du hast eine SMS _____ .
+- **q)** das Brot — schneiden ➔ Du hast das Brot _____ .
+- **r)** die Karotten — reiben ➔ Du hast die Karotten _____ .
 
 ### ✍️ Übung 3
-> 💡 **Beispiel:** das Paket - bringen    Sie   hat   bestimmt das Paket   gebracht.
+*Bilden Sie das Partizip II der gemischten Verben.*
 
-- **a)** die Adresse — nennen
-- **b)** die Antwort — wissen
-- **c)** viele Grüße — senden
-- **d)** die Journalistin — kennen
-- **e)** an die Verabredung — denken
-- **f)** nicht auf die Straße — rennen !
-- **1)** aber: liegen > gelegen
-- **2)** aber: gehen > gegangen / stehen > gestanden
-- **3)** aber: bitten > gebeten; sitzen > gesessen
-- **4)** aber: heißen > geheißen
+> 💡 **Beispiel:** das Paket — bringen ➔ Sie hat bestimmt das Paket **gebracht**.
+
+**Wortbox:** `gedacht` • `gekannt` • `genannt` • `gerannt` • `gesandt` • `gewusst`
+
+- **a)** die Adresse — nennen ➔ Sie hat bestimmt die Adresse _____ .
+- **b)** die Antwort — wissen ➔ Sie hat bestimmt die Antwort _____ .
+- **c)** viele Grüße — senden ➔ Sie hat bestimmt viele Grüße _____ .
+- **d)** die Journalistin — kennen ➔ Sie hat bestimmt die Journalistin _____ .
+- **e)** an die Verabredung — denken ➔ Sie hat bestimmt an die Verabredung _____ .
+- **f)** nicht auf die Straße — rennen ➔ Sie ist bestimmt nicht auf die Straße _____ !
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 4)</strong></summary>
 
-> *Didaktische Lösungen für **1.3. Gemischte Verben**:*
+> *Didaktische Lösungen für **1.2. Starke & gemischte Verben im Perfekt**:*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `—` — Grammatische Ergänzung
-- **q)** `—` — Grammatische Ergänzung
-- **r)** `—` — Grammatische Ergänzung
-- **1.** `—` — Grammatische Ergänzung
+- **a)** `gebraten` — *braten ➔ gebraten*
+- **b)** `getragen` — *tragen ➔ getragen*
+- **c)** `geschlagen` — *schlagen ➔ geschlagen*
+- **d)** `gefangen` — *fangen ➔ gefangen*
+- **e)** `geschlossen` — *schließen ➔ geschlossen*
+- **f)** `gegossen` — *gießen ➔ gegossen*
+- **g)** `gelesen` — *lesen ➔ gelesen*
+- **h)** `geworfen` — *werfen ➔ geworfen*
+- **i)** `gegessen` — *essen ➔ gegessen*
+- **j)** `getroffen` — *treffen ➔ getroffen*
+- **k)** `gebunden` — *binden ➔ gebunden*
+- **l)** `gefunden` — *finden ➔ gefunden*
+- **m)** `gesungen` — *singen ➔ gesungen*
+- **n)** `getrunken` — *trinken ➔ getrunken*
+- **o)** `gestrichen` — *streichen ➔ gestrichen*
+- **p)** `geschrieben` — *schreiben ➔ geschrieben*
+- **q)** `geschnitten` — *schneiden ➔ geschnitten*
+- **r)** `gerieben` — *reiben ➔ gerieben*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **1)** `—` — Grammatische Ergänzung
-- **2)** `—` — Grammatische Ergänzung
-- **3)** `—` — Grammatische Ergänzung
-- **4)** `—` — Grammatische Ergänzung
+- **a)** `genannt` — *nennen ➔ genannt*
+- **b)** `gewusst` — *wissen ➔ gewusst*
+- **c)** `gesandt` — *senden ➔ gesandt (oder gesendet)*
+- **d)** `gekannt` — *kennen ➔ gekannt*
+- **e)** `gedacht` — *denken ➔ gedacht*
+- **f)** `gerannt` — *rennen (Perfekt mit sein) ➔ gerannt*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 4)**](#workbooks:B1:4) mit automatischer Korrektur und Sofort-Feedback.

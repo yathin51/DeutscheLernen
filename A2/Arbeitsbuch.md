@@ -2532,115 +2532,84 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-24"></a>
-## 📄 Seite 24: 6.1. Präteritum (Imperfekt) — Vertiefung & Übungen
+## 📄 Seite 24: 6.1. Präteritum (Imperfekt) — Starke & unregelmäßige Verben
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Präteritum - starke Verben (unregelmäßig)
-> • Infinitiv
-> • Präteritum
-> • ich trank
-> • du trank-st
-> • er / sie / es trank
-> • wir trank-en
-> • ihr trank-t
-> • sie / Sie trank-en
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Infinitiv
-> • Präteritum
-> • ich brach-t-e
-> • du brach-t-est
-> • er / sie / es brach-t-e
-> • wir brach-t-en
-> • ihr brach-t-et
-> • sie / Sie brach-t-en
-> • bringen - brachte
-> • denken - dachte
-> • wissen - wusste
-> • brennen - brannte
-> • kennen - kannte
-> • nennen - nannte
-> • rennen - rannte
-> • senden - sandte
-> • wenden - wandte
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • trink-en
-> • trank
-> • bring-en
-> • brach-t-e
-
+> • **Starke Verben (Vokalwechsel / Ablaut):** *trinken ➔ trank, fahren ➔ fuhr, bleiben ➔ blieb*.
+> • **Endungslos in 1. & 3. Person:** *ich trank, er trank* (keine Endung!).
+> • **Gemischte Verben (Vokalwechsel + -te):** *bringen ➔ brachte, denken ➔ dachte, wissen ➔ wusste, kennen ➔ kannte, nennen ➔ nannte, rennen ➔ rannte, brennen ➔ brannte*.
+> • **Trennbare Verben im Präteritum:** Präfix trennt sich ans Satzende (*Ich lud meine Freunde ein*).
 
 ### ✍️ Übung 3
-*Bilden Sie einen Satz im Präteritum.*
+*Bilden Sie einen Satz im Präteritum (Ich-Form).*
 
-> 💡 **Beispiel:** ein Brief - schreiben  Ich   schrieb   einen Brief.
+> 💡 **Beispiel:** ein Brief — schreiben ➔ Ich **schrieb** einen Brief.
 
-- **a)** kein Parkplatz — finden
-- **b)** zur Bushaltestelle — laufen
-- **c)** eine Cola — nehmen
-- **d)** mit Paul — sprechen
-- **e)** ein Stück Kuchen — essen
-- **f)** nach Moskau — fliegen
-- **g)** zu Hause — bleiben
-- **h)** ins Kino — gehen
-- **i)** meine Freunde — einladen
-- **j)** in den Zug — einsteigen
-- **k)** um 6.30 Uhr — aufstehen
-- **l)** viel Geld — ausgeben
-- **m)** *(letzten)* Sonntag — zurückkommen
-- **n)** die Kollegin — anrufen
-- **o)** nach Köln — mitfahren
-- **p)** auf dem Sofa — einschlafen
+**Wortbox:** `aß` • `blieb` • `fand` • `flog` • `fuhr` • `gab` • `ging` • `kam` • `lief` • `lud` • `nahm` • `rief` • `schlief` • `sprach` • `stand` • `stieg`
+
+- **a)** kein Parkplatz — finden ➔ Ich _____ keinen Parkplatz.
+- **b)** zur Bushaltestelle — laufen ➔ Ich _____ zur Bushaltestelle.
+- **c)** eine Cola — nehmen ➔ Ich _____ eine Cola.
+- **d)** mit Paul — sprechen ➔ Ich _____ mit Paul.
+- **e)** ein Stück Kuchen — essen ➔ Ich _____ ein Stück Kuchen.
+- **f)** nach Moskau — fliegen ➔ Ich _____ nach Moskau.
+- **g)** zu Hause — bleiben ➔ Ich _____ zu Hause.
+- **h)** ins Kino — gehen ➔ Ich _____ ins Kino.
+- **i)** meine Freunde — einladen ➔ Ich _____ meine Freunde ein.
+- **j)** in den Zug — einsteigen ➔ Ich _____ in den Zug ein.
+- **k)** um 6.30 Uhr — aufstehen ➔ Ich _____ um 6.30 Uhr auf.
+- **l)** viel Geld — ausgeben ➔ Ich _____ viel Geld aus.
+- **m)** *(letzten)* Sonntag — zurückkommen ➔ Ich _____ letzten Sonntag zurück.
+- **n)** die Kollegin — anrufen ➔ Ich _____ die Kollegin an.
+- **o)** nach Köln — mitfahren ➔ Ich _____ nach Köln mit.
+- **p)** auf dem Sofa — einschlafen ➔ Ich _____ auf dem Sofa ein.
 
 ### ✍️ Übung 4
-> 💡 **Beispiel:** Paul bringt Blumen mit.  Paul   brachte   Blumen mit.
+*Setzen Sie die Sätze ins Präteritum (Gemischte Verben).*
 
-- **a)** Lena weiß die Antwort.
-- **b)** Ich kenne den Professor nicht
-- **c)** Der Dieb rennt mit der Tasche weg.
-- **d)** Murat denkt oft an seine Eltern.
-- **e)** Julia nennt ihre Adresse.
-- **f)** Ich verbrenne den Brief.
+> 💡 **Beispiel:** Paul bringt Blumen mit. ➔ Paul **brachte** Blumen mit.
+
+**Wortbox:** `dachte` • `kannte` • `nannte` • `rannte` • `verbrannte` • `wusste`
+
+- **a)** Lena weiß die Antwort. ➔ Lena _____ die Antwort.
+- **b)** Ich kenne den Professor nicht. ➔ Ich _____ den Professor nicht.
+- **c)** Der Dieb rennt mit der Tasche weg. ➔ Der Dieb _____ mit der Tasche weg.
+- **d)** Murat denkt oft an seine Eltern. ➔ Murat _____ oft an seine Eltern.
+- **e)** Julia nennt ihre Adresse. ➔ Julia _____ ihre Adresse.
+- **f)** Ich verbrenne den Brief. ➔ Ich _____ den Brief.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 24)</strong></summary>
 
-> *Didaktische Lösungen für **6.1. Präteritum (Imperfekt) — Vertiefung & Übungen**:*
+> *Didaktische Lösungen für **6.1. Präteritum (Imperfekt) — Starke & unregelmäßige Verben**:*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `letzten` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `—` — Grammatische Ergänzung
+- **a)** `fand` — *finden (stark) ➔ Präteritum: fand*
+- **b)** `lief` — *laufen (stark, au ➔ ie) ➔ Präteritum: lief*
+- **c)** `nahm` — *nehmen (stark, e ➔ a) ➔ Präteritum: nahm*
+- **d)** `sprach` — *sprechen (stark, e ➔ a) ➔ Präteritum: sprach*
+- **e)** `aß` — *essen (stark, e ➔ a) ➔ Präteritum: aß*
+- **f)** `flog` — *fliegen (stark, ie ➔ o) ➔ Präteritum: flog*
+- **g)** `blieb` — *bleiben (stark, ei ➔ ie) ➔ Präteritum: blieb*
+- **h)** `ging` — *gehen (unregelmäßig) ➔ Präteritum: ging*
+- **i)** `lud` — *einladen (trennbar, a ➔ u) ➔ Präteritum: lud ... ein*
+- **j)** `stieg` — *einsteigen (trennbar, ei ➔ ie) ➔ Präteritum: stieg ... ein*
+- **k)** `stand` — *aufstehen (trennbar, e ➔ a) ➔ Präteritum: stand ... auf*
+- **l)** `gab` — *ausgeben (trennbar, e ➔ a) ➔ Präteritum: gab ... aus*
+- **m)** `kam` — *zurückkommen (trennbar, o ➔ a) ➔ Präteritum: kam ... zurück*
+- **n)** `rief` — *anrufen (trennbar, u ➔ ie) ➔ Präteritum: rief ... an*
+- **o)** `fuhr` — *mitfahren (trennbar, a ➔ u) ➔ Präteritum: fuhr ... mit*
+- **p)** `schlief` — *einschlafen (trennbar, a ➔ ie) ➔ Präteritum: schlief ... ein*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
+- **a)** `wusste` — *wissen (gemischt) ➔ wusste*
+- **b)** `kannte` — *kennen (gemischt) ➔ kannte*
+- **c)** `rannte` — *rennen (gemischt) ➔ rannte*
+- **d)** `dachte` — *denken (gemischt) ➔ dachte*
+- **e)** `nannte` — *nennen (gemischt) ➔ nannte*
+- **f)** `verbrannte` — *verbrennen (gemischt) ➔ verbrannte*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 24)**](#workbooks:A2:24) mit automatischer Korrektur und Sofort-Feedback.
@@ -2650,90 +2619,97 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-25"></a>
-## 📄 Seite 25: 6.2. Relativsätze
+## 📄 Seite 25: 6.2. Relativsätze im Nominativ, Akkusativ & Dativ
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 6.2. Relativsätze
-> • Relativsätze mit Relativpronomen
-> • Relativpronomen Verb am ENDE
-> • Bring mir bitte den Brief, d e r auf dem Schreibtisch l i e g t.
-> • Relativsätze können ein Nomen genauer erklären. ➔  Attribut
-> • Kennst du den Herrn? - Welchen Herrn?
-> • Nominativ Er sitzt dort drüben. ➔ Kennst du den Herrn, der dort drüben sitzt?
-> • Akkusativ Lena hat ihn gegrüßt. ➔ Kennst du den Herrn, den Lena gegrüßt hat?
-> • Dativ Paul hat ihm gratuliert. ➔ Kennst du den Herrn, dem Paul gratuliert hat?
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • ______ so gute Kritiken bekommen hat?
-> • ______ dir Max gegeben hat?
-> • b) Er hat ein Auto gekauft,
-> • ______ schon neun Jahre alt ist.
-> • ______ einen Elektromotor hat.
-> • c) Wo hast du den Schal,
-> • ______ Paul dir geschenkt hat?
-> • ______ mir so gut gefallen hat?
-> • d) Wie schmecken dir die Kekse,
-> • ______ ich gebacken habe?
-> • ______ aus der teuren Bäckerei sind?
-> • e) Das ist der Zug,
-> • ______ aus Hamburg kommt.
-> • ______ ich nehmen muss.
-> • f) Er spricht mit den Leuten,
-> • ______ den Unfall gesehen haben.
-> • ______ der Film nicht gefallen hat.
-> • g) Kennst du die Frau,
-> • ______ im III. Stock wohnt?
-> • ______ dieser Schirm gehört?
-> • h) Wo sind die Touristen,
-> • ______ das Gepäck hier gehört?
-> • ______ heute abreisen?
-> • Am Bahnsteig standen viele  Leute . Sie warteten auf den Zug.
-> • Am Bahnsteig standen viele Leute, die auf den Zug warteten.
-> • Hauptsatz , Relativsatz
-> • Viele Leute  standen am Bahnsteig. Sie warteten auf den Zug.
-> • Viele Leute , die auf den Zug warteten, standen am Bahnsteig.
-> • Hauptsatz (Teil 1)  , R e l a t i v s a t z , Hauptsatz (Teil 2)
-
+> • **Relativsatz:** Nebensatz zur näheren Erläuterung eines Nomens (Bezugswort).
+> • **Relativpronomen:** Richtet sich nach Genus/Numerus des Bezugsworts und Kasus im Nebensatz.
+> • **Kasusformen:**
+>   - Maskulin: *der* (Nom) • *den* (Akk) • *dem* (Dat)
+>   - Neutral: *das* (Nom) • *das* (Akk) • *dem* (Dat)
+>   - Feminin: *die* (Nom) • *die* (Akk) • *der* (Dat)
+>   - Plural: *die* (Nom) • *die* (Akk) • **denen** (Dat ⚠️)
+> • **Satzstellung:** Das konjugierte Verb steht immer am **Satzende**.
+> • **Eingeschobener Relativsatz:** Wird mit zwei Kommas direkt hinter das Bezugswort gestellt (*Der Zug, der nach München fährt, steht auf Gleis 5*).
 
 ### ✍️ Übung 1
-> 💡 **Beispiel:** Wann kommt der Herr,     der    uns angerufen hat?  //  den  wir angerufen haben?
+*Setzen Sie das passende Relativpronomen ein.*
 
-- **a)** Wie findest du den Roman,
+> 💡 **Beispiel:** Wann kommt der Herr, **der** uns angerufen hat? // **den** wir angerufen haben?
+
+**Wortbox:** `das` • `dem` • `den` • `denen` • `der` • `die`
+
+- **a.1)** Wie findest du den Roman, _____ so gute Kritiken bekommen hat?
+- **a.2)** Wie findest du den Roman, _____ dir Max gegeben hat?
+- **b.1)** Er hat ein Auto gekauft, _____ schon neun Jahre alt ist.
+- **b.2)** Er hat ein Auto gekauft, _____ einen Elektromotor hat.
+- **c.1)** Wo hast du den Schal, _____ Paul dir geschenkt hat?
+- **c.2)** Wo hast du den Schal, _____ mir so gut gefallen hat?
+- **d.1)** Wie schmecken dir die Kekse, _____ ich gebacken habe?
+- **d.2)** Wie schmecken dir die Kekse, _____ aus der teuren Bäckerei sind?
+- **e.1)** Das ist der Zug, _____ aus Hamburg kommt.
+- **e.2)** Das ist der Zug, _____ ich nehmen muss.
+- **f.1)** Er spricht mit den Leuten, _____ den Unfall gesehen haben.
+- **f.2)** Er spricht mit den Leuten, _____ der Film nicht gefallen hat.
+- **g.1)** Kennst du die Frau, _____ im III. Stock wohnt?
+- **g.2)** Kennst du die Frau, _____ dieser Schirm gehört?
+- **h.1)** Wo sind die Touristen, _____ das Gepäck hier gehört?
+- **h.2)** Wo sind die Touristen, _____ heute abreisen?
 
 ### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Das, Obst, das, du, im, Supermarkt, gekauft, hast, musst, du, auf, jeden, Fall, waschen.*
+*Verbinden Sie die Sätze mit einem eingeschobenen Relativsatz.*
 
-> 💡 **Beispiel:** Das Obst musst du auf jeden Fall waschen. Du hast es im Supermarkt gekauft.
+> 💡 **Beispiel:** Das Obst musst du auf jeden Fall waschen. Du hast es im Supermarkt gekauft.  
+> ➔ Das Obst, **das du im Supermarkt gekauft hast**, musst du auf jeden Fall waschen.
 
-- **a)** Der Zug steht auf Gleis 5. Er fährt nach München.
-- **b)** Die Künstlerin ist sehr berühmt. Sie hat das Porträt des Präsidenten gemalt.
-- **c)** Die Gäste beschweren sich. Das Essen hat ihnen nicht geschmeckt.
-- **d)** Die Touristen kommen aus Prag. Ich habe sie auf dem Rathausplatz getroffen.
-- **e)** Der Film war spannend. Ich habe ihn gestern gesehen.
-- **f)** *(Den)* Salat bringt uns der Ober erst jetzt. Ich habe ihn vor einer halben Stunde bestellt.
-- **g)** Die Leute kommen um 16.00 Uhr an. Ich will ihnen die Stadt zeigen.
+- **a)** Der Zug steht auf Gleis 5. Er fährt nach München.  
+  ➔ Der Zug, _____ , steht auf Gleis 5.
+- **b)** Die Künstlerin ist sehr berühmt. Sie hat das Porträt des Präsidenten gemalt.  
+  ➔ Die Künstlerin, _____ , ist sehr berühmt.
+- **c)** Die Gäste beschweren sich. Das Essen hat ihnen nicht geschmeckt.  
+  ➔ Die Gäste, _____ , beschweren sich.
+- **d)** Die Touristen kommen aus Prag. Ich habe sie auf dem Rathausplatz getroffen.  
+  ➔ Die Touristen, _____ , kommen aus Prag.
+- **e)** Der Film war spannend. Ich habe ihn gestern gesehen.  
+  ➔ Der Film, _____ , war spannend.
+- **f)** Den Salat bringt uns der Ober erst jetzt. Ich habe ihn vor einer halben Stunde bestellt.  
+  ➔ Den Salat, _____ , bringt uns der Ober erst jetzt.
+- **g)** Die Leute kommen um 16.00 Uhr an. Ich will ihnen die Stadt zeigen.  
+  ➔ Die Leute, _____ , kommen um 16.00 Uhr an.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 25)</strong></summary>
 
-> *Didaktische Lösungen für **6.2. Relativsätze**:*
+> *Didaktische Lösungen für **6.2. Relativsätze im Nominativ, Akkusativ & Dativ**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
+- **a.1)** `der` — *Maskulin Nominativ (Subjekt im Relativsatz: der Roman hat gute Kritiken bekommen)*
+- **a.2)** `den` — *Maskulin Akkusativ (Objekt im Relativsatz: Max hat den Roman gegeben)*
+- **b.1)** `das` — *Neutral Nominativ (Subjekt: das Auto ist neun Jahre alt)*
+- **b.2)** `das` — *Neutral Nominativ (Subjekt: das Auto hat einen Elektromotor)*
+- **c.1)** `den` — *Maskulin Akkusativ (Objekt: Paul hat den Schal geschenkt)*
+- **c.2)** `der` — *Maskulin Nominativ (Subjekt: der Schal hat mir gefallen)*
+- **d.1)** `die` — *Plural Akkusativ (Objekt: ich habe die Kekse gebacken)*
+- **d.2)** `die` — *Plural Nominativ (Subjekt: die Kekse sind aus der teuren Bäckerei)*
+- **e.1)** `der` — *Maskulin Nominativ (Subjekt: der Zug kommt aus Hamburg)*
+- **e.2)** `den` — *Maskulin Akkusativ (Objekt: ich muss den Zug nehmen)*
+- **f.1)** `die` — *Plural Nominativ (Subjekt: die Leute haben den Unfall gesehen)*
+- **f.2)** `denen` — *Plural Dativ (Dativobjekt bei gefallen: der Film hat den Leuten nicht gefallen)*
+- **g.1)** `die` — *Feminin Nominativ (Subjekt: die Frau wohnt im III. Stock)*
+- **g.2)** `der` — *Feminin Dativ (Dativobjekt bei gehören: der Schirm gehört der Frau)*
+- **h.1)** `denen` — *Plural Dativ (Dativobjekt bei gehören: das Gepäck gehört den Touristen)*
+- **h.2)** `die` — *Plural Nominativ (Subjekt: die Touristen reisen heute ab)*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `Den` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `der nach München fährt` — *Relativsatz im Nominativ Maskulin (der Zug fährt)*
+- **b)** `die das Porträt des Präsidenten gemalt hat` — *Relativsatz im Nominativ Feminin (die Künstlerin hat gemalt)*
+- **c)** `denen das Essen nicht geschmeckt hat` — *Relativsatz im Dativ Plural (das Essen hat den Gästen nicht geschmeckt)*
+- **d)** `die ich auf dem Rathausplatz getroffen habe` — *Relativsatz im Akkusativ Plural (ich habe die Touristen getroffen)*
+- **e)** `den ich gestern gesehen habe` — *Relativsatz im Akkusativ Maskulin (ich habe den Film gesehen)*
+- **f)** `den ich vor einer halben Stunde bestellt habe` — *Relativsatz im Akkusativ Maskulin (ich habe den Salat bestellt)*
+- **g)** `denen ich die Stadt zeigen will` — *Relativsatz im Dativ Plural (ich will den Leuten die Stadt zeigen)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 25)**](#workbooks:A2:25) mit automatischer Korrektur und Sofort-Feedback.
@@ -2743,84 +2719,87 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-26"></a>
-## 📄 Seite 26: 6.2. Relativsätze — Vertiefung & Übungen
+## 📄 Seite 26: 6.2. Relativsätze mit Präpositionen
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Relativsätze mit Präposition + Relativpronomen
-> • Paul ist ein Mensch, auf den du dich verlassen kannst.
-> • Das ist ein Hund, vor dem man sich fürchten muss.
-> • Das ist ein Problem, über das ich mit dir sprechen möchte.
-> • Relativsätze mit Verben + Präposition  ➔ Präposition + Relativpronomen
-
+> • **Relativsätze mit Präposition:** Verlangt das Verb eine feste Präposition (*warten auf, sich freuen über*), steht die Präposition direkt vor dem Relativpronomen (*auf den, mit der, vor dem*).
+> • **Dativ Plural:** Das Relativpronomen heißt **denen** (*mit denen, von denen*).
+> • **Verb am Satzende:** Im Nebensatz steht das Prädikat immer ganz am Ende.
 
 ### ✍️ Übung 3
-> 💡 **Beispiel:** Wann besucht dich dein Onkel,        von dem          du mir schon so viel erzählt hast?
+*Ergänzen Sie Präposition + Relativpronomen.*
 
-- **a)** Wie heißt die Kollegin, _______ du dich gerade unterhalten hast?
-- **b)** Was sind das für Leute, _______ du dich verabschiedet hast?
-- **c)** Lena ist wirklich ein Mädchen, _______ man sich verlassen kann.
-- **d)** Wem gehört die Katze, _______ du dich kümmern musst?
-- **e)** Mein Cousin ist ein Mensch, _______ man nur streiten kann.
-- **f)** Mein Nachbar hat einen Hund, _______ ich mich fürchte.
-- **g)** Auf diesem Foto siehst du meinen Opa, _______ ich mich kaum erinnern kann.
-- **h)** Von wem sind die Blumen, _______ du dich so gefreut hast?
-- **i)** Wann macht Clara die Reise, _______ sie immer spricht?
-- **j)** Wann beginnt der Kurs, _______ du dich angemeldet hast?
-- **k)** Ist das die Kollegin, _______ du dich sehr geärgert hast?
-- **l)** Ist Politik ein Thema, _______ er sich interessiert?
-- **m)** Wie war die Konferenz, _______ ihr teilgenommen habt?
-- **n)** Was war das für eine Geschichte, _______ ihr so gelacht habt?
-- **o)** Wann kommt der Bus,  _______ du wartest?
-- **p)** Hat Thomas einen Fehler gemacht, _______ er sich entschuldigen muss?
+> 💡 **Beispiel:** Wann besucht dich dein Onkel, **von dem** du mir schon so viel erzählt hast?
+
+**Wortbox:** `an den` • `an der` • `auf das` • `auf den` • `für das` • `für den` • `mit dem` • `mit der` • `über die` • `um die` • `von dem` • `von denen` • `von der` • `vor dem`
+
+- **a)** Wie heißt die Kollegin, _____ du dich gerade unterhalten hast?
+- **b)** Was sind das für Leute, _____ du dich verabschiedet hast?
+- **c)** Lena ist wirklich ein Mädchen, _____ man sich verlassen kann.
+- **d)** Wem gehört die Katze, _____ du dich kümmern musst?
+- **e)** Mein Cousin ist ein Mensch, _____ man nur streiten kann.
+- **f)** Mein Nachbar hat einen Hund, _____ ich mich fürchte.
+- **g)** Auf diesem Foto siehst du meinen Opa, _____ ich mich kaum erinnern kann.
+- **h)** Von wem sind die Blumen, _____ du dich so gefreut hast?
+- **i)** Wann macht Clara die Reise, _____ sie immer spricht?
+- **j)** Wann beginnt der Kurs, _____ du dich angemeldet hast?
+- **k)** Ist das die Kollegin, _____ du dich sehr geärgert hast?
+- **l)** Ist Politik ein Thema, _____ er sich interessiert?
+- **m)** Wie war die Konferenz, _____ ihr teilgenommen habt?
+- **n)** Was war das für eine Geschichte, _____ ihr so gelacht habt?
+- **o)** Wann kommt der Bus, _____ du wartest?
+- **p)** Hat Thomas einen Fehler gemacht, _____ er sich entschuldigen muss?
 
 ### ✍️ Übung 4
-*Wählen Sie aus dem Wortkasten: Professorin, Supermarkt, Kamera, Schuhverkäufer, Giraffe, Uhr, Ärztin, Schauspieler, Sofa*
+*Vervollständigen Sie die Definitionen mit dem passenden Relativpronomen (mit/ohne Präposition).*
 
-> 💡 **Beispiel:** Ein Supermarkt    ist ein Gebäude,   in dem    man Lebensmittel einkaufen kann.
+> 💡 **Beispiel:** Ein Supermarkt ist ein Gebäude, **in dem** man Lebensmittel einkaufen kann.
 
-- **a)** _______ ist ein Mann, _______ man im Theater oder im Kino sehen kann.
-- **b)** _______ ist ein Tier, _______ einen sehr langen Hals hat.
-- **c)** _______ ist eine Frau, _______ man gehen kann, wenn man krank ist.
-- **d)** _______ ist ein Möbel, _______ man sitzen oder liegen kann.
-- **e)** _______ ist ein Gerät, _______ man die Zeit messen kann.
-- **f)** _______ ist eine Frau, _______ an der Universität unterrichtet.
-- **g)** _______ ist ein Mann, _______ Schuhe verkauft.
-- **h)** _______ ist ein Apparat, _______ man fotografieren oder filmen kann.
+**Wortbox:** `auf dem` • `das` • `den` • `der` • `die` • `mit dem` • `zu der`
+
+- **a)** Ein Schauspieler ist ein Mann, _____ man im Theater oder im Kino sehen kann.
+- **b)** Eine Giraffe ist ein Tier, _____ einen sehr langen Hals hat.
+- **c)** Eine Ärztin ist eine Frau, _____ man gehen kann, wenn man krank ist.
+- **d)** Ein Sofa ist ein Möbel, _____ man sitzen oder liegen kann.
+- **e)** Eine Uhr ist ein Gerät, _____ man die Zeit messen kann.
+- **f)** Eine Professorin ist eine Frau, _____ an der Universität unterrichtet.
+- **g)** Ein Schuhverkäufer ist ein Mann, _____ Schuhe verkauft.
+- **h)** Eine Kamera ist ein Apparat, _____ man fotografieren oder filmen kann.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 26)</strong></summary>
 
-> *Didaktische Lösungen für **6.2. Relativsätze — Vertiefung & Übungen**:*
+> *Didaktische Lösungen für **6.2. Relativsätze mit Präpositionen**:*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `—` — Grammatische Ergänzung
+- **a)** `mit der` — *sich unterhalten mit + Dativ (feminin)*
+- **b)** `von denen` — *sich verabschieden von + Dativ (Plural)*
+- **c)** `auf das` — *sich verlassen auf + Akkusativ (neutral)*
+- **d)** `um die` — *sich kümmern um + Akkusativ (feminin)*
+- **e)** `mit dem` — *streiten mit + Dativ (maskulin)*
+- **f)** `vor dem` — *sich fürchten vor + Dativ (maskulin)*
+- **g)** `an den` — *sich erinnern an + Akkusativ (maskulin)*
+- **h)** `über die` — *sich freuen über + Akkusativ (Plural)*
+- **i)** `von der` — *sprechen von + Dativ (feminin)*
+- **j)** `für den` — *sich anmelden für + Akkusativ (maskulin)*
+- **k)** `über die` — *sich ärgern über + Akkusativ (feminin)*
+- **l)** `für das` — *sich interessieren für + Akkusativ (neutral)*
+- **m)** `an der` — *teilnehmen an + Dativ (feminin)*
+- **n)** `über die` — *lachen über + Akkusativ (feminin)*
+- **o)** `auf den` — *warten auf + Akkusativ (maskulin)*
+- **p)** `für den` — *sich entschuldigen für + Akkusativ (maskulin)*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `den` — *Maskulin Akkusativ (Objekt)*
+- **b)** `das` — *Neutral Nominativ (Subjekt)*
+- **c)** `zu der` — *Präposition zu + Dativ feminin*
+- **d)** `auf dem` — *Präposition auf + Dativ neutral*
+- **e)** `mit dem` — *Präposition mit + Dativ neutral*
+- **f)** `die` — *Feminin Nominativ (Subjekt)*
+- **g)** `der` — *Maskulin Nominativ (Subjekt)*
+- **h)** `mit dem` — *Präposition mit + Dativ maskulin*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 26)**](#workbooks:A2:26) mit automatischer Korrektur und Sofort-Feedback.
@@ -2830,82 +2809,100 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-27"></a>
-## 📄 Seite 27: 6.3. Plusquamperfekt
+
+## 📄 Seite 27: 6.3. Plusquamperfekt (Vorzeitigkeit)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 6.3. Plusquamperfekt
-> • Er bestellte das Tagesmenü. Vorher hatte er die Speisekarte gelesen.
-> • Lena machte eine Pause. Vorher war sie zehn Kilometer gewandert.
-> • Max hatte die Speisekarte gelesen, dann bestellte er das Tagesmenü.
-> • Lena war zehn Kilometer gewandert, dann machte sie eine Pause.
-> • jetzt
-> • Zeit
-> • Das Plusquamperfekt zeigt, dass eine Aktion vor einer anderen Aktion war.
-> • Vorzeitigkeit in der Vergangenheit ➔ hatte / war + Partizip II
-
+> • **Plusquamperfekt:** Drückt eine Handlung aus, die vor einer anderen Handlung in der Vergangenheit stattfand (**Vorzeitigkeit**).
+> • **Bildung:** *hatte / war* (im Präteritum) + *Partizip II* am Satzende.
+> • **Signalwörter:**
+>   - *... hatte gegessen, dann ...* (Ersthandlung im Plusquamperfekt, Zweithandlung im Präteritum)
+>   - *... bestellte ... . Vorher hatte er gelesen.* (Zweithandlung im Präteritum, dann Vorher + Ersthandlung im Plusquamperfekt)
 
 ### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Max, hatte, die, Rechnung, bezahlt, dann, verließ, er, das, Restaurant.*
+*Verbinden Sie die Sätze mit 'dann' und dem Plusquamperfekt.*
 
-> 💡 **Beispiel:** Max verließ das Restaurant. (Rechnung bezahlen)
+> 💡 **Beispiel:** Max verließ das Restaurant. (Rechnung bezahlen)  
+> ➔ Max **hatte die Rechnung bezahlt**, dann verließ er das Restaurant.
 
-- **a)** Eva bestellte Kaffee. (ein Stück Kuchen essen)
-- **b)** Theo zog sich an. (sich duschen)
-- **c)** Paul besuchte uns. (mich anrufen)
-- **d)** Lena ging zu Bett. (fernsehen)
-- **e)** Julia verließ das Haus. (alle Fenster schließen)
-- **f)** Robert nahm an der Prüfung teil. (sich sehr gut vorbereiten)
-- **g)** Yasmin fuhr in die Stadt. (mit ihrer Schwester telefonieren)
-- **h)** Wir setzten uns in ein Café. (zwei Stunden spazieren gehen)
+- **a)** Eva bestellte Kaffee. (ein Stück Kuchen essen)  
+  ➔ Eva _____ , dann bestellte sie Kaffee.
+- **b)** Theo zog sich an. (sich duschen)  
+  ➔ Theo _____ , dann zog er sich an.
+- **c)** Paul besuchte uns. (mich anrufen)  
+  ➔ Paul _____ , dann besuchte er uns.
+- **d)** Lena ging zu Bett. (fernsehen)  
+  ➔ Lena _____ , dann ging sie zu Bett.
+- **e)** Julia verließ das Haus. (alle Fenster schließen)  
+  ➔ Julia _____ , dann verließ sie das Haus.
+- **f)** Robert nahm an der Prüfung teil. (sich sehr gut vorbereiten)  
+  ➔ Robert _____ , dann nahm er an der Prüfung teil.
+- **g)** Yasmin fuhr in die Stadt. (mit ihrer Schwester telefonieren)  
+  ➔ Yasmin _____ , dann fuhr sie in die Stadt.
+- **h)** Wir setzten uns in ein Café. (zwei Stunden spazieren gehen)  
+  ➔ Wir _____ , dann setzten wir uns in ein Café.
 
 ### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Ich, schaltete, den, Computer, aus, vorher, hatte, ich, alle, Programme, geschlossen.*
+*Verbinden Sie die Sätze mit 'Vorher' und dem Plusquamperfekt.*
 
-> 💡 **Beispiel:** Ich schaltete den Computer aus. (alle Programme - schließen)
+> 💡 **Beispiel:** Ich schaltete den Computer aus. (alle Programme - schließen)  
+> ➔ Ich schaltete den Computer aus. Vorher **hatte ich alle Programme geschlossen**.
 
-- **a)** Kai ging zu Bett. (die Zähne — sich putzen)
-- **b)** Wir gingen ins Hotel. (die Stadt — besichtigen)
-- **c)** Ihr wart sehr vorsichtig. (eine schlechte Erfahrung — machen)
-- **d)** Endlich fand er seine Brille. (überall — suchen)
-- **e)** Wir durften weiterfahren. (unsere Pässe — zeigen)
-- **f)** Lena kaufte einen Laptop. (die Preise — vergleichen)
-- **g)** Paul zog nach Wien. (zwei Jahre — in Salzburg — leben)
-- **h)** Ich löschte das Licht. (noch ein paar Seiten — lesen)
-- **i)** Wir fanden endlich eine schöne Wohnung. (fast ein Jahr — suchen)
-- **j)** Theo kaufte sich ein neues Sofa. (umziehen)
-- **k)** Ich nannte der Taxifahrerin die Adresse. (einsteigen)
-- **l)** Man informierte die Polizei. (ein Unfall — passieren)
+- **a)** Kai ging zu Bett. (die Zähne — sich putzen)  
+  ➔ Kai ging zu Bett. Vorher _____ .
+- **b)** Wir gingen ins Hotel. (die Stadt — besichtigen)  
+  ➔ Wir gingen ins Hotel. Vorher _____ .
+- **c)** Ihr wart sehr vorsichtig. (eine schlechte Erfahrung — machen)  
+  ➔ Ihr wart sehr vorsichtig. Vorher _____ .
+- **d)** Endlich fand er seine Brille. (überall — suchen)  
+  ➔ Endlich fand er seine Brille. Vorher _____ .
+- **e)** Wir durften weiterfahren. (unsere Pässe — zeigen)  
+  ➔ Wir durften weiterfahren. Vorher _____ .
+- **f)** Lena kaufte einen Laptop. (die Preise — vergleichen)  
+  ➔ Lena kaufte einen Laptop. Vorher _____ .
+- **g)** Paul zog nach Wien. (zwei Jahre — in Salzburg — leben)  
+  ➔ Paul zog nach Wien. Vorher _____ .
+- **h)** Ich löschte das Licht. (noch ein paar Seiten — lesen)  
+  ➔ Ich löschte das Licht. Vorher _____ .
+- **i)** Wir fanden endlich eine schöne Wohnung. (fast ein Jahr — suchen)  
+  ➔ Wir fanden endlich eine schöne Wohnung. Vorher _____ .
+- **j)** Theo kaufte sich ein neues Sofa. (umziehen)  
+  ➔ Theo kaufte sich ein neues Sofa. Vorher _____ .
+- **k)** Ich nannte der Taxifahrerin die Adresse. (einsteigen)  
+  ➔ Ich nannte der Taxifahrerin die Adresse. Vorher _____ .
+- **l)** Man informierte die Polizei. (ein Unfall — passieren)  
+  ➔ Man informierte die Polizei. Vorher _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 27)</strong></summary>
 
-> *Didaktische Lösungen für **6.3. Plusquamperfekt**:*
+> *Didaktische Lösungen für **6.3. Plusquamperfekt (Vorzeitigkeit)**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `hatte ein Stück Kuchen gegessen` — *Plusquamperfekt mit haben*
+- **b)** `hatte sich geduscht` — *Reflexives Verb mit haben*
+- **c)** `hatte mich angerufen` — *Plusquamperfekt mit haben*
+- **d)** `hatte ferngesehen` — *Plusquamperfekt mit haben*
+- **e)** `hatte alle Fenster geschlossen` — *Plusquamperfekt mit haben*
+- **f)** `hatte sich sehr gut vorbereitet` — *Reflexives Verb mit haben*
+- **g)** `hatte mit ihrer Schwester telefoniert` — *Plusquamperfekt mit haben*
+- **h)** `waren zwei Stunden spazieren gegangen` — *Bewegungsverb mit sein*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `hatte er sich die Zähne geputzt` — *Reflexives Verb mit haben*
+- **b)** `hatten wir die Stadt besichtigt` — *Plusquamperfekt mit haben*
+- **c)** `hattet ihr eine schlechte Erfahrung gemacht` — *Plusquamperfekt mit haben*
+- **d)** `hatte er überall gesucht` — *Plusquamperfekt mit haben*
+- **e)** `hatten wir unsere Pässe gezeigt` — *Plusquamperfekt mit haben*
+- **f)** `hatte sie die Preise verglichen` — *Plusquamperfekt mit haben*
+- **g)** `hatte er zwei Jahre in Salzburg gelebt` — *Plusquamperfekt mit haben*
+- **h)** `hatte ich noch ein paar Seiten gelesen` — *Plusquamperfekt mit haben*
+- **i)** `hatten wir fast ein Jahr gesucht` — *Plusquamperfekt mit haben*
+- **j)** `war er umgezogen` — *Ortswechsel mit sein*
+- **k)** `war ich eingestiegen` — *Ortswechsel mit sein*
+- **l)** `war ein Unfall passiert` — *Zustandsänderung mit sein*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 27)**](#workbooks:A2:27) mit automatischer Korrektur und Sofort-Feedback.
@@ -2915,88 +2912,106 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-28"></a>
-## 📄 Seite 28: 7.1. Nebensätze - damit
+## 📄 Seite 28: 7.1. Finalsätze mit damit
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Lektion 7
-> • 7.1. Nebensätze - damit
-> • Nebensätze  mit damit ➔ Intention, Absicht, Zweck ➔ Frage: wozu?
-> • Max schreibt alles auf. Er will nichts vergessen.
-> • Max schreibt alles auf, damit er nichts vergisst.
-> • Lisa ruft den Ober. Er soll ihr die Speisekarte bringen.
-> • Lisa ruft den Ober, damit er ihr die Speisekarte bringt.
-
+> • **Finalsatz mit damit:** Drückt ein Ziel, eine Absicht oder einen Zweck aus (Frage: *Wozu?*).
+> • **Satzstellung:** Das Verb steht im Nebensatz immer am **Satzende**.
+> • **Modale Bedeutung:** *sollen* entfällt meist (*damit er versteht*), *können* wird oft beibehalten (*damit er lesen kann*).
 
 ### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Er, spricht, sehr, laut, damit, alle, Leute, ihn, hören.*
+*Verbinden Sie die Sätze mit 'damit'.*
 
-> 💡 **Beispiel:** Er spricht sehr laut. Alle Leute sollen ihn hören.
+> 💡 **Beispiel:** Er spricht sehr laut. Alle Leute sollen ihn hören.  
+> ➔ Er spricht sehr laut, **damit alle Leute ihn hören**.
 
-- **a)** Ich erkläre ihm die Grammatik sehr langsam. Er soll alles verstehen.
-- **b)** Max schließt das Fenster. Die Nachbarn sollen die Musik nicht hören.
-- **c)** Ich schreibe Carmen eine E — Mail. Sie soll mir mein Buch zurückgeben.
-- **d)** Paul gibt seiner Tochter den Wagenschlüssel. Sie soll die Tante vom Bahnhof abholen.
-- **e)** Martina schneidet das Obst in kleine Stücke. Ihre Tochter soll mehr davon essen.
-- **f)** Die Polizei macht Radarkontrollen. Die Autofahrer sollen nicht so schnell fahren.
+- **a)** Ich erkläre ihm die Grammatik sehr langsam. Er soll alles verstehen.  
+  ➔ Ich erkläre ihm die Grammatik sehr langsam, damit _____ .
+- **b)** Max schließt das Fenster. Die Nachbarn sollen die Musik nicht hören.  
+  ➔ Max schließt das Fenster, damit _____ .
+- **c)** Ich schreibe Carmen eine E-Mail. Sie soll mir mein Buch zurückgeben.  
+  ➔ Ich schreibe Carmen eine E-Mail, damit _____ .
+- **d)** Paul gibt seiner Tochter den Wagenschlüssel. Sie soll die Tante vom Bahnhof abholen.  
+  ➔ Paul gibt seiner Tochter den Wagenschlüssel, damit _____ .
+- **e)** Martina schneidet das Obst in kleine Stücke. Ihre Tochter soll mehr davon essen.  
+  ➔ Martina schneidet das Obst in kleine Stücke, damit _____ .
+- **f)** Die Polizei macht Radarkontrollen. Die Autofahrer sollen nicht so schnell fahren.  
+  ➔ Die Polizei macht Radarkontrollen, damit _____ .
 
 ### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Karl, stellt, sich, auf, einen, Stuhl, damit, er, alles, sehen, kann.*
+*Verbinden Sie die Sätze mit 'damit'.*
 
-> 💡 **Beispiel:** Karl stellt sich auf einen Stuhl. Er will alles sehen können.
+> 💡 **Beispiel:** Karl stellt sich auf einen Stuhl. Er will alles sehen können.  
+> ➔ Karl stellt sich auf einen Stuhl, **damit er alles sehen kann**.
 
-- **a)** Wir trainieren. Wir wollen fit bleiben.
-- **b)** Max braucht einen Termin beim Zahnarzt. Er will nicht so lange warten müssen.
-- **c)** Ich schreibe mir den Termin auf. Ich möchte ihn nicht vergessen.
-- **d)** *(Carmen)* trinkt viel Zitronentee. Sie will keine Erkältung kriegen.
-- **e)** *(Jochen)* spricht mit dem Autohändler. Er will den Wagen billiger bekommen.
-- **f)** Claudia macht einen Spanischkurs. Sie will die Sprache besser verstehen können.
+- **a)** Wir trainieren. Wir wollen fit bleiben.  
+  ➔ Wir trainieren, damit _____ .
+- **b)** Max braucht einen Termin beim Zahnarzt. Er will nicht so lange warten müssen.  
+  ➔ Max braucht einen Termin beim Zahnarzt, damit _____ .
+- **c)** Ich schreibe mir den Termin auf. Ich möchte ihn nicht vergessen.  
+  ➔ Ich schreibe mir den Termin auf, damit _____ .
+- **d)** Carmen trinkt viel Zitronentee. Sie will keine Erkältung kriegen.  
+  ➔ Carmen trinkt viel Zitronentee, damit _____ .
+- **e)** Jochen spricht mit dem Autohändler. Er will den Wagen billiger bekommen.  
+  ➔ Jochen spricht mit dem Autohändler, damit _____ .
+- **f)** Claudia macht einen Spanischkurs. Sie will die Sprache besser verstehen können.  
+  ➔ Claudia macht einen Spanischkurs, damit _____ .
 
 ### ✍️ Übung 3
-*Wählen Sie aus dem Wortkasten: Max, kauft, eine, Brille, damit, er, besser, lesen, kann.*
+*Verbinden Sie die Sätze mit 'damit' und 'können'.*
 
-> 💡 **Beispiel:** Max kauft eine Brille. Er kann dann besser lesen.
+> 💡 **Beispiel:** Max kauft eine Brille. Er kann dann besser lesen.  
+> ➔ Max kauft eine Brille, **damit er besser lesen kann**.
 
-- **a)** Petra macht einen Computerkurs. Sie kann dann einen besseren Job bekommen.
-- **b)** Jana fährt am Wochenende in die Berge. Sie kann sich dann erholen
-- **c)** *(Jürgen)* kauft ein Kochbuch. Er kann dann besser kochen.
-- **d)** Martha nimmt eine Schlaftablette. Sie kann dann besser einschlafen.
-- **e)** Tom macht einen Online — Kurs. Er kann dann zu Hause lernen.
-- **f)** Lisa braucht Ruhe. Sie kann sich dann besser konzentrieren.
-- **g)** Robert steht heute früher auf. Er kann dann vor dem Frühstück noch joggen.
-- **h)** Tamara fährt lieber mit dem Zug nach München. Sie kann dann unterwegs arbeiten.
+- **a)** Petra macht einen Computerkurs. Sie kann dann einen besseren Job bekommen.  
+  ➔ Petra macht einen Computerkurs, damit _____ .
+- **b)** Jana fährt am Wochenende in die Berge. Sie kann sich dann erholen.  
+  ➔ Jana fährt am Wochenende in die Berge, damit _____ .
+- **c)** Jürgen kauft ein Kochbuch. Er kann dann besser kochen.  
+  ➔ Jürgen kauft ein Kochbuch, damit _____ .
+- **d)** Martha nimmt eine Schlaftablette. Sie kann dann besser einschlafen.  
+  ➔ Martha nimmt eine Schlaftablette, damit _____ .
+- **e)** Tom macht einen Online-Kurs. Er kann dann zu Hause lernen.  
+  ➔ Tom macht einen Online-Kurs, damit _____ .
+- **f)** Lisa braucht Ruhe. Sie kann sich dann besser konzentrieren.  
+  ➔ Lisa braucht Ruhe, damit _____ .
+- **g)** Robert steht heute früher auf. Er kann dann vor dem Frühstück noch joggen.  
+  ➔ Robert steht heute früher auf, damit _____ .
+- **h)** Tamara fährt lieber mit dem Zug nach München. Sie kann dann unterwegs arbeiten.  
+  ➔ Tamara fährt lieber mit dem Zug nach München, damit _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 28)</strong></summary>
 
-> *Didaktische Lösungen für **7.1. Nebensätze - damit**:*
+> *Didaktische Lösungen für **7.1. Finalsätze mit damit**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
+- **a)** `er alles versteht` — *Finalsatz mit damit*
+- **b)** `die Nachbarn die Musik nicht hören` — *Finalsatz mit damit*
+- **c)** `sie mir mein Buch zurückgibt` — *Finalsatz mit damit*
+- **d)** `sie die Tante vom Bahnhof abholt` — *Finalsatz mit damit*
+- **e)** `ihre Tochter mehr davon isst` — *Finalsatz mit damit*
+- **f)** `die Autofahrer nicht so schnell fahren` — *Finalsatz mit damit*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `Carmen` — Grammatische Ergänzung
-- **e)** `Jochen` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
+- **a)** `wir fit bleiben` — *Finalsatz mit damit*
+- **b)** `er nicht so lange warten muss` — *Finalsatz mit damit*
+- **c)** `ich ihn nicht vergesse` — *Finalsatz mit damit*
+- **d)** `sie keine Erkältung kriegt` — *Finalsatz mit damit*
+- **e)** `er den Wagen billiger bekommt` — *Finalsatz mit damit*
+- **f)** `sie die Sprache besser verstehen kann` — *Finalsatz mit damit*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `Jürgen` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `sie einen besseren Job bekommen kann` — *Finalsatz mit können am Satzende*
+- **b)** `sie sich erholen kann` — *Reflexives Verb + können am Satzende*
+- **c)** `er besser kochen kann` — *Finalsatz mit können am Satzende*
+- **d)** `sie besser einschlafen kann` — *Finalsatz mit können am Satzende*
+- **e)** `er zu Hause lernen kann` — *Finalsatz mit können am Satzende*
+- **f)** `sie sich besser konzentrieren kann` — *Reflexives Verb + können am Satzende*
+- **g)** `er vor dem Frühstück noch joggen kann` — *Finalsatz mit können am Satzende*
+- **h)** `sie unterwegs arbeiten kann` — *Finalsatz mit können am Satzende*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 28)**](#workbooks:A2:28) mit automatischer Korrektur und Sofort-Feedback.
@@ -3006,74 +3021,56 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-29"></a>
+
 ## 📄 Seite 29: 7.2. Unbestimmte Pronomen und Artikel
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 7.2. Unbestimmte Pronomen und Artikel
-> • Artikel stehen zusammen mit einem Nomen.
-> • Pronomen stehen allein ohne ein Nomen.
-> • unbestimmte Artikel / Negation unbestimmte Pronomen / Negation
-> • mask. fem. neutr. Plural mask. fem. neutr. Plural
-> • Nom. [k]ein [k]eine [k]ein keine Nom. [k]einer [k]eine [k]ein[e]s welche / keine
-> • Akk. [k]einen [k]eine  [k]ein keine Akk. [k]einen [k]eine [k]ein[e]s welche / keine
-> • Dat. [k]einem [k]einer [k]einem keinen Dat. [k]einem [k]einer [k]einem welchen / keinen
-> • Gen. [k]eines [k]einer [k]eines keiner Gen. [k]eines [k]einer [k]eines welcher / keiner
-> • keine Endung ➔ Nom. mask. / neutr.
-> • ➔ Akk. neutr.      immer mit Endung
-> • Ist hier in der Nähe ein Supermarkt? - In der Badstraße ist einer.
-> • Hat einer meine Brille gesehen? - Nein keiner hat sie gesehen.
-> • Kaufst du Äpfel? - Ja, ich kaufe welche.
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Kann man hier telefonieren?
-> • man (nur Nominativ) bezeichnet viele unbestimmte Personen oder die Allgemeinheit.
-> • Hast du jemand(en) gesehen? - Ich habe niemand(en) gesehen.
-> • jemand benennt eine oder mehrere unbekannte Personen. Die Negation ist niemand.
-> • jemand / niemand kann man im Dat. und Akk. deklinieren. ➔ jemand(em) / niemand(en)
-> • Im Genitiv muss man jemand / niemand deklinieren. ➔ jemandes / niemandes
-
+> • **Indefinitpronomen:** Ersetzen ein Nomen (*einer, eine, eins, welche*).
+> • **man:** Unbestimmte Allgemeinheit (nur im Nominativ Singular).
+> • **jemand / niemand:** Für unbestimmte Personen (*jemand, jemanden, niemand*).
 
 ### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Lebensmittelgeschäfte, Wo, gibt, es, hier, Lebensmittelgeschäfte?, Dort, sind, welche*
+*Antworten Sie mit dem passenden Indefinitpronomen (einer, eine, eins, welche).*
 
-> 💡 **Beispiel:** e: Sportplatz    Wo gibt es hier   einen   Sportplatz? - Dort ist   einer  .
+> 💡 **Beispiel:** Sportplatz ➔ Wo gibt es hier einen Sportplatz? — Dort ist **einer**.
 
-- **a)** Tankstelle
-- **b)** Supermarkt
-- **c)** Museum
-- **d)** Schnellimbiss
-- **e)** Krankenhaus
-- **f)** Bank
-- **g)** Reisebüro
-- **h)** Bushaltestelle
-- **i)** Buchladen
-- **j)** Restaurants
-- **k)** Werkstatt
-- **l)** Taxis
+**Wortbox:** `eine` • `einer` • `eins` • `welche`
+
+- **a)** Tankstelle ➔ Wo gibt es hier eine Tankstelle? — Dort ist _____ .
+- **b)** Supermarkt ➔ Wo gibt es hier einen Supermarkt? — Dort ist _____ .
+- **c)** Museum ➔ Wo gibt es hier ein Museum? — Dort ist _____ .
+- **d)** Schnellimbiss ➔ Wo gibt es hier einen Schnellimbiss? — Dort ist _____ .
+- **e)** Krankenhaus ➔ Wo gibt es hier ein Krankenhaus? — Dort ist _____ .
+- **f)** Bank ➔ Wo gibt es hier eine Bank? — Dort ist _____ .
+- **g)** Reisebüro ➔ Wo gibt es hier ein Reisebüro? — Dort ist _____ .
+- **h)** Bushaltestelle ➔ Wo gibt es hier eine Bushaltestelle? — Dort ist _____ .
+- **i)** Buchladen ➔ Wo gibt es hier einen Buchladen? — Dort ist _____ .
+- **j)** Restaurants ➔ Wo gibt es hier Restaurants? — Dort sind _____ .
+- **k)** Werkstatt ➔ Wo gibt es hier eine Werkstatt? — Dort ist _____ .
+- **l)** Taxis ➔ Wo gibt es hier Taxis? — Dort sind _____ .
 
 ### ✍️ Übung 2
-*Ergänzen Sie.*
+*Ergänzen Sie man, jemand oder niemand.*
 
-- **a)** Kann mir mal _______ helfen?
-- **b)** Kann _______ die Burg auch im Winter besichtigen?
-- **c)** Kann _______ in diesem Geschäft spanischen Wein kaufen?
-- **d)** Alle waren still. _______ hat ein Wort gesagt.
-- **e)** Ich habe angerufen, aber _______ hat sich gemeldet.
-- **f)** Es war so dunkel, dass _______ nichts sehen konnte.
-- **g)** Die Party war langweilig. _______ hat getanzt.
-- **h)** Weil ich den Weg nicht gekannt habe, habe ich _______ gefragt.
-- **i)** _______ ist so klug wie Inge.
-- **j)** Hat _______ meine Tasche gesehen?
-- **k)** Wenn _______ sich bei Kälte nicht warm anzieht, kann _______ eine Grippe bekommen.
-- **l)** Es hat geklopft. Kann mal _______ die Tür aufmachen?
-- **m)** Wenn _______ nicht aufpasst, kann _______ viele Fehler machen.
-- **n)** Wenn du das allein nicht machen kannst, musst du _______ um Hilfe bitten.
-- **o)** Joanas hat so lange gerufen, bis ihn _______ gehört hat.
+**Wortbox:** `jemand` • `jemanden` • `man` • `Niemand` • `niemand`
+
+- **a)** Kann mir mal _____ helfen?
+- **b)** Kann _____ die Burg auch im Winter besichtigen?
+- **c)** Kann _____ in diesem Geschäft spanischen Wein kaufen?
+- **d)** Alle waren still. _____ hat ein Wort gesagt.
+- **e)** Ich habe angerufen, aber _____ hat sich gemeldet.
+- **f)** Es war so dunkel, dass _____ nichts sehen konnte.
+- **g)** Die Party war langweilig. _____ hat getanzt.
+- **h)** Weil ich den Weg nicht gekannt habe, habe ich _____ gefragt.
+- **i)** _____ ist so klug wie Inge.
+- **j)** Hat _____ meine Tasche gesehen?
+- **k)** Wenn _____ sich bei Kälte nicht warm anzieht, kann man eine Grippe bekommen.
+- **l)** Es hat geklopft. Kann mal _____ die Tür aufmachen?
+- **m)** Wenn _____ nicht aufpasst, kann man viele Fehler machen.
+- **n)** Wenn du das allein nicht machen kannst, musst du _____ um Hilfe bitten.
+- **o)** Joanas hat so lange gerufen, bis ihn _____ gehört hat.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 29)</strong></summary>
@@ -3081,35 +3078,35 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **7.2. Unbestimmte Pronomen und Artikel**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `eine` — *Tankstelle (feminin)*
+- **b)** `einer` — *Supermarkt (maskulin)*
+- **c)** `eins` — *Museum (neutral)*
+- **d)** `einer` — *Schnellimbiss (maskulin)*
+- **e)** `eins` — *Krankenhaus (neutral)*
+- **f)** `eine` — *Bank (feminin)*
+- **g)** `eins` — *Reisebüro (neutral)*
+- **h)** `eine` — *Bushaltestelle (feminin)*
+- **i)** `einer` — *Buchladen (maskulin)*
+- **j)** `welche` — *Restaurants (Plural)*
+- **k)** `eine` — *Werkstatt (feminin)*
+- **l)** `welche` — *Taxis (Plural)*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
+- **a)** `jemand` — *Subjekt: jemand*
+- **b)** `man` — *Allgemeinheit: man*
+- **c)** `man` — *Allgemeinheit: man*
+- **d)** `Niemand` — *Satzanfang Verneinung*
+- **e)** `niemand` — *Verneinung: niemand*
+- **f)** `man` — *Allgemeinheit: man*
+- **g)** `Niemand` — *Satzanfang Verneinung*
+- **h)** `jemanden` — *Akkusativobjekt: jemanden*
+- **i)** `Niemand` — *Satzanfang Verneinung*
+- **j)** `jemand` — *Subjekt Frage: jemand*
+- **k)** `man` — *Allgemeinheit: man*
+- **l)** `jemand` — *Subjekt: jemand*
+- **m)** `man` — *Allgemeinheit: man*
+- **n)** `jemanden` — *Akkusativobjekt: jemanden*
+- **o)** `jemand` — *Subjekt: jemand*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 29)**](#workbooks:A2:29) mit automatischer Korrektur und Sofort-Feedback.
@@ -3119,86 +3116,98 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-30"></a>
-## 📄 Seite 30: 7.3. Nebensätze - Fragesätze
+## 📄 Seite 30: 7.3. Indirekte Fragesätze (w-Fragen & ob)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 7.3. Nebensätze - Fragesätze
-> • Wann fährt der Zug ab? - Ich weiß nicht, wann der Zug abfährt.
-> • Nebensätze können mit einem Fragewort beginnen.
-> • Wann kommt Paul an? - Ich weiß nicht, wann Paul ankommt.
-> • In einem Nebensatz steht das Verb am ENDE. (trennbare Verben ➔ zusammen)
-> • ich weiß
-> • du weißt
-> • er / sie / es weiß
-> • wir wissen
-> • ihr wisst
-> • sie / Sie wissen
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Fragesätze ohne Fragewort  Nebensatz  ➔  Konjunktion ob
-
+> • **Indirekte W-Fragen:** Nebensatz eingeleitet durch Fragewort (*wer, was, wann, wo, wohin*). Verb steht am **Satzende**.
+> • **Indirekte Ja/Nein-Fragen:** Eingeleitet durch die Konjunktion **ob**. Verb steht am **Satzende**.
 
 ### ✍️ Übung 1
-*Bilden Sie einen Nebensatz mit Fragewort.*
+*Bilden Sie einen indirekten Fragesatz im Präsens.*
 
-> 💡 **Beispiel:** Wann    fährt der Zug ab? -  Ich weiß nicht,   wann   der Zug abfährt.
+> 💡 **Beispiel:** Wann fährt der Zug ab? ➔ Ich weiß nicht, **wann der Zug abfährt**.
 
-- **a)** _______ ruft in der Firma an? e) _______ stellt die Firma her?
-- **b)** _______ steht Theo am Morgen auf?  f) _______ holt dich vom Bahnhof ab?
-- **c)** _______ kauft Carmen heute ein? g) _______ lädt dein Kollege ein?
-- **d)** _______ fährt nach München mit? h) _______ fängt der Film an?
+- **a)** Wer ruft in der Firma an? ➔ Ich weiß nicht, _____ .
+- **b)** Wann steht Theo am Morgen auf? ➔ Ich weiß nicht, _____ .
+- **c)** Wo kauft Carmen heute ein? ➔ Ich weiß nicht, _____ .
+- **d)** Wer fährt nach München mit? ➔ Ich weiß nicht, _____ .
+- **e)** Was stellt die Firma her? ➔ Ich weiß nicht, _____ .
+- **f)** Wer holt dich vom Bahnhof ab? ➔ Ich weiß nicht, _____ .
+- **g)** Wen lädt dein Kollege ein? ➔ Ich weiß nicht, _____ .
+- **h)** Wann fängt der Film an? ➔ Ich weiß nicht, _____ .
 
 ### ✍️ Übung 2
-*Bilden Sie einen Nebensatz mit Fragewort.*
+*Bilden Sie einen indirekten Fragesatz im Perfekt.*
 
-> 💡 **Beispiel:** warum - Tom - so spät - kommen  >  Ich weiß nicht,   warum   Tom so spät gekommen ist.
+> 💡 **Beispiel:** warum — Tom — so spät — kommen ➔ Ich weiß nicht, **warum Tom so spät gekommen ist**.
 
-- **a)** wo — Lena — sein e) wohin — Clara — fahren
-- **b)** wann — Max — abreisen  f) wie lange — Film — dauern
-- **c)** wem — Jana — helfen g) was — Maria — verlieren
-- **d)** wie viel — Stefan — bezahlen h) wen — Hatem — treffen
+- **a)** wo — Lena — sein ➔ Ich weiß nicht, _____ .
+- **b)** wann — Max — abreisen ➔ Ich weiß nicht, _____ .
+- **c)** wem — Jana — helfen ➔ Ich weiß nicht, _____ .
+- **d)** wie viel — Stefan — bezahlen ➔ Ich weiß nicht, _____ .
+- **e)** wohin — Clara — fahren ➔ Ich weiß nicht, _____ .
+- **f)** wie lange — der Film — dauern ➔ Ich weiß nicht, _____ .
+- **g)** was — Maria — verlieren ➔ Ich weiß nicht, _____ .
+- **h)** wen — Hatem — treffen ➔ Ich weiß nicht, _____ .
 
 ### ✍️ Übung 3
-*Bilden Sie einen Nebensatz mit ob.*
+*Bilden Sie einen indirekten Fragesatz mit 'ob'.*
 
-> 💡 **Beispiel:** Kommt Peter heute? -  Ich habe keine Ahnung,   ob   Peter heute kommt.
+> 💡 **Beispiel:** Kommt Peter heute? ➔ Ich habe keine Ahnung, **ob Peter heute kommt**.
 
-- **a)** Geht Martina heute Abend ins Kino? g) Fährt Frau Berg nach Rom?
-- **b)** Trinkt Thomas Weißwein? h) Nimmt man dich mit?
-- **c)** Holt Paul mich vom Flughafen ab?  i) Wird das Wetter morgen besser?
-- **d)** Kann man hier kostenlos parken?  j) Kann man diesen Computer noch reparieren?
-- **e)** Kauft sich Lisa ein Fahrrad? k) Geht dein Kollege nächste Woche in Urlaub?
-- **f)** Spielt Max morgen Fußball?  l) Hat Kai die Nachricht bekommen?
+- **a)** Geht Martina heute Abend ins Kino? ➔ Ich habe keine Ahnung, _____ .
+- **b)** Trinkt Thomas Weißwein? ➔ Ich habe keine Ahnung, _____ .
+- **c)** Holt Paul mich vom Flughafen ab? ➔ Ich habe keine Ahnung, _____ .
+- **d)** Kann man hier kostenlos parken? ➔ Ich habe keine Ahnung, _____ .
+- **e)** Kauft sich Lisa ein Fahrrad? ➔ Ich habe keine Ahnung, _____ .
+- **f)** Spielt Max morgen Fußball? ➔ Ich habe keine Ahnung, _____ .
+- **g)** Fährt Frau Berg nach Rom? ➔ Ich habe keine Ahnung, _____ .
+- **h)** Nimmt man dich mit? ➔ Ich habe keine Ahnung, _____ .
+- **i)** Wird das Wetter morgen besser? ➔ Ich habe keine Ahnung, _____ .
+- **j)** Kann man diesen Computer noch reparieren? ➔ Ich habe keine Ahnung, _____ .
+- **k)** Geht dein Kollege nächste Woche in Urlaub? ➔ Ich habe keine Ahnung, _____ .
+- **l)** Hat Kai die Nachricht bekommen? ➔ Ich habe keine Ahnung, _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 30)</strong></summary>
 
-> *Didaktische Lösungen für **7.3. Nebensätze - Fragesätze**:*
+> *Didaktische Lösungen für **7.3. Indirekte Fragesätze**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
+- **a)** `wer in der Firma anruft` — *Indirekte Frage*
+- **b)** `wann Theo am Morgen aufsteht` — *Indirekte Frage*
+- **c)** `wo Carmen heute einkauft` — *Indirekte Frage*
+- **d)** `wer nach München mitfährt` — *Indirekte Frage*
+- **e)** `was die Firma herstellt` — *Indirekte Frage*
+- **f)** `wer dich vom Bahnhof abholt` — *Indirekte Frage*
+- **g)** `wen dein Kollege einlädt` — *Indirekte Frage*
+- **h)** `wann der Film anfängt` — *Indirekte Frage*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
+- **a)** `wo Lena gewesen ist` — *Perfekt mit sein*
+- **b)** `wann Max abgereist ist` — *Perfekt mit sein*
+- **c)** `wem Jana geholfen hat` — *Perfekt mit haben*
+- **d)** `wie viel Stefan bezahlt hat` — *Perfekt mit haben*
+- **e)** `wohin Clara gefahren ist` — *Perfekt mit sein*
+- **f)** `wie lange der Film gedauert hat` — *Perfekt mit haben*
+- **g)** `was Maria verloren hat` — *Perfekt mit haben*
+- **h)** `wen Hatem getroffen hat` — *Perfekt mit haben*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
+- **a)** `ob Martina heute Abend ins Kino geht` — *Nebensatz mit ob*
+- **b)** `ob Thomas Weißwein trinkt` — *Nebensatz mit ob*
+- **c)** `ob Paul mich vom Flughafen abholt` — *Nebensatz mit ob*
+- **d)** `ob man hier kostenlos parken kann` — *Nebensatz mit ob*
+- **e)** `ob sich Lisa ein Fahrrad kauft` — *Nebensatz mit ob*
+- **f)** `ob Max morgen Fußball spielt` — *Nebensatz mit ob*
+- **g)** `ob Frau Berg nach Rom fährt` — *Nebensatz mit ob*
+- **h)** `ob man dich mitnimmt` — *Nebensatz mit ob*
+- **i)** `ob das Wetter morgen besser wird` — *Nebensatz mit ob*
+- **j)** `ob man diesen Computer noch reparieren kann` — *Nebensatz mit ob*
+- **k)** `ob dein Kollege nächste Woche in Urlaub geht` — *Nebensatz mit ob*
+- **l)** `ob Kai die Nachricht bekommen hat` — *Nebensatz mit ob*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 30)**](#workbooks:A2:30) mit automatischer Korrektur und Sofort-Feedback.
@@ -3208,97 +3217,92 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-31"></a>
-## 📄 Seite 31: 8.1. Demonstrativartikel und Demonstrativpronomen
+
+## 📄 Seite 31: 8.1. Demonstrativartikel & Pronomen
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Lektion 8
-> • 8.1. Demonstrativartikel und Demonstrativpronomen
-> • dieser, diese, dieses
-> • Gehört dir dieser Schirm? - Nein, dieser hier.
-> • Gefallen dir diese Schuhe? - Nein, aber diese gefallen mir.
-> • maskulin feminin neutral Plural
-> • Nominativ
-> • Akkusativ
-> • Dativ
-> • dieser diese dieses diese
-> • diesen diese dieses diese
-> • diesem dieser diesem diesen
-
+> • **Demonstrativartikel:** *dieser, diese, dieses* weisen auf ein bestimmtes Nomen hin.
+> • **Deklination:** Endungen wie der bestimmte Artikel (*dieser, diese, dieses, diese; diesen, diesem, dieser*).
+> • **Schwache Adjektivendung:** Nach *dieser* folgt die schwache Adjektivendung (*-e* bzw. *-en*).
 
 ### ✍️ Übung 1
-*Bilden Sie eine Frage im Präsens.*
+*Setzen Sie die passende Form von 'dieser' ein.*
 
-> 💡 **Beispiel:** Rechnung - bezahlen  Wann bezahlst du   diese   Rechnung?
+> 💡 **Beispiel:** Rechnung — bezahlen ➔ Wann bezahlst du **diese** Rechnung?
 
-- **a)** Reise — buchen
-- **b)** Leute — helfen
-- **c)** Schloss — besichtigen
-- **d)** Geschichte — erzählen
-- **e)** Leute — informieren
-- **f)** SMS — schreiben
-- **g)** Experte — fragen
-- **h)** Freundin — anrufen
-- **i)** Herr — zuhören
-- **j)** Kollege — sprechen
-- **k)** Dinge — sich kümmern
-- **l)** Frau — sich bedanken
+**Wortbox:** `diese` • `diesem` • `diesen` • `dieser` • `dieses`
+
+- **a)** Reise — buchen ➔ Wann buchst du _____ Reise?
+- **b)** Leute — helfen ➔ Wann hilfst du _____ Leuten?
+- **c)** Schloss — besichtigen ➔ Wann besichtigst du _____ Schloss?
+- **d)** Geschichte — erzählen ➔ Wann erzählst du _____ Geschichte?
+- **e)** Leute — informieren ➔ Wann informierst du _____ Leute?
+- **f)** SMS — schreiben ➔ Wann schreibst du _____ SMS?
+- **g)** Experte — fragen ➔ Wann fragst du _____ Experten?
+- **h)** Freundin — anrufen ➔ Wann rufst du _____ Freundin an?
+- **i)** Herr — zuhören ➔ Wann hörst du _____ Herrn zu?
+- **j)** Kollege — sprechen ➔ Wann sprichst du mit _____ Kollegen?
+- **k)** Dinge — sich kümmern ➔ Wann kümmerst du dich um _____ Dinge?
+- **l)** Frau — sich bedanken ➔ Wann bedankst du dich bei _____ Frau?
 
 ### ✍️ Übung 2
-*Bilden Sie eine Frage im Perfekt.*
+*Setzen Sie die passende Form von 'dieser' vor das Adjektiv.*
 
-> 💡 **Beispiel:** lustig - Film - sehen  Hast du   diesen   lustigen Film gesehen?
+> 💡 **Beispiel:** lustig — Film — sehen ➔ Hast du **diesen** lustigen Film gesehen?
 
-- **a)** kaputt — Fahrrad — reparieren
-- **b)** scharf — Suppe — probieren
-- **c)** lang — Brief — schreiben
-- **d)** schwer — Rucksack — tragen
-- **e)** schwierig — Fragen — beantworten
-- **f)** langweilig — Roman — lesen
-- **g)** süß — Früchte — essen
-- **h)** jung — Journalist — antworten
-- **i)** nett — Frau — grüßen
-- **j)** bekannt — Experte — vertraut
-- **k)** klug — Kollegin — glauben
-- **l)** freundlich — Herr — kennen
-- **m)** sympathisch — Studentin — einladen
-- **n)** arm — Mensch — helfen
+**Wortbox:** `diese` • `diesem` • `diesen` • `dieser` • `dieses`
+
+- **a)** kaputt — Fahrrad ➔ Hast du _____ kaputte Fahrrad repariert?
+- **b)** scharf — Suppe ➔ Hast du _____ scharfe Suppe probiert?
+- **c)** lang — Brief ➔ Hast du _____ langen Brief geschrieben?
+- **d)** schwer — Rucksack ➔ Hast du _____ schweren Rucksack getragen?
+- **e)** schwierig — Fragen ➔ Hast du _____ schwierigen Fragen beantwortet?
+- **f)** langweilig — Roman ➔ Hast du _____ langweiligen Roman gelesen?
+- **g)** süß — Früchte ➔ Hast du _____ süßen Früchte gegessen?
+- **h)** jung — Journalist ➔ Hast du _____ jungen Journalisten geantwortet?
+- **i)** nett — Frau ➔ Hast du _____ nette Frau gegrüßt?
+- **j)** bekannt — Experte ➔ Hast du _____ bekannten Experten vertraut?
+- **k)** klug — Kollegin ➔ Hast du _____ klugen Kollegin geglaubt?
+- **l)** freundlich — Herr ➔ Hast du _____ freundlichen Herrn gekannt?
+- **m)** sympathisch — Studentin ➔ Hast du _____ sympathische Studentin eingeladen?
+- **n)** arm — Mensch ➔ Hast du _____ armen Menschen geholfen?
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 31)</strong></summary>
 
-> *Didaktische Lösungen für **8.1. Demonstrativartikel und Demonstrativpronomen**:*
+> *Didaktische Lösungen für **8.1. Demonstrativartikel & Pronomen**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `diese` — *Reise (feminin Akkusativ)*
+- **b)** `diesen` — *Leute (Plural Dativ)*
+- **c)** `dieses` — *Schloss (neutral Akkusativ)*
+- **d)** `diese` — *Geschichte (feminin Akkusativ)*
+- **e)** `diese` — *Leute (Plural Akkusativ)*
+- **f)** `diese` — *SMS (feminin Akkusativ)*
+- **g)** `diesen` — *Experte (maskulin Akkusativ)*
+- **h)** `diese` — *Freundin (feminin Akkusativ)*
+- **i)** `diesem` — *Herr (maskulin Dativ)*
+- **j)** `diesem` — *Kollege (maskulin Dativ)*
+- **k)** `diese` — *Dinge (Plural Akkusativ)*
+- **l)** `dieser` — *Frau (feminin Dativ)*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
+- **a)** `dieses` — *Fahrrad (neutral Akkusativ)*
+- **b)** `diese` — *Suppe (feminin Akkusativ)*
+- **c)** `diesen` — *Brief (maskulin Akkusativ)*
+- **d)** `diesen` — *Rucksack (maskulin Akkusativ)*
+- **e)** `diese` — *Fragen (Plural Akkusativ)*
+- **f)** `diesen` — *Roman (maskulin Akkusativ)*
+- **g)** `diese` — *Früchte (Plural Akkusativ)*
+- **h)** `diesem` — *Journalist (maskulin Dativ)*
+- **i)** `diese` — *Frau (feminin Akkusativ)*
+- **j)** `diesem` — *Experte (maskulin Dativ)*
+- **k)** `dieser` — *Kollegin (feminin Dativ)*
+- **l)** `diesen` — *Herr (maskulin Akkusativ)*
+- **m)** `diese` — *Studentin (feminin Akkusativ)*
+- **n)** `diesem` — *Mensch (maskulin Dativ)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 31)**](#workbooks:A2:31) mit automatischer Korrektur und Sofort-Feedback.
@@ -3308,77 +3312,61 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-32"></a>
-## 📄 Seite 32: 8.2. Futur I
+
+## 📄 Seite 32: 8.2. Futur I (werden + Infinitiv)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 8.2. Futur I
-> • werden + Infinitiv Singular Plural
-> • ich werde kochen wir werden kochen
-> • du wirst kochen ihr werdet kochen
-> • er / sie / es wird kochen sie / Sie werden kochen
-> • Futur I - nicht nur für die Zukunft
-> • Zukunft ➔ Was wird sein? / Was wird passieren?
-> • meist: Präsens (+ Zeitinformation): Ich rufe dich (bald / nächste Woche) an. / Unser Gast reist morgen ab.
-> • selten: Futur I Ich werde dich anrufen. / Unser Gast wird (morgen) abreisen.
-> • Plan / Vorsatz / Versprechen ➔ Was nimmt sich jemand vor? / Was verspricht jemand?
-> • Futur I [+ sicher / bestimmt etc.] Ich werde mich sicher gut vorbereiten. / Ich werde dir bestimmt helfen.
-> • auch: Präsens + sicher / bestimmt etc. Ich bereite mich sicher gut vor. / Ich helfe dir bestimmt.
-> • Vermutung ➔ Was kann vielleicht jetzt oder morgen sein / passieren?
-> • Adverb: vielleicht / wahrscheinlich Wahrscheinlich / Vielleicht bleibt Jana heute noch / morgen noch in Wien.
-> • Futur I [+ wohl] Jana wird [wohl] heute noch / morgen noch in Wien bleiben.
-> • Aufforderung ➔ Was soll jemand machen?
-> • Imperativ: Hör endlich zu! / Seid jetzt ruhig!
-> • Futur I + wohl Wirst du wohl endlich zuhören! / Werdet ihr jetzt wohl ruhig sein!
-
+> • **Futur I:** *werden* (konjugiert) + *Infinitiv* am Satzende.
+> • **Funktionen:** Plan/Versprechen (*werde sicher aufräumen*), Vermutung (*wird wohl stimmen*), energische Aufforderung (*Wirst du wohl ruhig sein!*).
 
 ### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Vorsatz, Versprechen, Antworten, Sie, mit, Futur, sicher.*
+*Antworten Sie mit einem Versprechen im Futur I (+ sicher).*
 
-> 💡 **Beispiel:** Wann räumst du endlich dein Zimmer auf? - Ich   werde   morgen sicher mein Zimmer   aufräumen  .
+> 💡 **Beispiel:** Wann räumst du endlich dein Zimmer auf? ➔ Ich **werde morgen sicher mein Zimmer aufräumen**.
 
-- **a)** Wann putzt du endlich die Fenster?
-- **b)** Wann entscheidest du dich endlich?
-- **c)** Wann reparierst du endlich das Fahrrad?
-- **d)** Wann suchst du dir endlich eine neue Wohnung?
-- **e)** Wann hörst du endlich mit dem Rauchen auf?
-- **f)** Wann rufst du endlich den Handwerker an?
-- **g)** Wann kaufst du dir endlich ein Wörterbuch?
-- **h)** Wann gibst du mir endlich mein Werkzeug zurück?
+- **a)** Wann putzt du endlich die Fenster? ➔ Ich _____ .
+- **b)** Wann entscheidest du dich endlich? ➔ Ich _____ .
+- **c)** Wann reparierst du endlich das Fahrrad? ➔ Ich _____ .
+- **d)** Wann suchst du dir endlich eine neue Wohnung? ➔ Ich _____ .
+- **e)** Wann hörst du endlich mit dem Rauchen auf? ➔ Ich _____ .
+- **f)** Wann rufst du endlich den Handwerker an? ➔ Ich _____ .
+- **g)** Wann kaufst du dir endlich ein Wörterbuch? ➔ Ich _____ .
+- **h)** Wann gibst du mir endlich mein Werkzeug zurück? ➔ Ich _____ .
 
 ### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Vermutung, Bilden, Sie, Sätze, mit, Futur, wohl.*
+*Bilden Sie Sätze der Vermutung im Futur I (+ wohl).*
 
-> 💡 **Beispiel:** Besuchst du Thomas bald? - Ich   werde   ihn (Thomas) wohl bald   besuchen  .
+> 💡 **Beispiel:** Besuchst du Thomas bald? ➔ Ich **werde ihn wohl bald besuchen**.
 
-- **a)** Rufst du deine Cousine an?
-- **b)** Arbeitest du am Wochenende?
-- **c)** Fährt deine Kollegin nach Wien?
-- **d)** Braucht ihr meine Hilfe?
-- **e)** Bringst du Max zum Flughafen?
-- **f)** Lädst du Amira zur Party ein?
-- **g)** Fliegt ihr nach Kairo?
-- **h)** Schafft Hatem die Prüfung?
-- **i)** Geht ihr heute Abend ins Kino?
-- **j)** Wohnt Sandra jetzt in Köln?
-- **k)** Nimmst du an dieser Reise teil?
-- **l)** Kaufst du dir dieses E — Bike?
+- **a)** Rufst du deine Cousine an? ➔ Ich _____ .
+- **b)** Arbeitest du am Wochenende? ➔ Ich _____ .
+- **c)** Fährt deine Kollegin nach Wien? ➔ Sie _____ .
+- **d)** Braucht ihr meine Hilfe? ➔ Wir _____ .
+- **e)** Bringst du Max zum Flughafen? ➔ Ich _____ .
+- **f)** Lädst du Amira zur Party ein? ➔ Ich _____ .
+- **g)** Fliegt ihr nach Kairo? ➔ Wir _____ .
+- **h)** Schafft Hatem die Prüfung? ➔ Er _____ .
+- **i)** Geht ihr heute Abend ins Kino? ➔ Wir _____ .
+- **j)** Wohnt Sandra jetzt in Köln? ➔ Sie _____ .
+- **k)** Nimmst du an dieser Reise teil? ➔ Ich _____ .
+- **l)** Kaufst du dir dieses E-Bike? ➔ Ich _____ .
 
 ### ✍️ Übung 3
-*Wählen Sie aus dem Wortkasten: Aufforderung, Bilden, Sie, Sätze, mit, Futur, wohl.*
+*Bilden Sie eine energische Aufforderung mit Futur I + wohl.*
 
-> 💡 **Beispiel:** Sag endlich die Wahrheit! - Wirst   du wohl   endlich die Wahrheit   sagen  !
+> 💡 **Beispiel:** Sag endlich die Wahrheit! ➔ **Wirst du wohl endlich die Wahrheit sagen!**
 
-- **a)** Hör endlich auf mich!
-- **b)** Sei endlich leise!
-- **c)** Lauft schneller!
-- **d)** Räum endlich dein Zimmer auf.
-- **e)** *(Fahren)* Sie endlich hier weg!
-- **f)** Bring endlich den Müll raus!
-- **g)** Lasst die Katze in Ruhe!
-- **h)** *(Bezahlen)* Sie endlich Ihre Miete!
-- **i)** Geht endlich schlafen, Kinder!
+- **a)** Hör endlich auf mich! ➔ _____
+- **b)** Sei endlich leise! ➔ _____
+- **c)** Lauft schneller! ➔ _____
+- **d)** Räum endlich dein Zimmer auf. ➔ _____
+- **e)** Fahren Sie endlich hier weg! ➔ _____
+- **f)** Bring endlich den Müll raus! ➔ _____
+- **g)** Lasst die Katze in Ruhe! ➔ _____
+- **h)** Bezahlen Sie endlich Ihre Miete! ➔ _____
+- **i)** Geht endlich schlafen, Kinder! ➔ _____
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 32)</strong></summary>
@@ -3386,39 +3374,39 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **8.2. Futur I**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `werde morgen sicher die Fenster putzen` — *Futur I mit werden*
+- **b)** `werde mich morgen sicher entscheiden` — *Futur I reflexiv*
+- **c)** `werde morgen sicher das Fahrrad reparieren` — *Futur I*
+- **d)** `werde mir morgen sicher eine neue Wohnung suchen` — *Futur I*
+- **e)** `werde morgen sicher mit dem Rauchen aufhören` — *Futur I*
+- **f)** `werde morgen sicher den Handwerker anrufen` — *Futur I*
+- **g)** `werde mir morgen sicher ein Wörterbuch kaufen` — *Futur I*
+- **h)** `werde dir morgen sicher dein Werkzeug zurückgeben` — *Futur I*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `werde sie wohl bald anrufen` — *Vermutung Futur I*
+- **b)** `werde wohl am Wochenende arbeiten` — *Vermutung Futur I*
+- **c)** `wird wohl nach Wien fahren` — *Vermutung Futur I*
+- **d)** `werden wohl deine Hilfe brauchen` — *Vermutung Futur I*
+- **e)** `werde ihn wohl zum Flughafen bringen` — *Vermutung Futur I*
+- **f)** `werde sie wohl zur Party einladen` — *Vermutung Futur I*
+- **g)** `werden wohl nach Kairo fliegen` — *Vermutung Futur I*
+- **h)** `wird die Prüfung wohl schaffen` — *Vermutung Futur I*
+- **i)** `werden wohl heute Abend ins Kino gehen` — *Vermutung Futur I*
+- **j)** `wird wohl jetzt in Köln wohnen` — *Vermutung Futur I*
+- **k)** `werde wohl an dieser Reise teilnehmen` — *Vermutung Futur I*
+- **l)** `werde mir wohl dieses E-Bike kaufen` — *Vermutung Futur I*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `Fahren` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `Bezahlen` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
+- **a)** `Wirst du wohl endlich auf mich hören!` — *Aufforderung*
+- **b)** `Wirst du wohl endlich leise sein!` — *Aufforderung*
+- **c)** `Werdet ihr wohl schneller laufen!` — *Aufforderung*
+- **d)** `Wirst du wohl endlich dein Zimmer aufräumen!` — *Aufforderung*
+- **e)** `Werden Sie wohl endlich hier wegfahren!` — *Aufforderung*
+- **f)** `Wirst du wohl endlich den Müll rausbringen!` — *Aufforderung*
+- **g)** `Werdet ihr wohl die Katze in Ruhe lassen!` — *Aufforderung*
+- **h)** `Werden Sie wohl endlich Ihre Miete bezahlen!` — *Aufforderung*
+- **i)** `Werdet ihr wohl endlich schlafen gehen!` — *Aufforderung*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 32)**](#workbooks:A2:32) mit automatischer Korrektur und Sofort-Feedback.
@@ -3428,70 +3416,67 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-33"></a>
-## 📄 Seite 33: 8.3. Pauschale Negation
+
+## 📄 Seite 33: 8.3. Pauschale Negation (Satznegation)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 8.3. Pauschale Negation
-> • Bei der pauschalen Negation (auch Satznegation) wird die ganze Aussage verneint.
-> • Als Negationswort gebraucht man nicht. Die Betonung des Satzes liegt auf nicht.
-> • Kaufst du diese Wohnung? - Nein, ich kaufe diese Wohnung nicht.
-> • Entscheidet ihr euch heute? - Nein, wir entscheiden uns heute nicht.
-> • Oft steht die pauschale Negation weit hinten im Satz, d. h. die meisten Satzglieder stehen vor   nicht  .
-> • Folgende Satzglieder stehen in der Regel hinter nicht:
-> • 1. Teile, die zum Prädikat gehören
-> • Präfixe: Ich rief Paul nicht an.
-> • Infinitive: Ich kann dir nicht helfen.
-> • Partizip II: Ich habe Max nicht eingeladen.
-> • prädikative Nomen: Wir spielen heute nicht Fußball.
-> • prädikative Adjektive: Das ist wirklich nicht wichtig.
-> • adverbiale Adjektive: Dieser Zug fährt nicht schnell.
-> • 2. Ergänzungen (meistens hinter nicht)
-> • Präpositionalobjekt: Martin wartet nicht auf uns.
-> • 3. Angaben* (meistens hinter nicht)
-> • modal: Ich tanze nicht gern.
-> • lokal: Die Kinder spielen nicht draußen.
-> • Negation bei „noch”  ←➔ „nicht mehr”  / „schon” ←➔ „noch nicht”
-> • Schläft Max noch? - Nein, er schläft nicht mehr.
-> • Ist die Arbeit schon fertig? - Nein, sie ist noch nicht fertig.
-> • * temporale Angaben mit Chronologie (z. B. früher - jetzt - später / gestern - heute - morgen) stehen vor nicht.
-> • Ihr arbeitet morgen nicht. / Max geht jetzt nicht nach Hause.
-> • temporale Angaben ohne Chronologie (z. B. immer / pünktlich / täglich) stehen hinter nicht.
-> • Der Zug kommt nicht pünktlich. / Wir treffen uns nicht täglich.
-> • Übung
-> • Bilden Sie eine pauschale Negation.
-> • Beispiel: Spielst du gerne Karten? -   Nein, ich spiele nicht gerne Karten.
-> • a) Nimmt Max an der Konferenz teil?
-> • b) Lädst du deinen Kollegen ein?
-> • c) Besucht deine Tante dich heute?
-> • d) Liest du jetzt die Zeitung?
-> • e) Hat Jana sich um diese Stelle beworben?
-> • f) Sind die Gäste sofort abgereist?
-> • g) Wolltest du dich von ihnen verabschieden?
-> • h) Darf man diese Produkte importieren?
-> • i) Kommen diese Früchte aus Tunesien?
-> • j) Kann Peter die Arbeit rechtzeitig erledigen?
-> • k) Konnte der Experte dir das Problem erklären?
-> • l) Sind solche Aktionen notwendig?
-> • m) Habt ihr die Bücher schon zurückgegeben?
-> • n) Dauert die Fahrt noch lange?
-> • o) Muss man den Kollegen noch informieren?
-> • p) Habt ihr die Zimmer schon reserviert?
-> • q) Möchtest du noch bleiben?
-> • r) Sind die Arbeiten schon fertig?
+> • **Satznegation mit nicht:** Verneint den gesamten Satz; steht vor trennbaren Präfixen, Infinitiven, Partizip II und Prädikatsadjektiven.
+> • **Negationspaare:**
+>   - *schon* ➔ **noch nicht** (*schon fertig? ➔ noch nicht fertig*)
+>   - *noch* ➔ **nicht mehr** (*schläft er noch? ➔ schläft nicht mehr*)
 
+### ✍️ Übung 1
+*Bilden Sie die Verneinung mit nicht, noch nicht oder nicht mehr.*
+
+> 💡 **Beispiel:** Spielst du gerne Karten? ➔ Nein, **ich spiele nicht gerne Karten**.
+
+- **a)** Nimmt Max an der Konferenz teil? ➔ Nein, _____ .
+- **b)** Lädst du deinen Kollegen ein? ➔ Nein, _____ .
+- **c)** Besucht deine Tante dich heute? ➔ Nein, _____ .
+- **d)** Liest du jetzt die Zeitung? ➔ Nein, _____ .
+- **e)** Hat Jana sich um diese Stelle beworben? ➔ Nein, _____ .
+- **f)** Sind die Gäste sofort abgereist? ➔ Nein, _____ .
+- **g)** Wolltest du dich von ihnen verabschieden? ➔ Nein, _____ .
+- **h)** Darf man diese Produkte importieren? ➔ Nein, _____ .
+- **i)** Kommen diese Früchte aus Tunesien? ➔ Nein, _____ .
+- **j)** Kann Peter die Arbeit rechtzeitig erledigen? ➔ Nein, _____ .
+- **k)** Konnte der Experte dir das Problem erklären? ➔ Nein, _____ .
+- **l)** Sind solche Aktionen notwendig? ➔ Nein, _____ .
+- **m)** Habt ihr die Bücher schon zurückgegeben? ➔ Nein, _____ .
+- **n)** Dauert die Fahrt noch lange? ➔ Nein, _____ .
+- **o)** Muss man den Kollegen noch informieren? ➔ Nein, _____ .
+- **p)** Habt ihr die Zimmer schon reserviert? ➔ Nein, _____ .
+- **q)** Möchtest du noch bleiben? ➔ Nein, _____ .
+- **r)** Sind die Arbeiten schon fertig? ➔ Nein, _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 33)</strong></summary>
 
 > *Didaktische Lösungen für **8.3. Pauschale Negation**:*
 
-*(Auf dieser Seite befinden sich Einführungstexte, Inhaltsverzeichnisse oder freie Textübungen.)*
+#### Übung 1
+- **a)** `er nimmt nicht an der Konferenz teil` — *Negation vor Präfix*
+- **b)** `ich lade meinen Kollegen nicht ein` — *Negation vor Präfix*
+- **c)** `sie besucht mich heute nicht` — *Satznegation*
+- **d)** `ich lese jetzt nicht die Zeitung` — *Satznegation*
+- **e)** `sie hat sich nicht um diese Stelle beworben` — *Negation vor Präposition*
+- **f)** `sie sind nicht sofort abgereist` — *Negation vor Adverb*
+- **g)** `ich wollte mich nicht von ihnen verabschieden` — *Negation vor Präposition*
+- **h)** `man darf diese Produkte nicht importieren` — *Negation vor Infinitiv*
+- **i)** `sie kommen nicht aus Tunesien` — *Negation vor Präposition*
+- **j)** `er kann die Arbeit nicht rechtzeitig erledigen` — *Negation vor Infinitiv*
+- **k)** `er konnte mir das Problem nicht erklären` — *Negation vor Infinitiv*
+- **l)** `solche Aktionen sind nicht notwendig` — *Negation vor Adjektiv*
+- **m)** `wir haben die Bücher noch nicht zurückgegeben` — *schon ➔ noch nicht*
+- **n)** `die Fahrt dauert nicht mehr lange` — *noch ➔ nicht mehr*
+- **o)** `man muss den Kollegen nicht mehr informieren` — *noch ➔ nicht mehr*
+- **p)** `wir haben die Zimmer noch nicht reserviert` — *schon ➔ noch nicht*
+- **q)** `ich möchte nicht mehr bleiben` — *noch ➔ nicht mehr*
+- **r)** `die Arbeiten sind noch nicht fertig` — *schon ➔ noch nicht*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 33)**](#workbooks:A2:33) mit automatischer Korrektur und Sofort-Feedback.
 
 </details>
-
----

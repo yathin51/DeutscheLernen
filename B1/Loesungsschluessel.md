@@ -50,124 +50,113 @@
 ---
 
 <a id="seite-3"></a>
-## 📄 Seite 3: Verben - Vergangenheit (Seite 3)
+## 📄 Seite 3: 1.1. Schwache Verben (Seite 3)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:3)
 
 ### ✍️ Übung 1
-> 💡 **Beispiel:** lange arbeiten     Hast   du lange   gearbeitet  ?
+*Bilden Sie eine Frage im Perfekt (du-Form).*
 
-- **a)** Paul fragen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** ihm glauben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Geld wechseln**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** *(den)* Termin ändern**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** ihm den Weg zeigen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** die Stühle zählen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** die Rechnung kontrollieren**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** *(den)* Flug buchen**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **i)** Paul gratulieren**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** das Paket von der Post holen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** ihm antworten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** die Wohnung putzen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **m)** auf den Bus warten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **n)** mit den Kollegen reden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **o)** sich vor dem Hund fürchten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **p)** *(ihnen)* folgen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **q)** nach Griechenland reisen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **r)** in den Alpen wandern**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Paul fragen ➔ Hast du Paul **gefragt**?
+  - 💡 **Lösung:** `gefragt` — *fragen ➔ gefragt*
+- **b)** ihm glauben ➔ Hast du ihm **geglaubt**?
+  - 💡 **Lösung:** `geglaubt` — *glauben ➔ geglaubt*
+- **c)** Geld wechseln ➔ Hast du Geld **gewechselt**?
+  - 💡 **Lösung:** `gewechselt` — *wechseln ➔ gewechselt*
+- **d)** den Termin ändern ➔ Hast du den Termin **geändert**?
+  - 💡 **Lösung:** `geändert` — *ändern ➔ geändert*
+- **e)** ihm den Weg zeigen ➔ Hast du ihm den Weg **gezeigt**?
+  - 💡 **Lösung:** `gezeigt` — *zeigen ➔ gezeigt*
+- **f)** die Stühle zählen ➔ Hast du die Stühle **gezählt**?
+  - 💡 **Lösung:** `gezählt` — *zählen ➔ gezählt*
+- **g)** die Rechnung kontrollieren ➔ Hast du die Rechnung **kontrolliert**?
+  - 💡 **Lösung:** `kontrolliert` — *kontrollieren (-ieren) ➔ kontrolliert*
+- **h)** den Flug buchen ➔ Hast du den Flug **gebucht**?
+  - 💡 **Lösung:** `gebucht` — *buchen ➔ gebucht*
+- **i)** Paul gratulieren ➔ Hast du Paul **gratuliert**?
+  - 💡 **Lösung:** `gratuliert` — *gratulieren (-ieren) ➔ gratuliert*
+- **j)** das Paket von der Post holen ➔ Hast du das Paket von der Post **geholt**?
+  - 💡 **Lösung:** `geholt` — *holen ➔ geholt*
+- **k)** ihm antworten ➔ Hast du ihm **geantwortet**?
+  - 💡 **Lösung:** `geantwortet` — *antworten (Dentalstamm) ➔ geantwortet*
+- **l)** die Wohnung putzen ➔ Hast du die Wohnung **geputzt**?
+  - 💡 **Lösung:** `geputzt` — *putzen ➔ geputzt*
+- **m)** auf den Bus warten ➔ Hast du auf den Bus **gewartet**?
+  - 💡 **Lösung:** `gewartet` — *warten (Dentalstamm) ➔ gewartet*
+- **n)** mit den Kollegen reden ➔ Hast du mit den Kollegen **geredet**?
+  - 💡 **Lösung:** `geredet` — *reden (Dentalstamm) ➔ geredet*
+- **o)** sich vor dem Hund fürchten ➔ Hast du dich vor dem Hund **gefürchtet**?
+  - 💡 **Lösung:** `gefürchtet` — *fürchten (Dentalstamm) ➔ gefürchtet*
+- **p)** ihnen folgen ➔ Bist du ihnen **gefolgt**?
+  - 💡 **Lösung:** `gefolgt` — *folgen (Perfekt mit sein) ➔ gefolgt*
+- **q)** nach Griechenland reisen ➔ Bist du nach Griechenland **gereist**?
+  - 💡 **Lösung:** `gereist` — *reisen (Perfekt mit sein) ➔ gereist*
+- **r)** in den Alpen wandern ➔ Bist du in den Alpen **gewandert**?
+  - 💡 **Lösung:** `gewandert` — *wandern (Perfekt mit sein) ➔ gewandert*
 
 ---
 
 <a id="seite-4"></a>
-## 📄 Seite 4: 1.2. Starke Verben (Seite 4)
+
+## 📄 Seite 4: 1.2. Starke & gemischte Verben im Perfekt (Seite 4)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:4)
 
 ### ✍️ Übung 2
-*Bilden Sie Sätze im Perfekt.*
+*Bilden Sie das Partizip II der starken Verben.*
 
-> 💡 **Beispiel:** ein Nachtisch - nehmen    Du   hast   einen Nachtisch   genommen  .
-
-- **a)** das Steak - braten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** der Rucksack - tragen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** die Sahne - schlagen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** ein Fisch - fangen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** die Datei - schließen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** die Blumen - gießen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** der Roman - lesen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** der Ball - werfen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** ein Sandwich - essen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** dein Cousin - treffen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** die Schuhe - binden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** eine Lösung - finden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **m)** ein Lied - singen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **n)** ein Tee - trinken**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **o)** der Flur - streichen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **p)** eine SMS - schreiben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **q)** das Brot - schneiden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **r)** die Karotten - reiben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **1.** 3. Gemischte Verben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** das Steak — braten ➔ Du hast das Steak **gebraten**.
+  - 💡 **Lösung:** `gebraten` — *braten ➔ gebraten*
+- **b)** der Rucksack — tragen ➔ Du hast den Rucksack **getragen**.
+  - 💡 **Lösung:** `getragen` — *tragen ➔ getragen*
+- **c)** die Sahne — schlagen ➔ Du hast die Sahne **geschlagen**.
+  - 💡 **Lösung:** `geschlagen` — *schlagen ➔ geschlagen*
+- **d)** ein Fisch — fangen ➔ Du hast einen Fisch **gefangen**.
+  - 💡 **Lösung:** `gefangen` — *fangen ➔ gefangen*
+- **e)** die Datei — schließen ➔ Du hast die Datei **geschlossen**.
+  - 💡 **Lösung:** `geschlossen` — *schließen ➔ geschlossen*
+- **f)** die Blumen — gießen ➔ Du hast die Blumen **gegossen**.
+  - 💡 **Lösung:** `gegossen` — *gießen ➔ gegossen*
+- **g)** der Roman — lesen ➔ Du hast den Roman **gelesen**.
+  - 💡 **Lösung:** `gelesen` — *lesen ➔ gelesen*
+- **h)** der Ball — werfen ➔ Du hast den Ball **geworfen**.
+  - 💡 **Lösung:** `geworfen` — *werfen ➔ geworfen*
+- **i)** ein Sandwich — essen ➔ Du hast ein Sandwich **gegessen**.
+  - 💡 **Lösung:** `gegessen` — *essen ➔ gegessen*
+- **j)** dein Cousin — treffen ➔ Du hast deinen Cousin **getroffen**.
+  - 💡 **Lösung:** `getroffen` — *treffen ➔ getroffen*
+- **k)** die Schuhe — binden ➔ Du hast die Schuhe **gebunden**.
+  - 💡 **Lösung:** `gebunden` — *binden ➔ gebunden*
+- **l)** eine Lösung — finden ➔ Du hast eine Lösung **gefunden**.
+  - 💡 **Lösung:** `gefunden` — *finden ➔ gefunden*
+- **m)** ein Lied — singen ➔ Du hast ein Lied **gesungen**.
+  - 💡 **Lösung:** `gesungen` — *singen ➔ gesungen*
+- **n)** ein Tee — trinken ➔ Du hast einen Tee **getrunken**.
+  - 💡 **Lösung:** `getrunken` — *trinken ➔ getrunken*
+- **o)** der Flur — streichen ➔ Du hast den Flur **gestrichen**.
+  - 💡 **Lösung:** `gestrichen` — *streichen ➔ gestrichen*
+- **p)** eine SMS — schreiben ➔ Du hast eine SMS **geschrieben**.
+  - 💡 **Lösung:** `geschrieben` — *schreiben ➔ geschrieben*
+- **q)** das Brot — schneiden ➔ Du hast das Brot **geschnitten**.
+  - 💡 **Lösung:** `geschnitten` — *schneiden ➔ geschnitten*
+- **r)** die Karotten — reiben ➔ Du hast die Karotten **gerieben**.
+  - 💡 **Lösung:** `gerieben` — *reiben ➔ gerieben*
 
 ### ✍️ Übung 3
-> 💡 **Beispiel:** das Paket - bringen    Sie   hat   bestimmt das Paket   gebracht.
+*Bilden Sie das Partizip II der gemischten Verben.*
 
-- **a)** die Adresse - nennen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** die Antwort -  wissen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** viele Grüße - senden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** die Journalistin - kennen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** an die Verabredung - denken**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** nicht auf die Straße - rennen !**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **1)** *(aber)* liegen > gelegen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **2)** *(aber)* gehen > gegangen / stehen > gestanden**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **3)** *(aber)* bitten > gebeten; sitzen > gesessen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **4)** *(aber)* heißen > geheißen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** die Adresse — nennen ➔ Sie hat bestimmt die Adresse **genannt**.
+  - 💡 **Lösung:** `genannt` — *nennen ➔ genannt*
+- **b)** die Antwort — wissen ➔ Sie hat bestimmt die Antwort **gewusst**.
+  - 💡 **Lösung:** `gewusst` — *wissen ➔ gewusst*
+- **c)** viele Grüße — senden ➔ Sie hat bestimmt viele Grüße **gesandt**.
+  - 💡 **Lösung:** `gesandt` — *senden ➔ gesandt (oder gesendet)*
+- **d)** die Journalistin — kennen ➔ Sie hat bestimmt die Journalistin **gekannt**.
+  - 💡 **Lösung:** `gekannt` — *kennen ➔ gekannt*
+- **e)** an die Verabredung — denken ➔ Sie hat bestimmt an die Verabredung **gedacht**.
+  - 💡 **Lösung:** `gedacht` — *denken ➔ gedacht*
+- **f)** nicht auf die Straße — rennen ➔ Sie ist bestimmt nicht auf die Straße **gerannt**!
+  - 💡 **Lösung:** `gerannt` — *rennen (Perfekt mit sein) ➔ gerannt*
 
 ---
 
