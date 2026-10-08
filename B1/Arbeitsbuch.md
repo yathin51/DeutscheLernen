@@ -210,126 +210,113 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-5"></a>
-## 📄 Seite 5: 1.5. Trennbare Verben
+## 📄 Seite 5: 1.4. Nicht trennbare & 1.5. Trennbare Verben im Perfekt
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 1.4. Nicht trennbare Verben
-> • besuchen beschreiben nicht trennbare Präfixe
-> • besuch-t beschrieb-en z. B. be-, ent-, er-, ge-, miss-, ver-, zer-
-> • nicht trennbare Verben ➔ ohne ge
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • zu- ge -mach-t auf- ge -schrieb-en z. B. ab-, an-, auf-, ein-, her-, mit-, vor-, zu-, zurück-
-> • trennbare Verben ➔   ge  nach dem Präfix
-
+> • **Nicht trennbare Verben:** *be-, ent-, er-, ge-, miss-, ver-, zer-* bilden das Partizip II **ohne ge-** (*besucht, gewonnen, verziehen*).
+> • **Trennbare Verben:** Präfixe wie *ab-, an-, auf-, ein-, mit-, vor-, zu-, zurück-* trennen sich; das Element **-ge-** steht **nach dem Präfix** (*auf-ge-räumt, zu-ge-hört, an-ge-rufen*).
+> • **Perfekt mit sein:** Verben der Orts- oder Zustandsänderung (*abgefahren, aufgestanden, eingestiegen*).
 
 ### ✍️ Übung 4
-> 💡 **Beispiel:** etw. bestellen  Du hast etwas   bestellt.
+*Bilden Sie das Partizip II der nicht trennbaren Verben (ohne ge-).*
 
-- **a)** etw. erzählen
-- **b)** etw. gewinnen
-- **c)** jdn. erkennen
-- **d)** jdm. verzeihen
-- **e)** etw. zerreißen
-- **f)** jdm. misstrauen
-- **g)** jdn. besuchen
-- **h)** etw. verlieren
-- **i)** etw. vergessen
-- **j)** etw. besichtigen
-- **k)** sich beeilen
-- **l)** sich entschuldigen
+- **a)** etw. erzählen ➔ Du hast etwas _____ .
+- **b)** etw. gewinnen ➔ Du hast etwas _____ .
+- **c)** jdn. erkennen ➔ Du hast jemanden _____ .
+- **d)** jdm. verzeihen ➔ Du hast jemandem _____ .
+- **e)** etw. zerreißen ➔ Du hast etwas _____ .
+- **f)** jdm. misstrauen ➔ Du hast jemandem _____ .
+- **g)** jdn. besuchen ➔ Du hast jemanden _____ .
+- **h)** etw. verlieren ➔ Du hast etwas _____ .
+- **i)** etw. vergessen ➔ Du hast etwas _____ .
+- **j)** etw. besichtigen ➔ Du hast etwas _____ .
+- **k)** sich beeilen ➔ Du hast dich _____ .
+- **l)** sich entschuldigen ➔ Du hast dich _____ .
 
 ### ✍️ Übung 5
-*Wählen Sie aus dem Wortkasten: zumachen, aufschreiben, trennbare, Präfixe*
+*Ergänzen Sie das Partizip II der nicht trennbaren Verben in den Fragen.*
 
-> 💡 **Beispiel:** besuchen Hast du deinen Onkel besucht?
-
-- **a)** *(empfehlen)* Wer _______ dir das Hotel _______?
-- **b)** *(zerbrechen)* _______ du die Vase _______?
-- **c)** *(beginnen)* _______ der Film schon _______?
-- **d)** *(genießen)* _______ du deinen Urlaub _______?
-- **e)** *(bezahlen)* _______ ihr die Gebühren schon _______?
-- **f)** *(entschuldigen)* _______ Martin sich bei dir _______?
-- **g)** *(versprechen)* Was _______ Jana dir _______?
-- **1.** 5. Trennbare Verben
+- **a)** *(empfehlen)* Wer hat dir das Hotel _____ ?
+- **b)** *(zerbrechen)* Hast du die Vase _____ ?
+- **c)** *(beginnen)* Hat der Film schon _____ ?
+- **d)** *(genießen)* Hast du deinen Urlaub _____ ?
+- **e)** *(bezahlen)* Habt ihr die Gebühren schon _____ ?
+- **f)** *(entschuldigen)* Hat Martin sich bei dir _____ ?
+- **g)** *(versprechen)* Was hat Jana dir _____ ?
 
 ### ✍️ Übung 6
-> 💡 **Beispiel:** etw. zurückgeben  Du hast etwas zurück  ge  geben.  > Du hast ... / Du bist ...
+*Bilden Sie das Partizip II der trennbaren Verben (-ge- nach dem Präfix).*
 
-- **a)** etw. vorschlagen
-- **b)** jdn. anrufen
-- **c)** *(gestern)* abfahren
-- **d)** etw. herstellen
-- **e)** sich anziehen
-- **f)** etw. mitnehmen
-- **g)** früh aufstehen
-- **h)** jdm. zuhören
-- **i)** schnell einsteigen
+- **a)** etw. vorschlagen ➔ Du hast etwas _____ .
+- **b)** jdn. anrufen ➔ Du hast jemanden _____ .
+- **c)** gestern abfahren ➔ Du bist gestern _____ .
+- **d)** etw. herstellen ➔ Du hast etwas _____ .
+- **e)** sich anziehen ➔ Du hast dich _____ .
+- **f)** etw. mitnehmen ➔ Du hast etwas _____ .
+- **g)** früh aufstehen ➔ Du bist früh _____ .
+- **h)** jdm. zuhören ➔ Du hast jemandem _____ .
+- **i)** schnell einsteigen ➔ Du bist schnell _____ .
 
 ### ✍️ Übung 7
-> 💡 **Beispiel:** zumachen Hast du das Fenster zugemach  t?
+*Ergänzen Sie das Partizip II der trennbaren Verben im Perfekt.*
 
-- **a)** *(abfahren)* Der Zug _______ schon _______.
-- **b)** *(mitbringen)* _______ Clara ein Geschenk _______?
-- **c)** *(aufräumen)* Ich _______ den Keller _______.
-- **d)** *(einsteigen)* _______ du in den Zug _______?
-- **e)** *(anbieten)* Du _______ mir deine Hilfe _______.
-- **f)** *(vorstellen)* _______ sich eigentlich der neue Kollege schon _______?
-- **g)** *(einschreiben)* Max _______ sich an der Universität in Leipzig _______.
+- **a)** *(abfahren)* Der Zug ist schon _____ .
+- **b)** *(mitbringen)* Hat Clara ein Geschenk _____ ?
+- **c)** *(aufräumen)* Ich habe den Keller _____ .
+- **d)** *(einsteigen)* Bist du in den Zug _____ ?
+- **e)** *(anbieten)* Du hast mir deine Hilfe _____ .
+- **f)** *(vorstellen)* Hat sich eigentlich der neue Kollege schon _____ ?
+- **g)** *(einschreiben)* Max hat sich an der Universität in Leipzig _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 5)</strong></summary>
 
-> *Didaktische Lösungen für **1.5. Trennbare Verben**:*
+> *Didaktische Lösungen für **1.4. & 1.5. Nicht trennbare und trennbare Verben**:*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `erzählt` — *erzählen ➔ erzählt (schwach, kein ge-)*
+- **b)** `gewonnen` — *gewinnen ➔ gewonnen (stark, kein ge-)*
+- **c)** `erkannt` — *erkennen ➔ erkannt (gemischt, kein ge-)*
+- **d)** `verziehen` — *verzeihen ➔ verziehen (stark, kein ge-)*
+- **e)** `zerrissen` — *zerreißen ➔ zerrissen (stark, kein ge-)*
+- **f)** `misstraut` — *misstrauen ➔ misstraut (schwach, kein ge-)*
+- **g)** `besucht` — *besuchen ➔ besucht (schwach, kein ge-)*
+- **h)** `verloren` — *verlieren ➔ verloren (stark, kein ge-)*
+- **i)** `vergessen` — *vergessen ➔ vergessen (stark, kein ge-)*
+- **j)** `besichtigt` — *besichtigen ➔ besichtigt (schwach, kein ge-)*
+- **k)** `beeilt` — *sich beeilen ➔ beeilt (schwach, kein ge-)*
+- **l)** `entschuldigt` — *sich entschuldigen ➔ entschuldigt (schwach, kein ge-)*
 
 #### Übung 5
-- **a)** `empfehlt` — Konjugiertes Verb <em>empfehlt</em> (3s)
-- **b)** `zerbrechst` — Konjugiertes Verb <em>zerbrechst</em> (2s)
-- **c)** `beginnt` — Konjugiertes Verb <em>beginnt</em> (3s)
-- **d)** `genießt` — Konjugiertes Verb <em>genießt</em> (2s)
-- **e)** `bezahlt` — Konjugiertes Verb <em>bezahlt</em> (2p)
-- **f)** `entschuldigt` — Konjugiertes Verb <em>entschuldigt</em> (3s)
-- **g)** `versprecht` — Konjugiertes Verb <em>versprecht</em> (3s)
-- **1.** `—` — Grammatische Ergänzung
+- **a)** `empfohlen` — *empfehlen ➔ empfohlen*
+- **b)** `zerbrochen` — *zerbrechen ➔ zerbrochen*
+- **c)** `begonnen` — *beginnen ➔ begonnen*
+- **d)** `genossen` — *genießen ➔ genossen*
+- **e)** `bezahlt` — *bezahlen ➔ bezahlt*
+- **f)** `entschuldigt` — *entschuldigen ➔ entschuldigt*
+- **g)** `versprochen` — *versprechen ➔ versprochen*
 
 #### Übung 6
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `gestern` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
+- **a)** `vorgeschlagen` — *vorschlagen ➔ vor-ge-schlagen*
+- **b)** `angerufen` — *anrufen ➔ an-ge-rufen*
+- **c)** `abgefahren` — *abfahren (mit sein) ➔ ab-ge-fahren*
+- **d)** `hergestellt` — *herstellen ➔ her-ge-stellt*
+- **e)** `angezogen` — *anziehen ➔ an-ge-zogen*
+- **f)** `mitgenommen` — *mitnehmen ➔ mit-ge-nommen*
+- **g)** `aufgestanden` — *aufstehen (mit sein) ➔ auf-ge-standen*
+- **h)** `zugehört` — *zuhören ➔ zu-ge-hört*
+- **i)** `eingestiegen` — *einsteigen (mit sein) ➔ ein-ge-stiegen*
 
 #### Übung 7
-- **a)** `abfahrt` — Konjugiertes Verb <em>abfahrt</em> (3s)
-- **b)** `mitbringt` — Konjugiertes Verb <em>mitbringt</em> (3s)
-- **c)** `aufräume` — Konjugiertes Verb <em>aufräume</em> (1s)
-- **d)** `einsteigst` — Konjugiertes Verb <em>einsteigst</em> (2s)
-- **e)** `anbietest` — Konjugiertes Verb <em>anbietest</em> (2s)
-- **f)** `vorstellt` — Konjugiertes Verb <em>vorstellt</em> (3s)
-- **g)** `einschreibt` — Konjugiertes Verb <em>einschreibt</em> (3s)
+- **a)** `abgefahren` — *abfahren ➔ abgefahren*
+- **b)** `mitgebracht` — *mitbringen ➔ mitgebracht*
+- **c)** `aufgeräumt` — *aufräumen ➔ aufgeräumt*
+- **d)** `eingestiegen` — *einsteigen ➔ eingestiegen*
+- **e)** `angeboten` — *anbieten ➔ angeboten*
+- **f)** `vorgestellt` — *vorstellen ➔ vorgestellt*
+- **g)** `eingeschrieben` — *einschreiben ➔ eingeschrieben*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 5)**](#workbooks:B1:5) mit automatischer Korrektur und Sofort-Feedback.
@@ -339,105 +326,94 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-6"></a>
-## 📄 Seite 6: 2.1. Schwache Verben
+
+## 📄 Seite 6: 2.1. Das Präteritum — Schwache Verben
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 2. Das Präteritum (Imperfekt)
-> • Das Präteritum  (Imperfekt) gebraucht man für ein vergangenes, meist abgeschlossenes Geschehen.
-> • Es ist die Zeitform für das ruhige, schriftliche Erzählen.
-> • Der Minister sagte nichts zu dieser Situation.
-> • 2.1. Schwache Verben
-> • ich l e r n te wir l e r n te n
-> • du l e r n te s t ihr l e r n te t
-> • er, sie, es l e r n te sie / Sie l e r n te n
-> • ich w a r t e te wir w a r t e te n
-> • du w a r t e te s t ihr w a r t e te t
-> • er, sie, es w a r t e te sie / Sie w a r t e te n
-> • Verben auf eln / ern / igen / ieren sind schwach. ➔ -t-e
-> • bügeln ➔ ich bügelte kündigen ➔ ich kündigte
-> • liefern ➔ ich lieferte reagieren ➔ ich reagierte
-
+> • **Präteritum (Imperfekt):** bevorzugt für schriftliche Berichte und formelle Erzählungen.
+> • **Schwache Verben:** Stamm + **-te-** + Personalendung (*lernte, lerntest, lernte, lernten, lerntet, lernten*).
+> • **1. und 3. Person Sg:** identisch (*ich kaufte, er kaufte*).
+> • **Dentalstamm (-t, -d):** Einschub von **-e-** (*wartete, redete, antwortete, mietete*).
+> • **Trennbare Verben:** Das Präfix trennt sich und wandert ans Satzende (*Er baute das Regal auf*).
 
 ### ✍️ Übung 8
-> 💡 **Beispiel:** Paul fragen   Ich     fragte   Paul  .
+*Bilden Sie Sätze im Präteritum in der Ich-Form (-te / -ete).*
 
-- **a)** *(einen)* Flug buchen
-- **b)** *(den)* Handyvertrag kündigen
-- **c)** Geld wechseln
-- **d)** *(den)* Touristen den Weg zeigen
-- **e)** das Gerät reparieren
-- **f)** meiner Tante gratulieren
-- **g)** ihm antworten
-- **h)** euch informieren
-- **i)** meine Schuhe putzen
-- **j)** mein Fahrrad reparieren
-- **k)** mit der Nachbarin reden
-- **l)** das Paket von der Post holen
-- **m)** *(einen)* Wagen mieten
-- **n)** *(den)* PIN — Code ändern
-- **o)** auf den Bus warten
-- **p)** *(einen)* Tisch reservieren
-- **q)** sich sehr ärgern
-- **r)** sich auf das Sofa setzen
+- **a)** einen Flug buchen ➔ Ich _____ einen Flug.
+- **b)** den Handyvertrag kündigen ➔ Ich _____ den Handyvertrag.
+- **c)** Geld wechseln ➔ Ich _____ Geld.
+- **d)** den Touristen den Weg zeigen ➔ Ich _____ den Touristen den Weg.
+- **e)** das Gerät reparieren ➔ Ich _____ das Gerät.
+- **f)** meiner Tante gratulieren ➔ Ich _____ meiner Tante.
+- **g)** ihm antworten ➔ Ich _____ ihm.
+- **h)** euch informieren ➔ Ich _____ euch.
+- **i)** meine Schuhe putzen ➔ Ich _____ meine Schuhe.
+- **j)** mein Fahrrad reparieren ➔ Ich _____ mein Fahrrad.
+- **k)** mit der Nachbarin reden ➔ Ich _____ mit der Nachbarin.
+- **l)** das Paket von der Post holen ➔ Ich _____ das Paket von der Post.
+- **m)** einen Wagen mieten ➔ Ich _____ einen Wagen.
+- **n)** den PIN-Code ändern ➔ Ich _____ den PIN-Code.
+- **o)** auf den Bus warten ➔ Ich _____ auf den Bus.
+- **p)** einen Tisch reservieren ➔ Ich _____ einen Tisch.
+- **q)** sich sehr ärgern ➔ Ich _____ mich sehr.
+- **r)** sich auf das Sofa setzen ➔ Ich _____ mich auf das Sofa.
 
 ### ✍️ Übung 9
-*Wählen Sie aus dem Wortkasten: Trennbar, oder, nicht, trennbar?, Bilden, Sie, alle, Fragen, mit, Yasmin.*
+*Bilden Sie Fragen mit "Wann" und Yasmin im Präteritum. Achten Sie auf trennbare Präfixe!*
 
-> 💡 **Beispiel:** Wagen kaufen   Wann   kaufte   Yasmin den Wagen?
-
-- **a)** die Wohnung besichtigen _______
-- **b)** das Formular ausfüllen _______
-- **c)** die Arbeit erledigen _______
-- **d)** die Karte abschicken _______
-- **e)** sich verabschieden _______
-- **f)** ihr Zimmer aufräumen _______
-- **g)** sich entschuldigen _______
-- **h)** die Geschenke verpacken _______
-- **i)** sich vorstellen _______
-- **j)** die Regale aufbauen _______
-- **k)** das Studium beenden _______
-- **l)** aus Italien zurückkehren _______
+- **a)** die Wohnung besichtigen ➔ Wann _____ ?
+- **b)** das Formular ausfüllen ➔ Wann _____ ?
+- **c)** die Arbeit erledigen ➔ Wann _____ ?
+- **d)** die Karte abschicken ➔ Wann _____ ?
+- **e)** sich verabschieden ➔ Wann _____ ?
+- **f)** ihr Zimmer aufräumen ➔ Wann _____ ?
+- **g)** sich entschuldigen ➔ Wann _____ ?
+- **h)** die Geschenke verpacken ➔ Wann _____ ?
+- **i)** sich vorstellen ➔ Wann _____ ?
+- **j)** die Regale aufbauen ➔ Wann _____ ?
+- **k)** das Studium beenden ➔ Wann _____ ?
+- **l)** aus Italien zurückkehren ➔ Wann _____ ?
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 6)</strong></summary>
 
-> *Didaktische Lösungen für **2.1. Schwache Verben**:*
+> *Didaktische Lösungen für **2.1. Schwache Verben im Präteritum**:*
 
 #### Übung 8
-- **a)** `einen` — Grammatische Ergänzung
-- **b)** `den` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `den` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `einen` — Grammatische Ergänzung
-- **n)** `den` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **p)** `einen` — Grammatische Ergänzung
-- **q)** `—` — Grammatische Ergänzung
-- **r)** `—` — Grammatische Ergänzung
+- **a)** `buchte` — *buchen ➔ ich buchte*
+- **b)** `kündigte` — *kündigen ➔ ich kündigte*
+- **c)** `wechselte` — *wechseln ➔ ich wechselte*
+- **d)** `zeigte` — *zeigen ➔ ich zeigte*
+- **e)** `reparierte` — *reparieren ➔ ich reparierte*
+- **f)** `gratulierte` — *gratulieren ➔ ich gratulierte*
+- **g)** `antwortete` — *antworten ➔ ich antwortete*
+- **h)** `informierte` — *informieren ➔ ich informierte*
+- **i)** `putzte` — *putzen ➔ ich putzte*
+- **j)** `reparierte` — *reparieren ➔ ich reparierte*
+- **k)** `redete` — *reden ➔ ich redete*
+- **l)** `holte` — *holen ➔ ich holte*
+- **m)** `mietete` — *mieten ➔ ich mietete*
+- **n)** `änderte` — *ändern ➔ ich änderte*
+- **o)** `wartete` — *warten ➔ ich wartete*
+- **p)** `reservierte` — *reservieren ➔ ich reservierte*
+- **q)** `ärgerte` — *sich ärgern ➔ ich ärgerte mich*
+- **r)** `setzte` — *sich setzen ➔ ich setzte mich*
 
 #### Übung 9
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `besichtigte Yasmin die Wohnung` — *besichtigen (nicht trennbar)*
+- **b)** `füllte Yasmin das Formular aus` — *ausfüllen (trennbar)*
+- **c)** `erledigte Yasmin die Arbeit` — *erledigen (nicht trennbar)*
+- **d)** `schickte Yasmin die Karte ab` — *abschicken (trennbar)*
+- **e)** `verabschiedete Yasmin sich` — *sich verabschieden (nicht trennbar)*
+- **f)** `räumte Yasmin ihr Zimmer auf` — *aufräumen (trennbar)*
+- **g)** `entschuldigte Yasmin sich` — *sich entschuldigen (nicht trennbar)*
+- **h)** `verpackte Yasmin die Geschenke` — *verpacken (nicht trennbar)*
+- **i)** `stellte Yasmin sich vor` — *sich vorstellen (trennbar)*
+- **j)** `baute Yasmin die Regale auf` — *aufbauen (trennbar)*
+- **k)** `beendete Yasmin das Studium` — *beenden (nicht trennbar)*
+- **l)** `kehrte Yasmin aus Italien zurück` — *zurückkehren (trennbar)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 6)**](#workbooks:B1:6) mit automatischer Korrektur und Sofort-Feedback.
@@ -447,118 +423,91 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-7"></a>
-## 📄 Seite 7: 1.3. Gemischte Verben
+## 📄 Seite 7: 2.2. Starke & 2.3. Gemischte Verben im Präteritum
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 2.2. Starke Verben
-> • ich s a h wir s a he n
-> • du s a hs t ihr s a ht
-> • er, sie, es s a h sie s a he n
-> • Der Präteritumstamm der starken Verben hat immer einen anderen Vokal als der Präsensstamm.
-> • Häufige Vokalwechsel vom Präsens zum Präteritum (Beispiele):
-> • a ➔ u / ie e ➔ a / o ei ➔ i / ie ie ➔ o1 i ➔ a
-> • fahren ➔ fuhr
-> • blasen ➔ blies
-> • sehen ➔ sah
-> • quellen ➔ quoll
-> • streiten ➔ stritt
-> • heißen ➔ hieß
-> • bieten ➔ bot
-> • ziehen ➔ zog
-> • bitten ➔ bat
-> • singen ➔ sang
-> • Oft sind die Vokale im Präteritumstamm lang:
-> • bitten ➔ bat; treffen ➔ traf; fallen ➔ fiel
-> • Bei kurzen Vokalen folgt meist ein Doppelkonsonant:
-> • beißen ➔ biss; gießen ➔ goss; schwimmen ➔ schwamm
-> • Folgt dem Stammvokal ein ch, kann der Vokal kurz oder lang sein.
-> • z. B. lang: sprechen ➔ sprach; kurz: streichen ➔ strich
-
+> • **Starke Verben im Präteritum:** Stammvokalwechsel (**Ablaut**), z. B. *fuhr, fiel, briet, flog, bot, sank, saß*.
+> • **1. & 3. Person Sg:** absolut **endunglos** (*ich fuhr, er fuhr, es goss*).
+> • **Gemischte Verben:** kombinieren Vokalwechsel mit der Endung **-te** (*brannte, wusste, erkannte, wandte, rannte, sandte*).
 
 ### ✍️ Übung 10
-*Ergänzen Sie die Sätze im Präteritum.*
+*Ergänzen Sie die Formen der starken Verben im Präteritum (Ablaut beachten!).*
 
-> 💡 **Beispiel:** heißen  - Wie hieß diese Schauspielerin?
-
-- **a)** *(scheinen)*  — Leider _______ die Sonne nicht.
-- **b)** *(leihen)*  — Clara _______ mir ihr Wörterbuch.
-- **c)** *(pfeifen)*  — Die Zuschauer _______.
-- **d)** *(beißen)*  — Lena _______ in den Apfel.
-- **e)** *(fahren)*  — Wann _______ Hatem nach Hause?
-- **f)** *(fallen)*  — Der Apfel _______ vom Baum.
-- **g)** *(braten)*  — Paul _______ sich ein Steak.
-- **h)** *(graben)*  — Man _______ in Alaska nach Gold
-- **i)** *(wachsen)*  — Im Garten _______  viele Kräuter.
-- **j)** *(lassen)*  — Man _______ uns nicht in Ruhe.
-- **k)** *(waschen)*  — Ich _______ das gekaufte Obst.
-- **l)** *(gießen)*  — Wer _______ die Blumen?
-- **m)** *(fliegen)*  — Jana _______ nach New York.
-- **n)** *(bieten)*  — Wie viel _______ man für dein Auto?
-- **o)** *(fliehen)*  — Die Leute _______ vor dem Sturm.
-- **p)** *(riechen)*  — Es _______ nach Rauch.
-- **q)** *(ziehen)*  — Dunkle Wolken _______ am Himmel.
-- **r)** *(sinken)*  — Wann _______ dieses Schiff?
-- **s)** *(sitzen)*  — Ich _______ im Kino ganz vorne.
-- **t)** *(bitten)*  — Wir _______ um Hilfe.
-- **u)** *(brechen)*  — Der Skifahrer _______ sich das Bein.
-- **v)** *(essen)*  — Wir _______ nichts zu Mittag.
-- **w)** *(geben)*  — Ich _______ dem Kellner Trinkgeld.
-- **x)** *(werfen)*  — Der Athlet _______ den Speer.
-- **1.** 3. Gemischte Verben
+- **a)** *(scheinen)* Die Sonne _____ den ganzen Tag.
+- **b)** *(leihen)* Er _____ mir sein Auto.
+- **c)** *(pfeifen)* Der Schiedsrichter _____ das Spiel ab.
+- **d)** *(beißen)* Der Hund _____ den Postboten.
+- **e)** *(fahren)* Wann _____ Hatem nach Hause?
+- **f)** *(fallen)* Der Apfel _____ vom Baum.
+- **g)** *(braten)* Paul _____ sich ein Steak.
+- **h)** *(graben)* Man _____ in Alaska nach Gold.
+- **i)** *(wachsen)* Im Garten _____ viele Kräuter.
+- **j)** *(lassen)* Man _____ uns nicht in Ruhe.
+- **k)** *(waschen)* Ich _____ das gekaufte Obst.
+- **l)** *(gießen)* Wer _____ die Blumen?
+- **m)** *(fliegen)* Jana _____ nach New York.
+- **n)** *(bieten)* Wie viel _____ man für dein Auto?
+- **o)** *(fliehen)* Die Leute _____ vor dem Sturm.
+- **p)** *(riechen)* Es _____ nach Rauch.
+- **q)** *(ziehen)* Dunkle Wolken _____ am Himmel.
+- **r)** *(sinken)* Wann _____ dieses Schiff?
+- **s)** *(sitzen)* Ich _____ im Kino ganz vorne.
+- **t)** *(bitten)* Wir _____ um Hilfe.
+- **u)** *(brechen)* Der Skifahrer _____ sich das Bein.
+- **v)** *(essen)* Wir _____ nichts zu Mittag.
+- **w)** *(geben)* Ich _____ dem Kellner Trinkgeld.
+- **x)** *(werfen)* Der Athlet _____ den Speer.
 
 ### ✍️ Übung 11
-> 💡 **Beispiel:** Er bringt ein Geschenk.   Er   brachte   ein Geschenk.
+*Formen Sie die Sätze ins Präteritum um (Vokalwechsel + -te).*
 
-- **a)** In der Badstraße brennt es.
-- **b)** Ich weiß die Antwort leider nicht.
-- **c)** Man erkennt ihn überall.
-- **d)** Sie wendet sich an uns.
-- **e)** Der Hund rennt auf die Straße.
-- **f)** Ich sende dir eine Ansichtskarte.
-- **1)** aber: liegen > lag
+- **a)** In der Badstraße brennt es. ➔ In der Badstraße _____ es.
+- **b)** Ich weiß die Antwort leider nicht. ➔ Ich _____ die Antwort leider nicht.
+- **c)** Man erkennt ihn überall. ➔ Man _____ ihn überall.
+- **d)** Sie wendet sich an uns. ➔ Sie _____ sich an uns.
+- **e)** Der Hund rennt auf die Straße. ➔ Der Hund _____ auf die Straße.
+- **f)** Ich sende dir eine Ansichtskarte. ➔ Ich _____ dir eine Ansichtskarte.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 7)</strong></summary>
 
-> *Didaktische Lösungen für **1.3. Gemischte Verben**:*
+> *Didaktische Lösungen für **2.2. Starke & 2.3. Gemischte Verben im Präteritum**:*
 
 #### Übung 10
-- **a)** `scheint` — Konjugiertes Verb <em>scheint</em> (3s)
-- **b)** `leiht` — Konjugiertes Verb <em>leiht</em> (2p)
-- **c)** `pfeift` — Konjugiertes Verb <em>pfeift</em> (3s)
-- **d)** `beißt` — Konjugiertes Verb <em>beißt</em> (3s)
-- **e)** `fahrt` — Konjugiertes Verb <em>fahrt</em> (3s)
-- **f)** `fallt` — Konjugiertes Verb <em>fallt</em> (3s)
-- **g)** `bratet` — Konjugiertes Verb <em>bratet</em> (3s)
-- **h)** `grabt` — Konjugiertes Verb <em>grabt</em> (3s)
-- **i)** `wachst` — Konjugiertes Verb <em>wachst</em> (3s)
-- **j)** `lasst` — Konjugiertes Verb <em>lasst</em> (3s)
-- **k)** `wasche` — Konjugiertes Verb <em>wasche</em> (1s)
-- **l)** `gießt` — Konjugiertes Verb <em>gießt</em> (3s)
-- **m)** `fliegt` — Konjugiertes Verb <em>fliegt</em> (3s)
-- **n)** `bietet` — Konjugiertes Verb <em>bietet</em> (3s)
-- **o)** `flieht` — Konjugiertes Verb <em>flieht</em> (3s)
-- **p)** `riecht` — Konjugiertes Verb <em>riecht</em> (3s)
-- **q)** `zieht` — Konjugiertes Verb <em>zieht</em> (3s)
-- **r)** `sinkt` — Konjugiertes Verb <em>sinkt</em> (3s)
-- **s)** `sitze` — Konjugiertes Verb <em>sitze</em> (1s)
-- **t)** `bitten` — Konjugiertes Verb <em>bitten</em> (1p)
-- **u)** `brecht` — Konjugiertes Verb <em>brecht</em> (3s)
-- **v)** `essen` — Konjugiertes Verb <em>essen</em> (1p)
-- **w)** `gebe` — Konjugiertes Verb <em>gebe</em> (1s)
-- **x)** `werft` — Konjugiertes Verb <em>werft</em> (3s)
-- **1.** `—` — Grammatische Ergänzung
+- **a)** `schien` — *scheinen ➔ schien*
+- **b)** `lieh` — *leihen ➔ lieh*
+- **c)** `pfiff` — *pfeifen ➔ pfiff*
+- **d)** `biss` — *beißen ➔ biss*
+- **e)** `fuhr` — *fahren ➔ fuhr*
+- **f)** `fiel` — *fallen ➔ fiel*
+- **g)** `briet` — *braten ➔ briet*
+- **h)** `grub` — *graben ➔ grub*
+- **i)** `wuchsen` — *wachsen (Plural) ➔ wuchsen*
+- **j)** `ließ` — *lassen ➔ ließ*
+- **k)** `wusch` — *waschen ➔ wusch*
+- **l)** `goss` — *gießen ➔ goss*
+- **m)** `flog` — *fliegen ➔ flog*
+- **n)** `bot` — *bieten ➔ bot*
+- **o)** `flohen` — *fliehen (Plural) ➔ flohen*
+- **p)** `roch` — *riechen ➔ roch*
+- **q)** `zogen` — *ziehen (Plural) ➔ zogen*
+- **r)** `sank` — *sinken ➔ sank*
+- **s)** `saß` — *sitzen ➔ saß*
+- **t)** `baten` — *bitten (Plural) ➔ baten*
+- **u)** `brach` — *brechen ➔ brach*
+- **v)** `aßen` — *essen (Plural) ➔ aßen*
+- **w)** `gab` — *geben ➔ gab*
+- **x)** `warf` — *werfen ➔ warf*
 
 #### Übung 11
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **1)** `—` — Grammatische Ergänzung
+- **a)** `brannte` — *brennen ➔ brannte*
+- **b)** `wusste` — *wissen ➔ wusste*
+- **c)** `erkannte` — *erkennen ➔ erkannte*
+- **d)** `wandte` — *wenden ➔ wandte (auch: wendete)*
+- **e)** `rannte` — *rennen ➔ rannte*
+- **f)** `sandte` — *senden ➔ sandte (auch: sendete)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 7)**](#workbooks:B1:7) mit automatischer Korrektur und Sofort-Feedback.
@@ -568,66 +517,49 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-8"></a>
+
 ## 📄 Seite 8: 3. Das Plusquamperfekt
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • vorher
-> • 3. Das Plusquamperfekt
-> • Aktion / Geschehen  Aktion / Geschehen
-> • Plusquamperfekt Präteritum jetzt
-> • ich h a t t e ge sag t
-> • du h a t t e s tge sag t
-> • er, sie, es h a t t e ge sag t
-> • wir h a t t e n ge sag t
-> • ihr h a t t e t ge sag t
-> • sie / Sie h a t t e n ge sag t
-> • ich w a r geg a n gen
-> • du w a r s t geg a n gen
-> • er, sie, es w a r geg a n gen
-> • wir w a r e n geg a n gen
-> • ihr w a r t geg a n gen
-> • sie / Sie w a r e n geg a n gen
-
+> • **Das Plusquamperfekt (Vorvergangenheit):** Geschehen, das *vor* einem anderen vergangenen Geschehen abgeschlossen war.
+> • **Bildung:** **hatte** / **war** (Präteritum) + **Partizip II** am Satzende (*hatte gegessen, war abgefahren*).
+> • **Sein-Verben:** Bewegungsverben und Zustandsänderungen (*war gereist, war passiert, war weggelaufen*).
 
 ### ✍️ Übung 12
-*Wählen Sie aus dem Wortkasten: Ich, verließ, das, Restaurant., Vorher, hatte, ich, die, Rechnung, bezahlt*
+*Bilden Sie Sätze im Plusquamperfekt mit "Vorher..." anhand der Vorgaben.*
 
-> 💡 **Beispiel:** Ich verließ das Restaurant. (Rechnung - bezahlen)
-
-- **a)** Paul sah fern. (lange arbeiten)
-- **b)** Tom ging zu Bett. (sich die Zähne putzen)
-- **c)** *(Carmen)* besuchte ihren Onkel. (ihn anrufen)
-- **d)** Ich bestellte einen Espresso. (eine Pasta essen)
-- **e)** Wir kamen ins Hotel. (die Stadt besichtigen)
-- **f)** Endlich fand Karl seine Brille. (überall suchen)
-- **g)** Sie verließ die Wohnung. (alle Fenster schließen)
-- **h)** Ich stieg in den Zug. (lange warten)
-- **i)** Du warst vorsichtig. (schlechte Erfahrungen machen)
-- **j)** Ivan fuhr in Urlaub. (mit dir sprechen)
-- **k)** Ich suchte meine Fahrkarte. (in den Zug steigen)
-- **l)** Man informierte die Polizei. (ein Unfall passieren)
+- **a)** Paul sah fern. (lange arbeiten) ➔ Vorher _____ .
+- **b)** Tom ging zu Bett. (sich die Zähne putzen) ➔ Vorher _____ .
+- **c)** Carmen besuchte ihren Onkel. (ihn anrufen) ➔ Vorher _____ .
+- **d)** Ich bestellte einen Espresso. (eine Pasta essen) ➔ Vorher _____ .
+- **e)** Wir kamen ins Hotel. (die Stadt besichtigen) ➔ Vorher _____ .
+- **f)** Endlich fand Karl seine Brille. (überall suchen) ➔ Vorher _____ .
+- **g)** Sie verließ die Wohnung. (alle Fenster schließen) ➔ Vorher _____ .
+- **h)** Ich stieg in den Zug. (lange warten) ➔ Vorher _____ .
+- **i)** Du warst vorsichtig. (schlechte Erfahrungen machen) ➔ Vorher _____ .
+- **j)** Ivan fuhr in Urlaub. (mit dir sprechen) ➔ Vorher _____ .
+- **k)** Ich suchte meine Fahrkarte. (in den Zug steigen) ➔ Vorher _____ .
+- **l)** Man informierte die Polizei. (ein Unfall passieren) ➔ Vorher _____ .
 
 ### ✍️ Übung 13
-*Ergänzen Sie die Sätze im Plusquamperfekt mithilfe der Wörter in Klammern.*
+*Ergänzen Sie die Sätze im Plusquamperfekt mit den Angaben in Klammern.*
 
-> 💡 **Beispiel:** Julia konnte nicht einschlafen, denn sie hatte einen Horrorfilm gesehen (Horrorfilm - sehen)
-
-- **a)** Paul war übel, denn _______. (etwas Falsches — essen)
-- **b)** Die Straße war gesperrt, denn _______. (sehr viel — regnen)
-- **c)** Wir glaubten an unsere Chance, denn _______. (gut — sich vorbereiten)
-- **d)** Michaels Frau war ärgerlich, denn _______. (der Hochzeitstag — vergessen)
-- **e)** Laura kam zu spät ins Büro, denn _______. (der Bus — verpassen)
-- **f)** Ich blieb zu Hause, denn _______. (sich erkälten)
-- **g)** Thomas ging zum Fundbüro, denn _______. (sein Schlüssel — verlieren)
-- **h)** Lisa machte einen Fehler, denn _______. (sich nicht konzentrieren)
-- **i)** Jan bekam ein anderes Zimmer, denn _______. (sich beschweren)
-- **j)** Ich konnte David nicht Bescheid geben, denn _______. (er — schon — abreisen)
-- **k)** Klaus konnte nicht mit uns wandern, denn _______. (das Bein — sich verstauchen)
-- **l)** Peter bekam kein Hotelzimmer mehr, denn _______. (viel zu spät — reservieren)
-- **m)** Meine Nachbarin war sehr traurig, denn _______. (ihre Katze — weglaufen)
-- **n)** Hatem bedankte sich, denn _______. (ein Geschenk — bekommen)
+- **a)** Paul war übel, denn _____ . *(etwas Falsches — essen)*
+- **b)** Die Straße war gesperrt, denn _____ . *(sehr viel — regnen)*
+- **c)** Wir glaubten an unsere Chance, denn _____ . *(gut — sich vorbereiten)*
+- **d)** Michaels Frau war ärgerlich, denn _____ . *(der Hochzeitstag — vergessen)*
+- **e)** Laura kam zu spät ins Büro, denn _____ . *(der Bus — verpassen)*
+- **f)** Ich blieb zu Hause, denn _____ . *(sich erkälten)*
+- **g)** Thomas ging zum Fundbüro, denn _____ . *(sein Schlüssel — verlieren)*
+- **h)** Lisa machte einen Fehler, denn _____ . *(sich nicht konzentrieren)*
+- **i)** Jan bekam ein anderes Zimmer, denn _____ . *(sich beschweren)*
+- **j)** Ich konnte David nicht Bescheid geben, denn _____ . *(er — schon — abreisen)*
+- **k)** Klaus konnte nicht mit uns wandern, denn _____ . *(das Bein — sich verstauchen)*
+- **l)** Peter bekam kein Hotelzimmer mehr, denn _____ . *(viel zu spät — reservieren)*
+- **m)** Meine Nachbarin war sehr traurig, denn _____ . *(ihre Katze — weglaufen)*
+- **n)** Hatem bedankte sich, denn _____ . *(ein Geschenk — bekommen)*
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 8)</strong></summary>
@@ -635,34 +567,34 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **3. Das Plusquamperfekt**:*
 
 #### Übung 12
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `Carmen` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `hatte er lange gearbeitet` — *lange arbeiten ➔ hatte er lange gearbeitet*
+- **b)** `hatte er sich die Zähne geputzt` — *sich die Zähne putzen ➔ hatte er sich die Zähne geputzt*
+- **c)** `hatte sie ihn angerufen` — *ihn anrufen ➔ hatte sie ihn angerufen*
+- **d)** `hatte ich eine Pasta gegessen` — *eine Pasta essen ➔ hatte ich eine Pasta gegessen*
+- **e)** `hatten wir die Stadt besichtigt` — *die Stadt besichtigen ➔ hatten wir die Stadt besichtigt*
+- **f)** `hatte er überall gesucht` — *überall suchen ➔ hatte er überall gesucht*
+- **g)** `hatte sie alle Fenster geschlossen` — *alle Fenster schließen ➔ hatte sie alle Fenster geschlossen*
+- **h)** `hatte ich lange gewartet` — *lange warten ➔ hatte ich lange gewartet*
+- **i)** `hattest du schlechte Erfahrungen gemacht` — *schlechte Erfahrungen machen ➔ hattest du schlechte Erfahrungen gemacht*
+- **j)** `hatte er mit dir gesprochen` — *mit dir sprechen ➔ hatte er mit dir gesprochen*
+- **k)** `war ich in den Zug gestiegen` — *in den Zug steigen ➔ war ich in den Zug gestiegen*
+- **l)** `war ein Unfall passiert` — *ein Unfall passieren ➔ war ein Unfall passiert*
 
 #### Übung 13
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
+- **a)** `er hatte etwas Falsches gegessen` — *etwas Falsches essen*
+- **b)** `es hatte sehr viel geregnet` — *sehr viel regnen*
+- **c)** `wir hatten uns gut vorbereitet` — *gut vorbereiten*
+- **d)** `er hatte den Hochzeitstag vergessen` — *den Hochzeitstag vergessen*
+- **e)** `sie hatte den Bus verpasst` — *den Bus verpassen*
+- **f)** `ich hatte mich erkältet` — *sich erkälten*
+- **g)** `er hatte seinen Schlüssel verloren` — *seinen Schlüssel verlieren*
+- **h)** `sie hatte sich nicht konzentriert` — *sich nicht konzentrieren*
+- **i)** `er hatte sich beschwert` — *sich beschweren*
+- **j)** `er war schon abgereist` — *abreisen (mit sein)*
+- **k)** `er hatte sich das Bein verstaucht` — *sich das Bein verstaucht*
+- **l)** `er hatte viel zu spät reserviert` — *viel zu spät reservieren*
+- **m)** `ihre Katze war weggelaufen` — *weglaufen (mit sein)*
+- **n)** `er hatte ein Geschenk bekommen` — *ein Geschenk bekommen*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 8)**](#workbooks:B1:8) mit automatischer Korrektur und Sofort-Feedback.
@@ -672,101 +604,68 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-9"></a>
-## 📄 Seite 9: 2. Nebensätze
+## 📄 Seite 9: 1. Satzarten & 2. Nebensätze
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Sätze
-> • 1. Satzarten
-> • Aussagesatz: Max räumt heute seine Wohnung auf.
-> • Fragesatz: Räumt Max heute seine Wohnung auf?
-> • Wann räumt Max seine Wohnung auf?
-> • Aufforderungssatz: Räum[e] heute deine Wohnung auf, Max!
-> • In Aussagesätzen und  Fragesätzen mit Fragewort steht das konjugierte Verb an Position II (V2).
-> • Die U-Bahn fährt in 10 Minuten.
-> • Wann fährt die U-Bahn?
-> • In Fragesätzen ohne Fragewort und in Aufforderungssätzen steht das Verb an Position I (V1).1
-> • Fährt die U-Bahn zum Rathaus?
-> • Fahr jetzt zum Rathaus!
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Max nimmt die U-Bahn, wenn er zum Rathaus fährt. ➔ HS (Aussagesatz), NS
-> • Nimmt Max die U-Bahn, wenn er zum Rathaus fährt? ➔ HS (Fragesatz), NS
-> • Nimm die U-Bahn, wenn du zum Rathaus fährst! ➔ HS (Aufforderungssatz), NS
-> • Im NS steht das konjugierte Verb am ENDE (VE).
-> • Wenn der HS ein Aussagesatz ist, kann der NS vor oder hinter dem HS stehen.
-> • I II
-> • Max ging gestern  nicht  mit uns ins Kino, weil er sich erkältet hatte.
-> • Gestern ging Max  nicht  mit uns  ins Kino, weil er sich erkältet hatte.
-> • Weil Max sich erkältet hatte, ging er  nicht  mit uns  ins Kino.
-> • NS, HS ➔ Verb, Verb
-> • 1) Bei einem Fragesatz kann das Verb wie im Aussagesatz auch an Position II stehen.
-> • Max nimmt [doch] die U-Bahn zum Rathaus, [oder]? / Du weißt [doch] auch Bescheid, [nicht wahr]?
-> • Die Stimme geht am Ende nach oben. Solche Fragesätze werden oft mit doch ergänzt und mit oder / nicht wahr beendet.
-
+> • **Aussagesatz & W-Frage:** Verb an Position II (**V2**) (*Max räumt heute auf* / *Wann räumt Max auf?*).
+> • **Ja/Nein-Frage & Imperativ:** Verb an Position I (**V1**) (*Räumt Max auf?* / *Räum auf, Max!*).
+> • **Nebensätze:** Verb an das absolute Satzende (**VE**) (*..., weil er die Wohnung aufräumt*).
+> • **Verb-Verb-Regel:** Nebensatz vor Hauptsatz erfordert Verb-Inversion im Hauptsatz (*Weil er krank war, blieb er zu Hause*).
 
 ### ✍️ Übung 1
-*Bilden Sie Aussagesätze - Fragesätze - Aufforderungssätze.*
+*Bilden Sie den Aufforderungssatz (Imperativ) für die angesprochene Person.*
 
-> 💡 **Beispiel:** Lisa - ihre Katze - füttern
-
-- **a)** Jana — vorsichtig — fahren
-- **b)** Jonas — seine Arbeit — erledigen
-- **c)** Pavel — deutlich — sprechen
-- **d)** Sandra — ihr Bruder — helfen
-- **e)** Amira — den Text — vorlesen
-- **f)** Max — seine Tante — besuchen
-- **g)** Clara — uns — zuhören
-- **h)** Herr Tomaso — sein Chef — anrufen
+- **a)** Jana — vorsichtig — fahren ➔ _____
+- **b)** Jonas — seine Arbeit — erledigen ➔ _____
+- **c)** Pavel — deutlich — sprechen ➔ _____
+- **d)** Sandra — ihr Bruder — helfen ➔ _____
+- **e)** Amira — den Text — vorlesen ➔ _____
+- **f)** Max — seine Tante — besuchen ➔ _____
+- **g)** Clara — uns — zuhören ➔ _____
+- **h)** Herr Tomaso — sein Chef — anrufen ➔ _____
 
 ### ✍️ Übung 2
-*Bilden Sie Fragesätze.*
+*Bilden Sie die passende W-Frage nach der hervorgehobenen Information.*
 
-> 💡 **Beispiel:** Max bestellt ein Steak. Bestellt Max ein Steak? > Wer bestellt ein Steak? > Was bestellt Max?
-
-- **a)** Die Gäste kommen in einer Stunde.
-- **b)** Jana fährt nach Köln.
-- **c)** *(Gestern)* ist ein Unfall passiert.
-- **d)** Thomas redet sehr langsam.
-- **e)** Dieser Computer kostet 500. — Euro.
-- **f)** Der Film dauert 90 Minuten.
-- **g)** Amira hat ihren Schlüssel verloren.
-- **h)** Dein Kollege sucht einen neuen Job.
-- **i)** Diese Reisegruppe kommt aus Hongkong.
-- **j)** Die Kinder bleiben wegen des Regens zu Hause.
-- **2.** Nebensätze
+- **a)** Die Gäste kommen [in einer Stunde]. ➔ _____
+- **b)** Jana fährt [nach Köln]. ➔ _____
+- **c)** [Gestern] ist ein Unfall passiert. ➔ _____
+- **d)** Thomas redet [sehr langsam]. ➔ _____
+- **e)** Dieser Computer kostet [500 Euro]. ➔ _____
+- **f)** Der Film dauert [90 Minuten]. ➔ _____
+- **g)** Amira hat [ihren Schlüssel] verloren. ➔ _____
+- **h)** Dein Kollege sucht [einen neuen Job]. ➔ _____
+- **i)** Diese Reisegruppe kommt [aus Hongkong]. ➔ _____
+- **j)** Die Kinder bleiben [wegen des Regens] zu Hause. ➔ _____
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 9)</strong></summary>
 
-> *Didaktische Lösungen für **2. Nebensätze**:*
+> *Didaktische Lösungen für **1. Satzarten & 2. Nebensätze**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `Fahr vorsichtig, Jana!` — *fahren ➔ Fahr vorsichtig, Jana!*
+- **b)** `Erledige deine Arbeit, Jonas!` — *erledigen ➔ Erledige deine Arbeit, Jonas!*
+- **c)** `Sprich deutlich, Pavel!` — *sprechen (e ➔ i) ➔ Sprich deutlich, Pavel!*
+- **d)** `Hilf deinem Bruder, Sandra!` — *helfen (e ➔ i) ➔ Hilf deinem Bruder, Sandra!*
+- **e)** `Lies den Text vor, Amira!` — *vorlesen (e ➔ ie, trennbar) ➔ Lies den Text vor, Amira!*
+- **f)** `Besuche deine Tante, Max!` — *besuchen ➔ Besuche deine Tante, Max!*
+- **g)** `Hör uns zu, Clara!` — *zuhören (trennbar) ➔ Hör uns zu, Clara!*
+- **h)** `Rufen Sie Ihren Chef an, Herr Tomaso!` — *anrufen (Sie-Form) ➔ Rufen Sie Ihren Chef an, Herr Tomaso!*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `Gestern` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **2.** `—` — Grammatische Ergänzung
+- **a)** `Wann kommen die Gäste?` — *in einer Stunde ➔ Wann?*
+- **b)** `Wohin fährt Jana?` — *nach Köln ➔ Wohin?*
+- **c)** `Wann ist ein Unfall passiert?` — *gestern ➔ Wann?*
+- **d)** `Wie redet Thomas?` — *sehr langsam ➔ Wie?*
+- **e)** `Wie viel kostet dieser Computer?` — *500 Euro ➔ Wie viel?*
+- **f)** `Wie lange dauert der Film?` — *90 Minuten ➔ Wie lange?*
+- **g)** `Was hat Amira verloren?` — *ihren Schlüssel ➔ Was?*
+- **h)** `Was sucht dein Kollege?` — *einen neuen Job ➔ Was?*
+- **i)** `Woher kommt diese Reisegruppe?` — *aus Hongkong ➔ Woher?*
+- **j)** `Warum bleiben die Kinder zu Hause?` — *wegen des Regens ➔ Warum?*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 9)**](#workbooks:B1:9) mit automatischer Korrektur und Sofort-Feedback.
@@ -776,81 +675,62 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-10"></a>
-## 📄 Seite 10: 3. Fragesätze als Nebensätze
+
+## 📄 Seite 10: 3. Fragesätze als Nebensätze & Nebensatzarten
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Es gibt unterschiedliche Nebensätze, z. B.:
-> • kausal: Ich habe keine Zeit, weil   ich Hausaufgaben machen   muss.
-> • konditional: Wenn   du mit dem Direktor sprechen   möchtest, brauchst du einen Termin.
-> • temporal: Als   wir in München   waren, trafen wir unsere Freunde.
-> • konzessiv: Max fuhr mit dem Fahrrad zur Arbeit, obwohl   es   regnete.
-> • final: Wir stellen die Milch in den Kühlschrank, damit   sie frisch   bleibt.
-> • dass-Satz: Mein Nachbar hat mir erzählt, dass   er nächste Woche nach Wien   fährt.
-> • ob-Satz: Ich weiß leider nicht, ob   mein Nachbar nach Wien   fährt  .
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Nebensätze, die man aus einer Frage mit Fragewort bildet, beginnen mit dem Fragewort.
-> • Warum hat Lena nicht geantwortet?  ➔ Ich weiß nicht, warum Lena nicht geantwortet hat.
-> • In einem Nebensatz steht das Verb am ENDE. Trennbare Verben schreibt man am ENDE zusammen.
-> • Wann kommt Paul an?  ➔  Ich weiß nicht, wann Paul ankommt.
-
+> • **Indirekte W-Fragen:** Fragewort leitet den Nebensatz ein, finites Verb steht am Satzende (*Ich weiß nicht, wann er kommt*).
+> • **Indirekte Ja/Nein-Fragen:** werden mit **ob** eingeleitet (*Ich weiß nicht, ob er kommt*).
+> • **Trennbare Verben:** Am Satzende wieder zusammengeschrieben (*abholt, umziehen, ankommt*).
 
 ### ✍️ Übung 3
-*Bilden Sie Nebensätze.*
+*Verbinden Sie die beiden Sätze mit der in Klammern genannten Nebensatzkonjunktion.*
 
-> 💡 **Beispiel:** Ich brachte den Wagen in die Werkstatt. Die Bremsen waren defekt. (kausal)
-
-- **a)** Thomas besuchte seine Tante. Sie lag im Krankenhaus. (temporal)
-- **b)** Jana erklärt mir alles ganz genau. Ich mache keinen Fehler. (final)
-- **c)** Clara ist sehr ärgerlich. Ich habe sie nicht angerufen. (kausal)
-- **d)** Pedro spricht immer über Politik. Er hat eigentlich keine Ahnung. (konzessiv)
-- **e)** Amira hörte genau zu. Ich erzählte ihr die ganze Geschichte. (temporal)
-- **f)** Es ist sehr schade. Unsere Freunde können nicht mitkommen. (dass — Satz)
-- **g)** Ich kann nicht so laut sprechen. Ich habe Halsschmerzen. (kausal)
-- **h)** Paul sollte sich besser konzentrieren. Er möchte keinen Fehler machen. (konditional)
-- **3.** Fragesätze als Nebensätze
+- **a)** Thomas besuchte seine Tante, _____ . *(Sie lag im Krankenhaus. / temporal)*
+- **b)** Jana erklärt mir alles ganz genau, _____ . *(Ich mache keinen Fehler. / final)*
+- **c)** Clara ist sehr ärgerlich, _____ . *(Ich habe sie nicht angerufen. / kausal)*
+- **d)** Pedro spricht immer über Politik, _____ . *(Er hat eigentlich keine Ahnung. / konzessiv)*
+- **e)** Amira hörte genau zu, _____ . *(Ich erzählte ihr die ganze Geschichte. / temporal)*
+- **f)** Es ist sehr schade, _____ . *(Unsere Freunde können nicht mitkommen. / dass)*
+- **g)** Ich kann nicht so laut sprechen, _____ . *(Ich habe Halsschmerzen. / kausal)*
+- **h)** Paul sollte sich besser konzentrieren, _____ . *(Er möchte keinen Fehler machen. / konditional)*
 
 ### ✍️ Übung 4
-*Wählen Sie aus dem Wortkasten: Nebensätze, die, man, aus, einer, Frage, ohne, Fragewort, bildet, beginnen, mit, ob.*
+*Bilden Sie indirekte Fragesätze mit "Ich weiß nicht, ..." anhand der Vorgaben.*
 
-> 💡 **Beispiel:** warum - Paul - so spät - kommen   Ich weiß nicht,   warum   Paul so spät gekommen ist.
-
-- **a)** wer — Spiel — gewinnen
-- **b)** wann — dein Kollege — abreisen
-- **c)** wem — deine Tante — helfen
-- **d)** wie viel — Max — für das Auto — bezahlen
-- **e)** wohin — deine Freunde — fahren
-- **f)** wie lange — dieser Film — dauern
-- **g)** wie viel — Clara — im Kasino — verlieren
-- **h)** *(wen)*  — Theo — gestern — treffen
-- **i)** wann — der Kurs — beginnen
-- **j)** weshalb — die Leute — streiten
-- **k)** woher — die Touristen — kommen
-- **l)** warum — Lena — reklamieren
+- **a)** wer — Spiel — gewinnen ➔ Ich weiß nicht, _____ .
+- **b)** wann — dein Kollege — abreisen ➔ Ich weiß nicht, _____ .
+- **c)** wem — deine Tante — helfen ➔ Ich weiß nicht, _____ .
+- **d)** wie viel — Max — für das Auto — bezahlen ➔ Ich weiß nicht, _____ .
+- **e)** wohin — deine Freunde — fahren ➔ Ich weiß nicht, _____ .
+- **f)** wie lange — dieser Film — dauern ➔ Ich weiß nicht, _____ .
+- **g)** wie viel — Clara — im Kasino — verlieren ➔ Ich weiß nicht, _____ .
+- **h)** wen — Theo — gestern — treffen ➔ Ich weiß nicht, _____ .
+- **i)** wann — der Kurs — beginnen ➔ Ich weiß nicht, _____ .
+- **j)** weshalb — die Leute — streiten ➔ Ich weiß nicht, _____ .
+- **k)** woher — die Touristen — kommen ➔ Ich weiß nicht, _____ .
+- **l)** warum — Lena — reklamieren ➔ Ich weiß nicht, _____ .
 
 ### ✍️ Übung 5
-> 💡 **Beispiel:** Kommt Peter heute?  Ich habe keine Ahnung,   ob   Peter heute kommt.
+*Verwandeln Sie die Ja/Nein-Fragen in indirekte Fragesätze mit 'ob'.*
 
-- **a)** Hat jemand bei Paul angerufen?
-- **b)** Trinkt Max ab und zu Weißwein?
-- **c)** Holt Paul dich vom Bahnhof ab?
-- **d)** Hat man das Gerät repariert?
-- **e)** Kauft sich Lisa ein Fahrrad?
-- **f)** Sucht Maria eine Wohnung?
-- **h)** Muss Eva morgen arbeiten?
-- **h)** *(Spielen)* die Kinder jetzt Fußball?
-- **i)** Fährt Frau Berg nach Rom?
-- **j)** Hat Robert sich verspätet?
-- **k)** Will Julia dich besuchen?
-- **l)** *(Ziehen)* eure Nachbarn bald um?
-- **m)** Hat Max die Arbeit erledigt?
-- **n)** Liegt das Haus am See?
-- **o)** Ist Lisa schon abgereist?
+- **a)** Hat jemand bei Paul angerufen? ➔ Ich habe keine Ahnung, _____ .
+- **b)** Trinkt Max ab und zu Weißwein? ➔ Ich habe keine Ahnung, _____ .
+- **c)** Holt Paul dich vom Bahnhof ab? ➔ Ich habe keine Ahnung, _____ .
+- **d)** Hat man das Gerät repariert? ➔ Ich habe keine Ahnung, _____ .
+- **e)** Kauft sich Lisa ein Fahrrad? ➔ Ich habe keine Ahnung, _____ .
+- **f)** Sucht Maria eine Wohnung? ➔ Ich habe keine Ahnung, _____ .
+- **g)** Muss Eva morgen arbeiten? ➔ Ich habe keine Ahnung, _____ .
+- **h)** Spielen die Kunden jetzt Fußball? ➔ Ich habe keine Ahnung, _____ .
+- **i)** Fährt Frau Berg nach Rom? ➔ Ich habe keine Ahnung, _____ .
+- **j)** Hat Robert sich verspätet? ➔ Ich habe keine Ahnung, _____ .
+- **k)** Will Julia dich besuchen? ➔ Ich habe keine Ahnung, _____ .
+- **l)** Ziehen eure Nachbarn bald um? ➔ Ich habe keine Ahnung, _____ .
+- **m)** Hat Max die Arbeit erledigt? ➔ Ich habe keine Ahnung, _____ .
+- **n)** Liegt das Haus am See? ➔ Ich habe keine Ahnung, _____ .
+- **o)** Ist Lisa schon abgereist? ➔ Ich habe keine Ahnung, _____ .
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 10)</strong></summary>
@@ -858,46 +738,45 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **3. Fragesätze als Nebensätze**:*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **3.** `—` — Grammatische Ergänzung
+- **a)** `als sie im Krankenhaus lag` — *temporal mit als*
+- **b)** `damit ich keinen Fehler mache` — *final mit damit*
+- **c)** `weil ich sie nicht angerufen habe` — *kausal mit weil*
+- **d)** `obwohl er eigentlich keine Ahnung hat` — *konzessiv mit obwohl*
+- **e)** `als ich ihr die ganze Geschichte erzählte` — *temporal mit als*
+- **f)** `dass unsere Freunde nicht mitkommen können` — *dass-Satz*
+- **g)** `weil ich Halsschmerzen habe` — *kausal mit weil*
+- **h)** `wenn er keinen Fehler machen möchte` — *konditional mit wenn*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `wen` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `wer das Spiel gewonnen hat`
+- **b)** `wann dein Kollege abreist`
+- **c)** `wem deine Tante hilft`
+- **d)** `wie viel Max für das Auto bezahlt hat`
+- **e)** `wohin deine Freunde fahren`
+- **f)** `wie lange dieser Film dauert`
+- **g)** `wie viel Clara im Kasino verloren hat`
+- **h)** `wen Theo gestern getroffen hat`
+- **i)** `wann der Kurs beginnt`
+- **j)** `weshalb die Leute streiten`
+- **k)** `woher die Touristen kommen`
+- **l)** `warum Lena reklamiert`
 
 #### Übung 5
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **h)** `Spielen` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `Ziehen` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
+- **a)** `ob jemand bei Paul angerufen hat`
+- **b)** `ob Max ab und zu Weißwein trinkt`
+- **c)** `ob Paul dich vom Bahnhof abholt`
+- **d)** `ob man das Gerät repariert hat`
+- **e)** `ob sich Lisa ein Fahrrad kauft`
+- **f)** `ob Maria eine Wohnung sucht`
+- **g)** `ob Eva morgen arbeiten muss`
+- **h)** `ob die Kinder jetzt Fußball spielen`
+- **i)** `ob Frau Berg nach Rom fährt`
+- **j)** `ob sich Robert verspätet hat`
+- **k)** `ob Julia dich besuchen will`
+- **l)** `ob eure Nachbarn bald umziehen`
+- **m)** `ob Max die Arbeit erledigt hat`
+- **n)** `ob das Haus am See liegt`
+- **o)** `ob Lisa schon abgereist ist`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 10)**](#workbooks:B1:10) mit automatischer Korrektur und Sofort-Feedback.

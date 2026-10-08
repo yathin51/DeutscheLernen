@@ -5524,6 +5524,303 @@ describe("B1 Page 4 Refinement Integrity (1.2. Starke & 1.3. Gemischte Verben)",
   assert(loesText.includes("Seite 4: 1.2. Starke & gemischte Verben im Perfekt"), "B1/Loesungsschluessel.md has Page 4 section");
 });
 
+
+// ----------------------------------------------------------------------------
+// Suite 75: B1 Page 5 Refinement Integrity (1.4. Nicht trennbare & 1.5. Trennbare)
+// ----------------------------------------------------------------------------
+describe("B1 Page 5 Refinement Integrity (1.4. Nicht trennbare & 1.5. Trennbare)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page5 = data.B1 && data.B1["5"];
+  assert(page5, "B1 Page 5 exists in WORKBOOK_DATA");
+  assert(page5.lessonTitle.includes("Nicht trennbare & 1.5. Trennbare"), "Page 5 has pedagogical lessonTitle");
+  assert(page5.exercises.length === 4, "Page 5 has exactly 4 exercises");
+
+  // Übung 4
+  const ex4 = page5.exercises[0];
+  assert(ex4.items.length === 12, "Übung 4 has 12 items (a-l)");
+  assert(ex4.answers["b1_p5_ex4_a"] === "erzählt", "Item 4a is erzählt");
+  assert(ex4.answers["b1_p5_ex4_b"] === "gewonnen", "Item 4b is gewonnen");
+  assert(ex4.answers["b1_p5_ex4_l"] === "entschuldigt", "Item 4l is entschuldigt");
+  assert(ex4.items.every(it => it.isCompact === true), "All Übung 4 items are isCompact: true");
+  assert(!Object.values(ex4.answers).includes("—"), "Übung 4 has no corrupt answers");
+
+  // Übung 5
+  const ex5 = page5.exercises[1];
+  assert(ex5.items.length === 7, "Übung 5 has 7 items (a-g)");
+  assert(ex5.answers["b1_p5_ex5_a"] === "empfohlen", "Item 5a is empfohlen");
+  assert(ex5.answers["b1_p5_ex5_g"] === "versprochen", "Item 5g is versprochen");
+  assert(!ex5.items.some(it => it.lead && it.lead.includes("5. Trennbare Verben")), "Übung 5 has no header debris");
+  assert(!Object.values(ex5.answers).includes("—"), "Übung 5 has no corrupt answers");
+
+  // Übung 6
+  const ex6 = page5.exercises[2];
+  assert(ex6.items.length === 9, "Übung 6 has 9 items (a-i)");
+  assert(ex6.answers["b1_p5_ex6_a"] === "vorgeschlagen", "Item 6a is vorgeschlagen");
+  assert(ex6.answers["b1_p5_ex6_c"] === "abgefahren", "Item 6c is abgefahren");
+  assert(ex6.answers["b1_p5_ex6_i"] === "eingestiegen", "Item 6i is eingestiegen");
+  assert(ex6.items.every(it => it.isCompact === true), "All Übung 6 items are isCompact: true");
+  assert(!Object.values(ex6.answers).includes("—"), "Übung 6 has no corrupt answers");
+
+  // Übung 7
+  const ex7 = page5.exercises[3];
+  assert(ex7.items.length === 7, "Übung 7 has 7 items (a-g)");
+  assert(ex7.answers["b1_p5_ex7_a"] === "abgefahren", "Item 7a is abgefahren");
+  assert(ex7.answers["b1_p5_ex7_g"] === "eingeschrieben", "Item 7g is eingeschrieben");
+  assert(!Object.values(ex7.answers).includes("—"), "Übung 7 has no corrupt answers");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 5: 1.4. Nicht trennbare & 1.5. Trennbare Verben im Perfekt"), "B1/Arbeitsbuch.md has Page 5 section");
+  assert(loesText.includes("Seite 5: 1.4. Nicht trennbare & 1.5. Trennbare Verben im Perfekt"), "B1/Loesungsschluessel.md has Page 5 section");
+});
+
+// ----------------------------------------------------------------------------
+// Suite 76: B1 Page 6 Refinement Integrity (2.1. Das Präteritum — Schwache Verben)
+// ----------------------------------------------------------------------------
+describe("B1 Page 6 Refinement Integrity (2.1. Das Präteritum — Schwache Verben)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page6 = data.B1 && data.B1["6"];
+  assert(page6, "B1 Page 6 exists in WORKBOOK_DATA");
+  assert(page6.lessonTitle.includes("2.1. Das Präteritum"), "Page 6 has pedagogical lessonTitle");
+  assert(page6.exercises.length === 2, "Page 6 has exactly 2 exercises");
+
+  // Übung 8
+  const ex8 = page6.exercises[0];
+  assert(ex8.items.length === 18, "Übung 8 has 18 items (a-r)");
+  assert(ex8.answers["b1_p6_ex8_a"] === "buchte", "Item 8a is buchte");
+  assert(ex8.answers["b1_p6_ex8_g"] === "antwortete", "Item 8g is antwortete");
+  assert(ex8.answers["b1_p6_ex8_r"] === "setzte", "Item 8r is setzte");
+  assert(ex8.items.every(it => it.isCompact === true), "All Übung 8 items are isCompact: true");
+  assert(!Object.values(ex8.answers).includes("—"), "Übung 8 has no corrupt answers");
+  assert(!Object.values(ex8.answers).includes("das"), "Übung 8 has no scraper 'das'");
+
+  // Übung 9
+  const ex9 = page6.exercises[1];
+  assert(ex9.items.length === 12, "Übung 9 has 12 items (a-l)");
+  assert(ex9.answers["b1_p6_ex9_a"] === "besichtigte Yasmin die Wohnung", "Item 9a is correct");
+  assert(ex9.answers["b1_p6_ex9_b"] === "füllte Yasmin das Formular aus", "Item 9b is correct");
+  assert(ex9.answers["b1_p6_ex9_l"] === "kehrte Yasmin aus Italien zurück", "Item 9l is correct");
+  assert(ex9.items.every(it => it.isCompact === false), "All Übung 9 items are isCompact: false");
+  assert(!Object.values(ex9.answers).includes("—"), "Übung 9 has no corrupt answers");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 6: 2.1. Das Präteritum — Schwache Verben"), "B1/Arbeitsbuch.md has Page 6 section");
+  assert(loesText.includes("Seite 6: 2.1. Das Präteritum — Schwache Verben"), "B1/Loesungsschluessel.md has Page 6 section");
+});
+
+
+// ----------------------------------------------------------------------------
+// Suite 77: B1 Page 7 Refinement Integrity (2.2. Starke & 2.3. Gemischte Verben)
+// ----------------------------------------------------------------------------
+describe("B1 Page 7 Refinement Integrity (2.2. Starke & 2.3. Gemischte Verben)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page7 = data.B1 && data.B1["7"];
+  assert(page7, "B1 Page 7 exists in WORKBOOK_DATA");
+  assert(page7.lessonTitle.includes("2.2. Starke"), "Page 7 has pedagogical lessonTitle");
+  assert(page7.exercises.length === 2, "Page 7 has exactly 2 exercises");
+
+  // Übung 10
+  const ex10 = page7.exercises[0];
+  assert(ex10.items.length === 24, "Übung 10 has 24 items (a-x)");
+  assert(ex10.answers["b1_p7_ex10_a"] === "schien", "Item 10a is schien");
+  assert(ex10.answers["b1_p7_ex10_e"] === "fuhr", "Item 10e is fuhr");
+  assert(ex10.answers["b1_p7_ex10_i"] === "wuchsen", "Item 10i is wuchsen (Plural)");
+  assert(ex10.answers["b1_p7_ex10_o"] === "flohen", "Item 10o is flohen (Plural)");
+  assert(ex10.answers["b1_p7_ex10_x"] === "warf", "Item 10x is warf");
+  assert(ex10.items.every(it => it.isCompact === true), "All Übung 10 items are isCompact: true");
+  assert(!ex10.items.some(it => it.lead && it.lead.includes("Gemischte Verben")), "Übung 10 has no header debris");
+  assert(!Object.values(ex10.answers).includes("—"), "Übung 10 has no corrupt answers");
+  assert(!Object.values(ex10.answers).includes("scheint"), "Übung 10 has no scraper Präsens forms");
+
+  // Übung 11
+  const ex11 = page7.exercises[1];
+  assert(ex11.items.length === 6, "Übung 11 has 6 items (a-f)");
+  assert(ex11.answers["b1_p7_ex11_a"] === "brannte", "Item 11a is brannte");
+  assert(ex11.answers["b1_p7_ex11_b"] === "wusste", "Item 11b is wusste");
+  assert(ex11.answers["b1_p7_ex11_f"] === "sandte", "Item 11f is sandte");
+  assert(ex11.items.every(it => it.isCompact === true), "All Übung 11 items are isCompact: true");
+  assert(!ex11.items.some(it => it.lead && it.lead.includes("aber: liegen")), "Übung 11 has no footnote debris");
+  assert(!Object.values(ex11.answers).includes("—"), "Übung 11 has no corrupt answers");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 7: 2.2. Starke & 2.3. Gemischte Verben im Präteritum"), "B1/Arbeitsbuch.md has Page 7 section");
+  assert(loesText.includes("Seite 7: 2.2. Starke & 2.3. Gemischte Verben im Präteritum"), "B1/Loesungsschluessel.md has Page 7 section");
+});
+
+// ----------------------------------------------------------------------------
+// Suite 78: B1 Page 8 Refinement Integrity (3. Das Plusquamperfekt)
+// ----------------------------------------------------------------------------
+describe("B1 Page 8 Refinement Integrity (3. Das Plusquamperfekt)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page8 = data.B1 && data.B1["8"];
+  assert(page8, "B1 Page 8 exists in WORKBOOK_DATA");
+  assert(page8.lessonTitle.includes("3. Das Plusquamperfekt"), "Page 8 has pedagogical lessonTitle");
+  assert(page8.exercises.length === 2, "Page 8 has exactly 2 exercises");
+
+  // Übung 12
+  const ex12 = page8.exercises[0];
+  assert(ex12.items.length === 12, "Übung 12 has 12 items (a-l)");
+  assert(ex12.answers["b1_p8_ex12_a"] === "hatte er lange gearbeitet", "Item 12a is correct");
+  assert(ex12.answers["b1_p8_ex12_b"] === "hatte er sich die Zähne geputzt", "Item 12b is correct");
+  assert(ex12.answers["b1_p8_ex12_k"] === "war ich in den Zug gestiegen", "Item 12k has sein");
+  assert(ex12.answers["b1_p8_ex12_l"] === "war ein Unfall passiert", "Item 12l has sein");
+  assert(ex12.items.every(it => it.isCompact === false), "All Übung 12 items are isCompact: false");
+  assert(!Object.values(ex12.answers).includes("—"), "Übung 12 has no corrupt answers");
+  assert(!Object.values(ex12.answers).includes("das"), "Übung 12 has no scraper 'das'");
+
+  // Übung 13
+  const ex13 = page8.exercises[1];
+  assert(ex13.items.length === 14, "Übung 13 has 14 items (a-n)");
+  assert(ex13.answers["b1_p8_ex13_a"] === "er hatte etwas Falsches gegessen", "Item 13a is correct");
+  assert(ex13.answers["b1_p8_ex13_j"] === "er war schon abgereist", "Item 13j has sein");
+  assert(ex13.answers["b1_p8_ex13_m"] === "ihre Katze war weggelaufen", "Item 13m has sein");
+  assert(ex13.answers["b1_p8_ex13_n"] === "er hatte ein Geschenk bekommen", "Item 13n is correct");
+  assert(ex13.items.every(it => it.isCompact === false), "All Übung 13 items are isCompact: false");
+  assert(!Object.values(ex13.answers).includes("—"), "Übung 13 has no corrupt answers");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 8: 3. Das Plusquamperfekt"), "B1/Arbeitsbuch.md has Page 8 section");
+  assert(loesText.includes("Seite 8: 3. Das Plusquamperfekt"), "B1/Loesungsschluessel.md has Page 8 section");
+});
+
+
+// ----------------------------------------------------------------------------
+// Suite 79: B1 Page 9 Refinement Integrity (1. Satzarten & 2. Nebensätze)
+// ----------------------------------------------------------------------------
+describe("B1 Page 9 Refinement Integrity (1. Satzarten & 2. Nebensätze)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page9 = data.B1 && data.B1["9"];
+  assert(page9, "B1 Page 9 exists in WORKBOOK_DATA");
+  assert(page9.lessonTitle.includes("1. Satzarten & 2. Nebensätze"), "Page 9 has pedagogical lessonTitle");
+  assert(page9.exercises.length === 2, "Page 9 has exactly 2 exercises");
+
+  // Übung 1
+  const ex1 = page9.exercises[0];
+  assert(ex1.items.length === 8, "Übung 1 has 8 items (a-h)");
+  assert(ex1.answers["b1_p9_ex1_a"] === "Fahr vorsichtig, Jana!", "Item 1a is correct");
+  assert(ex1.answers["b1_p9_ex1_c"] === "Sprich deutlich, Pavel!", "Item 1c is correct");
+  assert(ex1.answers["b1_p9_ex1_h"] === "Rufen Sie Ihren Chef an, Herr Tomaso!", "Item 1h is correct");
+  assert(!Object.values(ex1.answers).includes("—"), "Übung 1 has no corrupt answers");
+
+  // Übung 2
+  const ex2 = page9.exercises[1];
+  assert(ex2.items.length === 10, "Übung 2 has 10 items (a-j)");
+  assert(ex2.answers["b1_p9_ex2_a"] === "Wann kommen die Gäste?", "Item 2a is correct");
+  assert(ex2.answers["b1_p9_ex2_b"] === "Wohin fährt Jana?", "Item 2b is correct");
+  assert(ex2.answers["b1_p9_ex2_j"] === "Warum bleiben die Kinder zu Hause?", "Item 2j is correct");
+  assert(!ex2.items.some(it => it.lead && it.lead.includes("Nebensätze")), "Übung 2 has no header debris");
+  assert(!Object.values(ex2.answers).includes("—"), "Übung 2 has no corrupt answers");
+  assert(!Object.values(ex2.answers).includes("das"), "Übung 2 has no scraper 'das'");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 9: 1. Satzarten & 2. Nebensätze"), "B1/Arbeitsbuch.md has Page 9 section");
+  assert(loesText.includes("Seite 9: 1. Satzarten & 2. Nebensätze"), "B1/Loesungsschluessel.md has Page 9 section");
+});
+
+// ----------------------------------------------------------------------------
+// Suite 80: B1 Page 10 Refinement Integrity (3. Fragesätze als Nebensätze)
+// ----------------------------------------------------------------------------
+describe("B1 Page 10 Refinement Integrity (3. Fragesätze als Nebensätze)", () => {
+  const rootDir = path.join(__dirname, "..");
+  const keysPath = path.join(rootDir, "js", "workbooks_keys.js");
+  const raw = fs.readFileSync(keysPath, "utf8");
+  const start = raw.indexOf("{");
+  const end = raw.lastIndexOf("}") + 1;
+  const data = JSON.parse(raw.substring(start, end));
+
+  const page10 = data.B1 && data.B1["10"];
+  assert(page10, "B1 Page 10 exists in WORKBOOK_DATA");
+  assert(page10.lessonTitle.includes("3. Fragesätze als Nebensätze"), "Page 10 has pedagogical lessonTitle");
+  assert(page10.exercises.length === 3, "Page 10 has exactly 3 exercises");
+
+  // Übung 3
+  const ex3 = page10.exercises[0];
+  assert(ex3.items.length === 8, "Übung 3 has 8 items (a-h)");
+  assert(ex3.answers["b1_p10_ex3_a"] === "als sie im Krankenhaus lag", "Item 3a is correct");
+  assert(ex3.answers["b1_p10_ex3_b"] === "damit ich keinen Fehler mache", "Item 3b is correct");
+  assert(ex3.answers["b1_p10_ex3_f"] === "dass unsere Freunde nicht mitkommen können", "Item 3f is correct");
+  assert(!Object.values(ex3.answers).includes("—"), "Übung 3 has no corrupt answers");
+  assert(!Object.values(ex3.answers).includes("das"), "Übung 3 has no scraper 'das'");
+
+  // Übung 4
+  const ex4 = page10.exercises[1];
+  assert(ex4.items.length === 12, "Übung 4 has 12 items (a-l)");
+  assert(ex4.answers["b1_p10_ex4_a"] === "wer das Spiel gewonnen hat", "Item 4a is correct");
+  assert(ex4.answers["b1_p10_ex4_l"] === "warum Lena reklamiert", "Item 4l is correct");
+  assert(!Object.values(ex4.answers).includes("—"), "Übung 4 has no corrupt answers");
+
+  // Übung 5
+  const ex5 = page10.exercises[2];
+  assert(ex5.items.length === 15, "Übung 5 has 15 items (a-o)");
+  assert(ex5.answers["b1_p10_ex5_a"] === "ob jemand bei Paul angerufen hat", "Item 5a is correct");
+  assert(ex5.answers["b1_p10_ex5_c"] === "ob Paul dich vom Bahnhof abholt", "Item 5c is correct");
+  assert(ex5.answers["b1_p10_ex5_o"] === "ob Lisa schon abgereist ist", "Item 5o is correct");
+  assert(!Object.values(ex5.answers).includes("—"), "Übung 5 has no corrupt answers");
+
+  // Markdown Sync Checks
+  const arbPath = path.join(rootDir, "B1", "Arbeitsbuch.md");
+  const loesPath = path.join(rootDir, "B1", "Loesungsschluessel.md");
+  const arbText = fs.readFileSync(arbPath, "utf8");
+  const loesText = fs.readFileSync(loesPath, "utf8");
+
+  assert(arbText.includes("Seite 10: 3. Fragesätze als Nebensätze & Nebensatzarten"), "B1/Arbeitsbuch.md has Page 10 section");
+  assert(loesText.includes("Seite 10: 3. Fragesätze als Nebensätze & Nebensatzarten"), "B1/Loesungsschluessel.md has Page 10 section");
+});
+
 console.log(`\n📊 TEST SUMMARY: ${passed} Passed, ${failed} Failed`);
 console.log(`======================================================`);
 
