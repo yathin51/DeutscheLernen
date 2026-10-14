@@ -786,60 +786,70 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-11"></a>
-## 📄 Seite 11: Kausale Sätze
+## 📄 Seite 11: Kausale Sätze (weil, denn, deshalb, nämlich)
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Kausale Satzverbindungen**
 >
-> • Kausale Sätze
-> • kausal: Warum? ➔ Grund
-> • Adverb Wir kamen zu spät.   Wir hatten nämlich einen Unfall.
-> • Aussagesatz  Aussagesatz
-> • NS-Konjunktion Wir kamen zu spät,   weil   wir einen Unfall hatten.
-> • Hauptsatz kausaler Nebensatz
-> • Nebenordnende Konjunktion Wir kamen zu spät,   denn   wir hatten einen Unfall.
-> • Aussagesatz Konj. (Pos. 0)  Aussagesatz
-> • Konjunktionaladverb Wir hatten einen Unfall.  Deshalb kamen wir zu spät.
-> • Aussagesatz  Aussagesatz
-> • Präposition Wegen eines Unfalles kamen wir zu spät.
-> • Aussagesatz
-> • Kausale Nebensatzkonjunktionen: weil, da
-> • Kausale nebenordnende Konjunktion: denn
-> • Kausale Konjunktionaladverbien: deshalb, daher, deswegen
-> • Kausale Präpositionen: wegen (mit Gen.), aufgrund (mit Gen.)
+> | Verbindung | Position / Wortstellung | Beispiel |
+> | :--- | :--- | :--- |
+> | **weil** (Nebensatz) | Verb am Satzende | *Wir kamen zu spät, **weil** wir einen Unfall **hatten**.* |
+> | **denn** (Hauptsatz) | Position 0 (keine Inversion) | *Wir kamen zu spät, **denn** wir **hatten** einen Unfall.* |
+> | **deshalb** (Adverb) | Position 1 (Inversion: Verb auf Pos. 2) | *Wir hatten einen Unfall. **Deshalb kamen** wir zu spät.* |
+> | **nämlich** (Adverb) | Im Mittelfeld nach dem finiten Verb | *Wir kamen zu spät. Wir hatten **nämlich** einen Unfall.* |
+> | **wegen** (+ Genitiv) | Präposition | ***Wegen eines Unfalls** kamen wir zu spät.* |
 
+### ✍️ Übung 1: Kausale Nebensätze mit weil bilden
+*Beantworten Sie die Fragen mit einem Kausalsatz mit weil.*
 
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Paul, ist, zum, Arzt, gegangen, weil, er, Husten, hat*
+> 💡 **Beispiel:** Warum ist Paul zum Arzt gegangen? (Husten haben) ➔ *Paul ist zum Arzt gegangen, weil er Husten hat.*
 
-> 💡 **Beispiel:** Warum ist Paul zum Arzt gegangen? - Husten haben
+- **a)** Warum sucht Thomas eine neue Arbeit? (zu wenig verdienen)
+  - Thomas sucht eine neue Arbeit, ___________________________________.
+- **b)** Warum isst du keine Erdbeeren? (eine Allergie haben)
+  - Ich esse keine Erdbeeren, ___________________________________.
+- **c)** Warum ziehst du aus dieser Wohnung aus? (zu dunkel sein)
+  - Ich ziehe aus dieser Wohnung aus, ___________________________________.
+- **d)** Warum hast du die Blumen gekauft? (meine Freundin heute Geburtstag haben)
+  - Ich habe die Blumen gekauft, ___________________________________.
+- **e)** Warum hatte Max einen Termin beim Augenarzt? (eine Brille brauchen)
+  - Max hatte einen Termin beim Augenarzt, ___________________________________.
+- **f)** Warum fährt Maria nicht in Urlaub? (sich krank fühlen)
+  - Maria fährt nicht in Urlaub, ___________________________________.
+- **g)** Warum hat Luis sich verspätet? (den Bus verpassen)
+  - Luis hat sich verspätet, ___________________________________.
+- **h)** Warum macht Jana die Fahrradtour nicht mit? (sich erkälten)
+  - Jana macht die Fahrradtour nicht mit, ___________________________________.
 
-- **a)** Warum sucht Thomas eine neue Arbeit? — zu wenig verdienen
-- **b)** Warum isst du keine Erdbeeren? — eine Allergie haben
-- **c)** Warum ziehst du aus dieser Wohnung aus? — zu dunkel sein
-- **d)** Warum hast du die Blumen gekauft? — meine Freundin heute Geburtstag haben
-- **e)** Warum hatte Max einen Termin beim Augenarzt? — eine Brille brauchen
-- **f)** Warum fährt Maria nicht in Urlaub? — sich krank fühlen
-- **g)** Warum hat Luis sich verspätet? — den Bus verpassen
-- **h)** Warum macht Jana die Fahrradtour nicht mit? — sich erkälten
+### ✍️ Übung 2: Sätze mit deshalb verbinden
+*Verbinden Sie die beiden Sätze mit deshalb. Achten Sie auf die Inversion (Verb auf Position 2).*
 
-### ✍️ Übung 2
-*Es hat schrecklich geregnet.   Deshalb   ist Rita am Wochenende zu Hause geblieben.*
-
-> 💡 **Beispiel:** Rita ist am Wochenende zu Hause geblieben. Es hat nämlich schrecklich geregnet.
+> 💡 **Beispiel:** Rita ist am Wochenende zu Hause geblieben. Es hat nämlich schrecklich geregnet. ➔ *Es hat schrecklich geregnet. Deshalb ist Rita am Wochenende zu Hause geblieben.*
 
 - **a)** Manfred bleibt im Bett. Er hat sich nämlich erkältet.
+  - Er hat sich erkältet. Deshalb ___________________________________.
 - **b)** Der Laden ist geschlossen. Die Besitzer sind nämlich in Urlaub.
+  - Die Besitzer sind in Urlaub. Deshalb ___________________________________.
 - **c)** Julia lernt jetzt immer bis spät abends. Sie schreibt nämlich bald ihre Abschlussprüfung.
+  - Julia schreibt bald ihre Abschlussprüfung. Deshalb ___________________________________.
 - **d)** Der Hotelgast beschwerte sich. Er war nämlich mit dem Service gar nicht zufrieden.
+  - Der Hotelgast war mit dem Service gar nicht zufrieden. Deshalb ___________________________________.
 - **e)** Ich komme erst später. Ich muss nämlich noch etwas Wichtiges erledigen.
+  - Ich muss noch etwas Wichtiges erledigen. Deshalb ___________________________________.
 - **f)** Der Autofahrer war schwer verletzt. Er hatte sich nämlich nicht angegurtet.
+  - Der Autofahrer hatte sich nicht angegurtet. Deshalb ___________________________________.
 - **g)** Viele Menschen verloren ihre Arbeit. Man hatte nämlich die Produktion automatisiert.
+  - Man hatte die Produktion automatisiert. Deshalb ___________________________________.
 - **h)** Jana gewann den Schwimmwettbewerb an ihrer Schule. Sie hatte nämlich täglich hart trainiert.
+  - Jana hatte täglich hart trainiert. Deshalb ___________________________________.
 - **i)** Du solltest diese Pflanze nicht anfassen. Sie ist nämlich sehr giftig.
+  - Diese Pflanze ist sehr giftig. Deshalb ___________________________________.
 - **j)** Fertiggerichte sind oft ungesund. Sie enthalten nämlich zu wenige Vitamine und zu viel Fett.
+  - Fertiggerichte enthalten zu wenige Vitamine und zu viel Fett. Deshalb ___________________________________.
 - **k)** Michael studiert Jura. Er möchte nämlich Richter werden.
+  - Michael möchte Richter werden. Deshalb ___________________________________.
 - **l)** Klaus konnte nicht mit Julia sprechen. Er war nämlich zu schüchtern.
+  - Klaus war zu schüchtern. Deshalb ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 11)</strong></summary>
@@ -847,28 +857,28 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **Kausale Sätze**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `weil er zu wenig verdient` — *weil + Verb am Satzende*
+- **b)** `weil ich eine Allergie habe` — *weil + Verb am Satzende*
+- **c)** `weil sie zu dunkel ist` — *weil + Verb am Satzende*
+- **d)** `weil meine Freundin heute Geburtstag hat` — *weil + Verb am Satzende*
+- **e)** `weil er eine Brille brauchte` — *Präteritum: brauchte*
+- **f)** `weil sie sich krank fühlt` — *Reflexiv: sich fühlt*
+- **g)** `weil er den Bus verpasst hat` — *Perfekt: verpasst hat*
+- **h)** `weil sie sich erkältet hat` — *Perfekt: sich erkältet hat*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `bleibt er im Bett` — *Deshalb + Verb (bleibt) + Subjekt (er)*
+- **b)** `ist der Laden geschlossen` — *Deshalb + Verb (ist) + Subjekt*
+- **c)** `lernt sie jetzt immer bis spät abends` — *Deshalb + Verb (lernt) + Subjekt*
+- **d)** `beschwerte er sich` — *Deshalb + Verb (beschwerte) + Subjekt*
+- **e)** `komme ich erst später` — *Deshalb + Verb (komme) + Subjekt*
+- **f)** `war er schwer verletzt` — *Deshalb + Verb (war) + Subjekt*
+- **g)** `verloren viele Menschen ihre Arbeit` — *Deshalb + Verb (verloren) + Subjekt*
+- **h)** `gewann sie den Schwimmwettbewerb` — *Deshalb + Verb (gewann) + Subjekt*
+- **i)** `solltest du sie nicht anfassen` — *Deshalb + Modalverb (solltest) + Subjekt*
+- **j)** `sind sie oft ungesund` — *Deshalb + Verb (sind) + Subjekt*
+- **k)** `studiert er Jura` — *Deshalb + Verb (studiert) + Subjekt*
+- **l)** `konnte er nicht mit Julia sprechen` — *Deshalb + Modalverb (konnte) + Subjekt*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 11)**](#workbooks:B1:11) mit automatischer Korrektur und Sofort-Feedback.
@@ -878,54 +888,69 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-12"></a>
-## 📄 Seite 12: Konzessive Sätze
+## 📄 Seite 12: Konzessive Sätze (obwohl, trotzdem, trotz)
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Konzessive Satzverbindungen (Gegengrund)**
 >
-> • Konzessive Sätze
-> • Konzessives Adverb Max hatte eine Erkältung.  Trotzdem flog er nach Wien.
-> • Max hatte eine Erkältung.  Er flog trotzdem nach Wien.
-> • Aussagesatz  Aussagesatz
-> • NS-Konjunktion Max flog nach Wien,  obwohl er eine Erkältung hatte.
-> • Hauptsatz konzessiver Nebensatz
-> • Obwohl Max eine Erkältung hatte, flog er nach Wien.
-> • konzessiver Nebensatz Hauptsatz
-> • Präposition Trotz seiner Erkältung flog Max nach Wien.
-> • Aussagesatz
+> | Verbindung | Position / Wortstellung | Beispiel |
+> | :--- | :--- | :--- |
+> | **obwohl** (vorangestellt) | Nebensatz (Verb Ende) ➔ Hauptsatz mit **Inversion** | ***Obwohl** er krank **war**, **ging** er zur Arbeit.* |
+> | **obwohl** (nachgestellt) | Hauptsatz ➔ Nebensatz (Verb Ende) | *Er ging zur Arbeit, **obwohl** er krank **war**.* |
+> | **trotzdem** (Adverb) | Position 1 (Inversion: Verb auf Pos. 2) | *Er war krank. **Trotzdem ging** er zur Arbeit.* |
+> | **trotz** (+ Genitiv) | Präposition | ***Trotz seiner Krankheit** ging er zur Arbeit.* |
 
+### ✍️ Übung 1: Konzessive Sätze mit vorangestelltem obwohl
+*Verbinden Sie die beiden Sätze mit obwohl am Satzanfang. Beachten Sie die Inversion im Hauptsatz (Verb direkt nach dem Komma).*
 
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Obwohl, Max, sich, sehr, beeilt, hatte, verpasste, er, den, Zug.*
-
-> 💡 **Beispiel:** Max hatte sich sehr beeilt. Trotzdem verpasste er den Zug.
+> 💡 **Beispiel:** Max hatte sich sehr beeilt. Trotzdem verpasste er den Zug. ➔ *Obwohl Max sich sehr beeilt hatte, verpasste er den Zug.*
 
 - **a)** Vera hatte Paul eingeladen. Trotzdem kam er nicht zur Party.
+  - Obwohl ___________________________________.
 - **b)** Tanja hat den ganzen Tag gearbeitet. Trotzdem ist sie nicht müde.
+  - Obwohl ___________________________________.
 - **c)** Georg wohnt gar nicht weit von mir. Trotzdem treffe ich ihn nur selten.
+  - Obwohl ___________________________________.
 - **d)** Monika verdient ziemlich wenig. Trotzdem ist sie mit ihrer Arbeit zufrieden.
+  - Obwohl ___________________________________.
 - **e)** Peter fuhr sehr vorsichtig. Trotzdem passierte ein Unfall.
+  - Obwohl ___________________________________.
 - **f)** Max vertraut Clara. Trotzdem erzählt er ihr nicht alles.
+  - Obwohl ___________________________________.
 - **g)** Leyla hat eine Grippe. Trotzdem spielt sie Volleyball.
+  - Obwohl ___________________________________.
 - **h)** Peter hat viele Probleme. Trotzdem beklagt er sich nie.
+  - Obwohl ___________________________________.
 - **i)** Es geht der Wirtschaft gut. Trotzdem verdienen viele Leute sehr schlecht.
+  - Obwohl ___________________________________.
 - **j)** Es sah nach Regen aus. Trotzdem gingen wir zum Baden.
+  - Obwohl ___________________________________.
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Bogdan, kam, nicht, zum, Fest, obwohl, er, Zeit, hatte.*
+### ✍️ Übung 2: Konzessive Sätze mit nachgestelltem obwohl
+*Verbinden Sie die beiden Sätze mit obwohl (Hauptsatz zuerst, dann obwohl-Nebensatz).*
 
-> 💡 **Beispiel:** Bogdan hatte Zeit. Er kam trotzdem nicht zum Fest.
+> 💡 **Beispiel:** Bogdan hatte Zeit. Er kam trotzdem nicht zum Fest. ➔ *Bogdan kam nicht zum Fest, obwohl er Zeit hatte.*
 
 - **a)** Eva hatte Medikamente genommen. Sie konnte trotzdem nicht einschlafen.
+  - Eva konnte nicht einschlafen, ___________________________________.
 - **b)** Karl war sehr müde. Er ging trotzdem noch in die Disko.
+  - Karl ging noch in die Disko, ___________________________________.
 - **c)** Julian hat viel gelernt. Er hat den Test trotzdem nicht geschafft.
+  - Julian hat den Test nicht geschafft, ___________________________________.
 - **d)** Paul hatte schon viele Bewerbungen geschrieben. Er fand trotzdem keine Stelle.
+  - Paul fand keine Stelle, ___________________________________.
 - **e)** Silvie hatte sich sehr beeilt. Sie kam trotzdem zu spät.
+  - Silvie kam zu spät, ___________________________________.
 - **f)** Martin hatte schreckliche Schmerzen. Er wollte trotzdem keine Tablette nehmen.
+  - Martin wollte keine Tablette nehmen, ___________________________________.
 - **g)** Sophie hat nur eine kleine Wohnung. Sie will sich trotzdem einen großen Hund kaufen.
+  - Sophie will sich einen großen Hund kaufen, ___________________________________.
 - **h)** Christine hat wenig Geld. Sie isst trotzdem oft in teuren Restaurants.
+  - Christine isst oft in teuren Restaurants, ___________________________________.
 - **i)** Jana hat Flugangst. Sie fliegt trotzdem oft in die Türkei.
+  - Jana fliegt oft in die Türkei, ___________________________________.
 - **j)** Amira hat morgen ihre Führerscheinprüfung. Sie ist trotzdem gar nicht nervös.
+  - Amira ist gar nicht nervös, ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 12)</strong></summary>
@@ -933,28 +958,28 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **Konzessive Sätze**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
+- **a)** `Vera Paul eingeladen hatte, kam er nicht zur Party` — *Obwohl + Nebensatz + Komma + Inversion*
+- **b)** `Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde` — *Obwohl + Nebensatz + Komma + Inversion*
+- **c)** `Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten` — *Obwohl + Nebensatz + Komma + Inversion*
+- **d)** `Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden` — *Obwohl + Nebensatz + Komma + Inversion*
+- **e)** `Peter sehr vorsichtig fuhr, passierte ein Unfall` — *Obwohl + Nebensatz + Komma + Inversion*
+- **f)** `Max Clara vertraut, erzählt er ihr nicht alles` — *Obwohl + Nebensatz + Komma + Inversion*
+- **g)** `Leyla eine Grippe hat, spielt sie Volleyball` — *Obwohl + Nebensatz + Komma + Inversion*
+- **h)** `Peter viele Probleme hat, beklagt er sich nie` — *Obwohl + Nebensatz + Komma + Inversion*
+- **i)** `es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht` — *Obwohl + Nebensatz + Komma + Inversion*
+- **j)** `es nach Regen aussah, gingen wir zum Baden` — *Obwohl + Nebensatz + Komma + Inversion*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
+- **a)** `obwohl sie Medikamente genommen hatte` — *obwohl + Plusquamperfekt am Ende*
+- **b)** `obwohl er sehr müde war` — *obwohl + Präteritum am Ende*
+- **c)** `obwohl er viel gelernt hat` — *obwohl + Perfekt am Ende*
+- **d)** `obwohl er schon viele Bewerbungen geschrieben hatte` — *obwohl + Plusquamperfekt am Ende*
+- **e)** `obwohl sie sich sehr beeilt hatte` — *obwohl + Reflexiv + Plusquamperfekt*
+- **f)** `obwohl er schreckliche Schmerzen hatte` — *obwohl + Präteritum am Ende*
+- **g)** `obwohl sie nur eine kleine Wohnung hat` — *obwohl + Präsens am Ende*
+- **h)** `obwohl sie wenig Geld hat` — *obwohl + Präsens am Ende*
+- **i)** `obwohl sie Flugangst hat` — *obwohl + Präsens am Ende*
+- **j)** `obwohl sie morgen ihre Führerscheinprüfung hat` — *obwohl + Präsens am Ende*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 12)**](#workbooks:B1:12) mit automatischer Korrektur und Sofort-Feedback.
@@ -964,135 +989,150 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-13"></a>
-## 📄 Seite 13: 1. Genitiv - Funktionen
+## 📄 Seite 13: 1. Genitiv — Formen & Genitivattribut
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Der Genitiv (Formen, Endungen & Genitivattribut)**
 >
-> • Genitiv
-> • 1. Genitiv - Funktionen
-> • maskulin feminin neutral Plural
-> • des Mannes
-> • eines Mannes
-> • der Frau
-> • einer Frau
-> • des Kindes
-> • eines Kindes
-> • der Leute
-> • (von Leuten) Dativ*
-> • Der Genitiv maskulin und neutral erhält in der Regel die Endung s oder es.1
-> • -s bei vielen mehrsilbigen Nomen z. B. auf -en, -el, -er, -or, -ling etc.
-> • des Wagens, des Onkels, des Reporters, des Doktors, des Frühlings
-> • -es bei vielen einsilbigen Nomen und bei Nomen auf -s, ss, ß, sch, z, tz etc.
-> • des Buches, des Flusses, des Fußes, des Schreibtisches, des Fußballplatzes
-> • *  Bei Nomen ohne Artikel - häufig im Plural - gebraucht man in der Regel nicht den Genitiv, sondern die
-> • Präposition  von + Dat. z. B. Man soll den Versprechen von Politikern nicht immer glauben.
-> • Namen von Personen stellt man mit einem s voran. z. B. Evas Bücher, Toms Schwester  ➔ aber: Klaus´ Tante
-> • Funktion von Genitiv:
-> • Wichtige Funktion ➔ Attribut ➔ Attribute erklären oder definieren andere Wörter ➔ Teile von Satzteilen
-> • z. B.Adjektivattribut: das Fahrrad ➔ das neue Fahrrad
-> • Präpositionalattribut: der Schlüssel ➔ der Schlüssel für den Koffer
-> • Genitivattribut ➔ Wem gehört etwas? ➔ Hier liegt der Rucksack meiner Kollegin.
-> • ➔ Was gehört zusammen? ➔ Wo ist die Kappe des Stiftes?
-> • ➔ Von wem stammt etwas? ➔ Die Bilder dieses Malers gefallen mir.
+> | Genus | Bestimmter Artikel | Unbestimmter Artikel | Possessivartikel | Nomenendung |
+> | :--- | :--- | :--- | :--- | :--- |
+> | **Maskulin** | **des** Mannes | **eines** Mannes | **meines** Mannes | **-(e)s** |
+> | **Neutrum** | **des** Kindes | **eines** Kindes | **meines** Kindes | **-(e)s** |
+> | **Feminin** | **der** Frau | **einer** Frau | **meiner** Frau | *keine* |
+> | **Plural** | **der** Kinder | — | **meiner** Kinder | *keine* |
+>
+> **Wichtige Regeln:**
+> - **Endung -s:** Mehrsilbige Nomen auf *-en, -el, -er* (*des Wagens, des Onkels, des Lehrers*).
+> - **Endung -es:** Einsilbige Nomen und Nomen auf Zischlaute *-s, -ß, -z, -sch* (*des Buches, des Flusses, des Platzes*).
+> - **Personennamen:** Erhalten ein vorangestelltes **-s** (*Evas Buch, Toms Schwester*).
 
+### ✍️ Übung 1: Genitivattribute bilden
+*Bilden Sie Sätze nach dem Beispiel: Ich kenne ... leider nicht.*
 
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Possessivartikel:, meines, meiner, meines, meiner, etc.*
-
-> 💡 **Beispiel:** Autor - Roman  Ich kenne den Autor   des   Roman  s   leider nicht  .
+> 💡 **Beispiel:** Autor — Roman ➔ *Ich kenne den Autor des Romans leider nicht.*
 
 - **a)** Ende — Geschichte
+  - Ich kenne das Ende ___________________________________ leider nicht.
 - **b)** Titel — Buch
+  - Ich kenne den Titel ___________________________________ leider nicht.
 - **c)** Adresse — Hotel
-- **d)** *(Methoden)*  — Leute
+  - Ich kenne die Adresse ___________________________________ leider nicht.
+- **d)** Methoden — Leute
+  - Ich kenne die Methoden ___________________________________ leider nicht.
 - **e)** Manager — Club
+  - Ich kenne den Manager ___________________________________ leider nicht.
 - **f)** Chef — Firma
+  - Ich kenne den Chef ___________________________________ leider nicht.
 - **g)** Größe — Zimmer
+  - Ich kenne die Größe ___________________________________ leider nicht.
 - **h)** Telefonnummer — Werkstatt
+  - Ich kenne die Telefonnummer ___________________________________ leider nicht.
 - **i)** Postleitzahl — Ort
+  - Ich kenne die Postleitzahl ___________________________________ leider nicht.
 - **j)** Grund — Streit
+  - Ich kenne den Grund ___________________________________ leider nicht.
 - **k)** Anzahl — Sitzplätze
+  - Ich kenne die Anzahl ___________________________________ leider nicht.
 - **l)** Frau — Chef
-- **m)** *(Namen)*  — Teilnehmer*innen
-- **n)** *(Eltern)*  — Clara
+  - Ich kenne die Frau ___________________________________ leider nicht.
+- **m)** Namen — Teilnehmer*innen
+  - Ich kenne die Namen ___________________________________ leider nicht.
+- **n)** Eltern — Clara
+  - Ich kenne ___________________________________ leider nicht.
 - **o)** Anschrift — Paul
-- **mask.** fem. neutr. Pl.
+  - Ich kenne ___________________________________ leider nicht.
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Fragewort:, Wessen, Haus, ist, das?, Das, ist, das, Haus, meiner, Tante.*
+### ✍️ Übung 2: Possessivartikel im Genitiv
+*Bilden Sie Fragen nach dem Muster: Ist das / Sind das ...?*
 
-> 💡 **Beispiel:** Bruder - deine Kollegin   Ist das der Bruder   deiner   Kollegin?
+> 💡 **Beispiel:** Bruder — deine Kollegin ➔ *Ist das der Bruder deiner Kollegin?*
 
 - **a)** Fahrrad — unser Freund
+  - Ist das das Fahrrad ___________________________________?
 - **b)** Chef — deine Cousine
+  - Ist das der Chef ___________________________________?
 - **c)** Haus — eure Eltern
+  - Ist das das Haus ___________________________________?
 - **d)** Hut — sein Großvater
+  - Ist das der Hut ___________________________________?
 - **e)** Wohnung — ihr Onkel
+  - Ist das die Wohnung ___________________________________?
 - **f)** Katze — deine Tante
+  - Ist das die Katze ___________________________________?
 - **g)** Computer — sein Chef
+  - Ist das der Computer ___________________________________?
 - **h)** Freund — deine Schwester
-- **i)** *(Wagen)*  — euer Lehrer
+  - Ist das der Freund ___________________________________?
+- **i)** Wagen — euer Lehrer
+  - Ist das der Wagen ___________________________________?
 - **j)** Schuhe — dein Bruder
+  - Sind das die Schuhe ___________________________________?
 - **k)** Foto — seine Freundin
-- **l)** *(Spielsachen)*  — eure Kinder
+  - Ist das das Foto ___________________________________?
+- **l)** Spielsachen — eure Kinder
+  - Sind das die Spielsachen ___________________________________?
 
-### ✍️ Übung 3
-> 💡 **Beispiel:** Hut - meine Schwester   Wessen   Hut ist das? - Das ist der Hut   meiner Schwester  .
+### ✍️ Übung 3: Fragewort Wessen & Genitiv-Antwort
+*Ergänzen Sie die Antwort mit dem Genitivattribut.*
+
+> 💡 **Beispiel:** Hut — meine Schwester ➔ *Wessen Hut ist das? — Das ist der Hut meiner Schwester.*
 
 - **a)** Schlüssel — mein Bruder
+  - Wessen Schlüssel ist das? — Das ist der Schlüssel ___________________________________.
 - **b)** Wohnung — unsere Tante
+  - Wessen Wohnung ist das? — Das ist die Wohnung ___________________________________.
 - **c)** Gepäck — eure Gäste
+  - Wessen Gepäck ist das? — Das ist das Gepäck ___________________________________.
 - **d)** Spielzeug — seine Tochter
+  - Wessen Spielzeug ist das? — Das ist das Spielzeug ___________________________________.
 - **e)** Hund — ihr Großvater
+  - Wessen Hund ist das? — Das ist der Hund ___________________________________.
 - **f)** Computer — dein Onkel
-- **1)** Eine Gruppe von maskulinen Nomen bildet sowohl den Genitiv als auch den Dativ und den Akkusativ Sing. mit [e]n  >  n — Deklination
+  - Wessen Computer ist das? — Das ist der Computer ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 13)</strong></summary>
 
-> *Didaktische Lösungen für **1. Genitiv - Funktionen**:*
+> *Didaktische Lösungen für **1. Genitiv — Formen & Genitivattribut**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `Methoden` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `Namen` — Grammatische Ergänzung
-- **n)** `Eltern` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
-- **mask.** `—` — Grammatische Ergänzung
+- **a)** `der Geschichte` — *Feminin im Genitiv*
+- **b)** `des Buches` — *Neutrum im Genitiv*
+- **c)** `des Hotels` — *Neutrum im Genitiv*
+- **d)** `der Leute` — *Plural im Genitiv*
+- **e)** `des Clubs` — *Maskulin im Genitiv*
+- **f)** `der Firma` — *Feminin im Genitiv*
+- **g)** `des Zimmers` — *Neutrum im Genitiv*
+- **h)** `der Werkstatt` — *Feminin im Genitiv*
+- **i)** `des Ortes` — *Maskulin im Genitiv*
+- **j)** `des Streits` — *Maskulin im Genitiv*
+- **k)** `der Sitzplätze` — *Plural im Genitiv*
+- **l)** `des Chefs` — *Maskulin im Genitiv*
+- **m)** `der Teilnehmerinnen` — *Plural im Genitiv*
+- **n)** `Claras Eltern` — *Eigenname mit Genitiv-s*
+- **o)** `Pauls Anschrift` — *Eigenname mit Genitiv-s*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `Wagen` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `Spielsachen` — Grammatische Ergänzung
+- **a)** `unseres Freundes` — *maskulin Genitiv*
+- **b)** `deiner Cousine` — *feminin Genitiv*
+- **c)** `eurer Eltern` — *Plural Genitiv*
+- **d)** `seines Großvaters` — *maskulin Genitiv*
+- **e)** `ihres Onkels` — *maskulin Genitiv*
+- **f)** `deiner Tante` — *feminin Genitiv*
+- **g)** `seines Chefs` — *maskulin Genitiv*
+- **h)** `deiner Schwester` — *feminin Genitiv*
+- **i)** `eures Lehrers` — *maskulin Genitiv*
+- **j)** `deines Bruders` — *maskulin Genitiv*
+- **k)** `seiner Freundin` — *feminin Genitiv*
+- **l)** `eurer Kinder` — *Plural Genitiv*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **1)** `—` — Grammatische Ergänzung
+- **a)** `meines Bruders` — *maskulin Genitiv*
+- **b)** `unserer Tante` — *feminin Genitiv*
+- **c)** `eurer Gäste` — *Plural Genitiv*
+- **d)** `seiner Tochter` — *feminin Genitiv*
+- **e)** `ihres Großvaters` — *maskulin Genitiv*
+- **f)** `deines Onkels` — *maskulin Genitiv*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 13)**](#workbooks:B1:13) mit automatischer Korrektur und Sofort-Feedback.
@@ -1102,55 +1142,54 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-14"></a>
-## 📄 Seite 14: 2. Präpositionen mit Genitiv
+## 📄 Seite 14: 2. Präpositionen mit Genitiv (wegen, trotz, während, anstatt, innerhalb, außerhalb)
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Genitiv-Präpositionen**
 >
-> • 2. Präpositionen mit Genitiv
-> • Viele Präpositionen, die z. T. sehr selten vorkommen, gebraucht man mit Genitiv, z. B.
-> • Aufgrund / Wegen des schlechten Wetters bleibt er zu Hause.
-> • Trotz des schlechten Wetters geht sie ohne Mantel aus dem Haus.
-> • Sie fährt während der Sommerferien immer ans Meer.
-> • Der Kellner brachte mir (an)statt / anstelle eines Kirschsaftes eine Cola.
+> | Präposition | Bedeutung | Beispiel |
+> | :--- | :--- | :--- |
+> | **wegen / aufgrund** | Kausal (Grund) | ***Wegen des Streiks** fuhren keine Züge.* |
+> | **trotz** | Konzessiv (Gegengrund) | ***Trotz des Regens** gingen wir spazieren.* |
+> | **während** | Temporal (Dauer) | ***Während der Ferien** ist geschlossen.* |
+> | **(an)statt** | Substitution (Ersatz) | ***Anstatt eines Briefes** schickte er eine Mail.* |
+> | **innerhalb / außerhalb** | Zeitlich oder räumlich | ***innerhalb einer Woche** / **außerhalb der Stadt*** |
 
+### ✍️ Übung 4: Genitiv-Präpositionen und passende Endungen einsetzen
+*Bilden Sie Präpositionalphrasen mit Genitiv (wegen, trotz, während, anstatt).*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • innerhalb / außerhalb
-> • temporal: Sie sollten innerhalb einer Woche antworten.
-> • lokal: Die Regelungen gelten nur innerhalb der EU.
-> • temporal: Ich habe außerhalb der Geschäftszeiten angerufen.
-> • lokal: So schnell darf man nur außerhalb der Stadt fahren.
-> • Bei Nomen ohne Artikel benutzt man häufig: innerhalb von / außerhalb von
-> • innerhalb von acht Monaten
-> • außerhalb von Europa
+> 💡 **Beispiel:** der Nebel ➔ *Trotz des Nebels fährt er ziemlich schnell.*
 
+- **a)** der Streik
+  - ___________________________________ fahren keine Busse.
+- **b)** mein Urlaub
+  - ___________________________________ war ich drei Wochen in den USA.
+- **c)** ein Brief
+  - ___________________________________ schickt sie mir nur eine kurze E-Mail.
+- **d)** seine Schmerzen
+  - ___________________________________ geht er nicht zum Zahnarzt.
+- **e)** seine Diät
+  - ___________________________________ isst er jeden Tag nur einen Apfel.
+- **f)** alle Probleme
+  - ___________________________________ können wir die Arbeit rechtzeitig beenden.
+- **g)** die Kälte
+  - ___________________________________ muss ich eine dicke Jacke anziehen.
+- **h)** ein Mittagessen
+  - ___________________________________ isst sie nur ein Stückchen Schokolade.
+- **i)** die Ferien
+  - ___________________________________ ist die Bibliothek geschlossen.
+- **j)** ein Rechenfehler
+  - ___________________________________ bestellte man zu viel Material.
 
-### ✍️ Übung 4
-> 💡 **Beispiel:** der Nebel   Trotz des Nebels      fährt er ziemlich schnell.
+### ✍️ Übung 5: Präpositionen im Kontext einsetzen
+*Ergänzen Sie die passende Präposition aus dem Kasten: während, aufgrund, trotz, außerhalb, anstatt, innerhalb.*
 
-- **a)** der Streik _______ fahren keine Busse.
-- **b)** mein Urlaub _______ war ich drei Wochen in den USA.
-- **c)** ein Brief _______ schickt sie mir nur eine kurze E — Mail.
-- **d)** seine Schmerzen _______ geht er nicht zum Zahnarzt.
-- **e)** seine Diät _______ isst er jeden Tag nur einen Apfel.
-- **f)** alle Probleme _______ können wir die Arbeit rechtzeitig beenden.
-- **g)** die Kälte _______ muss ich eine dicke Jacke anziehen.
-- **h)** ein Mittagessen _______ isst sie nur ein Stückchen Schokolade.
-- **i)** die Ferien _______ ist die Bibliothek geschlossen.
-- **j)** ein Rechenfehler _______ bestellte man zu viel Material.
-
-### ✍️ Übung 5
-*Ergänzen Sie eine Präposition.*
-
-- **a)** Viele Leute kaufen dieses Produkt _______ des hohen Preises.
-- **b)** Sie müssen diese Rechnung _______ einer Woche bezahlen.
-- **c)** Sie dürfen _______ des Tests nicht mit den anderen Teilnehmern und Teilnehmerinnen sprechen.
-- **e)** Man bot den verärgerten Kunden _______ einer Rückzahlung nur einen Gutschein an.
-- **f)** Das Fußballstadion liegt ein paar Kilometer _______ der Stadt.
-- **g)** Viele Menschen verloren _______ der Krise ihren Arbeitsplatz.
+- **a)** Viele Leute kaufen dieses Produkt ___________________________________ des hohen Preises.
+- **b)** Sie müssen diese Rechnung ___________________________________ einer Woche bezahlen.
+- **c)** Sie dürfen ___________________________________ des Tests nicht mit den anderen Teilnehmern und Teilnehmerinnen sprechen.
+- **d)** Man bot den verärgerten Kunden ___________________________________ einer Rückzahlung nur einen Gutschein an.
+- **e)** Das Fußballstadion liegt ein paar Kilometer ___________________________________ der Stadt.
+- **f)** Viele Menschen verloren ___________________________________ der Krise ihren Arbeitsplatz.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 14)</strong></summary>
@@ -1158,24 +1197,24 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 > *Didaktische Lösungen für **2. Präpositionen mit Genitiv**:*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
+- **a)** `Wegen des Streiks` — *Kausal*
+- **b)** `Während meines Urlaubs` — *Temporal*
+- **c)** `Anstatt eines Briefes` — *Substitution*
+- **d)** `Trotz seiner Schmerzen` — *Konzessiv*
+- **e)** `Wegen seiner Diät` — *Kausal*
+- **f)** `Trotz aller Probleme` — *Konzessiv*
+- **g)** `Wegen der Kälte` — *Kausal*
+- **h)** `Anstatt eines Mittagessens` — *Substitution*
+- **i)** `Während der Ferien` — *Temporal*
+- **j)** `Wegen eines Rechenfehlers` — *Kausal*
 
 #### Übung 5
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `trotz` — *trotz des hohen Preises*
+- **b)** `innerhalb` — *innerhalb einer Woche*
+- **c)** `während` — *während des Tests*
+- **d)** `anstatt` — *anstatt einer Rückzahlung*
+- **e)** `außerhalb` — *außerhalb der Stadt*
+- **f)** `aufgrund` — *aufgrund der Krise*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 14)**](#workbooks:B1:14) mit automatischer Korrektur und Sofort-Feedback.
@@ -1185,136 +1224,146 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-15"></a>
-## 📄 Seite 15: 1. Konjunktiv II - hätte / wäre / würde
+## 📄 Seite 15: 1. Konjunktiv II — hätte, wäre, würde (Präsens)
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Konjunktiv II im Präsens**
 >
-> • Konjunktiv II
-> • 1. Konjunktiv II - hätte / wäre / würde
-> • Es wäre schön, wenn ich mehr Zeit hätte.
-> • Wenn ich Urlaub bekommen würde,[dann] würde ich nach Rom fahren.
-> • Infinitiv Präsens Konjunktiv II Konjunktiv II mit würde
-> • ich
-> • du
-> • er, sie, es
-> • wir
-> • ihr
-> • sie / Sie
-> • wäre
-> • wär[e]st
-> • wäre
-> • wären
-> • wär[e]t
-> • wären
-> • hätte
-> • hättest
-> • hätte
-> • hätten
-> • hättet
-> • hätten
-> • würde
-> • würdest
-> • würde
-> • würden
-> • würdet
-> • würden
-> • haben ich habe ➔ ich hätte
-> • sein ich bin ➔ ich wäre
-> • werden ich werde ➔ ich würde
-> • kommen ich komme ➔ ich (käme) ich würde kommen
-> • fahren ich fahre ➔ ich (führe) ich würde fahren
-> • sprechen ich spreche ➔ ich (spräche) ich würde sprechen
-> • wissen ich weiß ➔ ich (wüsste) ich würde wissen
-> • Wunsch würde gern + Infinitiv ➔ Ich würde gerne nach Hause gehen.
-> • Höfliche Frage / Bitte würde + Infinitiv ➔ Würden Sie bitte die Tür schließen?
-> • Meinung würde + Infinitiv ➔ Ich würde das anders machen.
+> | Person | sein ➔ **wäre** | haben ➔ **hätte** | werden ➔ **würde** |
+> | :--- | :--- | :--- | :--- |
+> | **ich** | wäre | hätte | würde |
+> | **du** | wärst | hättest | würdest |
+> | **er / sie / es** | wäre | hätte | würde |
+> | **wir** | wären | hätten | würden |
+> | **ihr** | wärt | hättet | würdet |
+> | **sie / Sie** | wären | hätten | würden |
+>
+> **Verwendung:**
+> - **Wunsch:** *Ich würde gern mehr Geld verdienen.*
+> - **Höfliche Bitte:** *Würdest du bitte das Fenster zumachen?*
+> - **Meinung / Ratschlag:** *Ich würde an deiner Stelle zum Arzt gehen.*
 
+### ✍️ Übung 1: Wünsche mit würde gern ausdrücken
+*Formulieren Sie Wünsche mit würde gern / würden gern.*
 
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Wunsch, Beispiel:, Paul, verdient, wenig., Er, würde, gern, mehr, verdienen*
+> 💡 **Beispiel:** Paul verdient wenig. ➔ *Er würde gern mehr verdienen.*
 
-- **a)** Pedro und Lena müssen immer früh aufstehen.  Sie _______ länger _______.
-- **b)** Theo ist nicht besonders fit.  Er _______ mehr Sport _______.
-- **c)** Sandra arbeitet immer allein.  Sie _______ in einem Team _______.
-- **d)** Hassan raucht zu viel. Er _______ nicht so viel _______.
-- **e)** Sofia kann kein Englisch. Sie _______ an einem Sprachkurs _______.
-- **f)** Carlo hat nur eine halbe Stelle. Er _______ Vollzeit _______.
-- **g)** Wir haben eine sehr teure Wohnung. Wir _______ weniger Miete _______.
+- **a)** Pedro und Lena müssen immer früh aufstehen.
+  - Sie ___________________________________.
+- **b)** Theo ist nicht besonders fit.
+  - Er ___________________________________.
+- **c)** Sandra arbeitet immer allein.
+  - Sie ___________________________________.
+- **d)** Hassan raucht zu viel.
+  - Er ___________________________________.
+- **e)** Sofia kann kein Englisch.
+  - Sie ___________________________________.
+- **f)** Carlo hat nur eine halbe Stelle.
+  - Er ___________________________________.
+- **g)** Wir haben eine sehr teure Wohnung.
+  - Wir ___________________________________.
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Bitte, Beispiel:, Geh, weg!, Würdest, du, bitte, weggehen?*
+### ✍️ Übung 2: Höfliche Bitten mit Würdest du bitte...
+*Verwandeln Sie die Aufforderung in eine höfliche Bitte mit Würdest du bitte...?*
+
+> 💡 **Beispiel:** Geh weg! ➔ *Würdest du bitte weggehen?*
 
 - **a)** Mach die Tür zu!
+  - Würdest du bitte ___________________________________?
 - **b)** Bring den Müll raus!
+  - Würdest du bitte ___________________________________?
 - **c)** Räum das Zimmer auf!
+  - Würdest du bitte ___________________________________?
 - **d)** Füll das Formular aus!
+  - Würdest du bitte ___________________________________?
 - **e)** Lies den Text vor!
+  - Würdest du bitte ___________________________________?
 - **f)** Ruf die Firma an!
+  - Würdest du bitte ___________________________________?
 - **g)** Mach das Licht an!
+  - Würdest du bitte ___________________________________?
 - **h)** Schreib die Nummer auf!
+  - Würdest du bitte ___________________________________?
 - **i)** Bereite das Essen zu!
+  - Würdest du bitte ___________________________________?
 - **j)** Trag deinen Namen ein!
+  - Würdest du bitte ___________________________________?
 - **k)** Gib mir das Buch zurück!
+  - Würdest du bitte ___________________________________?
 - **l)** Hol die Pakete von der Post ab!
+  - Würdest du bitte ___________________________________?
 
-### ✍️ Übung 3
-*Wählen Sie aus dem Wortkasten: Meinung, Beispiel:, Anja, fährt, zu, schnell, Ich, an, ihrer, Stelle, würde, nicht, so, schnell, langsamer, fahren.*
+### ✍️ Übung 3: Ratschläge mit Ich würde...
+*Geben Sie einen Rat mit Ich würde...*
+
+> 💡 **Beispiel:** Anja fährt zu schnell. ➔ *Ich würde langsamer fahren.*
 
 - **a)** Clara treibt zu wenig Sport.
+  - Ich würde ___________________________________.
 - **b)** Lena schläft zu wenig.
+  - Ich würde ___________________________________.
 - **c)** Dieter spielt zu lange im Internet.
+  - Ich würde ___________________________________.
 - **d)** Martin telefoniert zu lange mit seiner Mutter.
+  - Ich würde ___________________________________.
 - **e)** Boris spricht zu viel über seine Kollegen.
+  - Ich würde ___________________________________.
 - **f)** Christa zahlt zu viel Miete.
+  - Ich würde ___________________________________.
 - **g)** Sandra wartet zu lange mit ihrer Entscheidung.
+  - Ich würde ___________________________________.
 - **h)** Franz gibt zu viel Geld aus.
+  - Ich würde ___________________________________.
 - **i)** Sofia fängt ihre Arbeiten immer zu spät an.
+  - Ich würde ___________________________________.
 - **j)** Robert schreibt immer zu klein.
+  - Ich würde ___________________________________.
 - **k)** Samira verspätet sich zu oft.
+  - Ich würde ___________________________________.
 - **l)** Hatem bereitet sich zu wenig vor.
+  - Ich würde ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 15)</strong></summary>
 
-> *Didaktische Lösungen für **1. Konjunktiv II - hätte / wäre / würde**:*
+> *Didaktische Lösungen für **1. Konjunktiv II — hätte, wäre, würde**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `würden gern länger schlafen`
+- **b)** `würde gern mehr Sport treiben`
+- **c)** `würde gern in einem Team arbeiten`
+- **d)** `würde gern nicht so viel rauchen`
+- **e)** `würde gern an einem Sprachkurs teilnehmen`
+- **f)** `würde gern Vollzeit arbeiten`
+- **g)** `würden gern weniger Miete zahlen`
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `die Tür zumachen`
+- **b)** `den Müll rausbringen`
+- **c)** `das Zimmer aufräumen`
+- **d)** `das Formular ausfüllen`
+- **e)** `den Text vorlesen`
+- **f)** `die Firma anrufen`
+- **g)** `das Licht anmachen`
+- **h)** `die Nummer aufschreiben`
+- **i)** `das Essen zubereiten`
+- **j)** `deinen Namen eintragen`
+- **k)** `mir das Buch zurückgeben`
+- **l)** `die Pakete von der Post abholen`
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `mehr Sport treiben`
+- **b)** `mehr schlafen`
+- **c)** `nicht so lange im Internet spielen`
+- **d)** `nicht so lange mit meiner Mutter telefonieren`
+- **e)** `nicht so viel über meine Kollegen sprechen`
+- **f)** `nicht so viel Miete zahlen`
+- **g)** `nicht so lange mit meiner Entscheidung warten`
+- **h)** `nicht so viel Geld ausgeben`
+- **i)** `meine Arbeiten früher anfangen`
+- **j)** `nicht so klein schreiben`
+- **k)** `mich nicht so oft verspäten`
+- **l)** `mich besser vorbereiten`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 15)**](#workbooks:B1:15) mit automatischer Korrektur und Sofort-Feedback.
@@ -1324,119 +1373,130 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-16"></a>
-## 📄 Seite 16: 2. Konjunktiv II - Vergangenheit
+## 📄 Seite 16: 2. Konjunktiv II — Vergangenheit & Konditionalsätze
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Konjunktiv II der Vergangenheit**
 >
-> • Realität: ➔ Spekulation / Vermutung:
-> • Ich habe Zeit. Ich gehe ins Kino. Wenn ich keine Zeit hätte, würde ich nicht ins Kino gehen.
-> • Ich habe keine Zeit. Ich gehe nicht ins Kino. Wenn ich Zeit hätte, würde ich ins Kino gehen.
-> • Es ist ziemlich kalt. Ich trage eine Jacke. Wenn es warm / nicht kalt wäre, würde ich keine Jacke tragen.
-> • Ich bin satt. Ich esse nichts. Wenn ich nicht satt / hungrig wäre, würde ich etwas essen.
-> • Ich bin durstig. Ich trinke etwas. Wenn ich nicht durstig wäre, würde ich nichts trinken.
+> - **Bildung:** **hätte / wäre + Partizip II**
+> - *Wenn ich gelernt hätte, hätte ich die Prüfung bestanden.*
+> - *Wenn ich pünktlich losgegangen wäre, wäre ich nicht zu spät gekommen.*
 
+### ✍️ Übung 4: Irreale Konditionalsätze der Gegenwart
+*Bilden Sie irreale Konditionalsätze mit Wenn... (Gegenwart).*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Präsens: Wenn ich jetzt weniger Stress hätte, wäre ich glücklicher.
-> • Vergangenheit: Wenn ich früher weniger Stress gehabt hätte, wäre ich glücklicher gewesen.
-> • Präsens: Wenn ich jetzt mehr Geld verdienen würde, würde ich dieses Jahr nach Kuba fliegen.
-> • Vergangenheit: Wenn ich früher mehr Geld verdient hätte, wäre ich schon lange nach Kuba geflogen.
-> • Der Konjunktiv II für die Vergangenheit wird mit hätte oder wäre und Partizip II gebildet.
-> • haben ➔ hätte ➔ hätte gehabt kaufen ➔ würde kaufen ➔ hätte gekauft
-> • sein ➔ wäre ➔ wäre gewesen gehen ➔ würde gehen ➔ wäre gegangen
-
-
-### ✍️ Übung 4
-*Wählen Sie aus dem Wortkasten: Wenn, Carla, nicht, so, erkältet, wäre, würde, sie, keinen, Kräutertee, trinken.*
-
-> 💡 **Beispiel:** Carla ist sehr erkältet. Deshalb trinkt sie Kräutertee.
+> 💡 **Beispiel:** Carla ist sehr erkältet. Deshalb trinkt sie Kräutertee. ➔ *Wenn Carla nicht so erkältet wäre, würde sie keinen Kräutertee trinken.*
 
 - **a)** Max ist vorsichtig. Deshalb fährt er sehr langsam.
+  - Wenn Max nicht so vorsichtig wäre, ___________________________________.
 - **b)** Tanja schläft sehr wenig. Deshalb ist sie müde.
+  - Wenn Tanja mehr schlafen würde, ___________________________________.
 - **c)** Jonas raucht sehr viel. Deshalb hat er Husten.
+  - Wenn Jonas nicht so viel rauchen würde, ___________________________________.
 - **d)** Eva sieht schlecht. Deshalb trägt sie eine Brille.
+  - Wenn Eva besser sehen würde, ___________________________________.
 - **e)** Jana ist frustriert. Deshalb isst sie viel Schokolade.
+  - Wenn Jana nicht frustriert wäre, ___________________________________.
 - **f)** Paul fühlt sich unwohl. Deshalb geht er zum Arzt.
-- **2.** Konjunktiv II — Vergangenheit
+  - Wenn Paul sich nicht unwohl fühlen würde, ___________________________________.
 
-### ✍️ Übung 5
-*Wählen Sie aus dem Wortkasten: Lisa, hatte, keine, Zeit., Deshalb, konnte, sie, vieles, nicht, machen., Was, erzählt, Lisa?*
+### ✍️ Übung 5: Verpasste Wünsche in der Vergangenheit
+*Lisa hatte keine Zeit. Formulieren Sie ihre verpassten Wünsche mit hätte / wäre so gerne...*
 
-> 💡 **Beispiel:** nach Rom reisen -  „  Ich   wäre   so gerne nach Rom   gereist.  “
+> 💡 **Beispiel:** nach Rom reisen ➔ *Ich wäre so gerne nach Rom gereist.*
 
-- **a)** *(meinen)* Freunden helfen
+- **a)** meinen Freunden helfen
+  - Ich ___________________________________.
 - **b)** länger in Köln bleiben
+  - Ich ___________________________________.
 - **c)** ein Buch lesen
+  - Ich ___________________________________.
 - **d)** nach Berlin fliegen
+  - Ich ___________________________________.
 - **e)** meine Tante besuchen
+  - Ich ___________________________________.
 - **f)** mit meiner Cousine telefonieren
+  - Ich ___________________________________.
 - **g)** mein Zimmer streichen
+  - Ich ___________________________________.
 - **h)** mein Fahrrad reparieren
+  - Ich ___________________________________.
 - **i)** in Urlaub fahren
+  - Ich ___________________________________.
 - **j)** mit Jana ins Kino gehen
-- **k)** *(den)* Keller aufräumen
+  - Ich ___________________________________.
+- **k)** den Keller aufräumen
+  - Ich ___________________________________.
 - **l)** am Seminar teilnehmen
+  - Ich ___________________________________.
 - **m)** mich mit Maria unterhalten
+  - Ich ___________________________________.
 - **n)** mir diesen Film ansehen
+  - Ich ___________________________________.
 - **o)** meine Kolleg*innen einladen
+  - Ich ___________________________________.
 
-### ✍️ Übung 6
-*Wählen Sie aus dem Wortkasten: enn, Max, Lust, gehabt, hätte, wäre, er, ins, Kino, gegangen.*
+### ✍️ Übung 6: Irreale Konditionalsätze der Vergangenheit
+*Verbinden Sie die Sätze zu irrealen Bedingungen der Vergangenheit (Wenn... hätte/wäre..., wäre/hätte...).*
 
-> 💡 **Beispiel:** Max hatte keine Lust. Deshalb ist er nicht ins Kino gegangen.
+> 💡 **Beispiel:** Max hatte keine Lust. Deshalb ist er nicht ins Kino gegangen. ➔ *Wenn Max Lust gehabt hätte, wäre er ins Kino gegangen.*
 
 - **a)** Christa hat sich nicht vorbereitet. Deshalb hat sie den Test nicht bestanden.
+  - Wenn Christa sich vorbereitet hätte, ___________________________________.
 - **b)** Laura sprach nicht deutlich. Deshalb habe ich sie nicht verstanden.
+  - Wenn Laura deutlich gesprochen hätte, ___________________________________.
 - **c)** Thomas hat nicht angerufen. Deshalb hat er Ärger bekommen.
+  - Wenn Thomas angerufen hätte, ___________________________________.
 - **d)** Es hat die ganze Zeit geregnet. Deshalb sind wir nicht spazieren gegangen.
+  - Wenn es nicht geregnet hätte, ___________________________________.
 - **e)** Monika hat den Bus verpasst. Deshalb ist sie zu spät gekommen.
+  - Wenn Monika den Bus nicht verpasst hätte, ___________________________________.
 - **f)** Paul hat nicht alles aufgeschrieben. Deshalb hat er etwas vergessen.
+  - Wenn Paul alles aufgeschrieben hätte, ___________________________________.
 - **g)** Lena hat nicht rechtzeitig reserviert. Deshalb hat sie keinen Platz bekommen.
+  - Wenn Lena rechtzeitig reserviert hätte, ___________________________________.
 - **h)** Tina hat sich nicht konzentriert. Deshalb hat sie nicht alles gehört.
+  - Wenn Tina sich konzentriert hätte, ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 16)</strong></summary>
 
-> *Didaktische Lösungen für **2. Konjunktiv II - Vergangenheit**:*
+> *Didaktische Lösungen für **2. Konjunktiv II — Vergangenheit & Konditionalsätze**:*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **2.** `—` — Grammatische Ergänzung
+- **a)** `würde er nicht so langsam fahren`
+- **b)** `wäre sie nicht so müde`
+- **c)** `hätte er keinen Husten`
+- **d)** `würde sie keine Brille tragen`
+- **e)** `würde sie nicht so viel Schokolade essen`
+- **f)** `würde er nicht zum Arzt gehen`
 
 #### Übung 5
-- **a)** `meinen` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `den` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
+- **a)** `hätte so gerne meinen Freunden geholfen`
+- **b)** `wäre so gerne länger in Köln geblieben`
+- **c)** `hätte so gerne ein Buch gelesen`
+- **d)** `wäre so gerne nach Berlin geflogen`
+- **e)** `hätte so gerne meine Tante besucht`
+- **f)** `hätte so gerne mit meiner Cousine telefoniert`
+- **g)** `hätte so gerne mein Zimmer gestrichen`
+- **h)** `hätte so gerne mein Fahrrad repariert`
+- **i)** `wäre so gerne in Urlaub gefahren`
+- **j)** `wäre so gerne mit Jana ins Kino gegangen`
+- **k)** `hätte so gerne den Keller aufgeräumt`
+- **l)** `hätte so gerne am Seminar teilgenommen`
+- **m)** `hätte mich so gerne mit Maria unterhalten`
+- **n)** `hätte mir so gerne diesen Film angesehen`
+- **o)** `hätte so gerne meine Kolleginnen eingeladen`
 
 #### Übung 6
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `hätte sie den Test bestanden`
+- **b)** `hätte ich sie verstanden`
+- **c)** `hätte er keinen Ärger bekommen`
+- **d)** `wären wir spazieren gegangen`
+- **e)** `wäre sie nicht zu spät gekommen`
+- **f)** `hätte er nichts vergessen`
+- **g)** `hätte sie einen Platz bekommen`
+- **h)** `hätte sie alles gehört`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 16)**](#workbooks:B1:16) mit automatischer Korrektur und Sofort-Feedback.
@@ -1446,152 +1506,143 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-17"></a>
-## 📄 Seite 17: 3. Konjunktiv II - Modalverben
+## 📄 Seite 17: 3. Konjunktiv II — Modalverben
 
 > [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
+> **📌 Grammatik-Fokus: Konjunktiv II der Modalverben**
 >
-> • 3. Konjunktiv II - Modalverben
-> • ich
-> • du
-> • er, sie, es
-> • wir
-> • ihr
-> • sie / Sie
-> • könnte
-> • könntest
-> • könnte
-> • könnten
-> • könntet
-> • könnten
-> • dürfte
-> • dürftest
-> • dürfte
-> • dürften
-> • dürftet
-> • dürften
-> • möchte
-> • möchtest
-> • möchte
-> • möchten
-> • möchtet
-> • möchten
-> • müsste
-> • müsstest
-> • müsste
-> • müssten
-> • müsstet
-> • müssten
-> • wollte
-> • wolltest
-> • wollte
-> • wollten
-> • wolltet
-> • wollten
-> • sollte
-> • solltest
-> • sollte
-> • sollten
-> • solltet
-> • sollten
+> - **können ➔ könnte** (*Höflichkeit / Möglichkeit*)
+> - **dürfen ➔ dürfte** (*Erlaubnis / vorsichtige Vermutung*)
+> - **müssen ➔ müsste** (*Notwendigkeit*)
+> - **sollen ➔ sollte** (*Empfehlung / Ratschlag*)
+> - **wollen ➔ wollte** (*Absicht*)
 
+### ✍️ Übung 7: Höfliche Bitten mit Könntest du bitte...
+*Verwandeln Sie den Imperativ in eine höfliche Bitte mit Könntest du bitte...?*
 
-### ✍️ Übung 7
-*Höfliche Frage*
-
-> 💡 **Beispiel:** Wiederhol(e) das bitte.  Könntest   du das bitte wiederholen?
+> 💡 **Beispiel:** Wiederhol(e) das bitte. ➔ *Könntest du das bitte wiederholen?*
 
 - **a)** Sprich bitte lauter.
+  - Könntest du bitte ___________________________________?
 - **b)** Hol bitte den Rucksack.
+  - Könntest du bitte ___________________________________?
 - **c)** Sag das bitte noch einmal.
+  - Könntest du bitte ___________________________________?
 - **d)** Nimm mich bitte mit.
+  - Könntest du bitte ___________________________________?
 - **e)** Bring bitte die Bücher.
+  - Könntest du bitte ___________________________________?
 - **f)** Füll bitte die Liste aus.
+  - Könntest du bitte ___________________________________?
 - **g)** Schick bitte eine Nachricht.
+  - Könntest du bitte ___________________________________?
 - **h)** Deck bitte den Tisch.
+  - Könntest du bitte ___________________________________?
 - **i)** Räum bitte den Keller auf.
+  - Könntest du bitte ___________________________________?
 
-### ✍️ Übung 8
-*Empfehlung / Rat*
+### ✍️ Übung 8: Ratschläge mit sollte formulieren
+*Geben Sie eine Empfehlung mit sollte / sollte nicht...*
 
-> 💡 **Beispiel:** Ina fährt zu schnell. Sie sollte       nicht             so             schnell fahren.
+> 💡 **Beispiel:** Ina fährt zu schnell. ➔ *Sie sollte nicht so schnell fahren.*
 
 - **a)** Boris spricht zu leise.
+  - Er sollte ___________________________________.
 - **b)** Sandra schläft zu wenig.
+  - Sie sollte ___________________________________.
 - **c)** Franz gibt zu viel Geld aus.
+  - Er sollte ___________________________________.
 - **d)** Gabi liest zu wenig.
+  - Sie sollte ___________________________________.
 - **e)** Thomas vergisst zu viele Termine.
+  - Er sollte ___________________________________.
 - **f)** Peter weiß zu diesem Thema zu wenig.
+  - Er sollte ___________________________________.
 - **g)** Anja ruft zu selten bei ihren Eltern an.
+  - Sie sollte ___________________________________.
 - **h)** Eva fängt zu viele Dinge gleichzeitig an.
+  - Sie sollte ___________________________________.
 
-### ✍️ Übung 9
-*Wenn     du   keine Grippe     hättest  ,   müsstest   du   nicht   im Bett bleiben.*
+### ✍️ Übung 9: Hypothesen mit Modalverben im Konjunktiv II
+*Bilden Sie hypothetische Bedingungssätze mit Konjunktiv II der Modalverben (könnte, müsste, dürfte).*
 
-> 💡 **Beispiel:** Du musst im Bett bleiben, weil du Grippe hast.
+> 💡 **Beispiel:** Du musst im Bett bleiben, weil du Grippe hast. ➔ *Wenn du keine Grippe hättest, müsstest du nicht im Bett bleiben.*
 
 - **a)** Karl darf nicht mit dem Auto fahren, weil er betrunken ist.
+  - Wenn Karl nicht betrunken wäre, ___________________________________.
 - **b)** Gerd kann nicht zur Party kommen, weil er fürs Examen lernen muss.
+  - Wenn Gerd nicht fürs Examen lernen müsste, ___________________________________.
 - **c)** Maria darf keine Erdbeeren essen, weil sie eine Allergie hat.
+  - Wenn Maria keine Allergie hätte, ___________________________________.
 - **d)** Elfi muss die Arbeit heute alleine erledigen, weil ihr Kollege sich erkältet hat.
+  - Wenn ihr Kollege sich nicht erkältet hätte, ___________________________________.
 - **e)** Julia kann nichts zu diesem Thema sagen, weil sie nicht Bescheid weiß.
+  - Wenn Julia Bescheid wüsste, ___________________________________.
 - **f)** Du kannst die Frage nicht beantworten, weil du dich nicht vorbereitet hast.
+  - Wenn du dich vorbereitet hättest, ___________________________________.
 - **g)** Konrad fährt nicht nach München, weil er am Samstag arbeiten muss.
+  - Wenn Konrad am Samstag nicht arbeiten müsste, ___________________________________.
 - **h)** Hatem kann das Fahrrad nicht reparieren, weil er kein Werkzeug hat.
+  - Wenn Hatem Werkzeug hätte, ___________________________________.
 - **i)** Theo darf nicht am Computer spielen, weil seine Mutter es verboten hat.
+  - Wenn seine Mutter es nicht verboten hätte, ___________________________________.
 
-### ✍️ Übung 10
-*Wählen Sie aus dem Wortkasten: Wenn, es, keine, Waschmaschinen, geben, würde, müsste, man, alles, mit, der, Hand, waschen.*
+### ✍️ Übung 10: Irreale Konditionalsätze mit Wenn es keine ... geben würde
+*Bilden Sie irreale Konditionalsätze nach dem Muster.*
 
-> 💡 **Beispiel:** Es gibt Waschmaschinen. Deshalb muss man nicht alles mit der Hand waschen.
+> 💡 **Beispiel:** Es gibt Waschmaschinen. Deshalb muss man nicht alles mit der Hand waschen. ➔ *Wenn es keine Waschmaschinen geben würde, müsste man alles mit der Hand waschen.*
 
 - **a)** Es gibt Handys. Deshalb kann man immer und überall miteinander sprechen.
+  - Wenn es keine Handys geben würde, ___________________________________.
 - **b)** Es gibt öffentliche Verkehrsmittel. Deshalb muss man nicht immer mit dem eigenen PKW fahren.
+  - Wenn es keine öffentlichen Verkehrsmittel geben würde, ___________________________________.
 - **c)** Es gibt das Internet. Deshalb kann man weltweit einfach und günstig kommunizieren.
+  - Wenn es kein Internet geben würde, ___________________________________.
 - **d)** Es gibt Antibiotika. Deshalb kann man Infektionskrankheiten besser behandeln.
+  - Wenn es keine Antibiotika geben würde, ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 17)</strong></summary>
 
-> *Didaktische Lösungen für **3. Konjunktiv II - Modalverben**:*
+> *Didaktische Lösungen für **3. Konjunktiv II — Modalverben**:*
 
 #### Übung 7
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
+- **a)** `lauter sprechen`
+- **b)** `den Rucksack holen`
+- **c)** `das noch einmal sagen`
+- **d)** `mich mitnehmen`
+- **e)** `die Bücher bringen`
+- **f)** `die Liste ausfüllen`
+- **g)** `eine Nachricht schicken`
+- **h)** `den Tisch decken`
+- **i)** `den Keller aufräumen`
 
 #### Übung 8
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `lauter sprechen`
+- **b)** `mehr schlafen`
+- **c)** `nicht so viel Geld ausgeben`
+- **d)** `mehr lesen`
+- **e)** `nicht so viele Termine vergessen`
+- **f)** `mehr über dieses Thema wissen`
+- **g)** `öfter bei ihren Eltern anrufen`
+- **h)** `nicht so viele Dinge gleichzeitig anfangen`
 
 #### Übung 9
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
+- **a)** `dürfte er mit dem Auto fahren`
+- **b)** `könnte er zur Party kommen`
+- **c)** `dürfte sie Erdbeeren essen`
+- **d)** `müsste Elfi die Arbeit nicht alleine erledigen`
+- **e)** `könnte sie etwas zu diesem Thema sagen`
+- **f)** `könntest du die Frage beantworten`
+- **g)** `würde er nach München fahren`
+- **h)** `könnte er das Fahrrad reparieren`
+- **i)** `dürfte Theo am Computer spielen`
 
 #### Übung 10
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
+- **a)** `könnte man nicht immer und überall miteinander sprechen`
+- **b)** `müsste man immer mit dem eigenen PKW fahren`
+- **c)** `könnte man nicht weltweit einfach und günstig kommunizieren`
+- **d)** `könnte man Infektionskrankheiten nicht so gut behandeln`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 17)**](#workbooks:B1:17) mit automatischer Korrektur und Sofort-Feedback.
@@ -1601,77 +1652,27 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-18"></a>
-## 📄 Seite 18: Präpositionen - lokal
+## 📄 Seite 18: 1. Lokale Präpositionen (Wechselpräpositionen, Wo, Wohin, Woher)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Präpositionen - lokal
-> • an, auf, hinter, in, neben, über, unter, vor, zwischen
-> • Auf die Frage wohin? stehen diese Präpositionen im Akkusativ.
-> • Auf die Frage wo? stehen diese Präpositionen im Dativ.
-> • Sie ging ins Wohnzimmer. Auf dem Sofa saß Paul.
+> • **Wechselpräpositionen:** *an, auf, hinter, in, neben, über, unter, vor, zwischen*.
+> • **Wohin? (Richtung / Ziel):** verlangt den **Akkusativ** (*in den Garten, auf die Straße, ins Kino*).
+> • **Wo? (Ort / Lage / Stillstand):** verlangt den **Dativ** (*im Garten, auf der Straße, im Kino*).
+> • **Woher? (Herkunft):** *aus + Dativ* (aus Räumen, Gebäuden, Ländern) / *von + Dativ* (von Personen, Institutionen).
 
+### ✍️ Übung 1: Wechselpräpositionen (Endungen für Dativ und Akkusativ)
+*Ergänzen Sie die Endungen der Artikel und Pronomen.*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • _______ Kino.
-> • _______ England.
-> • _______ Ausland.
-> • _______ Arzt.
-> • _______ Supermarkt.
-> • _______ Universität.
-> • _______ Türkei.
-> • _______ Rathaus.
-> • _______ USA.
-> • _______ Küste.
-> • _______ Hause.
-> • _______ Berge__.
-> • _______ Dom.
-> • _______ Berlin.
-> • _______ Klaus.
-> • _______ Kino.
-> • _______ England.
-> • _______ Ausland.
-> • _______ Arzt.
-> • _______ Supermarkt.
-> • _______ Universität.
-> • _______ Türkei.
-> • _______ Rathaus.
-> • _______ USA.
-> • _______ Küste.
-> • _______ Hause.
-> • _______ Berge.
-> • _______ Dom.
-> • _______ Berlin.
-> • _______ Klaus.
-> • _______ Kino.
-> • _______ England.
-> • _______ Ausland.
-> • _______ Arzt.
-> • _______ Supermarkt.
-> • _______ Universität.
-> • _______ Türkei.
-> • _______ Rathaus.
-> • _______ USA.
-> • _______ Küste.
-> • _______ Hause.
-> • _______ Berge__.
-> • _______ Dom.
-> • _______ Berlin.
-> • _______ Klaus.
-
-
-### ✍️ Übung 1
-*Ergänzen Sie die Endungen.*
+> 💡 **Beispiel:** Sie ging ins Wohnzimmer. Auf dem Sofa saß Paul.
 
 - **a)** Wir gingen in d_______ großen Saal.
-- **b)** *(Zwischen)* d_______ beiden Ländern fließt ein Fluss.
+- **b)** Zwischen d_______ beiden Ländern fließt ein Fluss.
 - **c)** Was hast du da in d_______ Hand?
 - **d)** Stell bitte den Stuhl in d_______ Flur.
 - **e)** Kannst du mir die Adresse auf ein_______ kleinen Zettel schreiben?
-- **f)** Hinter m_______ standen eine Menge Leute an d_______ Kinokasse.
+- **f)** Hinter mir standen eine Menge Leute an d_______ Kinokasse.
 - **g)** In dies_______ Gegend regnet es häufig.
 - **h)** Häng bitte die Jacke in d_______ Schrank.
 - **i)** Hinter d_______ Haus gibt es einen wunderschönen Obstgarten.
@@ -1681,72 +1682,74 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 - **m)** An viel_______ Orten des Landes gibt es zu wenig Wasser.
 - **n)** Jonas stellte seine Hausschuhe unter d_______ Sofa.
 - **o)** Du kannst dich ruhig neben m_______ setzen.
-- **p)** Das Haus liegt zwischen d_______ Schillerstraße und d_______ Marktplatz.
+- **p)** Das Haus liegt zwischen der Schillerstraße und d_______ Marktplatz.
 - **q)** Pass auf, wenn du über d_______ Straße gehst!
 - **r)** Der Junge versteckte sich unter d_______ Decke.
 - **s)** Setz die Mütze auf d_______ Kopf!
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Ich, war, ..., Ich, gehe, fahre, fliege, ..., Ich, komme, ...*
+### ✍️ Übung 2: Wo? (Ich war ...) — Wohin? (Ich gehe ...) — Woher? (Ich komme ...)
+*Ergänzen Sie die passenden Präpositionen für die 15 Orte (Format: Wo / Wohin / Woher).*
 
-- **a)** 
-- **b)** 
-- **c)** 
-- **d)** 
-- **e)** 
-- **f)** 
-- **g)** 
-- **h)** 
-- **i)** 
-- **j)** 
-- **k)** 
-- **l)** 
-- **m)** 
-- **n)** 
-- **o)** 
+| Ort | Wo? (*Ich war ...*) | Wohin? (*Ich gehe / fahre / fliege ...*) | Woher? (*Ich komme ...*) |
+| :--- | :--- | :--- | :--- |
+| **a) Kino** | im Kino | ins Kino | aus dem Kino |
+| **b) England** | in England | nach England | aus England |
+| **c) Ausland** | im Ausland | ins Ausland | aus dem Ausland |
+| **d) Arzt** | beim Arzt | zum Arzt | vom Arzt |
+| **e) Supermarkt** | im Supermarkt | in den Supermarkt *(zum)* | aus dem Supermarkt |
+| **f) Universität** | an der Universität | an die Universität *(zur)* | von der Universität |
+| **g) Türkei** | in der Türkei | in die Türkei | aus der Türkei |
+| **h) Rathaus** | im Rathaus | ins Rathaus *(zum)* | aus dem Rathaus |
+| **i) USA** | in den USA | in die USA | aus den USA |
+| **j) Küste** | an der Küste | an die Küste | von der Küste |
+| **k) Hause** | zu Hause | nach Hause | von zu Hause |
+| **l) Berge** | in den Bergen | in die Berge | aus den Bergen |
+| **m) Dom** | im Dom | in den Dom *(zum)* | aus dem Dom |
+| **n) Berlin** | in Berlin | nach Berlin | aus Berlin |
+| **o) Klaus** | bei Klaus | zu Klaus | von Klaus |
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 18)</strong></summary>
 
-> *Didaktische Lösungen für **Präpositionen - lokal**:*
+> *Didaktische Lösungen für **1. Lokale Präpositionen**:*
 
 #### Übung 1
-- **a)** `en` — Subjekt (1p) &rarr; Endung <code>-en</code> (den)
-- **b)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **c)** `est` — Subjekt (2s) &rarr; Endung <code>-est</code> (dest)
-- **d)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **e)** `st` — Subjekt (2s) &rarr; Endung <code>-st</code> (einst)
-- **f)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (mt)
-- **g)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (diest)
-- **h)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **i)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **j)** `en` — Subjekt (1p) &rarr; Endung <code>-en</code> (den)
-- **k)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (diest)
-- **l)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (mt)
-- **m)** `t` — Subjekt (3s) &rarr; Endung <code>-t</code> (vielt)
-- **n)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **o)** `st` — Subjekt (2s) &rarr; Endung <code>-st</code> (mst)
-- **p)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **q)** `est` — Subjekt (2s) &rarr; Endung <code>-est</code> (dest)
-- **r)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
-- **s)** `et` — Subjekt (3s) &rarr; Endung <code>-et</code> (det)
+- **a)** `en` — *Wohin? Akkusativ maskulin ➔ in den großen Saal*
+- **b)** `en` — *Wo? Dativ Plural ➔ zwischen den beiden Ländern*
+- **c)** `er` — *Wo? Dativ feminin ➔ in der Hand*
+- **d)** `en` — *Wohin? Akkusativ maskulin ➔ in den Flur*
+- **e)** `en` — *Wohin? Akkusativ maskulin ➔ auf einen kleinen Zettel*
+- **f)** `er` — *Wo? Dativ feminin ➔ an der Kinokasse (Hinter mir)*
+- **g)** `er` — *Wo? Dativ feminin ➔ in dieser Gegend*
+- **h)** `en` — *Wohin? Akkusativ maskulin ➔ in den Schrank*
+- **i)** `em` — *Wo? Dativ neutral ➔ hinter dem Haus*
+- **j)** `en` — *Wohin? Akkusativ maskulin ➔ in den Schatten*
+- **k)** `er` — *Wo? Dativ feminin ➔ auf dieser Insel*
+- **l)** `ich` — *Wohin? Akkusativ ➔ mich*
+- **m)** `en` — *Wo? Dativ Plural ➔ an vielen Orten*
+- **n)** `as` — *Wohin? Akkusativ neutral ➔ unter das Sofa*
+- **o)** `ich` — *Wohin? Akkusativ ➔ mich*
+- **p)** `em` — *Wo? Dativ maskulin ➔ dem Marktplatz*
+- **q)** `ie` — *Wohin? Akkusativ feminin ➔ über die Straße*
+- **r)** `er` — *Wo? Dativ feminin ➔ unter der Decke*
+- **s)** `en` — *Wohin? Akkusativ maskulin ➔ auf den Kopf*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
-- **m)** `—` — Grammatische Ergänzung
-- **n)** `—` — Grammatische Ergänzung
-- **o)** `—` — Grammatische Ergänzung
+- **a)** `im / ins / aus dem` — *im Kino / ins Kino / aus dem Kino*
+- **b)** `in / nach / aus` — *in England / nach England / aus England*
+- **c)** `im / ins / aus dem` — *im Ausland / ins Ausland / aus dem Ausland*
+- **d)** `beim / zum / vom` — *beim Arzt / zum Arzt / vom Arzt*
+- **e)** `im / in den / aus dem` — *im Supermarkt / in den Supermarkt / aus dem Supermarkt*
+- **f)** `an der / an die / von der` — *an der Universität / an die Universität / von der Universität*
+- **g)** `in der / in die / aus der` — *in der Türkei / in die Türkei / aus der Türkei*
+- **h)** `im / ins / aus dem` — *im Rathaus / ins Rathaus / aus dem Rathaus*
+- **i)** `in den / in die / aus den` — *in den USA / in die USA / aus den USA*
+- **j)** `an der / an die / von der` — *an der Küste / an die Küste / von der Küste*
+- **k)** `zu / nach / von zu` — *zu Hause / nach Hause / von zu Hause*
+- **l)** `in den / in die / aus den` — *in den Bergen / in die Berge / aus den Bergen*
+- **m)** `im / in den / aus dem` — *im Dom / in den Dom / aus dem Dom*
+- **n)** `in / nach / aus` — *in Berlin / nach Berlin / aus Berlin*
+- **o)** `bei / zu / von` — *bei Klaus / zu Klaus / von Klaus*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 18)**](#workbooks:B1:18) mit automatischer Korrektur und Sofort-Feedback.
@@ -1756,95 +1759,75 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-19"></a>
-## 📄 Seite 19: Präpositionen - temporal
+## 📄 Seite 19: 2. Temporale Präpositionen (Zeitpunkt, Beginn, Ende, Dauer)
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Präpositionen - temporal
-> • Zeitpunkt:
-> • an (Dativ) am Morgen, am Montag
-> • bei (Dativ) beim Essen, bei Regen
-> • gegen (Akkusativ) gegen 19.00 Uhr (ungefähr um 19:00 Uhr)
-> • in (Dativ) im August, im Sommer, in einer Woche, in dieser Zeit
-> • nach (Dativ) nach Weihnachten
-> • um (Akkusativ) um 19.00 Uhr
-> • vor (Dativ) vor einer Woche
-> • zu (Dativ) zu Ostern, zu dieser Zeit (damals), zu jeder Zeit (immer)
-> • Beginn und Ende:
-> • ab (Dativ oder ohne Artikel Akkusativ) ab nächster Woche, ab nächste Woche, ab morgen
-> • von (Dativ) ... an von morgen an
-> • bis (Akkusativ) bis drei Uhr, bis bald
-> • seit (Dativ) seit einem Jahr (bis heute)
-> • Dauer:
-> • für (Akkusativ) für eine Woche
-> • von (Dativ) ... bis (Akkusativ) ... von Oktober bis März
-> • während (Genitiv) während der Ferien (auch Zeitpunkt innerhalb der Dauer)
-> • zwischen (Dativ) zwischen dem 15. Mai und dem 1. Juni
-> • außerhalb (Genitiv) außerhalb der Öffnungszeiten
-> • innerhalb (Genitiv) innerhalb einer Woche
+> • **Zeitpunkt:** *an* (Dativ: Tage, Tageszeiten) | *um* (Akkusativ: Uhrzeit) | *im* (Dativ: Monate, Jahreszeiten) | *bei* (Dativ: Gleichzeitigkeit) | *gegen* (Akkusativ: ungefähr) | *vor* (Dativ: Vergangenheit) | *nach* (Dativ: Nachzeitigkeit) | *zu* (Dativ: Anlässe).
+> • **Beginn & Ende:** *ab* (Dativ/Akkusativ: Gegenwart/Zukunft) | *seit* (Dativ: Vergangenheit bis heute) | *bis* (Akkusativ: Endpunkt) | *von ... bis* (Zeitspanne).
+> • **Dauer & Fristen:** *für* (Akkusativ: Zeitspanne) | *während* (Genitiv: Verlauf) | *innerhalb* (Genitiv: innerhalb einer Frist) | *außerhalb* (Genitiv: außerhalb der Frist).
 
+### ✍️ Übung 1: Zeitpunkt (an, bei, gegen, in, nach, um, vor, zu)
+*Ergänzen Sie die passende temporale Präposition.*
 
-### ✍️ Übung 1
-*Zeitpunkt*
-
-- **a)** *(Den)* Führerschein hat Lisa schon _______ einem Jahr gemacht.
-- **b)** Wir können _______ Wochenende mal _______ einem Glas Wein über alles sprechen.
-- **c)** Wir wollten _______ dem Abendessen ins Kino gehen, der Film beginnt _______ 20:30 Uhr.
+- **a)** Den Führerschein hat Lisa schon _______ einem Jahr gemacht.
+- **b)** Wir können _______ Wochenende mal bei einem Glas Wein über alles sprechen.
+- **c)** Wir wollten _______ dem Abendessen ins Kino gehen, der Film beginnt um 20:30 Uhr.
 - **d)** Ich werde dich morgen so _______ Mittag anrufen, aber ich weiß nicht genau wann.
-- **e)** Die Notfallnummer können Sie _______ jeder Tages — und Nachtzeit anrufen.
-- **f)** Wir haben _______ August geschlossen! _______ dem Urlaub sind wir wieder für Sie da.
+- **e)** Die Notfallnummer können Sie _______ jeder Tages- und Nachtzeit anrufen.
+- **f)** Wir haben _______ August geschlossen! Nach dem Urlaub sind wir wieder für Sie da.
 - **g)** Max hat schon _______ einer Woche reklamiert, aber der Schaden ist noch nicht repariert.
 - **h)** _______ diesem schlechten Wetter will ich nicht spazieren gehen.
 - **i)** Lena möchte _______ Nachmittag mit den Kindern ins Hallenbad gehen.
-- **j)** Ich komme morgen mal so _______ 18:00 Uhr bei dir vorbei. Bist du _______ diese Zeit zu Hause?
+- **j)** Ich komme morgen mal so _______ 18:00 Uhr bei dir vorbei. Bist du um diese Zeit zu Hause?
 - **k)** Theo hat mir _______ meinem Geburtstag eine Karte geschickt.
 - **l)** Wir müssen die Arbeit unbedingt noch _______ dem Ende des Monats erledigen.
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Beginn, Ende, Dauer*
+### ✍️ Übung 2: Beginn, Ende, Dauer (ab, bis, seit, für, von...bis, während, innerhalb, außerhalb)
+*Ergänzen Sie die passende temporale Präposition.*
 
-- **a)** Man kann auf diesem Platz _______ nächstem Montag _______ nächsten Donnerstag nicht parken.
+- **a)** Man kann auf diesem Platz _______ nächstem Montag bis nächsten Donnerstag nicht parken.
 - **b)** Kannst du mir _______ ein paar Stunden dein Auto leihen?
 - **c)** _______ dem Wochenende soll das Wetter besser werden.
 - **d)** Jasmin muss ihre Doktorarbeit _______ eines Jahres fertigstellen.
 - **e)** Alex studiert jetzt schon _______ zwei Jahren im Ausland.
 - **f)** _______ Weihnachten und Silvester haben wir geschlossen.
 - **g)** Silvia will _______ des Sommers ein Praktikum machen.
-- **h)** *(Rufen)* Sie bitte nicht _______ der Sprechzeiten an.
+- **h)** Rufen Sie bitte nicht _______ der Sprechzeiten an.
 - **i)** Ich arbeite _______ 18:00 Uhr und danach können wir uns treffen.
 - **j)** Max liegt _______ einer Woche im Krankenhaus.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 19)</strong></summary>
 
-> *Didaktische Lösungen für **Präpositionen - temporal**:*
+> *Didaktische Lösungen für **2. Temporale Präpositionen**:*
 
 #### Übung 1
-- **a)** `Det` — Konjugiertes Verb <em>Det</em> (3s)
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **l)** `—` — Grammatische Ergänzung
+- **a)** `vor` — *vor einem Jahr (Vergangenheit)*
+- **b)** `am` — *am Wochenende (an + Dativ)*
+- **c)** `nach` — *nach dem Abendessen*
+- **d)** `gegen` — *gegen Mittag (ungefähr)*
+- **e)** `zu` — *zu jeder Zeit*
+- **f)** `im` — *im August (Monate ➔ in + Dativ)*
+- **g)** `vor` — *vor einer Woche*
+- **h)** `Bei` — *Bei diesem schlechten Wetter*
+- **i)** `am` — *am Nachmittag*
+- **j)** `gegen` — *gegen 18:00 Uhr (um diese Zeit)*
+- **k)** `zu` — *zu meinem Geburtstag*
+- **l)** `vor` — *vor dem Ende des Monats*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `Rufen` — Konjugiertes Verb <em>Rufen</em> (3p)
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
+- **a)** `von` — *von nächstem Montag bis nächsten Donnerstag*
+- **b)** `für` — *für ein paar Stunden (Dauer)*
+- **c)** `Ab` — *Ab dem Wochenende (oder: Nach)*
+- **d)** `innerhalb` — *innerhalb eines Jahres (Genitiv)*
+- **e)** `seit` — *seit zwei Jahren (bis heute)*
+- **f)** `Zwischen` — *Zwischen Weihnachten und Silvester*
+- **g)** `während` — *während des Sommers (Genitiv)*
+- **h)** `außerhalb` — *außerhalb der Sprechzeiten (Genitiv)*
+- **i)** `bis` — *bis 18:00 Uhr (Endpunkt)*
+- **j)** `seit` — *seit einer Woche (bis heute)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 19)**](#workbooks:B1:19) mit automatischer Korrektur und Sofort-Feedback.
@@ -1854,39 +1837,22 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-20"></a>
-## 📄 Seite 20: 2. bis - seit
+## 📄 Seite 20: 3. Temporale Nebensätze: wenn vs. als & bis vs. seit[dem]
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Nebensätze - temporal
-> • 1. wenn - als
-> • Wenn Max seine Tante morgen besucht, bringt er ihr Blumen mit.
-> • eine Aktion in der Gegenwart / Zukunft ➔➔ wenn
-> • Wenn Julia in Spanien war, brachte sie immer Olivenöl mit.
-> • wiederholte Aktion (Vergangenheit / Gegenwart / Zukunft) ➔➔ wenn
-> • Als ich letztes Jahr in Wien war, regnete es die ganze Zeit.
-> • eine Aktion in der Vergangenheit ➔➔ als
+> • **wenn vs. als:**
+>   - *wenn:* Gegenwart/Zukunft oder wiederholte Ereignisse in der Vergangenheit (*immer, wenn...*).
+>   - *als:* Einmaliges Ereignis / abgeschlossener Zeitraum in der Vergangenheit (*Als ich 9 Jahre alt war...*).
+> • **bis vs. seit[dem]:**
+>   - *bis:* Endpunkt (die Handlung im Nebensatz beendet die Handlung im Hauptsatz).
+>   - *seit / seitdem:* Startpunkt in der Vergangenheit (Handlung/Zustand dauert bis heute an).
 
+### ✍️ Übung 1: wenn oder als?
+*Entscheiden Sie zwischen wenn (Gegenwart/Zukunft oder wiederholte Handlung) und als (einmalig in der Vergangenheit).*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Aktion im NS beendet Aktion im HS. ➔ HS und NS  - gleiche Zeit ➔➔ bis
-> • Seit(dem) sie in der Stadt wohnt, fährt sie nur noch mit dem Bus.
-> • Seit(dem) sie für diese Firma arbeitet, hat sie sich sehr verändert.
-> • 2 Aktionen beginnen in der Vergangenheit - dauern an.
-> • HS und NS - gleiche Zeit
-> • oder HS Perfekt; NS Präsens ➔➔ seit[dem]
-> • Seit er den Kurs gemacht hat, kann er viel besser mit dem Computer umgehen.
-> • Eine Aktion in der Vergangenheit wirkt bis heute.
-> • HS - Präsens; NS - Perfekt ➔➔ seit[dem]
-
-
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Ich, warte, hier, bis, Paul, anruft.*
-
-> 💡 **Beispiel:** Als    ich gestern im Wald spazieren ging, fand ich jede Menge Pilze.
+> 💡 **Beispiel:** Als ich gestern im Wald spazieren ging, fand ich jede Menge Pilze.
 
 - **a)** _______ ich im Sommer nach Griechenland fahre, treffe ich dort meine Freunde.
 - **b)** _______ Miriam in Rom war, schrieb sie mir eine Karte.
@@ -1899,10 +1865,11 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 - **i)** Clara musste immer viel mehr arbeiten, _______ ihre Kollegin krank war.
 - **j)** Die Nachbarn riefen immer die Polizei, _______ wir eine Party machten.
 - **k)** _______ ich gestern durch diese dunkle Straße gehen musste, fühlte ich mich unwohl.
-- **2.** bis — seit
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Max hat zwei Kurse gemacht,    bis    er ein wenig mit dem Programm arbeiten konnte.
+### ✍️ Übung 2: bis oder seit[dem]?
+*Ergänzen Sie bis (Endpunkt) oder seit / seitdem (Startpunkt in der Vergangenheit).*
+
+> 💡 **Beispiel:** Max hat zwei Kurse gemacht, bis er ein wenig mit dem Programm arbeiten konnte.
 
 - **a)** _______ Max dieses Medikament nimmt, geht es ihm viel besser.
 - **b)** Der Hund bellte so lange vor meiner Tür, _______ ich ihn ins Zimmer ließ.
@@ -1916,31 +1883,30 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 20)</strong></summary>
 
-> *Didaktische Lösungen für **2. bis - seit**:*
+> *Didaktische Lösungen für **3. Temporale Nebensätze (wenn vs. als & bis vs. seit[dem])**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
-- **i)** `—` — Grammatische Ergänzung
-- **j)** `—` — Grammatische Ergänzung
-- **k)** `—` — Grammatische Ergänzung
-- **2.** `—` — Grammatische Ergänzung
+- **a)** `Wenn` — *Zukunft / geplante Handlung ➔ Wenn*
+- **b)** `Als` — *Einmalig in der Vergangenheit ➔ Als*
+- **c)** `Wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ Wenn*
+- **d)** `wenn` — *Gegenwart / Wiederholung ➔ wenn*
+- **e)** `Als` — *Einmaliges Ereignis gestern ➔ Als*
+- **f)** `als` — *Einmaliges historisches Ereignis ➔ als*
+- **g)** `Wenn` — *Bedingung / Gegenwart ➔ Wenn*
+- **h)** `als` — *Einmaliges Ereignis in der Vergangenheit ➔ als*
+- **i)** `wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ wenn*
+- **j)** `wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ wenn*
+- **k)** `Als` — *Einmaliges Ereignis gestern ➔ Als*
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **h)** `—` — Grammatische Ergänzung
+- **a)** `Seit` — *Beginn in Vergangenheit, dauert an (oder: Seitdem)*
+- **b)** `bis` — *Endpunkt der Aktion ➔ bis*
+- **c)** `bis` — *Endpunkt des Wartens ➔ bis*
+- **d)** `seit` — *Startereignis in der Vergangenheit (oder: seitdem)*
+- **e)** `Seit` — *Dauerzustand bis heute (oder: Seitdem)*
+- **f)** `Seit` — *Dauerzustand bis heute (oder: Seitdem)*
+- **g)** `bis` — *Endpunkt / Zielzeitpunkt ➔ bis*
+- **h)** `bis` — *Endpunkt des Wartens ➔ bis*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 20)**](#workbooks:B1:20) mit automatischer Korrektur und Sofort-Feedback.
@@ -1950,105 +1916,108 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-21"></a>
-## 📄 Seite 21: 5. bevor / ehe (NS - nachzeitig)
+## 📄 Seite 21: 4. Temporale Nebensätze: während, nachdem & bevor / ehe
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • 3. während (NS - gleichzeitig)
-> • Während (Als) Lena aufräumte, sang sie. Während (Wenn) Lena aufräumt, singt sie.
-> • gleichzeitig - Vergangenheit ➔➔ während / als ➔ gleichzeitig - Gegenwart     ➔➔ während / wenn
+> • **während (Gleichzeitigkeit):** Zwei Vorgänge laufen zur selben Zeit ab (*Während Clara spricht, sieht sie ihm in die Augen*).
+> • **nachdem (Vorzeitigkeit):** Nebensatzhandlung geschieht vor der Hauptsatzhandlung.
+>   - Nebensatz *Plusquamperfekt* ➔ Hauptsatz *Präteritum* (*Nachdem er gegessen hatte, ging er spazieren*).
+>   - Nebensatz *Perfekt* ➔ Hauptsatz *Präsens/Futur* (*Nachdem er gefrühstückt hat, fährt er zur Arbeit*).
+> • **bevor / ehe (Nachzeitigkeit):** Nebensatzhandlung geschieht nach der Hauptsatzhandlung (*Bevor Karl ins Restaurant kam, hatte er einen Parkplatz gesucht*).
 
+### ✍️ Übung 3: während (Gleichzeitigkeit)
+*Verbinden Sie die Sätze mit während (Verb am Ende des Nebensatzes).*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Nachdem (Als) er geputzt hatte, sah er fern. Nachdem (Wenn) er geputzt hat, sieht er fern.
-> • vorzeitig - Vergangenheit   ➔➔ nachdem / als           vorzeitig - Gegenwart  ➔➔ nachdem / wenn
-
-
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Bevor / Ehe Max fernsah, putzte er. Bevor / Ehe Max fernsieht, putzt er.
-> • (Bevor / Ehe Max fernsah, hatte er geputzt.) (Bevor / Ehe Max fernsieht, hat er geputzt.)
-> • nachzeitig - Vergangenheit ➔➔ bevor / ehe nachzeitig - Gegenwart ➔➔ bevor / ehe
-
-
-### ✍️ Übung 3
-*Wählen Sie aus dem Wortkasten: Während, Max, die, Hausaufgabe, macht, höre, ich, Musik.*
-
-> 💡 **Beispiel:** Max macht die Hausaufgabe. Unterdessen höre ich Musik.
+> 💡 **Beispiel:** Max macht die Hausaufgabe. Unterdessen höre ich Musik. ➔ *Während Max die Hausaufgabe macht, höre ich Musik.*
 
 - **a)** Clara spricht mit Paul. Dabei sieht sie ihm tief in die Augen.
+  - Während Clara mit Paul spricht, ___________________________________.
 - **b)** Thomas duscht sich. Dabei pfeift er immer ein Lied.
+  - Während Thomas sich duscht, ___________________________________.
 - **c)** Der Kellner bringt die Rechnung. Inzwischen zähle ich mein Geld.
+  - Während der Kellner die Rechnung bringt, ___________________________________.
 - **d)** Hatem frühstückte. Gleichzeitig las er die Wohnungsanzeigen in der Tageszeitung.
+  - Während Hatem frühstückte, ___________________________________.
 - **e)** Ich wasche das Obst. In dieser Zeit schneidet Paul die Tomaten.
+  - Während ich das Obst wasche, ___________________________________.
 - **f)** Wir tranken Kaffee. Dabei erzählte sie mir eine lange Geschichte.
+  - Während wir Kaffee tranken, ___________________________________.
 - **g)** Hanna wartete an der Bushaltestelle. In dieser Zeit regnete es ständig.
-- **4.** nachdem (NS — vorzeitig)
+  - Während Hanna an der Bushaltestelle wartete, ___________________________________.
 
-### ✍️ Übung 4
-*Wählen Sie aus dem Wortkasten: Nachdem, Max, die, Hausaufgabe, gemacht, hatte, sah, er, fern.*
+### ✍️ Übung 4: nachdem (Vorzeitigkeit)
+*Verbinden Sie die Sätze mit nachdem. Beachten Sie die Zeitenfolge (Plusquamperfekt bei Präteritum; Perfekt bei Präsens).*
 
-> 💡 **Beispiel:** Max hatte die Hausaufgabe gemacht. Anschließend sah er fern.
+> 💡 **Beispiel:** Max hatte die Hausaufgabe gemacht. Anschließend sah er fern. ➔ *Nachdem Max die Hausaufgabe gemacht hatte, sah er fern.*
 
 - **a)** Wir hatten dem Beamten unsere Pässe gezeigt. Anschließend durften wir weiterfahren.
+  - Nachdem wir dem Beamten unsere Pässe gezeigt hatten, ___________________________________.
 - **b)** Ich hatte gegessen. Danach bestellte ich noch einen Kaffee.
+  - Nachdem ich gegessen hatte, ___________________________________.
 - **c)** Der Arzt hatte den Patienten untersucht. Anschließend sprach er mit ihm.
+  - Nachdem der Arzt den Patienten untersucht hatte, ___________________________________.
 - **d)** Lena hatte das Büro aufgeräumt. Dann aß sie zu Abend.
+  - Nachdem Lena das Büro aufgeräumt hatte, ___________________________________.
 - **e)** Klaus hat seine Arbeit beendet. Jetzt legt er die Akten in den Schrank.
+  - Nachdem Klaus seine Arbeit beendet hat, ___________________________________.
 - **f)** Amira hatte die Preise verglichen. Dann kaufte sie den neuen Wagen.
+  - Nachdem Amira die Preise verglichen hatte, ___________________________________.
 - **g)** Maria hat Pauls Telefonnummer gefunden. Jetzt ruft sie ihn an.
-- **5.** bevor / ehe (NS — nachzeitig)
+  - Nachdem Maria Pauls Telefonnummer gefunden hat, ___________________________________.
 
-### ✍️ Übung 5
-*Wählen Sie aus dem Wortkasten: Bevor, Alex, die, Rechnung, bezahlte, kontrollierte, er, sie, sorgfältig.*
+### ✍️ Übung 5: bevor / ehe (Nachzeitigkeit)
+*Verbinden Sie die Sätze mit bevor (oder ehe).*
 
-> 💡 **Beispiel:** Alex bezahlte die Rechnung. Vorher kontrollierte er sie sorgfältig.
+> 💡 **Beispiel:** Alex bezahlte die Rechnung. Vorher kontrollierte er sie sorgfältig. ➔ *Bevor Alex die Rechnung bezahlte, kontrollierte er sie sorgfältig.*
 
 - **a)** Karl kam ins Restaurant. Vorher hatte er eine halbe Stunde einen Parkplatz gesucht.
+  - Bevor Karl ins Restaurant kam, ___________________________________.
 - **b)** Meine Cousine macht ihr Examen. Vorher will sie noch ein Jahr im Ausland studieren.
+  - Bevor meine Cousine ihr Examen macht, ___________________________________.
 - **c)** Lisa löschte das Licht. Vorher las sie noch ein paar Seiten.
+  - Bevor Lisa das Licht löschte, ___________________________________.
 - **d)** Jonas zog nach München. Vorher hatte er zwölf Jahre in Berlin gewohnt.
+  - Bevor Jonas nach München zog, ___________________________________.
 - **e)** Sandra frühstückte. Vorher hatte sie schon zwei Stunden am Computer gearbeitet.
+  - Bevor Sandra frühstückte, ___________________________________.
 - **f)** Paul hielt eine Rede. Vorher kontrollierte er das Mikrophon.
+  - Bevor Paul eine Rede hielt, ___________________________________.
 - **g)** Amira fuhr in Urlaub. Vorher brachte sie ihren Wagen zur Inspektion.
+  - Bevor Amira in Urlaub fuhr, ___________________________________.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 21)</strong></summary>
 
-> *Didaktische Lösungen für **5. bevor / ehe (NS - nachzeitig)**:*
+> *Didaktische Lösungen für **4. Temporale Nebensätze (während, nachdem, bevor / ehe)**:*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **4.** `—` — Grammatische Ergänzung
+- **a)** `sieht sie ihm tief in die Augen`
+- **b)** `pfeift er immer ein Lied`
+- **c)** `zähle ich mein Geld`
+- **d)** `las er die Wohnungsanzeigen in der Tageszeitung`
+- **e)** `schneidet Paul die Tomaten`
+- **f)** `erzählte sie mir eine lange Geschichte`
+- **g)** `regnete es ständig`
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
-- **5.** `—` — Grammatische Ergänzung
+- **a)** `durften wir weiterfahren`
+- **b)** `bestellte ich noch einen Kaffee`
+- **c)** `sprach er mit ihm`
+- **d)** `aß sie zu Abend`
+- **e)** `legt er die Akten in den Schrank`
+- **f)** `kaufte sie den neuen Wagen`
+- **g)** `ruft sie ihn an`
 
 #### Übung 5
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `hatte er eine halbe Stunde einen Parkplatz gesucht`
+- **b)** `will sie noch ein Jahr im Ausland studieren`
+- **c)** `las sie noch ein paar Seiten`
+- **d)** `hatte er zwölf Jahre in Berlin gewohnt`
+- **e)** `hatte sie schon zwei Stunden am Computer gearbeitet`
+- **f)** `kontrollierte er das Mikrophon`
+- **g)** `brachte sie ihren Wagen zur Inspektion`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 21)**](#workbooks:B1:21) mit automatischer Korrektur und Sofort-Feedback.
@@ -2058,49 +2027,43 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-22"></a>
-## 📄 Seite 22: Relativsätze als Attribut
+## 📄 Seite 22: 1. Relativsätze im Nominativ, Akkusativ und Dativ
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Relativsätze als Attribut
-> • Relativsätze können ein Nomen oder ein Pronomen genauer erklären. ➔➔ Attribut
-> • Hast du den Film schon gesehen? ➔ Welchen Film? ➔ Na, den Film, der gestern im Fernsehen lief.
-> • Max hat jemanden getroffen. ➔ Wen hat er getroffen? ➔ Ach, jemanden, den du nicht kennst.
-> • In Relativsätzen steht das Verb am Ende. ➔➔ Nebensatz
-> • Das war wirklich ein Horrorfilm, der mir große Angst gemacht hat.
+> • **Funktion:** Relativsätze erklären ein Nomen oder Pronomen näher (Attributsatz). Verb steht am Satzende.
+> • **Genus & Numerus:** Richten sich nach dem Bezugswort im übergeordneten Satz.
+> • **Kasus:** Richtet sich nach der Rolle im Relativsatz (Subjekt ➔ *Nominativ*, direktes Objekt ➔ *Akkusativ*, indirektes Objekt ➔ *Dativ*).
+> • **Formen:**
+>   - Nominativ: *der, die, das, die*
+>   - Akkusativ: *den, die, das, die*
+>   - Dativ: *dem, der, dem, **denen***
 
+### ✍️ Übung 1: Relativpronomen im Nominativ (Subjekt)
+*Verbinden Sie die beiden Sätze durch einen Relativsatz im Nominativ.*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • Das ist eine Kollegin. Sie hat mir geholfen. ➔ Das ist eine Kollegin, die mir geholfen hat. - Subjekt
-> • Das ist eine Kollegin. Ich habe ihr geholfen. ➔ Das ist eine Kollegin, der ich geholfen habe. - Dativobjekt
-> • Das ist ein Schal. Er gefällt mir. ➔ Das ist ein Schal, der mir gefällt. - Subjekt
-> • Das ist ein Schal. Ich möchte ihn kaufen. ➔ Das ist ein Schal, den ich kaufen möchte. - Akkusativobjekt
-> • Ich lese ein Buch. Es gefällt mir gut. ➔ Ich lese ein Buch, das mir gut gefällt. - Subjekt
-> • Ich lese ein Buch. Ich kann es empfehlen. ➔ Ich lese ein Buch, das ich empfehlen kann. - Akkusativobjekt
-> • Ich kenne Leute. Sie mögen Horrorfilme. ➔ Ich kenne Leute, die Horrorfilme mögen. - Subjekt
-> • Ich kenne Leute. Horrorfilme gefallen ihnen. ➔ Ich kenne Leute, denen Horrorfilme gefallen. - Dativobjekt
-
-
-### ✍️ Übung 1
-*Wählen Sie aus dem Wortkasten: Relativpronomen, im, Nominativ, Subjekt*
-
-> 💡 **Beispiel:** Max ist ein Kollege. > Er kann gut zuhören.    Max ist ein   Kollege  ,   der   gut zuhören kann.
+> 💡 **Beispiel:** Max ist ein Kollege. > Er kann gut zuhören. ➔ *Max ist ein Kollege, der gut zuhören kann.*
 
 - **a)** Julia ist eine fleißige Studentin. > Sie erledigt immer ihre Aufgaben.
+  - Julia ist eine fleißige Studentin, ___________________________________.
 - **b)** Theo und Eva sind alte Freunde. > Sie helfen mir immer.
+  - Theo und Eva sind alte Freunde, ___________________________________.
 - **c)** Karl ist ein bekannter Experte. > Er findet immer eine Lösung.
+  - Karl ist ein bekannter Experte, ___________________________________.
 - **d)** Pia ist ein eigensinniges Kind. > Es hört nie zu.
+  - Pia ist ein eigensinniges Kind, ___________________________________.
 - **e)** Lena ist eine hervorragende Schauspielerin. > Sie hat Karriere gemacht.
+  - Lena ist eine hervorragende Schauspielerin, ___________________________________.
 - **f)** Hatem ist ein begabter Programmierer. > Er arbeitet für eine Softwarefirma.
+  - Hatem ist ein begabter Programmierer, ___________________________________.
 - **g)** Clara und Jana sind gute Freundinnen. > Sie erzählen sich alles.
+  - Clara und Jana sind gute Freundinnen, ___________________________________.
 
-### ✍️ Übung 2
-*Wählen Sie aus dem Wortkasten: Relativpronomen, im, Nominativ, Dativ, oder, Akkusativ, Subjekt, Objekt*
+### ✍️ Übung 2: Relativpronomen im Nominativ, Dativ oder Akkusativ
+*Ergänzen Sie die passenden Relativpronomen (Format: Pronomen 1 / Pronomen 2).*
 
-> 💡 **Beispiel:** Max ist ein Freund,    der    mich sehr gut kennt. /  Max ist ein Freund,    dem    ich vertraue.
+> 💡 **Beispiel:** Max ist ein Freund, *der* mich sehr gut kennt. / Max ist ein Freund, *dem* ich vertraue.
 
 - **a)** Dort kommt mein Onkel, _______ Geburtstag hat. / Dort kommt mein Onkel, _______ ich gratulieren möchte.
 - **b)** Ist das der Computer, _______ nicht richtig funktioniert? / Ist das der Computer, _______ ich reparieren soll?
@@ -2110,46 +2073,46 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 - **f)** Das sind die Kollegen, _______ mir oft helfen. / Das sind die Kollegen, _______ ich schon oft geholfen habe.
 - **g)** Kennst du meine Tante, _______ hier wohnt? / Kennst du meine Tante, _______ dieses Haus gehört?
 
-### ✍️ Übung 3
-*Ergänzen Sie die Relativpronomen. (Dativ oder Akkusativ)*
+### ✍️ Übung 3: Relativpronomen im Dativ oder Akkusativ
+*Ergänzen Sie das passende Relativpronomen im Akkusativ oder Dativ.*
 
 - **a)** Das ist ein Gerät, _______ ich dir empfehlen kann.
-- **b)** Gefällt dir der Tisch, _______ ich gemacht habe.
+- **b)** Gefällt dir der Tisch, _______ ich gemacht habe?
 - **c)** Tom redet nicht mit Leuten, _______ er nicht mag.
 - **d)** Das sind Leute, _______ du zuhören solltest.
-- **e)** *(Kaufen)* Sie keine Dinge, _______ Sie nicht brauchen.
+- **e)** Kaufen Sie keine Dinge, _______ Sie nicht brauchen.
 - **f)** Max ist ein Mensch, _______ meine Art nicht gefällt.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 22)</strong></summary>
 
-> *Didaktische Lösungen für **Relativsätze als Attribut**:*
+> *Didaktische Lösungen für **1. Relativsätze im Nominativ, Akkusativ und Dativ**:*
 
 #### Übung 1
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `die immer ihre Aufgaben erledigt`
+- **b)** `die mir immer helfen`
+- **c)** `der immer eine Lösung findet`
+- **d)** `das nie zuhört`
+- **e)** `die Karriere gemacht hat`
+- **f)** `der für eine Softwarefirma arbeitet`
+- **g)** `die sich alles erzählen`
 
 #### Übung 2
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `der / dem` — *Subjekt (der) / Dativ (dem)*
+- **b)** `der / den` — *Subjekt (der) / Akkusativ (den)*
+- **c)** `das / das` — *Subjekt (das) / Akkusativ (das)*
+- **d)** `die / die` — *Subjekt Plural (die) / Akkusativ Plural (die)*
+- **e)** `der / den` — *der Mensch: Subjekt (der) / Akkusativ (den)*
+- **f)** `die / denen` — *Subjekt Plural (die) / Dativ Plural (denen)*
+- **g)** `die / der` — *Subjekt (die) / Dativ (der)*
 
 #### Übung 3
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `Kaufen` — Konjugiertes Verb <em>Kaufen</em> (3p)
-- **f)** `—` — Grammatische Ergänzung
+- **a)** `das` — *Akkusativ neutral (das Gerät)*
+- **b)** `den` — *Akkusativ maskulin (der Tisch)*
+- **c)** `die` — *Akkusativ Plural (die Leute)*
+- **d)** `denen` — *Dativ Plural (zuhören + Dativ)*
+- **e)** `die` — *Akkusativ Plural (brauchen + Akkusativ)*
+- **f)** `dem` — *Dativ maskulin (gefallen + Dativ)*
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 22)**](#workbooks:B1:22) mit automatischer Korrektur und Sofort-Feedback.
@@ -2159,102 +2122,87 @@ Jede Übung ist didaktisch aufbereitet, mit Beispielen und Hinweisen versehen un
 ---
 
 <a id="seite-23"></a>
-## 📄 Seite 23: Relativsätze als Attribut — Vertiefung & Übungen
+## 📄 Seite 23: 2. Relativsätze im Genitiv (dessen, deren) & Eingeschobene Relativsätze
 
 > [!NOTE]
 > **📌 Grammatik-Fokus dieser Lektion:**
 >
-> • Wo ist der Herr? ➔ Welcher Herr? ➔ Der Herr, der seinen Hut vergessen hat. ➔ Sein Hut liegt hier.
-> • Genitiv possessiv Der Hut des Herrn liegt hier. ➔  Wo ist der Herr,  dessen Hut hier liegt?
-> • mask. fem. neutr. Plural
-> • Nom.
-> • Akk.
-> • Dat.
-> • Gen.
-> • der  die  das  die
-> • den  die  das  die
-> • dem  der  dem  denen
-> • dessen  deren  dessen  deren
+> • **Genitiv-Relativpronomen:** Drücken Besitz oder Zugehörigkeit aus (ersetzen *sein* / *ihr*).
+>   - Maskulin & Neutral: **dessen** (*der Herr, dessen Hut hier liegt* / *das Kind, dessen Vater...*)
+>   - Feminin & Plural: **deren** (*die Frau, deren Auto...* / *die Leute, deren Gepäck...*)
+> • **Eingeschobene Relativsätze:** Steht das Bezugswort im Mittelfeld oder Subjekt des Hauptsatzes, wird der Relativsatz durch Kommas eingeschoben:
+>   *Die Studentin, **deren Jacke noch hier hängt**, ist schon gegangen.*
 
+### ✍️ Übung 4: Relativsätze mit Genitiv
+*Bilden Sie Relativsätze mit dessen oder deren.*
 
-> [!NOTE]
-> **📌 Grammatik-Fokus dieser Lektion:**
->
-> • ______ ihn besucht hat.
-> • ______ er besucht hat.
-> • ______ bald in Pension geht.
-> • b) Kennst du die Frau,
-> • ______ im III. Stock wohnt?
-> • ______ dieses Buch gehört?
-> • ______ Wagen vor der Tür steht?
-> • c) Tamara hat einen Cousin,
-> • ______ sie sehr vertraut.
-> • ______ ihr im Notfall immer hilft.
-> • ______ Meinung ihr sehr wichtig ist.
-> • d) Sprichst du mit den Leuten,
-> • ______ zur Polizei gehen wollen?
-> • ______ man das Gepäck gestohlen hat?
-> • ______ Gepäck man gestohlen hat?
-> • Am Bahnsteig standen viele Leute   . Sie warteten auf den Zug.
-> • Am Bahnsteig standen viele Leute,  die auf den Zug warteten.
-> • Hauptsatz , Relativsatz
-> • Viele Leute    standen am Bahnsteig. Sie warteten auf den Zug.
-> • Viele Leute ,  die auf den Zug warteten,  standen am Bahnsteig.
-> • Hauptsatz (Teil 1) , R e l a t i v s a t z , Hauptsatz (Teil 2)
-
-
-### ✍️ Übung 4
-*Bilden Sie Relativsätze mit Genitiv.*
-
-> 💡 **Beispiel:** Ich besuche meine Tante. Ihre Katze ist krank.  Ich besuche meine Tante,   deren   Katze krank ist.
+> 💡 **Beispiel:** Ich besuche meine Tante. Ihre Katze ist krank. ➔ *Ich besuche meine Tante, deren Katze krank ist.*
 
 - **a)** Ich verschenke diesen Laptop. Seine Kamera ist defekt.
+  - Ich verschenke diesen Laptop, ___________________________________.
 - **b)** Ich mag dieses Gewürz. Sein Geruch ist sehr intensiv.
+  - Ich mag dieses Gewürz, ___________________________________.
 - **c)** Ich kaufe diese Jacke. Ihre Farbe gefällt mir sehr.
+  - Ich kaufe diese Jacke, ___________________________________.
 - **d)** Ich helfe meinem Kollegen. Sein Computer ist kaputt.
+  - Ich helfe meinem Kollegen, ___________________________________.
 - **e)** Ich schreibe meinen Eltern. Ich brauche ihre Hilfe.
+  - Ich schreibe meinen Eltern, ___________________________________.
 
-### ✍️ Übung 5
-*Ergänzen Sie die Relativpronomen.*
+### ✍️ Übung 5: Relativpronomen ergänzen (Kasus-Differenzierung)
+*Ergänzen Sie die passenden Relativpronomen für die 4 Situationen (Format: 1 / 2 / 3).*
 
-- **a)** Max telefoniert mit dem Kollegen,
+- **a)** Max telefoniert mit dem Kollegen, (1) _______ ihn besucht hat. / (2) _______ er besucht hat. / (3) _______ bald in Pension geht.
+- **b)** Kennst du die Frau, (1) _______ im III. Stock wohnt? / (2) _______ dieses Buch gehört? / (3) _______ Wagen vor der Tür steht?
+- **c)** Tamara hat einen Cousin, (1) _______ sie sehr vertraut. / (2) _______ ihr im Notfall immer hilft. / (3) _______ Meinung ihr sehr wichtig ist.
+- **d)** Sprichst du mit den Leuten, (1) _______ zur Polizei gehen wollen? / (2) _______ man das Gepäck gestohlen hat? / (3) _______ Gepäck man gestohlen hat?
 
-### ✍️ Übung 6
-*Wählen Sie aus dem Wortkasten: Die, Studentin, deren, Jacke, noch, hier, hängt, ist, schon, gegangen.*
+### ✍️ Übung 6: Eingeschobene Relativsätze
+*Verbinden Sie die Sätze durch einen eingeschobenen Relativsatz.*
 
-> 💡 **Beispiel:** Die Studentin ist schon gegangen. Ihre Jacke hängt noch hier.
+> 💡 **Beispiel:** Die Studentin ist schon gegangen. Ihre Jacke hängt noch hier. ➔ *Die Studentin, deren Jacke noch hier hängt, ist schon gegangen.*
 
 - **a)** Das Obst musst du waschen. Du hast es im Supermarkt gekauft.
+  - Das Obst, ___________________________________, musst du waschen.
 - **b)** Die Autorin ist sehr berühmt. Sie hat diese Geschichte geschrieben.
+  - Die Autorin, ___________________________________, ist sehr berühmt.
 - **c)** Die Touristen kommen aus Rom. Ich habe sie auf dem Rathausplatz getroffen.
+  - Die Touristen, ___________________________________, kommen aus Rom.
 - **d)** Der Film war langweilig. Ich habe ihn gestern im Fernsehen gesehen.
+  - Der Film, ___________________________________, war langweilig.
 - **e)** Die Gäste haben sich beschwert. Das Essen hat ihnen nicht geschmeckt.
+  - Die Gäste, ___________________________________, haben sich beschwert.
 - **f)** Eine Dame winkte aus dem Zugfenster. Ihre Kinder standen auf dem Bahnsteig.
+  - Eine Dame, ___________________________________, winkte aus dem Zugfenster.
 - **g)** Mein Freund hat eine Zeitungsanzeige aufgegeben. Sein Hund ist weggelaufen.
+  - Mein Freund, ___________________________________, hat eine Zeitungsanzeige aufgegeben.
 
 <details>
 <summary><strong>👉 💡 Musterlösung & Grammatik-Tipps (Seite 23)</strong></summary>
 
-> *Didaktische Lösungen für **Relativsätze als Attribut — Vertiefung & Übungen**:*
+> *Didaktische Lösungen für **2. Relativsätze im Genitiv & Eingeschobene Relativsätze**:*
 
 #### Übung 4
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
+- **a)** `dessen Kamera defekt ist`
+- **b)** `dessen Geruch sehr intensiv ist`
+- **c)** `deren Farbe mir sehr gefällt`
+- **d)** `dessen Computer kaputt ist`
+- **e)** `deren Hilfe ich brauche`
 
 #### Übung 5
-- **a)** `—` — Grammatische Ergänzung
+- **a)** `der / den / der` — *1. Subjekt (der) | 2. Akkusativ (den) | 3. Subjekt (der)*
+- **b)** `die / der / deren` — *1. Subjekt (die) | 2. Dativ (der) | 3. Genitiv (deren)*
+- **c)** `dem / der / dessen` — *1. Dativ (dem) | 2. Subjekt (der) | 3. Genitiv (dessen)*
+- **d)** `die / denen / deren` — *1. Subjekt (die) | 2. Dativ (denen) | 3. Genitiv (deren)*
 
 #### Übung 6
-- **a)** `—` — Grammatische Ergänzung
-- **b)** `—` — Grammatische Ergänzung
-- **c)** `—` — Grammatische Ergänzung
-- **d)** `—` — Grammatische Ergänzung
-- **e)** `—` — Grammatische Ergänzung
-- **f)** `—` — Grammatische Ergänzung
-- **g)** `—` — Grammatische Ergänzung
+- **a)** `das du im Supermarkt gekauft hast`
+- **b)** `die diese Geschichte geschrieben hat`
+- **c)** `die ich auf dem Rathausplatz getroffen habe`
+- **d)** `den ich gestern im Fernsehen gesehen habe`
+- **e)** `denen das Essen nicht geschmeckt hat`
+- **f)** `deren Kinder auf dem Bahnsteig standen`
+- **g)** `dessen Hund weggelaufen ist`
 
 ---
 👉 **Interaktiv üben:** Öffne diese Seite im [**Arbeitsbuch-Studio (Seite 23)**](#workbooks:B1:23) mit automatischer Korrektur und Sofort-Feedback.

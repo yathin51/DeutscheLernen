@@ -614,973 +614,839 @@
 ---
 
 <a id="seite-11"></a>
-## 📄 Seite 11: Kausale Sätze (Seite 11)
+## 📄 Seite 11: Kausale Sätze (weil, denn, deshalb, nämlich)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:11)
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Warum ist Paul zum Arzt gegangen? - Husten haben
+### ✍️ Übung 1: Kausale Nebensätze mit weil bilden
+> 💡 **Beispiel:** Warum ist Paul zum Arzt gegangen? (Husten haben) ➔ *Paul ist zum Arzt gegangen, weil er Husten hat.*
 
-- **a)** Warum sucht Thomas eine neue Arbeit? - zu wenig verdienen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Warum isst du keine Erdbeeren? - eine Allergie haben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Warum ziehst du aus dieser Wohnung aus? - zu dunkel sein**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Warum hast du die Blumen gekauft? - meine Freundin heute Geburtstag haben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Warum hatte Max einen Termin beim Augenarzt? - eine Brille brauchen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Warum fährt Maria nicht in Urlaub? - sich krank fühlen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Warum hat Luis sich verspätet? - den Bus verpassen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Warum macht Jana die Fahrradtour nicht mit? - sich erkälten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Warum sucht Thomas eine neue Arbeit? (zu wenig verdienen)
+  - 💡 **Lösung:** `weil er zu wenig verdient` — *weil + Subjekt (er) + Angabe + Verb am Satzende (verdient)*
+- **b)** Warum isst du keine Erdbeeren? (eine Allergie haben)
+  - 💡 **Lösung:** `weil ich eine Allergie habe` — *weil + Subjekt (ich) + Akkusativobjekt + Verb am Satzende (habe)*
+- **c)** Warum ziehst du aus dieser Wohnung aus? (zu dunkel sein)
+  - 💡 **Lösung:** `weil sie zu dunkel ist` — *weil + Subjekt (sie = die Wohnung) + Prädikativum + Verb am Satzende (ist)*
+- **d)** Warum hast du die Blumen gekauft? (meine Freundin heute Geburtstag haben)
+  - 💡 **Lösung:** `weil meine Freundin heute Geburtstag hat` — *weil + Subjekt (meine Freundin) + Temporaladverbial (heute) + Akkusativ + Verb (hat)*
+- **e)** Warum hatte Max einen Termin beim Augenarzt? (eine Brille brauchen)
+  - 💡 **Lösung:** `weil er eine Brille brauchte` — *weil + Subjekt (er) + Objekt + Präteritum (brauchte)*
+- **f)** Warum fährt Maria nicht in Urlaub? (sich krank fühlen)
+  - 💡 **Lösung:** `weil sie sich krank fühlt` — *weil + Subjekt (sie) + Reflexivpronomen (sich) + Prädikativum + Verb (fühlt)*
+- **g)** Warum hat Luis sich verspätet? (den Bus verpassen)
+  - 💡 **Lösung:** `weil er den Bus verpasst hat` — *weil + Subjekt (er) + Akkusativobjekt + Perfekt (verpasst hat)*
+- **h)** Warum macht Jana die Fahrradtour nicht mit? (sich erkälten)
+  - 💡 **Lösung:** `weil sie sich erkältet hat` — *weil + Subjekt (sie) + Reflexivpronomen + Perfekt (sich erkältet hat)*
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Rita ist am Wochenende zu Hause geblieben. Es hat nämlich schrecklich geregnet.
+### ✍️ Übung 2: Sätze mit deshalb verbinden
+> 💡 **Beispiel:** Rita ist am Wochenende zu Hause geblieben. Es hat nämlich schrecklich geregnet. ➔ *Es hat schrecklich geregnet. Deshalb ist Rita am Wochenende zu Hause geblieben.*
 
-- **a)** Manfred bleibt im Bett. Er hat sich nämlich erkältet.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Der Laden ist geschlossen. Die Besitzer sind nämlich in Urlaub.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Julia lernt jetzt immer bis spät abends. Sie schreibt nämlich bald ihre Abschlussprüfung.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Der Hotelgast beschwerte sich. Er war nämlich mit dem Service gar nicht zufrieden.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **e)** Ich komme erst später. Ich muss nämlich noch etwas Wichtiges erledigen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Der Autofahrer war schwer verletzt. Er hatte sich nämlich nicht angegurtet.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **g)** Viele Menschen verloren ihre Arbeit. Man hatte nämlich die Produktion automatisiert.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **h)** Jana gewann den Schwimmwettbewerb an ihrer Schule. Sie hatte nämlich täglich hart trainiert.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Du solltest diese Pflanze nicht anfassen. Sie ist nämlich sehr giftig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Fertiggerichte sind oft ungesund. Sie enthalten nämlich zu wenige Vitamine und zu viel Fett.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** Michael studiert Jura. Er möchte nämlich Richter werden.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** Klaus konnte nicht mit Julia sprechen. Er war nämlich zu schüchtern.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Manfred bleibt im Bett. Er hat sich nämlich erkältet.
+  - 💡 **Lösung:** `bleibt er im Bett` — *Deshalb (Pos. 1) + bleibt (Pos. 2) + er im Bett*
+- **b)** Der Laden ist geschlossen. Die Besitzer sind nämlich in Urlaub.
+  - 💡 **Lösung:** `ist der Laden geschlossen` — *Deshalb + ist (Pos. 2) + der Laden geschlossen*
+- **c)** Julia lernt jetzt immer bis spät abends. Sie schreibt nämlich bald ihre Abschlussprüfung.
+  - 💡 **Lösung:** `lernt sie jetzt immer bis spät abends` — *Deshalb + lernt (Pos. 2) + sie jetzt immer bis spät abends*
+- **d)** Der Hotelgast beschwerte sich. Er war nämlich mit dem Service gar nicht zufrieden.
+  - 💡 **Lösung:** `beschwerte er sich` — *Deshalb + beschwerte (Pos. 2) + er sich*
+- **e)** Ich komme erst später. Ich muss nämlich noch etwas Wichtiges erledigen.
+  - 💡 **Lösung:** `komme ich erst später` — *Deshalb + komme (Pos. 2) + ich erst später*
+- **f)** Der Autofahrer war schwer verletzt. Er hatte sich nämlich nicht angegurtet.
+  - 💡 **Lösung:** `war er schwer verletzt` — *Deshalb + war (Pos. 2) + er schwer verletzt*
+- **g)** Viele Menschen verloren ihre Arbeit. Man hatte nämlich die Produktion automatisiert.
+  - 💡 **Lösung:** `verloren viele Menschen ihre Arbeit` — *Deshalb + verloren (Pos. 2) + viele Menschen ihre Arbeit*
+- **h)** Jana gewann den Schwimmwettbewerb an ihrer Schule. Sie hatte nämlich täglich hart trainiert.
+  - 💡 **Lösung:** `gewann sie den Schwimmwettbewerb` — *Deshalb + gewann (Pos. 2) + sie den Schwimmwettbewerb*
+- **i)** Du solltest diese Pflanze nicht anfassen. Sie ist nämlich sehr giftig.
+  - 💡 **Lösung:** `solltest du sie nicht anfassen` — *Deshalb + solltest (Pos. 2) + du sie nicht anfassen*
+- **j)** Fertiggerichte sind oft ungesund. Sie enthalten nämlich zu wenige Vitamine und zu viel Fett.
+  - 💡 **Lösung:** `sind sie oft ungesund` — *Deshalb + sind (Pos. 2) + sie oft ungesund*
+- **k)** Michael studiert Jura. Er möchte nämlich Richter werden.
+  - 💡 **Lösung:** `studiert er Jura` — *Deshalb + studiert (Pos. 2) + er Jura*
+- **l)** Klaus konnte nicht mit Julia sprechen. Er war nämlich zu schüchtern.
+  - 💡 **Lösung:** `konnte er nicht mit Julia sprechen` — *Deshalb + konnte (Pos. 2) + er nicht mit Julia sprechen*
 
 ---
 
 <a id="seite-12"></a>
-## 📄 Seite 12: Konzessive Sätze (Seite 12)
+## 📄 Seite 12: Konzessive Sätze (obwohl, trotzdem, trotz)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:12)
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Max hatte sich sehr beeilt. Trotzdem verpasste er den Zug.
+### ✍️ Übung 1: Konzessive Sätze mit vorangestelltem obwohl
+> 💡 **Beispiel:** Max hatte sich sehr beeilt. Trotzdem verpasste er den Zug. ➔ *Obwohl Max sich sehr beeilt hatte, verpasste er den Zug.*
 
-- **a)** Vera hatte Paul eingeladen. Trotzdem kam er nicht zur Party.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Tanja hat den ganzen Tag gearbeitet. Trotzdem ist sie nicht müde.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Georg wohnt gar nicht weit von mir. Trotzdem treffe ich ihn nur selten.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Monika verdient ziemlich wenig. Trotzdem ist sie mit ihrer Arbeit zufrieden.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Peter fuhr sehr vorsichtig. Trotzdem passierte ein Unfall.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Max vertraut Clara. Trotzdem erzählt er ihr nicht alles.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Leyla hat eine Grippe. Trotzdem spielt sie Volleyball.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Peter hat viele Probleme. Trotzdem beklagt er sich nie.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Es geht der Wirtschaft gut. Trotzdem verdienen viele Leute sehr schlecht.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Es sah nach Regen aus. Trotzdem gingen wir zum Baden.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Vera hatte Paul eingeladen. Trotzdem kam er nicht zur Party.
+  - 💡 **Lösung:** `Vera Paul eingeladen hatte, kam er nicht zur Party` — *Obwohl + Nebensatz + Komma + Inversion*
+- **b)** Tanja hat den ganzen Tag gearbeitet. Trotzdem ist sie nicht müde.
+  - 💡 **Lösung:** `Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde` — *Obwohl + Nebensatz + Komma + Inversion*
+- **c)** Georg wohnt gar nicht weit von mir. Trotzdem treffe ich ihn nur selten.
+  - 💡 **Lösung:** `Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten` — *Obwohl + Nebensatz + Komma + Inversion*
+- **d)** Monika verdient ziemlich wenig. Trotzdem ist sie mit ihrer Arbeit zufrieden.
+  - 💡 **Lösung:** `Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden` — *Obwohl + Nebensatz + Komma + Inversion*
+- **e)** Peter fuhr sehr vorsichtig. Trotzdem passierte ein Unfall.
+  - 💡 **Lösung:** `Peter sehr vorsichtig fuhr, passierte ein Unfall` — *Obwohl + Nebensatz + Komma + Inversion*
+- **f)** Max vertraut Clara. Trotzdem erzählt er ihr nicht alles.
+  - 💡 **Lösung:** `Max Clara vertraut, erzählt er ihr nicht alles` — *Obwohl + Nebensatz + Komma + Inversion*
+- **g)** Leyla hat eine Grippe. Trotzdem spielt sie Volleyball.
+  - 💡 **Lösung:** `Leyla eine Grippe hat, spielt sie Volleyball` — *Obwohl + Nebensatz + Komma + Inversion*
+- **h)** Peter hat viele Probleme. Trotzdem beklagt er sich nie.
+  - 💡 **Lösung:** `Peter viele Probleme hat, beklagt er sich nie` — *Obwohl + Nebensatz + Komma + Inversion*
+- **i)** Es geht der Wirtschaft gut. Trotzdem verdienen viele Leute sehr schlecht.
+  - 💡 **Lösung:** `es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht` — *Obwohl + Nebensatz + Komma + Inversion*
+- **j)** Es sah nach Regen aus. Trotzdem gingen wir zum Baden.
+  - 💡 **Lösung:** `es nach Regen aussah, gingen wir zum Baden` — *Obwohl + Nebensatz + Komma + Inversion*
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Bogdan hatte Zeit. Er kam trotzdem nicht zum Fest.
+### ✍️ Übung 2: Konzessive Sätze mit nachgestelltem obwohl
+> 💡 **Beispiel:** Bogdan hatte Zeit. Er kam trotzdem nicht zum Fest. ➔ *Bogdan kam nicht zum Fest, obwohl er Zeit hatte.*
 
-- **a)** Eva hatte Medikamente genommen. Sie konnte trotzdem nicht einschlafen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Karl war sehr müde. Er ging trotzdem noch in die Disko.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Julian hat viel gelernt. Er hat den Test trotzdem nicht geschafft.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Paul hatte schon viele Bewerbungen geschrieben. Er fand trotzdem keine Stelle.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Silvie hatte sich sehr beeilt. Sie kam trotzdem zu spät.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Martin hatte schreckliche Schmerzen. Er wollte trotzdem keine Tablette nehmen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Sophie hat nur eine kleine Wohnung. Sie will sich trotzdem einen großen Hund kaufen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Christine hat wenig Geld. Sie isst trotzdem oft in teuren Restaurants.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Jana hat Flugangst. Sie fliegt trotzdem oft in die Türkei.**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **j)** Amira hat morgen ihre Führerscheinprüfung. Sie ist trotzdem gar nicht nervös.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Eva hatte Medikamente genommen. Sie konnte trotzdem nicht einschlafen.
+  - 💡 **Lösung:** `obwohl sie Medikamente genommen hatte` — *obwohl + Plusquamperfekt am Ende*
+- **b)** Karl war sehr müde. Er ging trotzdem noch in die Disko.
+  - 💡 **Lösung:** `obwohl er sehr müde war` — *obwohl + Präteritum am Ende*
+- **c)** Julian hat viel gelernt. Er hat den Test trotzdem nicht geschafft.
+  - 💡 **Lösung:** `obwohl er viel gelernt hat` — *obwohl + Perfekt am Ende*
+- **d)** Paul hatte schon viele Bewerbungen geschrieben. Er fand trotzdem keine Stelle.
+  - 💡 **Lösung:** `obwohl er schon viele Bewerbungen geschrieben hatte` — *obwohl + Plusquamperfekt am Ende*
+- **e)** Silvie hatte sich sehr beeilt. Sie kam trotzdem zu spät.
+  - 💡 **Lösung:** `obwohl sie sich sehr beeilt hatte` — *obwohl + Reflexiv + Plusquamperfekt*
+- **f)** Martin hatte schreckliche Schmerzen. Er wollte trotzdem keine Tablette nehmen.
+  - 💡 **Lösung:** `obwohl er schreckliche Schmerzen hatte` — *obwohl + Präteritum am Ende*
+- **g)** Sophie hat nur eine kleine Wohnung. Sie will sich trotzdem einen großen Hund kaufen.
+  - 💡 **Lösung:** `obwohl sie nur eine kleine Wohnung hat` — *obwohl + Präsens am Ende*
+- **h)** Christine hat wenig Geld. Sie isst trotzdem oft in teuren Restaurants.
+  - 💡 **Lösung:** `obwohl sie wenig Geld hat` — *obwohl + Präsens am Ende*
+- **i)** Jana hat Flugangst. Sie fliegt trotzdem oft in die Türkei.
+  - 💡 **Lösung:** `obwohl sie Flugangst hat` — *obwohl + Präsens am Ende*
+- **j)** Amira hat morgen ihre Führerscheinprüfung. Sie ist trotzdem gar nicht nervös.
+  - 💡 **Lösung:** `obwohl sie morgen ihre Führerscheinprüfung hat` — *obwohl + Präsens am Ende*
 
 ---
 
 <a id="seite-13"></a>
-## 📄 Seite 13: Genitiv (Seite 13)
+## 📄 Seite 13: 1. Genitiv — Formen & Genitivattribut
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:13)
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Autor - Roman  Ich kenne den Autor   des   Roman  s   leider nicht  .
+### ✍️ Übung 1: Genitivattribute bilden
+> 💡 **Beispiel:** Autor — Roman ➔ *Ich kenne den Autor des Romans leider nicht.*
 
-- **a)** Ende - Geschichte**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Titel - Buch**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **c)** Adresse - Hotel**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **d)** Methoden - Leute**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Manager - Club**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Chef - Firma**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Größe - Zimmer**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Telefonnummer - Werkstatt**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Postleitzahl - Ort**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Grund - Streit**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** Anzahl - Sitzplätze**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** Frau - Chef**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **m)** Namen - Teilnehmer*innen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **n)** Eltern - Clara**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **o)** Anschrift - Paul**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **mask.** fem. neutr. Pl.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Ende — Geschichte
+  - 💡 **Lösung:** `der Geschichte` — *Feminin im Genitiv*
+- **b)** Titel — Buch
+  - 💡 **Lösung:** `des Buches` — *Neutrum im Genitiv*
+- **c)** Adresse — Hotel
+  - 💡 **Lösung:** `des Hotels` — *Neutrum im Genitiv*
+- **d)** Methoden — Leute
+  - 💡 **Lösung:** `der Leute` — *Plural im Genitiv*
+- **e)** Manager — Club
+  - 💡 **Lösung:** `des Clubs` — *Maskulin im Genitiv*
+- **f)** Chef — Firma
+  - 💡 **Lösung:** `der Firma` — *Feminin im Genitiv*
+- **g)** Größe — Zimmer
+  - 💡 **Lösung:** `des Zimmers` — *Neutrum im Genitiv*
+- **h)** Telefonnummer — Werkstatt
+  - 💡 **Lösung:** `der Werkstatt` — *Feminin im Genitiv*
+- **i)** Postleitzahl — Ort
+  - 💡 **Lösung:** `des Ortes` — *Maskulin im Genitiv*
+- **j)** Grund — Streit
+  - 💡 **Lösung:** `des Streits` — *Maskulin im Genitiv*
+- **k)** Anzahl — Sitzplätze
+  - 💡 **Lösung:** `der Sitzplätze` — *Plural im Genitiv*
+- **l)** Frau — Chef
+  - 💡 **Lösung:** `des Chefs` — *Maskulin im Genitiv*
+- **m)** Namen — Teilnehmer*innen
+  - 💡 **Lösung:** `der Teilnehmerinnen` — *Plural im Genitiv*
+- **n)** Eltern — Clara
+  - 💡 **Lösung:** `Claras Eltern` — *Eigenname mit Genitiv-s*
+- **o)** Anschrift — Paul
+  - 💡 **Lösung:** `Pauls Anschrift` — *Eigenname mit Genitiv-s*
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Bruder - deine Kollegin   Ist das der Bruder   deiner   Kollegin?
+### ✍️ Übung 2: Possessivartikel im Genitiv
+> 💡 **Beispiel:** Bruder — deine Kollegin ➔ *Ist das der Bruder deiner Kollegin?*
 
-- **a)** Fahrrad - unser Freund**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Chef - deine Cousine**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Haus - eure Eltern**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **d)** Hut - sein Großvater**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Wohnung - ihr Onkel**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Katze - deine Tante**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Computer - sein Chef**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Freund - deine Schwester**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Wagen - euer Lehrer**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Schuhe - dein Bruder**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** Foto - seine Freundin**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** Spielsachen - eure Kinder**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
+- **a)** Fahrrad — unser Freund
+  - 💡 **Lösung:** `unseres Freundes` — *maskulin Genitiv*
+- **b)** Chef — deine Cousine
+  - 💡 **Lösung:** `deiner Cousine` — *feminin Genitiv*
+- **c)** Haus — eure Eltern
+  - 💡 **Lösung:** `eurer Eltern` — *Plural Genitiv*
+- **d)** Hut — sein Großvater
+  - 💡 **Lösung:** `seines Großvaters` — *maskulin Genitiv*
+- **e)** Wohnung — ihr Onkel
+  - 💡 **Lösung:** `ihres Onkels` — *maskulin Genitiv*
+- **f)** Katze — deine Tante
+  - 💡 **Lösung:** `deiner Tante` — *feminin Genitiv*
+- **g)** Computer — sein Chef
+  - 💡 **Lösung:** `seines Chefs` — *maskulin Genitiv*
+- **h)** Freund — deine Schwester
+  - 💡 **Lösung:** `deiner Schwester` — *feminin Genitiv*
+- **i)** Wagen — euer Lehrer
+  - 💡 **Lösung:** `eures Lehrers` — *maskulin Genitiv*
+- **j)** Schuhe — dein Bruder
+  - 💡 **Lösung:** `deines Bruders` — *maskulin Genitiv*
+- **k)** Foto — seine Freundin
+  - 💡 **Lösung:** `seiner Freundin` — *feminin Genitiv*
+- **l)** Spielsachen — eure Kinder
+  - 💡 **Lösung:** `eurer Kinder` — *Plural Genitiv*
 
-### ✍️ Übung 3
-> 💡 **Beispiel:** Hut - meine Schwester   Wessen   Hut ist das? - Das ist der Hut   meiner Schwester  .
+### ✍️ Übung 3: Fragewort Wessen & Genitiv-Antwort
+> 💡 **Beispiel:** Hut — meine Schwester ➔ *Wessen Hut ist das? — Das ist der Hut meiner Schwester.*
 
-- **a)** Schlüssel - mein Bruder**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Wohnung - unsere Tante**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Gepäck - eure Gäste**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Spielzeug - seine Tochter**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Hund - ihr Großvater**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Computer - dein Onkel**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **1)** Eine Gruppe von maskulinen Nomen bildet sowohl den Genitiv als auch den Dativ und den Akkusativ Sing. mit [e]n  >  n-Deklination**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Schlüssel — mein Bruder
+  - 💡 **Lösung:** `meines Bruders` — *maskulin Genitiv*
+- **b)** Wohnung — unsere Tante
+  - 💡 **Lösung:** `unserer Tante` — *feminin Genitiv*
+- **c)** Gepäck — eure Gäste
+  - 💡 **Lösung:** `eurer Gäste` — *Plural Genitiv*
+- **d)** Spielzeug — seine Tochter
+  - 💡 **Lösung:** `seiner Tochter` — *feminin Genitiv*
+- **e)** Hund — ihr Großvater
+  - 💡 **Lösung:** `ihres Großvaters` — *maskulin Genitiv*
+- **f)** Computer — dein Onkel
+  - 💡 **Lösung:** `deines Onkels` — *maskulin Genitiv*
 
 ---
 
 <a id="seite-14"></a>
-## 📄 Seite 14: 2. Präpositionen mit Genitiv (Seite 14)
+## 📄 Seite 14: 2. Präpositionen mit Genitiv (wegen, trotz, während, anstatt, innerhalb, außerhalb)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:14)
 
-### ✍️ Übung 4
-> 💡 **Beispiel:** der Nebel   Trotz des Nebels      fährt er ziemlich schnell.
+### ✍️ Übung 4: Genitiv-Präpositionen und passende Endungen einsetzen
+> 💡 **Beispiel:** der Nebel ➔ *Trotz des Nebels fährt er ziemlich schnell.*
 
-- **a)** der Streik **richtig** fahren keine Busse.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** mein Urlaub **richtig** war ich drei Wochen in den USA.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** ein Brief **richtig** schickt sie mir nur eine kurze E-Mail.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** seine Schmerzen **richtig** geht er nicht zum Zahnarzt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** seine Diät **richtig** isst er jeden Tag nur einen Apfel.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** alle Probleme **richtig** können wir die Arbeit rechtzeitig beenden.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** die Kälte **richtig** muss ich eine dicke Jacke anziehen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **h)** ein Mittagessen **richtig** isst sie nur ein Stückchen Schokolade.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **i)** die Ferien **richtig** ist die Bibliothek geschlossen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **j)** ein Rechenfehler **richtig** bestellte man zu viel Material.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+- **a)** der Streik
+  - 💡 **Lösung:** `Wegen des Streiks` — *Kausal*
+- **b)** mein Urlaub
+  - 💡 **Lösung:** `Während meines Urlaubs` — *Temporal*
+- **c)** ein Brief
+  - 💡 **Lösung:** `Anstatt eines Briefes` — *Substitution*
+- **d)** seine Schmerzen
+  - 💡 **Lösung:** `Trotz seiner Schmerzen` — *Konzessiv*
+- **e)** seine Diät
+  - 💡 **Lösung:** `Wegen seiner Diät` — *Kausal*
+- **f)** alle Probleme
+  - 💡 **Lösung:** `Trotz aller Probleme` — *Konzessiv*
+- **g)** die Kälte
+  - 💡 **Lösung:** `Wegen der Kälte` — *Kausal*
+- **h)** ein Mittagessen
+  - 💡 **Lösung:** `Anstatt eines Mittagessens` — *Substitution*
+- **i)** die Ferien
+  - 💡 **Lösung:** `Während der Ferien` — *Temporal*
+- **j)** ein Rechenfehler
+  - 💡 **Lösung:** `Wegen eines Rechenfehlers` — *Kausal*
 
-### ✍️ Übung 5
-*Ergänzen Sie eine Präposition.*
-
-- **a)** Viele Leute kaufen dieses Produkt **richtig** des hohen Preises.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Sie müssen diese Rechnung **richtig** einer Woche bezahlen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** Sie dürfen **richtig** des Tests nicht mit den anderen Teilnehmern und Teilnehmerinnen sprechen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Man bot den verärgerten Kunden **richtig** einer Rückzahlung nur einen Gutschein an.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Das Fußballstadion liegt ein paar Kilometer **richtig** der Stadt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Viele Menschen verloren **richtig** der Krise ihren Arbeitsplatz.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+### ✍️ Übung 5: Präpositionen im Kontext einsetzen
+- **a)** Viele Leute kaufen dieses Produkt [___] des hohen Preises.
+  - 💡 **Lösung:** `trotz` — *trotz des hohen Preises*
+- **b)** Sie müssen diese Rechnung [___] einer Woche bezahlen.
+  - 💡 **Lösung:** `innerhalb` — *innerhalb einer Woche*
+- **c)** Sie dürfen [___] des Tests nicht mit den anderen Teilnehmern und Teilnehmerinnen sprechen.
+  - 💡 **Lösung:** `während` — *während des Tests*
+- **d)** Man bot den verärgerten Kunden [___] einer Rückzahlung nur einen Gutschein an.
+  - 💡 **Lösung:** `anstatt` — *anstatt einer Rückzahlung*
+- **e)** Das Fußballstadion liegt ein paar Kilometer [___] der Stadt.
+  - 💡 **Lösung:** `außerhalb` — *außerhalb der Stadt*
+- **f)** Viele Menschen verloren [___] der Krise ihren Arbeitsplatz.
+  - 💡 **Lösung:** `aufgrund` — *aufgrund der Krise*
 
 ---
 
 <a id="seite-15"></a>
-## 📄 Seite 15: Konjunktiv II (Seite 15)
+## 📄 Seite 15: 1. Konjunktiv II — hätte, wäre, würde (Präsens)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:15)
 
-### ✍️ Übung 1
-- **a)** Pedro und Lena müssen immer früh aufstehen.  Sie **richtig** länger .
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Theo ist nicht besonders fit.  Er **richtig** mehr Sport __.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** Sandra arbeitet immer allein.  Sie **richtig** in einem Team .
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Hassan raucht zu viel. Er **richtig** nicht so viel __.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Sofia kann kein Englisch. Sie **richtig** an einem Sprachkurs .
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Carlo hat nur eine halbe Stelle. Er **richtig** Vollzeit _.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Wir haben eine sehr teure Wohnung. Wir **richtig** weniger Miete _.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+### ✍️ Übung 1: Wünsche mit würde gern ausdrücken
+> 💡 **Beispiel:** Paul verdient wenig. ➔ *Er würde gern mehr verdienen.*
 
-### ✍️ Übung 2
-- **a)** Mach die Tür zu!**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **b)** Bring den Müll raus!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Räum das Zimmer auf!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Füll das Formular aus!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Lies den Text vor!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Ruf die Firma an!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Mach das Licht an!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Schreib die Nummer auf!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Bereite das Essen zu!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Trag deinen Namen ein!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** Gib mir das Buch zurück!**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **l)** Hol die Pakete von der Post ab!**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Pedro und Lena müssen immer früh aufstehen.
+  - 💡 **Lösung:** `würden gern länger schlafen`
+- **b)** Theo ist nicht besonders fit.
+  - 💡 **Lösung:** `würde gern mehr Sport treiben`
+- **c)** Sandra arbeitet immer allein.
+  - 💡 **Lösung:** `würde gern in einem Team arbeiten`
+- **d)** Hassan raucht zu viel.
+  - 💡 **Lösung:** `würde gern nicht so viel rauchen`
+- **e)** Sofia kann kein Englisch.
+  - 💡 **Lösung:** `würde gern an einem Sprachkurs teilnehmen`
+- **f)** Carlo hat nur eine halbe Stelle.
+  - 💡 **Lösung:** `würde gern Vollzeit arbeiten`
+- **g)** Wir haben eine sehr teure Wohnung.
+  - 💡 **Lösung:** `würden gern weniger Miete zahlen`
 
-### ✍️ Übung 3
-- **a)** Clara treibt zu wenig Sport.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Lena schläft zu wenig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Dieter spielt zu lange im Internet.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Martin telefoniert zu lange mit seiner Mutter.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Boris spricht zu viel über seine Kollegen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Christa zahlt zu viel Miete.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Sandra wartet zu lange mit ihrer Entscheidung.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Franz gibt zu viel Geld aus.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Sofia fängt ihre Arbeiten immer zu spät an.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** Robert schreibt immer zu klein.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** Samira verspätet sich zu oft.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** Hatem bereitet sich zu wenig vor.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+### ✍️ Übung 2: Höfliche Bitten mit Würdest du bitte...
+> 💡 **Beispiel:** Geh weg! ➔ *Würdest du bitte weggehen?*
+
+- **a)** Mach die Tür zu!
+  - 💡 **Lösung:** `die Tür zumachen`
+- **b)** Bring den Müll raus!
+  - 💡 **Lösung:** `den Müll rausbringen`
+- **c)** Räum das Zimmer auf!
+  - 💡 **Lösung:** `das Zimmer aufräumen`
+- **d)** Füll das Formular aus!
+  - 💡 **Lösung:** `das Formular ausfüllen`
+- **e)** Lies den Text vor!
+  - 💡 **Lösung:** `den Text vorlesen`
+- **f)** Ruf die Firma an!
+  - 💡 **Lösung:** `die Firma anrufen`
+- **g)** Mach das Licht an!
+  - 💡 **Lösung:** `das Licht anmachen`
+- **h)** Schreib die Nummer auf!
+  - 💡 **Lösung:** `die Nummer aufschreiben`
+- **i)** Bereite das Essen zu!
+  - 💡 **Lösung:** `das Essen zubereiten`
+- **j)** Trag deinen Namen ein!
+  - 💡 **Lösung:** `deinen Namen eintragen`
+- **k)** Gib mir das Buch zurück!
+  - 💡 **Lösung:** `mir das Buch zurückgeben`
+- **l)** Hol die Pakete von der Post ab!
+  - 💡 **Lösung:** `die Pakete von der Post abholen`
+
+### ✍️ Übung 3: Ratschläge mit Ich würde...
+> 💡 **Beispiel:** Anja fährt zu schnell. ➔ *Ich würde langsamer fahren.*
+
+- **a)** Clara treibt zu wenig Sport.
+  - 💡 **Lösung:** `mehr Sport treiben`
+- **b)** Lena schläft zu wenig.
+  - 💡 **Lösung:** `mehr schlafen`
+- **c)** Dieter spielt zu lange im Internet.
+  - 💡 **Lösung:** `nicht so lange im Internet spielen`
+- **d)** Martin telefoniert zu lange mit seiner Mutter.
+  - 💡 **Lösung:** `nicht so lange mit meiner Mutter telefonieren`
+- **e)** Boris spricht zu viel über seine Kollegen.
+  - 💡 **Lösung:** `nicht so viel über meine Kollegen sprechen`
+- **f)** Christa zahlt zu viel Miete.
+  - 💡 **Lösung:** `nicht so viel Miete zahlen`
+- **g)** Sandra wartet zu lange mit ihrer Entscheidung.
+  - 💡 **Lösung:** `nicht so lange mit meiner Entscheidung warten`
+- **h)** Franz gibt zu viel Geld aus.
+  - 💡 **Lösung:** `nicht so viel Geld ausgeben`
+- **i)** Sofia fängt ihre Arbeiten immer zu spät an.
+  - 💡 **Lösung:** `meine Arbeiten früher anfangen`
+- **j)** Robert schreibt immer zu klein.
+  - 💡 **Lösung:** `nicht so klein schreiben`
+- **k)** Samira verspätet sich zu oft.
+  - 💡 **Lösung:** `mich nicht so oft verspäten`
+- **l)** Hatem bereitet sich zu wenig vor.
+  - 💡 **Lösung:** `mich besser vorbereiten`
 
 ---
 
 <a id="seite-16"></a>
-## 📄 Seite 16: 2. Konjunktiv II - Vergangenheit (Seite 16)
+## 📄 Seite 16: 2. Konjunktiv II — Vergangenheit & Konditionalsätze
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:16)
 
-### ✍️ Übung 4
-> 💡 **Beispiel:** Carla ist sehr erkältet. Deshalb trinkt sie Kräutertee.
+### ✍️ Übung 4: Irreale Konditionalsätze der Gegenwart
+> 💡 **Beispiel:** Carla ist sehr erkältet. Deshalb trinkt sie Kräutertee. ➔ *Wenn Carla nicht so erkältet wäre, würde sie keinen Kräutertee trinken.*
 
-- **a)** Max ist vorsichtig. Deshalb fährt er sehr langsam.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Tanja schläft sehr wenig. Deshalb ist sie müde.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Jonas raucht sehr viel. Deshalb hat er Husten.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Eva sieht schlecht. Deshalb trägt sie eine Brille.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Jana ist frustriert. Deshalb isst sie viel Schokolade.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Paul fühlt sich unwohl. Deshalb geht er zum Arzt.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **2.** Konjunktiv II  - Vergangenheit**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Max ist vorsichtig. Deshalb fährt er sehr langsam.
+  - 💡 **Lösung:** `würde er nicht so langsam fahren`
+- **b)** Tanja schläft sehr wenig. Deshalb ist sie müde.
+  - 💡 **Lösung:** `wäre sie nicht so müde`
+- **c)** Jonas raucht sehr viel. Deshalb hat er Husten.
+  - 💡 **Lösung:** `hätte er keinen Husten`
+- **d)** Eva sieht schlecht. Deshalb trägt sie eine Brille.
+  - 💡 **Lösung:** `würde sie keine Brille tragen`
+- **e)** Jana ist frustriert. Deshalb isst sie viel Schokolade.
+  - 💡 **Lösung:** `würde sie nicht so viel Schokolade essen`
+- **f)** Paul fühlt sich unwohl. Deshalb geht er zum Arzt.
+  - 💡 **Lösung:** `würde er nicht zum Arzt gehen`
 
-### ✍️ Übung 5
-> 💡 **Beispiel:** nach Rom reisen -  „  Ich   wäre   so gerne nach Rom   gereist.  “
+### ✍️ Übung 5: Verpasste Wünsche in der Vergangenheit
+> 💡 **Beispiel:** nach Rom reisen ➔ *Ich wäre so gerne nach Rom gereist.*
 
-- **a)** *(meinen)* Freunden helfen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** länger in Köln bleiben**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** ein Buch lesen**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **d)** nach Berlin fliegen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** meine Tante besuchen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** mit meiner Cousine telefonieren**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** mein Zimmer streichen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** mein Fahrrad reparieren**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** in Urlaub fahren**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** mit Jana ins Kino gehen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** *(den)* Keller aufräumen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** am Seminar teilnehmen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **m)** mich mit Maria unterhalten**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **n)** mir diesen Film ansehen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **o)** meine Kolleg*innen einladen**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** meinen Freunden helfen
+  - 💡 **Lösung:** `hätte so gerne meinen Freunden geholfen`
+- **b)** länger in Köln bleiben
+  - 💡 **Lösung:** `wäre so gerne länger in Köln geblieben`
+- **c)** ein Buch lesen
+  - 💡 **Lösung:** `hätte so gerne ein Buch gelesen`
+- **d)** nach Berlin fliegen
+  - 💡 **Lösung:** `wäre so gerne nach Berlin geflogen`
+- **e)** meine Tante besuchen
+  - 💡 **Lösung:** `hätte so gerne meine Tante besucht`
+- **f)** mit meiner Cousine telefonieren
+  - 💡 **Lösung:** `hätte so gerne mit meiner Cousine telefoniert`
+- **g)** mein Zimmer streichen
+  - 💡 **Lösung:** `hätte so gerne mein Zimmer gestrichen`
+- **h)** mein Fahrrad reparieren
+  - 💡 **Lösung:** `hätte so gerne mein Fahrrad repariert`
+- **i)** in Urlaub fahren
+  - 💡 **Lösung:** `wäre so gerne in Urlaub gefahren`
+- **j)** mit Jana ins Kino gehen
+  - 💡 **Lösung:** `wäre so gerne mit Jana ins Kino gegangen`
+- **k)** den Keller aufräumen
+  - 💡 **Lösung:** `hätte so gerne den Keller aufgeräumt`
+- **l)** am Seminar teilnehmen
+  - 💡 **Lösung:** `hätte so gerne am Seminar teilgenommen`
+- **m)** mich mit Maria unterhalten
+  - 💡 **Lösung:** `hätte mich so gerne mit Maria unterhalten`
+- **n)** mir diesen Film ansehen
+  - 💡 **Lösung:** `hätte mir so gerne diesen Film angesehen`
+- **o)** meine Kolleg*innen einladen
+  - 💡 **Lösung:** `hätte so gerne meine Kolleginnen eingeladen`
 
-### ✍️ Übung 6
-> 💡 **Beispiel:** Max hatte keine Lust. Deshalb ist er nicht ins Kino gegangen.
+### ✍️ Übung 6: Irreale Konditionalsätze der Vergangenheit
+> 💡 **Beispiel:** Max hatte keine Lust. Deshalb ist er nicht ins Kino gegangen. ➔ *Wenn Max Lust gehabt hätte, wäre er ins Kino gegangen.*
 
-- **a)** Christa hat sich nicht vorbereitet. Deshalb hat sie den Test nicht bestanden.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Laura sprach nicht deutlich. Deshalb habe ich sie nicht verstanden.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Thomas hat nicht angerufen. Deshalb hat er Ärger bekommen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Es hat die ganze Zeit geregnet. Deshalb sind wir nicht spazieren gegangen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Monika hat den Bus verpasst. Deshalb ist sie zu spät gekommen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Paul hat nicht alles aufgeschrieben. Deshalb hat er etwas vergessen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Lena hat nicht rechtzeitig reserviert. Deshalb hat sie keinen Platz bekommen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Tina hat sich nicht konzentriert. Deshalb hat sie nicht alles gehört.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Christa hat sich nicht vorbereitet. Deshalb hat sie den Test nicht bestanden.
+  - 💡 **Lösung:** `hätte sie den Test bestanden`
+- **b)** Laura sprach nicht deutlich. Deshalb habe ich sie nicht verstanden.
+  - 💡 **Lösung:** `hätte ich sie verstanden`
+- **c)** Thomas hat nicht angerufen. Deshalb hat er Ärger bekommen.
+  - 💡 **Lösung:** `hätte er keinen Ärger bekommen`
+- **d)** Es hat die ganze Zeit geregnet. Deshalb sind wir nicht spazieren gegangen.
+  - 💡 **Lösung:** `wären wir spazieren gegangen`
+- **e)** Monika hat den Bus verpasst. Deshalb ist sie zu spät gekommen.
+  - 💡 **Lösung:** `wäre sie nicht zu spät gekommen`
+- **f)** Paul hat nicht alles aufgeschrieben. Deshalb hat er etwas vergessen.
+  - 💡 **Lösung:** `hätte er nichts vergessen`
+- **g)** Lena hat nicht rechtzeitig reserviert. Deshalb hat sie keinen Platz bekommen.
+  - 💡 **Lösung:** `hätte sie einen Platz bekommen`
+- **h)** Tina hat sich nicht konzentriert. Deshalb hat sie nicht alles gehört.
+  - 💡 **Lösung:** `hätte sie alles gehört`
 
 ---
 
 <a id="seite-17"></a>
-## 📄 Seite 17: 3. Konjunktiv II - Modalverben (Seite 17)
+## 📄 Seite 17: 3. Konjunktiv II — Modalverben
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:17)
 
-### ✍️ Übung 7
-> 💡 **Beispiel:** Wiederhol(e) das bitte.  Könntest   du das bitte wiederholen?
+### ✍️ Übung 7: Höfliche Bitten mit Könntest du bitte...
+> 💡 **Beispiel:** Wiederhol(e) das bitte. ➔ *Könntest du das bitte wiederholen?*
 
-- **a)** Sprich bitte lauter.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Hol bitte den Rucksack.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Sag das bitte noch einmal.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Nimm mich bitte mit.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Bring bitte die Bücher.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Füll bitte die Liste aus.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Schick bitte eine Nachricht.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Deck bitte den Tisch.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Räum bitte den Keller auf.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Sprich bitte lauter.
+  - 💡 **Lösung:** `lauter sprechen`
+- **b)** Hol bitte den Rucksack.
+  - 💡 **Lösung:** `den Rucksack holen`
+- **c)** Sag das bitte noch einmal.
+  - 💡 **Lösung:** `das noch einmal sagen`
+- **d)** Nimm mich bitte mit.
+  - 💡 **Lösung:** `mich mitnehmen`
+- **e)** Bring bitte die Bücher.
+  - 💡 **Lösung:** `die Bücher bringen`
+- **f)** Füll bitte die Liste aus.
+  - 💡 **Lösung:** `die Liste ausfüllen`
+- **g)** Schick bitte eine Nachricht.
+  - 💡 **Lösung:** `eine Nachricht schicken`
+- **h)** Deck bitte den Tisch.
+  - 💡 **Lösung:** `den Tisch decken`
+- **i)** Räum bitte den Keller auf.
+  - 💡 **Lösung:** `den Keller aufräumen`
 
-### ✍️ Übung 8
-> 💡 **Beispiel:** Ina fährt zu schnell. Sie sollte       nicht             so             schnell fahren.
+### ✍️ Übung 8: Ratschläge mit sollte formulieren
+> 💡 **Beispiel:** Ina fährt zu schnell. ➔ *Sie sollte nicht so schnell fahren.*
 
-- **a)** Boris spricht zu leise.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Sandra schläft zu wenig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Franz gibt zu viel Geld aus.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Gabi liest zu wenig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Thomas vergisst zu viele Termine.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Peter weiß zu diesem Thema zu wenig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Anja ruft zu selten bei ihren Eltern an.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Eva fängt zu viele Dinge gleichzeitig an.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Boris spricht zu leise.
+  - 💡 **Lösung:** `lauter sprechen`
+- **b)** Sandra schläft zu wenig.
+  - 💡 **Lösung:** `mehr schlafen`
+- **c)** Franz gibt zu viel Geld aus.
+  - 💡 **Lösung:** `nicht so viel Geld ausgeben`
+- **d)** Gabi liest zu wenig.
+  - 💡 **Lösung:** `mehr lesen`
+- **e)** Thomas vergisst zu viele Termine.
+  - 💡 **Lösung:** `nicht so viele Termine vergessen`
+- **f)** Peter weiß zu diesem Thema zu wenig.
+  - 💡 **Lösung:** `mehr über dieses Thema wissen`
+- **g)** Anja ruft zu selten bei ihren Eltern an.
+  - 💡 **Lösung:** `öfter bei ihren Eltern anrufen`
+- **h)** Eva fängt zu viele Dinge gleichzeitig an.
+  - 💡 **Lösung:** `nicht so viele Dinge gleichzeitig anfangen`
 
-### ✍️ Übung 9
-> 💡 **Beispiel:** Du musst im Bett bleiben, weil du Grippe hast.
+### ✍️ Übung 9: Hypothesen mit Modalverben im Konjunktiv II
+> 💡 **Beispiel:** Du musst im Bett bleiben, weil du Grippe hast. ➔ *Wenn du keine Grippe hättest, müsstest du nicht im Bett bleiben.*
 
-- **a)** Karl darf nicht mit dem Auto fahren, weil er betrunken ist.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **b)** Gerd kann nicht zur Party kommen, weil er fürs Examen lernen muss.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Maria darf keine Erdbeeren essen, weil sie eine Allergie hat.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Elfi muss die Arbeit heute alleine erledigen, weil ihr Kollege sich erkältet hat.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Julia kann nichts zu diesem Thema sagen, weil sie nicht Bescheid weiß.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Du kannst die Frage nicht beantworten, weil du dich nicht vorbereitet hast.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Konrad fährt nicht nach München, weil er am Samstag arbeiten muss.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** Hatem kann das Fahrrad nicht reparieren, weil er kein Werkzeug hat.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** Theo darf nicht am Computer spielen, weil seine Mutter es verboten hat.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Karl darf nicht mit dem Auto fahren, weil er betrunken ist.
+  - 💡 **Lösung:** `dürfte er mit dem Auto fahren`
+- **b)** Gerd kann nicht zur Party kommen, weil er fürs Examen lernen muss.
+  - 💡 **Lösung:** `könnte er zur Party kommen`
+- **c)** Maria darf keine Erdbeeren essen, weil sie eine Allergie hat.
+  - 💡 **Lösung:** `dürfte sie Erdbeeren essen`
+- **d)** Elfi muss die Arbeit heute alleine erledigen, weil ihr Kollege sich erkältet hat.
+  - 💡 **Lösung:** `müsste Elfi die Arbeit nicht alleine erledigen`
+- **e)** Julia kann nichts zu diesem Thema sagen, weil sie nicht Bescheid weiß.
+  - 💡 **Lösung:** `könnte sie etwas zu diesem Thema sagen`
+- **f)** Du kannst die Frage nicht beantworten, weil du dich nicht vorbereitet hast.
+  - 💡 **Lösung:** `könntest du die Frage beantworten`
+- **g)** Konrad fährt nicht nach München, weil er am Samstag arbeiten muss.
+  - 💡 **Lösung:** `würde er nach München fahren`
+- **h)** Hatem kann das Fahrrad nicht reparieren, weil er kein Werkzeug hat.
+  - 💡 **Lösung:** `könnte er das Fahrrad reparieren`
+- **i)** Theo darf nicht am Computer spielen, weil seine Mutter es verboten hat.
+  - 💡 **Lösung:** `dürfte Theo am Computer spielen`
 
-### ✍️ Übung 10
-> 💡 **Beispiel:** Es gibt Waschmaschinen. Deshalb muss man nicht alles mit der Hand waschen.
+### ✍️ Übung 10: Irreale Konditionalsätze mit Wenn es keine ... geben würde
+> 💡 **Beispiel:** Es gibt Waschmaschinen. Deshalb muss man nicht alles mit der Hand waschen. ➔ *Wenn es keine Waschmaschinen geben würde, müsste man alles mit der Hand waschen.*
 
-- **a)** Es gibt Handys. Deshalb kann man immer und überall miteinander sprechen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Es gibt öffentliche Verkehrsmittel. Deshalb muss man nicht immer mit dem eigenen PKW fahren.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Es gibt das Internet. Deshalb kann man weltweit einfach und günstig kommunizieren.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Es gibt Antibiotika. Deshalb kann man Infektionskrankheiten besser behandeln.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Es gibt Handys. Deshalb kann man immer und überall miteinander sprechen.
+  - 💡 **Lösung:** `könnte man nicht immer und überall miteinander sprechen`
+- **b)** Es gibt öffentliche Verkehrsmittel. Deshalb muss man nicht immer mit dem eigenen PKW fahren.
+  - 💡 **Lösung:** `müsste man immer mit dem eigenen PKW fahren`
+- **c)** Es gibt das Internet. Deshalb kann man weltweit einfach und günstig kommunizieren.
+  - 💡 **Lösung:** `könnte man nicht weltweit einfach und günstig kommunizieren`
+- **d)** Es gibt Antibiotika. Deshalb kann man Infektionskrankheiten besser behandeln.
+  - 💡 **Lösung:** `könnte man Infektionskrankheiten nicht so gut behandeln`
 
 ---
 
 <a id="seite-18"></a>
-## 📄 Seite 18: Präpositionen - lokal (Seite 18)
+## 📄 Seite 18: 1. Lokale Präpositionen (Wechselpräpositionen, Wo, Wohin, Woher)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:18)
 
-### ✍️ Übung 1
-*Ergänzen Sie die Endungen.*
+### ✍️ Übung 1: Wechselpräpositionen (Endungen für Dativ und Akkusativ)
+> 💡 **Beispiel:** Sie ging ins Wohnzimmer. Auf dem Sofa saß Paul.
 
-- **a)** Wir gingen in d**en** großen Saal.
-  - 💡 **Lösung:** `en` — *Subjekt (1p) ➔ Endung -en (den)*
-- **b)** Zwischen d**et** beiden Ländern fließt ein Fluss.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **c)** Was hast du da in d**est** Hand?
-  - 💡 **Lösung:** `est` — *Subjekt (2s) ➔ Endung -est (dest)*
-- **d)** Stell bitte den Stuhl in d**et** Flur.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **e)** Kannst du mir die Adresse auf ein**e** kleinen Zettel schreiben?
-  - 💡 **Lösung:** `e` — *Subjekt (1s) ➔ Endung -e (eine)*
-- **f)** Hinter m**t** standen eine Menge Leute an d Kinokasse.
-  - 💡 **Lösung:** `t` — *Subjekt (3s) ➔ Endung -t (mt)*
-- **g)** In dies**t** Gegend regnet es häufig.
-  - 💡 **Lösung:** `t` — *Subjekt (3s) ➔ Endung -t (diest)*
-- **h)** Häng bitte die Jacke in d**et** Schrank.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **i)** Hinter d**et** Haus gibt es einen wunderschönen Obstgarten.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **j)** Wir setzten uns in d**en** Schatten eines Baumes.
-  - 💡 **Lösung:** `en` — *Subjekt (1p) ➔ Endung -en (den)*
-- **k)** Auf dies**t** Insel gibt es sehr viele seltene Tiere.
-  - 💡 **Lösung:** `t` — *Subjekt (3s) ➔ Endung -t (diest)*
-- **l)** Paul stellte sich zwischen Rita und m**t**.
-  - 💡 **Lösung:** `t` — *Subjekt (3s) ➔ Endung -t (mt)*
-- **m)** An viel**t** Orten des Landes gibt es zu wenig Wasser.
-  - 💡 **Lösung:** `t` — *Subjekt (3s) ➔ Endung -t (vielt)*
-- **n)** Jonas stellte seine Hausschuhe unter d**et** Sofa.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **o)** Du kannst dich ruhig neben m**st** setzen.
-  - 💡 **Lösung:** `st` — *Subjekt (2s) ➔ Endung -st (mst)*
-- **p)** Das Haus liegt zwischen d**et** Schillerstraße und d Marktplatz.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **q)** Pass auf, wenn du über d**est** Straße gehst!
-  - 💡 **Lösung:** `est` — *Subjekt (2s) ➔ Endung -est (dest)*
-- **r)** Der Junge versteckte sich unter d**et** Decke.
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
-- **s)** Setz die Mütze auf d**et** Kopf!
-  - 💡 **Lösung:** `et` — *Subjekt (3s) ➔ Endung -et (det)*
+- **a)** Wir gingen in d_______ großen Saal.
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ in den großen Saal*
+- **b)** Zwischen d_______ beiden Ländern fließt ein Fluss.
+  - 💡 **Lösung:** `en` — *Wo? Dativ Plural ➔ zwischen den beiden Ländern*
+- **c)** Was hast du da in d_______ Hand?
+  - 💡 **Lösung:** `er` — *Wo? Dativ feminin ➔ in der Hand*
+- **d)** Stell bitte den Stuhl in d_______ Flur.
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ in den Flur*
+- **e)** Kannst du mir die Adresse auf ein_______ kleinen Zettel schreiben?
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ auf einen kleinen Zettel*
+- **f)** Hinter mir standen eine Menge Leute an d_______ Kinokasse.
+  - 💡 **Lösung:** `er` — *Wo? Dativ feminin ➔ an der Kinokasse (Hinter mir)*
+- **g)** In dies_______ Gegend regnet es häufig.
+  - 💡 **Lösung:** `er` — *Wo? Dativ feminin ➔ in dieser Gegend*
+- **h)** Häng bitte die Jacke in d_______ Schrank.
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ in den Schrank*
+- **i)** Hinter d_______ Haus gibt es einen wunderschönen Obstgarten.
+  - 💡 **Lösung:** `em` — *Wo? Dativ neutral ➔ hinter dem Haus*
+- **j)** Wir setzten uns in d_______ Schatten eines Baumes.
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ in den Schatten*
+- **k)** Auf dies_______ Insel gibt es sehr viele seltene Tiere.
+  - 💡 **Lösung:** `er` — *Wo? Dativ feminin ➔ auf dieser Insel*
+- **l)** Paul stellte sich zwischen Rita und m_______.
+  - 💡 **Lösung:** `ich` — *Wohin? Akkusativ ➔ mich*
+- **m)** An viel_______ Orten des Landes gibt es zu wenig Wasser.
+  - 💡 **Lösung:** `en` — *Wo? Dativ Plural ➔ an vielen Orten*
+- **n)** Jonas stellte seine Hausschuhe unter d_______ Sofa.
+  - 💡 **Lösung:** `as` — *Wohin? Akkusativ neutral ➔ unter das Sofa*
+- **o)** Du kannst dich ruhig neben m_______ setzen.
+  - 💡 **Lösung:** `ich` — *Wohin? Akkusativ ➔ mich*
+- **p)** Das Haus liegt zwischen der Schillerstraße und d_______ Marktplatz.
+  - 💡 **Lösung:** `em` — *Wo? Dativ maskulin ➔ dem Marktplatz*
+- **q)** Pass auf, wenn du über d_______ Straße gehst!
+  - 💡 **Lösung:** `ie` — *Wohin? Akkusativ feminin ➔ über die Straße*
+- **r)** Der Junge versteckte sich unter d_______ Decke.
+  - 💡 **Lösung:** `er` — *Wo? Dativ feminin ➔ unter der Decke*
+- **s)** Setz die Mütze auf d_______ Kopf!
+  - 💡 **Lösung:** `en` — *Wohin? Akkusativ maskulin ➔ auf den Kopf*
 
-### ✍️ Übung 2
-- **1.** Ich war **richtig** Ich gehe / fahre / fliege ... Ich komme ...
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **a)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **h)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **i)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **j)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **k)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **l)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **m)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **n)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **o)** **—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **17.** **richtig** Kino.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **18.** **richtig** England.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **19.** **richtig** Ausland.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **20.** **richtig** Arzt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **21.** **richtig** Supermarkt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **22.** **richtig** Universität.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **23.** **die** Türkei.
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **24.** **das** Rathaus.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **25.** **richtig** USA.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **26.** **richtig** Küste.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **27.** **das** Hause.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **28.** **richtig** Berge__.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **29.** **richtig** Dom.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **30.** **richtig** Berlin.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **31.** **richtig** Klaus.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **32.** **richtig** Kino.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **33.** **richtig** England.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **34.** **richtig** Ausland.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **35.** **richtig** Arzt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **36.** **richtig** Supermarkt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **37.** **richtig** Universität.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **38.** **die** Türkei.
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **39.** **das** Rathaus.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **40.** **richtig** USA.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **41.** **richtig** Küste.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **42.** **das** Hause.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **43.** **richtig** Berge.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **44.** **richtig** Dom.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **45.** **richtig** Berlin.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **46.** **richtig** Klaus.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **47.** **richtig** Kino.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **48.** **richtig** England.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **49.** **richtig** Ausland.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **50.** **richtig** Arzt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **51.** **richtig** Supermarkt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **52.** **richtig** Universität.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **53.** **die** Türkei.
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **54.** **das** Rathaus.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **55.** **richtig** USA.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **56.** **richtig** Küste.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **57.** **das** Hause.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **58.** **richtig** Berge__.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **59.** **richtig** Dom.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **60.** **richtig** Berlin.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **61.** **richtig** Klaus.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+### ✍️ Übung 2: Wo? (Ich war ...) — Wohin? (Ich gehe ...) — Woher? (Ich komme ...)
+> 💡 **Übersicht der 15 Orts-Triples:**
+
+- **a) Kino**
+  - 💡 **Lösung:** `im / ins / aus dem` — *im Kino / ins Kino / aus dem Kino*
+- **b) England**
+  - 💡 **Lösung:** `in / nach / aus` — *in England / nach England / aus England*
+- **c) Ausland**
+  - 💡 **Lösung:** `im / ins / aus dem` — *im Ausland / ins Ausland / aus dem Ausland*
+- **d) Arzt**
+  - 💡 **Lösung:** `beim / zum / vom` — *beim Arzt / zum Arzt / vom Arzt*
+- **e) Supermarkt**
+  - 💡 **Lösung:** `im / in den / aus dem` — *im Supermarkt / in den Supermarkt / aus dem Supermarkt*
+- **f) Universität**
+  - 💡 **Lösung:** `an der / an die / von der` — *an der Universität / an die Universität / von der Universität*
+- **g) Türkei**
+  - 💡 **Lösung:** `in der / in die / aus der` — *in der Türkei / in die Türkei / aus der Türkei*
+- **h) Rathaus**
+  - 💡 **Lösung:** `im / ins / aus dem` — *im Rathaus / ins Rathaus / aus dem Rathaus*
+- **i) USA**
+  - 💡 **Lösung:** `in den / in die / aus den` — *in den USA / in die USA / aus den USA*
+- **j) Küste**
+  - 💡 **Lösung:** `an der / an die / von der` — *an der Küste / an die Küste / von der Küste*
+- **k) Hause**
+  - 💡 **Lösung:** `zu / nach / von zu` — *zu Hause / nach Hause / von zu Hause*
+- **l) Berge**
+  - 💡 **Lösung:** `in den / in die / aus den` — *in den Bergen / in die Berge / aus den Bergen*
+- **m) Dom**
+  - 💡 **Lösung:** `im / in den / aus dem` — *im Dom / in den Dom / aus dem Dom*
+- **n) Berlin**
+  - 💡 **Lösung:** `in / nach / aus` — *in Berlin / nach Berlin / aus Berlin*
+- **o) Klaus**
+  - 💡 **Lösung:** `bei / zu / von` — *bei Klaus / zu Klaus / von Klaus*
 
 ---
 
-<a id="seite-19"></a>
-## 📄 Seite 19: Präpositionen - temporal (Seite 19)
+## 📄 Seite 19: 2. Temporale Präpositionen (Zeitpunkt, Beginn, Ende, Dauer)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:19)
 
-### ✍️ Übung 1
-- **a)** Den Führerschein hat Lisa schon **richtig** einem Jahr gemacht.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Wir können **richtig** Wochenende mal _ einem Glas Wein über alles sprechen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** Wir wollten **richtig** dem Abendessen ins Kino gehen, der Film beginnt  20:30 Uhr.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Ich werde dich morgen so **richtig** Mittag anrufen, aber ich weiß nicht genau wann.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Die Notfallnummer können Sie **richtig** jeder Tages- und Nachtzeit anrufen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Wir haben **richtig** August geschlossen! __ dem Urlaub sind wir wieder für Sie da.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Max hat schon **richtig** einer Woche reklamiert, aber der Schaden ist noch nicht repariert.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **h)** **richtig** diesem schlechten Wetter will ich nicht spazieren gehen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **i)** Lena möchte **das** Nachmittag mit den Kindern ins Hallenbad gehen.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **j)** Ich komme morgen mal so **das** 18:00 Uhr bei dir vorbei. Bist du _ diese Zeit zu Hause?
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **k)** Theo hat mir **richtig** meinem Geburtstag eine Karte geschickt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **l)** Wir müssen die Arbeit unbedingt noch **richtig** dem Ende des Monats erledigen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+### ✍️ Übung 1: Zeitpunkt (an, bei, gegen, in, nach, um, vor, zu)
+- **a)** Den Führerschein hat Lisa schon _______ einem Jahr gemacht.
+  - 💡 **Lösung:** `vor` — *vor einem Jahr (Vergangenheit mit Zeitabstand)*
+- **b)** Wir können _______ Wochenende mal bei einem Glas Wein über alles sprechen.
+  - 💡 **Lösung:** `am` — *am Wochenende (an + Dativ)*
+- **c)** Wir wollten _______ dem Abendessen ins Kino gehen, der Film beginnt um 20:30 Uhr.
+  - 💡 **Lösung:** `nach` — *nach dem Abendessen (Nachzeitigkeit)*
+- **d)** Ich werde dich morgen so _______ Mittag anrufen, aber ich weiß nicht genau wann.
+  - 💡 **Lösung:** `gegen` — *gegen Mittag (ungefährer Zeitpunkt)*
+- **e)** Die Notfallnummer können Sie _______ jeder Tages- und Nachtzeit anrufen.
+  - 💡 **Lösung:** `zu` — *zu jeder Zeit (feste Wendung)*
+- **f)** Wir haben _______ August geschlossen! Nach dem Urlaub sind wir wieder für Sie da.
+  - 💡 **Lösung:** `im` — *im August (Monate / Jahreszeiten ➔ in + Dativ)*
+- **g)** Max hat schon _______ einer Woche reklamiert, aber der Schaden ist noch nicht repariert.
+  - 💡 **Lösung:** `vor` — *vor einer Woche (Vergangenheitspunkt)*
+- **h)** _______ diesem schlechten Wetter will ich nicht spazieren gehen.
+  - 💡 **Lösung:** `Bei` — *Bei diesem schlechten Wetter (bei + Dativ)*
+- **i)** Lena möchte _______ Nachmittag mit den Kindern ins Hallenbad gehen.
+  - 💡 **Lösung:** `am` — *am Nachmittag (Tageszeiten ➔ an + Dativ)*
+- **j)** Ich komme morgen mal so _______ 18:00 Uhr bei dir vorbei. Bist du um diese Zeit zu Hause?
+  - 💡 **Lösung:** `gegen` — *gegen 18:00 Uhr (um diese Zeit)*
+- **k)** Theo hat mir _______ meinem Geburtstag eine Karte geschickt.
+  - 💡 **Lösung:** `zu` — *zu meinem Geburtstag (Anlässe ➔ zu + Dativ)*
+- **l)** Wir müssen die Arbeit unbedingt noch _______ dem Ende des Monats erledigen.
+  - 💡 **Lösung:** `vor` — *vor dem Ende des Monats (vor einem Zeitpunkt)*
 
-### ✍️ Übung 2
-- **a)** Man kann auf diesem Platz **richtig** nächstem Montag _ nächsten Donnerstag nicht parken.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Kannst du mir **das** ein paar Stunden dein Auto leihen?
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **c)** **richtig** dem Wochenende soll das Wetter besser werden.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Jasmin muss ihre Doktorarbeit **richtig** eines Jahres fertigstellen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Alex studiert jetzt schon **richtig** zwei Jahren im Ausland.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** **richtig** Weihnachten und Silvester haben wir geschlossen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Silvia will **richtig** des Sommers ein Praktikum machen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **h)** Rufen Sie bitte nicht **richtig** der Sprechzeiten an.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **i)** Ich arbeite **richtig** 18:00 Uhr und danach können wir uns treffen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **j)** Max liegt **das** einer Woche im Krankenhaus.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
+### ✍️ Übung 2: Beginn, Ende, Dauer (ab, bis, seit, für, von...bis, während, innerhalb, außerhalb)
+- **a)** Man kann auf diesem Platz _______ nächstem Montag bis nächsten Donnerstag nicht parken.
+  - 💡 **Lösung:** `von` — *von ... bis (Zeitspanne)*
+- **b)** Kannst du mir _______ ein paar Stunden dein Auto leihen?
+  - 💡 **Lösung:** `für` — *für ein paar Stunden (für + Akkusativ: zeitliche Spanne)*
+- **c)** _______ dem Wochenende soll das Wetter besser werden.
+  - 💡 **Lösung:** `Ab` — *Ab dem Wochenende (Startpunkt in der Zukunft, auch: Nach)*
+- **d)** Jasmin muss ihre Doktorarbeit _______ eines Jahres fertigstellen.
+  - 💡 **Lösung:** `innerhalb` — *innerhalb eines Jahres (Genitiv: Frist)*
+- **e)** Alex studiert jetzt schon _______ zwei Jahren im Ausland.
+  - 💡 **Lösung:** `seit` — *seit zwei Jahren (Beginn in Vergangenheit bis heute)*
+- **f)** _______ Weihnachten und Silvester haben wir geschlossen.
+  - 💡 **Lösung:** `Zwischen` — *Zwischen Weihnachten und Silvester (zwischen zwei Zeitpunkten)*
+- **g)** Silvia will _______ des Sommers ein Praktikum machen.
+  - 💡 **Lösung:** `während` — *während des Sommers (Genitiv: Dauer)*
+- **h)** Rufen Sie bitte nicht _______ der Sprechzeiten an.
+  - 💡 **Lösung:** `außerhalb` — *außerhalb der Sprechzeiten (Genitiv)*
+- **i)** Ich arbeite _______ 18:00 Uhr und danach können wir uns treffen.
+  - 💡 **Lösung:** `bis` — *bis 18:00 Uhr (Endpunkt)*
+- **j)** Max liegt _______ einer Woche im Krankenhaus.
+  - 💡 **Lösung:** `seit` — *seit einer Woche (bis heute andauernd)*
 
 ---
 
-<a id="seite-20"></a>
-## 📄 Seite 20: Nebensätze - temporal (Seite 20)
+## 📄 Seite 20: 3. Temporale Nebensätze: wenn vs. als & bis vs. seit[dem]
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:20)
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Als    ich gestern im Wald spazieren ging, fand ich jede Menge Pilze.
+### ✍️ Übung 1: wenn oder als?
+> 💡 **Beispiel:** Als ich gestern im Wald spazieren ging, fand ich jede Menge Pilze.
 
-- **a)** **richtig** ich im Sommer nach Griechenland fahre, treffe ich dort meine Freunde.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** **richtig** Miriam in Rom war, schrieb sie mir eine Karte.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** **richtig** uns Opa besuchte, brachte er immer Geschenke mit.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Jonas fährt immer sehr vorsichtig, **richtig** es regnet.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** **richtig** mich die Polizei gestern anhielt, musste ich meinen Führerschein zeigen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Alexander von Humboldt war erst 9 Jahre alt, **richtig** sein Vater starb.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** **richtig** ich Kopfschmerzen habe, nehme ich eine Tablette.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **h)** Der Zug kam gerade an, **richtig** ich zum Bahnsteig ging.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **i)** Clara musste immer viel mehr arbeiten, **richtig** ihre Kollegin krank war.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **j)** Die Nachbarn riefen immer die Polizei, **richtig** wir eine Party machten.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **k)** **richtig** ich gestern durch diese dunkle Straße gehen musste, fühlte ich mich unwohl.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **2.** bis - seit**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** _______ ich im Sommer nach Griechenland fahre, treffe ich dort meine Freunde.
+  - 💡 **Lösung:** `Wenn` — *Zukunft / geplante Handlung ➔ Wenn*
+- **b)** _______ Miriam in Rom war, schrieb sie mir eine Karte.
+  - 💡 **Lösung:** `Als` — *Einmalig in der Vergangenheit ➔ Als*
+- **c)** _______ uns Opa besuchte, brachte er immer Geschenke mit.
+  - 💡 **Lösung:** `Wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ Wenn*
+- **d)** Jonas fährt immer sehr vorsichtig, _______ es regnet.
+  - 💡 **Lösung:** `wenn` — *Gegenwart / Wiederholung ➔ wenn*
+- **e)** _______ mich die Polizei gestern anhielt, musste ich meinen Führerschein zeigen.
+  - 💡 **Lösung:** `Als` — *Einmaliges Ereignis gestern ➔ Als*
+- **f)** Alexander von Humboldt war erst 9 Jahre alt, _______ sein Vater starb.
+  - 💡 **Lösung:** `als` — *Einmaliges historisches Ereignis ➔ als*
+- **g)** _______ ich Kopfschmerzen habe, nehme ich eine Tablette.
+  - 💡 **Lösung:** `Wenn` — *Bedingung / Gegenwart ➔ Wenn*
+- **h)** Der Zug kam gerade an, _______ ich zum Bahnsteig ging.
+  - 💡 **Lösung:** `als` — *Einmaliges Ereignis in der Vergangenheit ➔ als*
+- **i)** Clara musste immer viel mehr arbeiten, _______ ihre Kollegin krank war.
+  - 💡 **Lösung:** `wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ wenn*
+- **j)** Die Nachbarn riefen immer die Polizei, _______ wir eine Party machten.
+  - 💡 **Lösung:** `wenn` — *Wiederholung in der Vergangenheit ('immer') ➔ wenn*
+- **k)** _______ ich gestern durch diese dunkle Straße gehen musste, fühlte ich mich unwohl.
+  - 💡 **Lösung:** `Als` — *Einmaliges Ereignis gestern ➔ Als*
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Max hat zwei Kurse gemacht,    bis    er ein wenig mit dem Programm arbeiten konnte.
+### ✍️ Übung 2: bis oder seit[dem]?
+> 💡 **Beispiel:** Max hat zwei Kurse gemacht, bis er ein wenig mit dem Programm arbeiten konnte.
 
-- **a)** **richtig** Max dieses Medikament nimmt, geht es ihm viel besser.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Der Hund bellte so lange vor meiner Tür, **die** ich ihn ins Zimmer ließ.
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **c)** Wir warteten fast eine halbe Stunde, **richtig** der Kellner endlich kam.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Sie hat ständig Schmerzen im Knie, **die** sie beim Skifahren so schwer gestürzt ist.
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **e)** **richtig** Pavel mit dem Rauchen aufgehört hat, ist er schrecklich nervös.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** **richtig** Eva Jonas zum ersten Mal gesehen hat, ist sie in ihn verliebt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Lisa lernt jeden Tag bis um 10.00 Uhr abends, **richtig** sie die Prüfung schreibt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **h)** Es dauert noch über eine Stunde, **richtig** der Zug kommt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+- **a)** _______ Max dieses Medikament nimmt, geht es ihm viel besser.
+  - 💡 **Lösung:** `Seit` — *Beginn in Vergangenheit, Zustand dauert an (oder: Seitdem)*
+- **b)** Der Hund bellte so lange vor meiner Tür, _______ ich ihn ins Zimmer ließ.
+  - 💡 **Lösung:** `bis` — *Endpunkt der Aktion ➔ bis*
+- **c)** Wir warteten fast eine halbe Stunde, _______ der Kellner endlich kam.
+  - 💡 **Lösung:** `bis` — *Endpunkt des Wartens ➔ bis*
+- **d)** Sie hat ständig Schmerzen im Knie, _______ sie beim Skifahren so schwer gestürzt ist.
+  - 💡 **Lösung:** `seit` — *Startereignis in der Vergangenheit bis heute (oder: seitdem)*
+- **e)** _______ Pavel mit dem Rauchen aufgehört hat, ist er schrecklich nervös.
+  - 💡 **Lösung:** `Seit` — *Dauerzustand bis heute (oder: Seitdem)*
+- **f)** _______ Eva Jonas zum ersten Mal gesehen hat, ist sie in ihn verliebt.
+  - 💡 **Lösung:** `Seit` — *Dauerzustand bis heute (oder: Seitdem)*
+- **g)** Lisa lernt jeden Tag bis um 10.00 Uhr abends, _______ sie die Prüfung schreibt.
+  - 💡 **Lösung:** `bis` — *Endpunkt / Zielzeitpunkt ➔ bis*
+- **h)** Es dauert noch über eine Stunde, _______ der Zug kommt.
+  - 💡 **Lösung:** `bis` — *Endpunkt des Wartens ➔ bis*
 
 ---
 
-<a id="seite-21"></a>
-## 📄 Seite 21: 3. während (NS - gleichzeitig) (Seite 21)
+## 📄 Seite 21: 4. Temporale Nebensätze: während, nachdem & bevor / ehe
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:21)
 
-### ✍️ Übung 3
-> 💡 **Beispiel:** Max macht die Hausaufgabe. Unterdessen höre ich Musik.
+### ✍️ Übung 3: während (Gleichzeitigkeit)
+> 💡 **Beispiel:** Max macht die Hausaufgabe. Unterdessen höre ich Musik. ➔ *Während Max die Hausaufgabe macht, höre ich Musik.*
 
-- **a)** Clara spricht mit Paul. Dabei sieht sie ihm tief in die Augen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Thomas duscht sich. Dabei pfeift er immer ein Lied.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Der Kellner bringt die Rechnung. Inzwischen zähle ich mein Geld.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Hatem frühstückte. Gleichzeitig las er die Wohnungsanzeigen in der Tageszeitung.**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **e)** Ich wasche das Obst. In dieser Zeit schneidet Paul die Tomaten.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Wir tranken Kaffee. Dabei erzählte sie mir eine lange Geschichte.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Hanna wartete an der Bushaltestelle. In dieser Zeit regnete es ständig.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **4.** nachdem (NS - vorzeitig)**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Clara spricht mit Paul. Dabei sieht sie ihm tief in die Augen.
+  - 💡 **Lösung:** `sieht sie ihm tief in die Augen`
+- **b)** Thomas duscht sich. Dabei pfeift er immer ein Lied.
+  - 💡 **Lösung:** `pfeift er immer ein Lied`
+- **c)** Der Kellner bringt die Rechnung. Inzwischen zähle ich mein Geld.
+  - 💡 **Lösung:** `zähle ich mein Geld`
+- **d)** Hatem frühstückte. Gleichzeitig las er die Wohnungsanzeigen in der Tageszeitung.
+  - 💡 **Lösung:** `las er die Wohnungsanzeigen in der Tageszeitung`
+- **e)** Ich wasche das Obst. In dieser Zeit schneidet Paul die Tomaten.
+  - 💡 **Lösung:** `schneidet Paul die Tomaten`
+- **f)** Wir tranken Kaffee. Dabei erzählte sie mir eine lange Geschichte.
+  - 💡 **Lösung:** `erzählte sie mir eine lange Geschichte`
+- **g)** Hanna wartete an der Bushaltestelle. In dieser Zeit regnete es ständig.
+  - 💡 **Lösung:** `regnete es ständig`
 
-### ✍️ Übung 4
-> 💡 **Beispiel:** Max hatte die Hausaufgabe gemacht. Anschließend sah er fern.
+### ✍️ Übung 4: nachdem (Vorzeitigkeit)
+> 💡 **Beispiel:** Max hatte die Hausaufgabe gemacht. Anschließend sah er fern. ➔ *Nachdem Max die Hausaufgabe gemacht hatte, sah er fern.*
 
-- **a)** Wir hatten dem Beamten unsere Pässe gezeigt. Anschließend durften wir weiterfahren.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Ich hatte gegessen. Danach bestellte ich noch einen Kaffee.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Der Arzt hatte den Patienten untersucht. Anschließend sprach er mit ihm.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Lena hatte das Büro aufgeräumt. Dann aß sie zu Abend.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Klaus hat seine Arbeit beendet. Jetzt legt er die Akten in den Schrank.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Amira hatte die Preise verglichen. Dann kaufte sie den neuen Wagen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Maria hat Pauls Telefonnummer gefunden. Jetzt ruft sie ihn an.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **5.** bevor / ehe (NS - nachzeitig)**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Wir hatten dem Beamten unsere Pässe gezeigt. Anschließend durften wir weiterfahren.
+  - 💡 **Lösung:** `durften wir weiterfahren`
+- **b)** Ich hatte gegessen. Danach bestellte ich noch einen Kaffee.
+  - 💡 **Lösung:** `bestellte ich noch einen Kaffee`
+- **c)** Der Arzt hatte den Patienten untersucht. Anschließend sprach er mit ihm.
+  - 💡 **Lösung:** `sprach er mit ihm`
+- **d)** Lena hatte das Büro aufgeräumt. Dann aß sie zu Abend.
+  - 💡 **Lösung:** `aß sie zu Abend`
+- **e)** Klaus hat seine Arbeit beendet. Jetzt legt er die Akten in den Schrank.
+  - 💡 **Lösung:** `legt er die Akten in den Schrank`
+- **f)** Amira hatte die Preise verglichen. Dann kaufte sie den neuen Wagen.
+  - 💡 **Lösung:** `kaufte sie den neuen Wagen`
+- **g)** Maria hat Pauls Telefonnummer gefunden. Jetzt ruft sie ihn an.
+  - 💡 **Lösung:** `ruft sie ihn an`
 
-### ✍️ Übung 5
-> 💡 **Beispiel:** Alex bezahlte die Rechnung. Vorher kontrollierte er sie sorgfältig.
+### ✍️ Übung 5: bevor / ehe (Nachzeitigkeit)
+> 💡 **Beispiel:** Alex bezahlte die Rechnung. Vorher kontrollierte er sie sorgfältig. ➔ *Bevor Alex die Rechnung bezahlte, kontrollierte er sie sorgfältig.*
 
-- **a)** Karl kam ins Restaurant. Vorher hatte er eine halbe Stunde einen Parkplatz gesucht.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Meine Cousine macht ihr Examen. Vorher will sie noch ein Jahr im Ausland studieren.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Lisa löschte das Licht. Vorher las sie noch ein paar Seiten.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Jonas zog nach München. Vorher hatte er zwölf Jahre in Berlin gewohnt.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Sandra frühstückte. Vorher hatte sie schon zwei Stunden am Computer gearbeitet.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Paul hielt eine Rede. Vorher kontrollierte er das Mikrophon.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Amira fuhr in Urlaub. Vorher brachte sie ihren Wagen zur Inspektion.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Karl kam ins Restaurant. Vorher hatte er eine halbe Stunde einen Parkplatz gesucht.
+  - 💡 **Lösung:** `hatte er eine halbe Stunde einen Parkplatz gesucht`
+- **b)** Meine Cousine macht ihr Examen. Vorher will sie noch ein Jahr im Ausland studieren.
+  - 💡 **Lösung:** `will sie noch ein Jahr im Ausland studieren`
+- **c)** Lisa löschte das Licht. Vorher las sie noch ein paar Seiten.
+  - 💡 **Lösung:** `las sie noch ein paar Seiten`
+- **d)** Jonas zog nach München. Vorher hatte er zwölf Jahre in Berlin gewohnt.
+  - 💡 **Lösung:** `hatte er zwölf Jahre in Berlin gewohnt`
+- **e)** Sandra frühstückte. Vorher hatte sie schon zwei Stunden am Computer gearbeitet.
+  - 💡 **Lösung:** `hatte sie schon zwei Stunden am Computer gearbeitet`
+- **f)** Paul hielt eine Rede. Vorher kontrollierte er das Mikrophon.
+  - 💡 **Lösung:** `kontrollierte er das Mikrophon`
+- **g)** Amira fuhr in Urlaub. Vorher brachte sie ihren Wagen zur Inspektion.
+  - 💡 **Lösung:** `brachte sie ihren Wagen zur Inspektion`
 
 ---
 
-<a id="seite-22"></a>
-## 📄 Seite 22: Relativsätze als Attribut (Seite 22)
+## 📄 Seite 22: 1. Relativsätze im Nominativ, Akkusativ und Dativ
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:22)
 
-### ✍️ Übung 1
-> 💡 **Beispiel:** Max ist ein Kollege. > Er kann gut zuhören.    Max ist ein   Kollege  ,   der   gut zuhören kann.
+### ✍️ Übung 1: Relativpronomen im Nominativ (Subjekt)
+> 💡 **Beispiel:** Max ist ein Kollege. > Er kann gut zuhören. ➔ *Max ist ein Kollege, der gut zuhören kann.*
 
-- **a)** Julia ist eine fleißige Studentin. > Sie erledigt immer ihre Aufgaben.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Theo und Eva sind alte Freunde. > Sie helfen mir immer.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Karl ist ein bekannter Experte. > Er findet immer eine Lösung.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Pia ist ein eigensinniges Kind. > Es hört nie zu.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **e)** Lena ist eine hervorragende Schauspielerin. > Sie hat Karriere gemacht.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **f)** Hatem ist ein begabter Programmierer. > Er arbeitet für eine Softwarefirma.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **g)** Clara und Jana sind gute Freundinnen. > Sie erzählen sich alles.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+- **a)** Julia ist eine fleißige Studentin. > Sie erledigt immer ihre Aufgaben.
+  - 💡 **Lösung:** `die immer ihre Aufgaben erledigt`
+- **b)** Theo und Eva sind alte Freunde. > Sie helfen mir immer.
+  - 💡 **Lösung:** `die mir immer helfen`
+- **c)** Karl ist ein bekannter Experte. > Er findet immer eine Lösung.
+  - 💡 **Lösung:** `der immer eine Lösung findet`
+- **d)** Pia ist ein eigensinniges Kind. > Es hört nie zu.
+  - 💡 **Lösung:** `das nie zuhört`
+- **e)** Lena ist eine hervorragende Schauspielerin. > Sie hat Karriere gemacht.
+  - 💡 **Lösung:** `die Karriere gemacht hat`
+- **f)** Hatem ist ein begabter Programmierer. > Er arbeitet für eine Softwarefirma.
+  - 💡 **Lösung:** `der für eine Softwarefirma arbeitet`
+- **g)** Clara und Jana sind gute Freundinnen. > Sie erzählen sich alles.
+  - 💡 **Lösung:** `die sich alles erzählen`
 
-### ✍️ Übung 2
-> 💡 **Beispiel:** Max ist ein Freund,    der    mich sehr gut kennt. /  Max ist ein Freund,    dem    ich vertraue.
+### ✍️ Übung 2: Relativpronomen im Nominativ, Dativ oder Akkusativ
+> 💡 **Beispiel:** Max ist ein Freund, *der* mich sehr gut kennt. / Max ist ein Freund, *dem* ich vertraue.
 
-- **a)** Dort kommt mein Onkel, **richtig** Geburtstag hat. / Dort kommt mein Onkel, _ ich gratulieren möchte.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Ist das der Computer, **richtig** nicht richtig funktioniert? / Ist das der Computer, _ ich reparieren soll?
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** Ich kaufe ein Auto, **das** sehr sparsam ist. / Ich kaufe ein Auto, _ ich täglich benutzen möchte.
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **d)** Es gibt Tage, **richtig** schon schlecht beginnen. / Es gibt Tage, _ ich am liebsten vergessen würde.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Hanna ist ein Mensch, **richtig** immer unterwegs ist. / Hanna ist ein Mensch, _ ich lange kenne.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Das sind die Kollegen, **richtig** mir oft helfen. / Das sind die Kollegen, __ ich schon oft geholfen habe.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **g)** Kennst du meine Tante, **das** hier wohnt? / Kennst du meine Tante, _ dieses Haus gehört?
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
+- **a)** Dort kommt mein Onkel, _______ Geburtstag hat. / Dort kommt mein Onkel, _______ ich gratulieren möchte.
+  - 💡 **Lösung:** `der / dem` — *Subjekt maskulin (der) / Dativobjekt (dem)*
+- **b)** Ist das der Computer, _______ nicht richtig funktioniert? / Ist das der Computer, _______ ich reparieren soll?
+  - 💡 **Lösung:** `der / den` — *Subjekt maskulin (der) / Akkusativobjekt (den)*
+- **c)** Ich kaufe ein Auto, _______ sehr sparsam ist. / Ich kaufe ein Auto, _______ ich täglich benutzen möchte.
+  - 💡 **Lösung:** `das / das` — *Subjekt neutral (das) / Akkusativobjekt (das)*
+- **d)** Es gibt Tage, _______ schon schlecht beginnen. / Es gibt Tage, _______ ich am liebsten vergessen würde.
+  - 💡 **Lösung:** `die / die` — *Subjekt Plural (die) / Akkusativobjekt (die)*
+- **e)** Hanna ist ein Mensch, _______ immer unterwegs ist. / Hanna ist ein Mensch, _______ ich lange kenne.
+  - 💡 **Lösung:** `der / den` — *der Mensch (maskulin): Subjekt (der) / Akkusativobjekt (den)*
+- **f)** Das sind die Kollegen, _______ mir oft helfen. / Das sind die Kollegen, _______ ich schon oft geholfen habe.
+  - 💡 **Lösung:** `die / denen` — *Subjekt Plural (die) / Dativobjekt (denen)*
+- **g)** Kennst du meine Tante, _______ hier wohnt? / Kennst du meine Tante, _______ dieses Haus gehört?
+  - 💡 **Lösung:** `die / der` — *Subjekt feminin (die) / Dativobjekt (der)*
 
-### ✍️ Übung 3
-*Ergänzen Sie die Relativpronomen. (Dativ oder Akkusativ)*
-
-- **a)** Das ist ein Gerät, **richtig** ich dir empfehlen kann.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Gefällt dir der Tisch, **richtig** ich gemacht habe.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **c)** Tom redet nicht mit Leuten, **richtig** er nicht mag.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Das sind Leute, **richtig** du zuhören solltest.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **e)** Kaufen Sie keine Dinge, **richtig** Sie nicht brauchen.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **f)** Max ist ein Mensch, **richtig** meine Art nicht gefällt.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
+### ✍️ Übung 3: Relativpronomen im Dativ oder Akkusativ
+- **a)** Das ist ein Gerät, _______ ich dir empfehlen kann.
+  - 💡 **Lösung:** `das` — *Akkusativ neutral (das Gerät)*
+- **b)** Gefällt dir der Tisch, _______ ich gemacht habe?
+  - 💡 **Lösung:** `den` — *Akkusativ maskulin (der Tisch)*
+- **c)** Tom redet nicht mit Leuten, _______ er nicht mag.
+  - 💡 **Lösung:** `die` — *Akkusativ Plural (die Leute)*
+- **d)** Das sind Leute, _______ du zuhören solltest.
+  - 💡 **Lösung:** `denen` — *Dativ Plural (zuhören + Dativ)*
+- **e)** Kaufen Sie keine Dinge, _______ Sie nicht brauchen.
+  - 💡 **Lösung:** `die` — *Akkusativ Plural (brauchen + Akkusativ)*
+- **f)** Max ist ein Mensch, _______ meine Art nicht gefällt.
+  - 💡 **Lösung:** `dem` — *Dativ maskulin (gefallen + Dativ)*
 
 ---
 
-<a id="seite-23"></a>
-## 📄 Seite 23: Relativsätze als Attribut — Vertiefung & Übungen (Seite 23)
+## 📄 Seite 23: 2. Relativsätze im Genitiv (dessen, deren) & Eingeschobene Relativsätze
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:23)
 
-### ✍️ Übung 4
-*Bilden Sie Relativsätze mit Genitiv.*
+### ✍️ Übung 4: Relativsätze mit Genitiv
+> 💡 **Beispiel:** Ich besuche meine Tante. Ihre Katze ist krank. ➔ *Ich besuche meine Tante, deren Katze krank ist.*
 
-> 💡 **Beispiel:** Ich besuche meine Tante. Ihre Katze ist krank.  Ich besuche meine Tante,   deren   Katze krank ist.
+- **a)** Ich verschenke diesen Laptop. Seine Kamera ist defekt.
+  - 💡 **Lösung:** `dessen Kamera defekt ist`
+- **b)** Ich mag dieses Gewürz. Sein Geruch ist sehr intensiv.
+  - 💡 **Lösung:** `dessen Geruch sehr intensiv ist`
+- **c)** Ich kaufe diese Jacke. Ihre Farbe gefällt mir sehr.
+  - 💡 **Lösung:** `deren Farbe mir sehr gefällt`
+- **d)** Ich helfe meinem Kollegen. Sein Computer ist kaputt.
+  - 💡 **Lösung:** `dessen Computer kaputt ist`
+- **e)** Ich schreibe meinen Eltern. Ich brauche ihre Hilfe.
+  - 💡 **Lösung:** `deren Hilfe ich brauche`
 
-- **a)** Ich verschenke diesen Laptop. Seine Kamera ist defekt.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Ich mag dieses Gewürz. Sein Geruch ist sehr intensiv.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **c)** Ich kaufe diese Jacke. Ihre Farbe gefällt mir sehr.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **d)** Ich helfe meinem Kollegen. Sein Computer ist kaputt.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Ich schreibe meinen Eltern. Ich brauche ihre Hilfe.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
+### ✍️ Übung 5: Relativpronomen ergänzen (Kasus-Differenzierung)
+- **a)** Max telefoniert mit dem Kollegen, (1) _______ ihn besucht hat. / (2) _______ er besucht hat. / (3) _______ bald in Pension geht.
+  - 💡 **Lösung:** `der / den / der` — *1. Subjekt (der) | 2. Akkusativ (den) | 3. Subjekt (der)*
+- **b)** Kennst du die Frau, (1) _______ im III. Stock wohnt? / (2) _______ dieses Buch gehört? / (3) _______ Wagen vor der Tür steht?
+  - 💡 **Lösung:** `die / der / deren` — *1. Subjekt (die) | 2. Dativ (der) | 3. Genitiv (deren)*
+- **c)** Tamara hat einen Cousin, (1) _______ sie sehr vertraut. / (2) _______ ihr im Notfall immer hilft. / (3) _______ Meinung ihr sehr wichtig ist.
+  - 💡 **Lösung:** `dem / der / dessen` — *1. Dativ (dem) | 2. Subjekt (der) | 3. Genitiv (dessen)*
+- **d)** Sprichst du mit den Leuten, (1) _______ zur Polizei gehen wollen? / (2) _______ man das Gepäck gestohlen hat? / (3) _______ Gepäck man gestohlen hat?
+  - 💡 **Lösung:** `die / denen / deren` — *1. Subjekt (die) | 2. Dativ (denen) | 3. Genitiv (deren)*
 
-### ✍️ Übung 5
-*Ergänzen Sie die Relativpronomen.*
+### ✍️ Übung 6: Eingeschobene Relativsätze
+> 💡 **Beispiel:** Die Studentin ist schon gegangen. Ihre Jacke hängt noch hier. ➔ *Die Studentin, deren Jacke noch hier hängt, ist schon gegangen.*
 
-- **a)** Max telefoniert mit dem Kollegen,**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **2.** **richtig** ihn besucht hat.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **3.** **richtig** er besucht hat.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **4.** **richtig** bald in Pension geht.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **b)** Kennst du die Frau,**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **6.** **richtig** im III. Stock wohnt?
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **7.** **das** dieses Buch gehört?
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **8.** **die** Wagen vor der Tür steht?
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
-- **c)** Tamara hat einen Cousin,**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **10.** **richtig** sie sehr vertraut.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **11.** **richtig** ihr im Notfall immer hilft.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **12.** **richtig** Meinung ihr sehr wichtig ist.
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **d)** Sprichst du mit den Leuten,**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **14.** **richtig** zur Polizei gehen wollen?
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **15.** **richtig** man das Gepäck gestohlen hat?
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-- **16.** **richtig** Gepäck man gestohlen hat?
-  - 💡 **Lösung:** `richtig` — *Passende Form laut Kontext*
-
-### ✍️ Übung 6
-> 💡 **Beispiel:** Die Studentin ist schon gegangen. Ihre Jacke hängt noch hier.
-
-- **a)** Das Obst musst du waschen. Du hast es im Supermarkt gekauft.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **b)** Die Autorin ist sehr berühmt. Sie hat diese Geschichte geschrieben.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **c)** Die Touristen kommen aus Rom. Ich habe sie auf dem Rathausplatz getroffen.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **d)** Der Film war langweilig. Ich habe ihn gestern im Fernsehen gesehen.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **e)** Die Gäste haben sich beschwert. Das Essen hat ihnen nicht geschmeckt.**—**
-  - 💡 **Lösung:** `—` — *Vollständiger Beispielsatz*
-- **f)** Eine Dame winkte aus dem Zugfenster. Ihre Kinder standen auf dem Bahnsteig.**das**
-  - 💡 **Lösung:** `das` — *Neutral ➔ das*
-- **g)** Mein Freund hat eine Zeitungsanzeige aufgegeben. Sein Hund ist weggelaufen.**die**
-  - 💡 **Lösung:** `die` — *Feminin ➔ die*
+- **a)** Das Obst musst du waschen. Du hast es im Supermarkt gekauft.
+  - 💡 **Lösung:** `das du im Supermarkt gekauft hast`
+- **b)** Die Autorin ist sehr berühmt. Sie hat diese Geschichte geschrieben.
+  - 💡 **Lösung:** `die diese Geschichte geschrieben hat`
+- **c)** Die Touristen kommen aus Rom. Ich habe sie auf dem Rathausplatz getroffen.
+  - 💡 **Lösung:** `die ich auf dem Rathausplatz getroffen habe`
+- **d)** Der Film war langweilig. Ich habe ihn gestern im Fernsehen gesehen.
+  - 💡 **Lösung:** `den ich gestern im Fernsehen gesehen habe`
+- **e)** Die Gäste haben sich beschwert. Das Essen hat ihnen nicht geschmeckt.
+  - 💡 **Lösung:** `denen das Essen nicht geschmeckt hat`
+- **f)** Eine Dame winkte aus dem Zugfenster. Ihre Kinder standen auf dem Bahnsteig.
+  - 💡 **Lösung:** `deren Kinder auf dem Bahnsteig standen`
+- **g)** Mein Freund hat eine Zeitungsanzeige aufgegeben. Sein Hund ist weggelaufen.
+  - 💡 **Lösung:** `dessen Hund weggelaufen ist`
 
 ---
 
-<a id="seite-24"></a>
 ## 📄 Seite 24: Adjektivdeklination (Seite 24)
 
 > 👉 **Interaktives Studio:** [Diese Seite interaktiv im Arbeitsbuch lösen](#workbooks:B1:24)

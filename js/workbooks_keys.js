@@ -27118,4956 +27118,6052 @@ window.WORKBOOKS_KEYS = {
       ]
     },
     "11": {
-      "lessonTitle": "Kausale Sätze (Seite 11)",
+      "lessonTitle": "Lektion 11: Kausale Sätze (weil, denn, deshalb, nämlich) (Seite 11)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Kausale Sätze (Grund und Ursache)\n\nKausale Ausdrücke antworten auf die Frage **„Warum?“**, **„Weshalb?“** oder **„Aus welchem Grund?“**.\nIm Deutschen gibt es vier zentrale grammatische Strukturen, um einen Grund auszudrücken:\n\n---\n\n#### 1. Übersicht der kausalen Satzverbindungen\n\n| Typ | Konjunktion / Wort | Satzstellung | Beispiel |\n| :--- | :--- | :--- | :--- |\n| **Subjunktion (Nebensatz)** | **weil**, **da** | Verb am Ende | *Wir kamen zu spät, **weil** wir einen Unfall **hatten**.* |\n| **Nebenordnende Konjunktion** | **denn** | Position 0 (Hauptsatz: Subjekt + Verb) | *Wir kamen zu spät, **denn** wir **hatten** einen Unfall.* |\n| **Konjunktionaladverb** | **deshalb**, **daher**, **deswegen** | Position 1 (Inversion: Verb auf Position 2) | *Wir hatten einen Unfall. **Deshalb kamen** wir zu spät.* |\n| **Adverb im Satz** | **nämlich** | Im Mittelfeld nach dem Verb | *Wir kamen zu spät. Wir hatten **nämlich** einen Unfall.* |\n| **Präposition (+ Genitiv)** | **wegen**, **aufgrund** | Im Satzteil integriert | ***Wegen eines Unfalls** kamen wir zu spät.* |\n\n---\n\n#### 2. Wichtige Regeln\n1. **weil vs. denn:**\n   - *weil* leitet einen Nebensatz ein (konjugiertes Verb steht ganz am Ende).\n   - *denn* steht auf Position 0 und ändert die Wortstellung des Hauptsatzes nicht.\n2. **deshalb / deswegen / daher:**\n   - Verbindet zwei Hauptsätze. Das Adverb steht meistens auf Position 1, das finite Verb folgt unmittelbar auf Position 2 (**Inversion**).\n3. **nämlich:**\n   - Steht **nie** am Satzanfang! Es steht im Mittelfeld des Folgesatzes und begründet die vorherige Aussage.\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *weil* = \"because\" (requires verb-final word order in German).\n> - *denn* = \"for / because\" (does not affect word order).\n> - *deshalb* = \"therefore / that's why\" (causes inversion: *Deshalb + verb + subject*).\n> - *nämlich* = \"namely / you see / after all\" (tucked inside the clause, never starts a sentence!).",
       "exercises": [
         {
           "id": "b1_p11_ex1",
-          "title": "Übung 1",
-          "instruction": "",
+          "title": "Übung 1: Kausale Nebensätze mit weil bilden",
+          "instruction": "Beantworten Sie die Fragen mit einem Kausalsatz mit weil.",
           "answers": {
-            "b1_p11_ex1_a": "—",
-            "b1_p11_ex1_b": "—",
-            "b1_p11_ex1_c": "—",
-            "b1_p11_ex1_d": "—",
-            "b1_p11_ex1_e": "—",
-            "b1_p11_ex1_f": "—",
-            "b1_p11_ex1_g": "—",
-            "b1_p11_ex1_h": "—"
+            "b1_p11_ex1_a": "weil er zu wenig verdient",
+            "b1_p11_ex1_b": "weil ich eine Allergie habe",
+            "b1_p11_ex1_c": "weil sie zu dunkel ist",
+            "b1_p11_ex1_d": "weil meine Freundin heute Geburtstag hat",
+            "b1_p11_ex1_e": "weil er eine Brille brauchte",
+            "b1_p11_ex1_f": "weil sie sich krank fühlt",
+            "b1_p11_ex1_g": "weil er den Bus verpasst hat",
+            "b1_p11_ex1_h": "weil sie sich erkältet hat"
+          },
+          "alternatives": {
+            "b1_p11_ex1_a": [
+              "weil er zu wenig verdient",
+              "da er zu wenig verdient",
+              "Thomas sucht eine neue Arbeit, weil er zu wenig verdient"
+            ],
+            "b1_p11_ex1_b": [
+              "weil ich eine Allergie habe",
+              "da ich eine Allergie habe",
+              "Ich esse keine Erdbeeren, weil ich eine Allergie habe"
+            ],
+            "b1_p11_ex1_c": [
+              "weil sie zu dunkel ist",
+              "da sie zu dunkel ist",
+              "Ich ziehe aus dieser Wohnung aus, weil sie zu dunkel ist"
+            ],
+            "b1_p11_ex1_d": [
+              "weil meine Freundin heute Geburtstag hat",
+              "da meine Freundin heute Geburtstag hat",
+              "Ich habe die Blumen gekauft, weil meine Freundin heute Geburtstag hat"
+            ],
+            "b1_p11_ex1_e": [
+              "weil er eine Brille brauchte",
+              "weil er eine Brille braucht",
+              "da er eine Brille brauchte",
+              "da er eine Brille braucht",
+              "Max hatte einen Termin beim Augenarzt, weil er eine Brille brauchte"
+            ],
+            "b1_p11_ex1_f": [
+              "weil sie sich krank fühlt",
+              "da sie sich krank fühlt",
+              "Maria fährt nicht in Urlaub, weil sie sich krank fühlt"
+            ],
+            "b1_p11_ex1_g": [
+              "weil er den Bus verpasst hat",
+              "da er den Bus verpasst hat",
+              "Luis hat sich verspätet, weil er den Bus verpasst hat"
+            ],
+            "b1_p11_ex1_h": [
+              "weil sie sich erkältet hat",
+              "da sie sich erkältet hat",
+              "Jana macht die Fahrradtour nicht mit, weil sie sich erkältet hat"
+            ]
           },
           "explanations": {
-            "b1_p11_ex1_a": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_b": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_c": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_d": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_e": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_f": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_g": "Vollständiger Beispielsatz",
-            "b1_p11_ex1_h": "Vollständiger Beispielsatz"
+            "b1_p11_ex1_a": "weil + Subjekt (er) + Angabe + Verb am Satzende (verdient)",
+            "b1_p11_ex1_b": "weil + Subjekt (ich) + Akkusativobjekt + Verb am Satzende (habe)",
+            "b1_p11_ex1_c": "weil + Subjekt (sie = die Wohnung) + Prädikativum + Verb am Satzende (ist)",
+            "b1_p11_ex1_d": "weil + Subjekt (meine Freundin) + Temporaladverbial (heute) + Akkusativ + Verb (hat)",
+            "b1_p11_ex1_e": "weil + Subjekt (er) + Objekt + Präteritum (brauchte)",
+            "b1_p11_ex1_f": "weil + Subjekt (sie) + Reflexivpronomen (sich) + Prädikativum + Verb (fühlt)",
+            "b1_p11_ex1_g": "weil + Subjekt (er) + Akkusativobjekt + Perfekt (verpasst hat)",
+            "b1_p11_ex1_h": "weil + Subjekt (sie) + Reflexivpronomen + Perfekt (sich erkältet hat)"
           },
           "items": [
             {
               "id": "b1_p11_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Warum sucht Thomas eine neue Arbeit? - zu wenig verdienen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum sucht Thomas eine neue Arbeit? (zu wenig verdienen)",
+              "lead": "Thomas sucht eine neue Arbeit, ",
+              "tail": ".",
+              "answer": "weil er zu wenig verdient",
+              "explanation": "weil + Subjekt (er) + Angabe + Verb am Satzende (verdient)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Warum isst du keine Erdbeeren? - eine Allergie haben",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum isst du keine Erdbeeren? (eine Allergie haben)",
+              "lead": "Ich esse keine Erdbeeren, ",
+              "tail": ".",
+              "answer": "weil ich eine Allergie habe",
+              "explanation": "weil + Subjekt (ich) + Akkusativobjekt + Verb am Satzende (habe)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Warum ziehst du aus dieser Wohnung aus? - zu dunkel sein",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum ziehst du aus dieser Wohnung aus? (zu dunkel sein)",
+              "lead": "Ich ziehe aus dieser Wohnung aus, ",
+              "tail": ".",
+              "answer": "weil sie zu dunkel ist",
+              "explanation": "weil + Subjekt (sie = die Wohnung) + Prädikativum + Verb am Satzende (ist)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Warum hast du die Blumen gekauft? - meine Freundin heute Geburtstag haben",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum hast du die Blumen gekauft? (meine Freundin heute Geburtstag haben)",
+              "lead": "Ich habe die Blumen gekauft, ",
+              "tail": ".",
+              "answer": "weil meine Freundin heute Geburtstag hat",
+              "explanation": "weil + Subjekt (meine Freundin) + Temporaladverbial (heute) + Akkusativ + Verb (hat)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Warum hatte Max einen Termin beim Augenarzt? - eine Brille brauchen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum hatte Max einen Termin beim Augenarzt? (eine Brille brauchen)",
+              "lead": "Max hatte einen Termin beim Augenarzt, ",
+              "tail": ".",
+              "answer": "weil er eine Brille brauchte",
+              "explanation": "weil + Subjekt (er) + Objekt + Präteritum (brauchte)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Warum fährt Maria nicht in Urlaub? - sich krank fühlen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum fährt Maria nicht in Urlaub? (sich krank fühlen)",
+              "lead": "Maria fährt nicht in Urlaub, ",
+              "tail": ".",
+              "answer": "weil sie sich krank fühlt",
+              "explanation": "weil + Subjekt (sie) + Reflexivpronomen (sich) + Prädikativum + Verb (fühlt)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Warum hat Luis sich verspätet? - den Bus verpassen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum hat Luis sich verspätet? (den Bus verpassen)",
+              "lead": "Luis hat sich verspätet, ",
+              "tail": ".",
+              "answer": "weil er den Bus verpasst hat",
+              "explanation": "weil + Subjekt (er) + Akkusativobjekt + Perfekt (verpasst hat)",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex1_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Warum macht Jana die Fahrradtour nicht mit? - sich erkälten",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Warum macht Jana die Fahrradtour nicht mit? (sich erkälten)",
+              "lead": "Jana macht die Fahrradtour nicht mit, ",
+              "tail": ".",
+              "answer": "weil sie sich erkältet hat",
+              "explanation": "weil + Subjekt (sie) + Reflexivpronomen + Perfekt (sich erkältet hat)",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p11_ex2",
-          "title": "Übung 2",
-          "instruction": "",
+          "title": "Übung 2: Sätze mit deshalb verbinden",
+          "instruction": "Verbinden Sie die beiden Sätze mit deshalb. Achten Sie auf die Inversion (Verb auf Position 2).",
           "answers": {
-            "b1_p11_ex2_a": "—",
-            "b1_p11_ex2_b": "—",
-            "b1_p11_ex2_c": "—",
-            "b1_p11_ex2_d": "das",
-            "b1_p11_ex2_e": "—",
-            "b1_p11_ex2_f": "das",
-            "b1_p11_ex2_g": "das",
-            "b1_p11_ex2_h": "—",
-            "b1_p11_ex2_i": "—",
-            "b1_p11_ex2_j": "—",
-            "b1_p11_ex2_k": "—",
-            "b1_p11_ex2_l": "—"
+            "b1_p11_ex2_a": "bleibt er im Bett",
+            "b1_p11_ex2_b": "ist der Laden geschlossen",
+            "b1_p11_ex2_c": "lernt sie jetzt immer bis spät abends",
+            "b1_p11_ex2_d": "beschwerte er sich",
+            "b1_p11_ex2_e": "komme ich erst später",
+            "b1_p11_ex2_f": "war er schwer verletzt",
+            "b1_p11_ex2_g": "verloren viele Menschen ihre Arbeit",
+            "b1_p11_ex2_h": "gewann sie den Schwimmwettbewerb",
+            "b1_p11_ex2_i": "solltest du sie nicht anfassen",
+            "b1_p11_ex2_j": "sind sie oft ungesund",
+            "b1_p11_ex2_k": "studiert er Jura",
+            "b1_p11_ex2_l": "konnte er nicht mit Julia sprechen"
+          },
+          "alternatives": {
+            "b1_p11_ex2_a": [
+              "bleibt er im Bett",
+              "bleibt Manfred im Bett",
+              "Deshalb bleibt er im Bett",
+              "Deshalb bleibt Manfred im Bett"
+            ],
+            "b1_p11_ex2_b": [
+              "ist der Laden geschlossen",
+              "ist er geschlossen",
+              "Deshalb ist der Laden geschlossen"
+            ],
+            "b1_p11_ex2_c": [
+              "lernt sie jetzt immer bis spät abends",
+              "lernt Julia jetzt immer bis spät abends",
+              "lernt sie bis spät abends",
+              "Deshalb lernt sie jetzt immer bis spät abends",
+              "Deshalb lernt Julia jetzt immer bis spät abends"
+            ],
+            "b1_p11_ex2_d": [
+              "beschwerte er sich",
+              "beschwerte sich der Hotelgast",
+              "Deshalb beschwerte er sich",
+              "Deshalb beschwerte sich der Hotelgast"
+            ],
+            "b1_p11_ex2_e": [
+              "komme ich erst später",
+              "Deshalb komme ich erst später"
+            ],
+            "b1_p11_ex2_f": [
+              "war er schwer verletzt",
+              "war der Autofahrer schwer verletzt",
+              "Deshalb war er schwer verletzt",
+              "Deshalb war der Autofahrer schwer verletzt"
+            ],
+            "b1_p11_ex2_g": [
+              "verloren viele Menschen ihre Arbeit",
+              "verloren viele ihre Arbeit",
+              "Deshalb verloren viele Menschen ihre Arbeit"
+            ],
+            "b1_p11_ex2_h": [
+              "gewann sie den Schwimmwettbewerb",
+              "gewann Jana den Schwimmwettbewerb",
+              "gewann sie den Schwimmwettbewerb an ihrer Schule",
+              "gewann Jana den Schwimmwettbewerb an ihrer Schule",
+              "Deshalb gewann sie den Schwimmwettbewerb"
+            ],
+            "b1_p11_ex2_i": [
+              "solltest du sie nicht anfassen",
+              "solltest du diese Pflanze nicht anfassen",
+              "Deshalb solltest du sie nicht anfassen"
+            ],
+            "b1_p11_ex2_j": [
+              "sind sie oft ungesund",
+              "sind Fertiggerichte oft ungesund",
+              "sind sie ungesund",
+              "Deshalb sind sie oft ungesund",
+              "Deshalb sind Fertiggerichte oft ungesund"
+            ],
+            "b1_p11_ex2_k": [
+              "studiert er Jura",
+              "studiert Michael Jura",
+              "Deshalb studiert er Jura",
+              "Deshalb studiert Michael Jura"
+            ],
+            "b1_p11_ex2_l": [
+              "konnte er nicht mit Julia sprechen",
+              "konnte Klaus nicht mit Julia sprechen",
+              "Deshalb konnte er nicht mit Julia sprechen",
+              "Deshalb konnte Klaus nicht mit Julia sprechen"
+            ]
           },
           "explanations": {
-            "b1_p11_ex2_a": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_b": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_c": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_d": "Neutral ➔ das",
-            "b1_p11_ex2_e": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_f": "Neutral ➔ das",
-            "b1_p11_ex2_g": "Neutral ➔ das",
-            "b1_p11_ex2_h": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_i": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_j": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_k": "Vollständiger Beispielsatz",
-            "b1_p11_ex2_l": "Vollständiger Beispielsatz"
+            "b1_p11_ex2_a": "Deshalb (Pos. 1) + bleibt (Pos. 2) + er im Bett",
+            "b1_p11_ex2_b": "Deshalb + ist (Pos. 2) + der Laden geschlossen",
+            "b1_p11_ex2_c": "Deshalb + lernt (Pos. 2) + sie jetzt immer bis spät abends",
+            "b1_p11_ex2_d": "Deshalb + beschwerte (Pos. 2) + er sich",
+            "b1_p11_ex2_e": "Deshalb + komme (Pos. 2) + ich erst später",
+            "b1_p11_ex2_f": "Deshalb + war (Pos. 2) + er schwer verletzt",
+            "b1_p11_ex2_g": "Deshalb + verloren (Pos. 2) + viele Menschen ihre Arbeit",
+            "b1_p11_ex2_h": "Deshalb + gewann (Pos. 2) + sie den Schwimmwettbewerb",
+            "b1_p11_ex2_i": "Deshalb + solltest (Pos. 2) + du sie nicht anfassen",
+            "b1_p11_ex2_j": "Deshalb + sind (Pos. 2) + sie oft ungesund",
+            "b1_p11_ex2_k": "Deshalb + studiert (Pos. 2) + er Jura",
+            "b1_p11_ex2_l": "Deshalb + konnte (Pos. 2) + er nicht mit Julia sprechen"
           },
           "items": [
             {
               "id": "b1_p11_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Manfred bleibt im Bett. Er hat sich nämlich erkältet.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Manfred bleibt im Bett. Er hat sich nämlich erkältet.",
+              "lead": "Er hat sich erkältet. Deshalb ",
+              "tail": ".",
+              "answer": "bleibt er im Bett",
+              "explanation": "Deshalb (Pos. 1) + bleibt (Pos. 2) + er im Bett",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Der Laden ist geschlossen. Die Besitzer sind nämlich in Urlaub.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Der Laden ist geschlossen. Die Besitzer sind nämlich in Urlaub.",
+              "lead": "Die Besitzer sind in Urlaub. Deshalb ",
+              "tail": ".",
+              "answer": "ist der Laden geschlossen",
+              "explanation": "Deshalb + ist (Pos. 2) + der Laden geschlossen",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Julia lernt jetzt immer bis spät abends. Sie schreibt nämlich bald ihre Abschlussprüfung.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Julia lernt jetzt immer bis spät abends. Sie schreibt nämlich bald ihre Abschlussprüfung.",
+              "lead": "Julia schreibt bald ihre Abschlussprüfung. Deshalb ",
+              "tail": ".",
+              "answer": "lernt sie jetzt immer bis spät abends",
+              "explanation": "Deshalb + lernt (Pos. 2) + sie jetzt immer bis spät abends",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Der Hotelgast beschwerte sich. Er war nämlich mit dem Service gar nicht zufrieden.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Der Hotelgast beschwerte sich. Er war nämlich mit dem Service gar nicht zufrieden.",
+              "lead": "Der Hotelgast war mit dem Service gar nicht zufrieden. Deshalb ",
+              "tail": ".",
+              "answer": "beschwerte er sich",
+              "explanation": "Deshalb + beschwerte (Pos. 2) + er sich",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Ich komme erst später. Ich muss nämlich noch etwas Wichtiges erledigen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich komme erst später. Ich muss nämlich noch etwas Wichtiges erledigen.",
+              "lead": "Ich muss noch etwas Wichtiges erledigen. Deshalb ",
+              "tail": ".",
+              "answer": "komme ich erst später",
+              "explanation": "Deshalb + komme (Pos. 2) + ich erst später",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Der Autofahrer war schwer verletzt. Er hatte sich nämlich nicht angegurtet.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Der Autofahrer war schwer verletzt. Er hatte sich nämlich nicht angegurtet.",
+              "lead": "Der Autofahrer hatte sich nicht angegurtet. Deshalb ",
+              "tail": ".",
+              "answer": "war er schwer verletzt",
+              "explanation": "Deshalb + war (Pos. 2) + er schwer verletzt",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Viele Menschen verloren ihre Arbeit. Man hatte nämlich die Produktion automatisiert.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Viele Menschen verloren ihre Arbeit. Man hatte nämlich die Produktion automatisiert.",
+              "lead": "Man hatte die Produktion automatisiert. Deshalb ",
+              "tail": ".",
+              "answer": "verloren viele Menschen ihre Arbeit",
+              "explanation": "Deshalb + verloren (Pos. 2) + viele Menschen ihre Arbeit",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Jana gewann den Schwimmwettbewerb an ihrer Schule. Sie hatte nämlich täglich hart trainiert.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Jana gewann den Schwimmwettbewerb an ihrer Schule. Sie hatte nämlich täglich hart trainiert.",
+              "lead": "Jana hatte täglich hart trainiert. Deshalb ",
+              "tail": ".",
+              "answer": "gewann sie den Schwimmwettbewerb",
+              "explanation": "Deshalb + gewann (Pos. 2) + sie den Schwimmwettbewerb",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Du solltest diese Pflanze nicht anfassen. Sie ist nämlich sehr giftig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Du solltest diese Pflanze nicht anfassen. Sie ist nämlich sehr giftig.",
+              "lead": "Diese Pflanze ist sehr giftig. Deshalb ",
+              "tail": ".",
+              "answer": "solltest du sie nicht anfassen",
+              "explanation": "Deshalb + solltest (Pos. 2) + du sie nicht anfassen",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Fertiggerichte sind oft ungesund. Sie enthalten nämlich zu wenige Vitamine und zu viel Fett.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Fertiggerichte sind oft ungesund. Sie enthalten nämlich zu wenige Vitamine und zu viel Fett.",
+              "lead": "Fertiggerichte enthalten zu wenige Vitamine und zu viel Fett. Deshalb ",
+              "tail": ".",
+              "answer": "sind sie oft ungesund",
+              "explanation": "Deshalb + sind (Pos. 2) + sie oft ungesund",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Michael studiert Jura. Er möchte nämlich Richter werden.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Michael studiert Jura. Er möchte nämlich Richter werden.",
+              "lead": "Michael möchte Richter werden. Deshalb ",
+              "tail": ".",
+              "answer": "studiert er Jura",
+              "explanation": "Deshalb + studiert (Pos. 2) + er Jura",
+              "isCompact": false
             },
             {
               "id": "b1_p11_ex2_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Klaus konnte nicht mit Julia sprechen. Er war nämlich zu schüchtern.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Klaus konnte nicht mit Julia sprechen. Er war nämlich zu schüchtern.",
+              "lead": "Klaus war zu schüchtern. Deshalb ",
+              "tail": ".",
+              "answer": "konnte er nicht mit Julia sprechen",
+              "explanation": "Deshalb + konnte (Pos. 2) + er nicht mit Julia sprechen",
+              "isCompact": false
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Kausale Sätze\n• kausal: Warum? ➔ Grund\n• Adverb Wir kamen zu spät.   Wir hatten nämlich einen Unfall.\n• Aussagesatz  Aussagesatz\n• NS-Konjunktion Wir kamen zu spät,   weil   wir einen Unfall hatten.\n• Hauptsatz kausaler Nebensatz\n• Nebenordnende Konjunktion Wir kamen zu spät,   denn   wir hatten einen Unfall.\n• Aussagesatz Konj. (Pos. 0)  Aussagesatz\n• Konjunktionaladverb Wir hatten einen Unfall.  Deshalb kamen wir zu spät.\n• Aussagesatz  Aussagesatz\n• Präposition Wegen eines Unfalles kamen wir zu spät.\n• Aussagesatz\n• Kausale Nebensatzkonjunktionen: weil, da\n• Kausale nebenordnende Konjunktion: denn\n• Kausale Konjunktionaladverbien: deshalb, daher, deswegen\n• Kausale Präpositionen: wegen (mit Gen.), aufgrund (mit Gen.)"
+      ]
     },
     "12": {
-      "lessonTitle": "Konzessive Sätze (Seite 12)",
+      "lessonTitle": "Lektion 12: Konzessive Sätze (obwohl, trotzdem, trotz) (Seite 12)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Konzessive Sätze (Einschränkung und Gegengrund)\n\nEin konzessiver Satz drückt eine **Bedingung oder Ursache** aus, deren erwartete Folge **nicht** eintritt (unerwartete Folge / Gegengrund).\n\n---\n\n#### 1. Übersicht der konzessiven Satzverbindungen\n\n| Typ | Konjunktion / Wort | Satzstellung | Beispiel |\n| :--- | :--- | :--- | :--- |\n| **Subjunktion (vorangestellt)** | **obwohl**, **obgleich** | Nebensatz zuerst ➔ Hauptsatz mit **Inversion** (Verb direkt nach dem Komma) | ***Obwohl** er eine Erkältung **hatte**, **flog** Max nach Wien.* |\n| **Subjunktion (nachgestellt)** | **obwohl**, **obgleich** | Hauptsatz zuerst ➔ Nebensatz (Verb am Ende) | *Max flog nach Wien, **obwohl** er eine Erkältung **hatte**.* |\n| **Konjunktionaladverb** | **trotzdem**, **dennoch** | Position 1 (Inversion: Verb auf Position 2) oder im Mittelfeld | *Max hatte eine Erkältung. **Trotzdem flog** er nach Wien.* / *Er flog **trotzdem** nach Wien.* |\n| **Präposition (+ Genitiv)** | **trotz** | Präpositionalgruppe im Hauptsatz | ***Trotz seiner Erkältung** flog Max nach Wien.* |\n\n---\n\n#### 2. Kausal vs. Konzessiv im Vergleich\n- **Kausal (Ursache ➔ logische Folge):**\n  - *Weil Max krank war, blieb er zu Hause.* (Erwartete Folge)\n- **Konzessiv (Gegengrund ➔ unerwartete Folge):**\n  - *Obwohl Max krank war, ging er zur Arbeit.* (Unerwartete Folge!)\n\n---\n\n#### 3. Wortstellungs-Tipp für vorangestelltes *obwohl*\nWenn der *obwohl*-Nebensatz zuerst steht, bildet der gesamte Nebensatz die **Position 1** für das folgende Gefüge:\n> [Nebensatz: *Obwohl ... **hatte***]**,** [Position 2: ***flog***] [Subjekt: *Max*] ...  \n> Die beiden Verben treffen sich am Komma: **`..., verb, VERB ...`**!\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n> - *obwohl* = \"although / even though\" (subordinating, verb-final).\n> - *trotzdem* = \"nevertheless / anyway / despite that\" (adverbial, V2 word order).\n> - *trotz (+ genitive)* = \"despite / in spite of\" (prepositional).",
       "exercises": [
         {
           "id": "b1_p12_ex1",
-          "title": "Übung 1",
-          "instruction": "",
+          "title": "Übung 1: Konzessive Sätze mit vorangestelltem obwohl",
+          "instruction": "Verbinden Sie die beiden Sätze mit obwohl am Satzanfang. Beachten Sie die Inversion im Hauptsatz (Verb direkt nach dem Komma).",
           "answers": {
-            "b1_p12_ex1_a": "—",
-            "b1_p12_ex1_b": "—",
-            "b1_p12_ex1_c": "—",
-            "b1_p12_ex1_d": "—",
-            "b1_p12_ex1_e": "—",
-            "b1_p12_ex1_f": "—",
-            "b1_p12_ex1_g": "—",
-            "b1_p12_ex1_h": "—",
-            "b1_p12_ex1_i": "—",
-            "b1_p12_ex1_j": "—"
+            "b1_p12_ex1_a": "Vera Paul eingeladen hatte, kam er nicht zur Party",
+            "b1_p12_ex1_b": "Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde",
+            "b1_p12_ex1_c": "Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten",
+            "b1_p12_ex1_d": "Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden",
+            "b1_p12_ex1_e": "Peter sehr vorsichtig fuhr, passierte ein Unfall",
+            "b1_p12_ex1_f": "Max Clara vertraut, erzählt er ihr nicht alles",
+            "b1_p12_ex1_g": "Leyla eine Grippe hat, spielt sie Volleyball",
+            "b1_p12_ex1_h": "Peter viele Probleme hat, beklagt er sich nie",
+            "b1_p12_ex1_i": "es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht",
+            "b1_p12_ex1_j": "es nach Regen aussah, gingen wir zum Baden"
+          },
+          "alternatives": {
+            "b1_p12_ex1_a": [
+              "Vera Paul eingeladen hatte, kam er nicht zur Party",
+              "Obwohl Vera Paul eingeladen hatte, kam er nicht zur Party"
+            ],
+            "b1_p12_ex1_b": [
+              "Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde",
+              "Obwohl Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde"
+            ],
+            "b1_p12_ex1_c": [
+              "Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten",
+              "Obwohl Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten"
+            ],
+            "b1_p12_ex1_d": [
+              "Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden",
+              "Obwohl Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden"
+            ],
+            "b1_p12_ex1_e": [
+              "Peter sehr vorsichtig fuhr, passierte ein Unfall",
+              "Obwohl Peter sehr vorsichtig fuhr, passierte ein Unfall"
+            ],
+            "b1_p12_ex1_f": [
+              "Max Clara vertraut, erzählt er ihr nicht alles",
+              "Obwohl Max Clara vertraut, erzählt er ihr nicht alles"
+            ],
+            "b1_p12_ex1_g": [
+              "Leyla eine Grippe hat, spielt sie Volleyball",
+              "Obwohl Leyla eine Grippe hat, spielt sie Volleyball"
+            ],
+            "b1_p12_ex1_h": [
+              "Peter viele Probleme hat, beklagt er sich nie",
+              "Obwohl Peter viele Probleme hat, beklagt er sich nie"
+            ],
+            "b1_p12_ex1_i": [
+              "es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht",
+              "Obwohl es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht"
+            ],
+            "b1_p12_ex1_j": [
+              "es nach Regen aussah, gingen wir zum Baden",
+              "Obwohl es nach Regen aussah, gingen wir zum Baden",
+              "es nach Regen aus sah, gingen wir zum Baden"
+            ]
           },
           "explanations": {
-            "b1_p12_ex1_a": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_b": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_c": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_d": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_e": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_f": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_g": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_h": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_i": "Vollständiger Beispielsatz",
-            "b1_p12_ex1_j": "Vollständiger Beispielsatz"
+            "b1_p12_ex1_a": "Obwohl + eingeladen hatte, kam er nicht zur Party",
+            "b1_p12_ex1_b": "Obwohl + gearbeitet hat, ist sie nicht müde",
+            "b1_p12_ex1_c": "Obwohl + wohnt, treffe ich ihn nur selten",
+            "b1_p12_ex1_d": "Obwohl + verdient, ist sie mit ihrer Arbeit zufrieden",
+            "b1_p12_ex1_e": "Obwohl + fuhr, passierte ein Unfall",
+            "b1_p12_ex1_f": "Obwohl + vertraut, erzählt er ihr nicht alles",
+            "b1_p12_ex1_g": "Obwohl + hat, spielt sie Volleyball",
+            "b1_p12_ex1_h": "Obwohl + hat, beklagt er sich nie",
+            "b1_p12_ex1_i": "Obwohl + gut geht, verdienen viele Leute sehr schlecht",
+            "b1_p12_ex1_j": "Obwohl + aussah, gingen wir zum Baden"
           },
           "items": [
             {
               "id": "b1_p12_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Vera hatte Paul eingeladen. Trotzdem kam er nicht zur Party.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Vera hatte Paul eingeladen. Trotzdem kam er nicht zur Party.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Vera Paul eingeladen hatte, kam er nicht zur Party",
+              "explanation": "Obwohl + eingeladen hatte, kam er nicht zur Party",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Tanja hat den ganzen Tag gearbeitet. Trotzdem ist sie nicht müde.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Tanja hat den ganzen Tag gearbeitet. Trotzdem ist sie nicht müde.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Tanja den ganzen Tag gearbeitet hat, ist sie nicht müde",
+              "explanation": "Obwohl + gearbeitet hat, ist sie nicht müde",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Georg wohnt gar nicht weit von mir. Trotzdem treffe ich ihn nur selten.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Georg wohnt gar nicht weit von mir. Trotzdem treffe ich ihn nur selten.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Georg gar nicht weit von mir wohnt, treffe ich ihn nur selten",
+              "explanation": "Obwohl + wohnt, treffe ich ihn nur selten",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Monika verdient ziemlich wenig. Trotzdem ist sie mit ihrer Arbeit zufrieden.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Monika verdient ziemlich wenig. Trotzdem ist sie mit ihrer Arbeit zufrieden.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Monika ziemlich wenig verdient, ist sie mit ihrer Arbeit zufrieden",
+              "explanation": "Obwohl + verdient, ist sie mit ihrer Arbeit zufrieden",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Peter fuhr sehr vorsichtig. Trotzdem passierte ein Unfall.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Peter fuhr sehr vorsichtig. Trotzdem passierte ein Unfall.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Peter sehr vorsichtig fuhr, passierte ein Unfall",
+              "explanation": "Obwohl + fuhr, passierte ein Unfall",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Max vertraut Clara. Trotzdem erzählt er ihr nicht alles.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Max vertraut Clara. Trotzdem erzählt er ihr nicht alles.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Max Clara vertraut, erzählt er ihr nicht alles",
+              "explanation": "Obwohl + vertraut, erzählt er ihr nicht alles",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Leyla hat eine Grippe. Trotzdem spielt sie Volleyball.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Leyla hat eine Grippe. Trotzdem spielt sie Volleyball.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Leyla eine Grippe hat, spielt sie Volleyball",
+              "explanation": "Obwohl + hat, spielt sie Volleyball",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Peter hat viele Probleme. Trotzdem beklagt er sich nie.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Peter hat viele Probleme. Trotzdem beklagt er sich nie.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "Peter viele Probleme hat, beklagt er sich nie",
+              "explanation": "Obwohl + hat, beklagt er sich nie",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Es geht der Wirtschaft gut. Trotzdem verdienen viele Leute sehr schlecht.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es geht der Wirtschaft gut. Trotzdem verdienen viele Leute sehr schlecht.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "es der Wirtschaft gut geht, verdienen viele Leute sehr schlecht",
+              "explanation": "Obwohl + gut geht, verdienen viele Leute sehr schlecht",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex1_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Es sah nach Regen aus. Trotzdem gingen wir zum Baden.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es sah nach Regen aus. Trotzdem gingen wir zum Baden.",
+              "lead": "Obwohl ",
+              "tail": ".",
+              "answer": "es nach Regen aussah, gingen wir zum Baden",
+              "explanation": "Obwohl + aussah, gingen wir zum Baden",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p12_ex2",
-          "title": "Übung 2",
-          "instruction": "",
+          "title": "Übung 2: Konzessive Sätze mit nachgestelltem obwohl",
+          "instruction": "Verbinden Sie die beiden Sätze mit obwohl (Hauptsatz zuerst, dann obwohl-Nebensatz).",
           "answers": {
-            "b1_p12_ex2_a": "—",
-            "b1_p12_ex2_b": "—",
-            "b1_p12_ex2_c": "—",
-            "b1_p12_ex2_d": "—",
-            "b1_p12_ex2_e": "—",
-            "b1_p12_ex2_f": "—",
-            "b1_p12_ex2_g": "—",
-            "b1_p12_ex2_h": "—",
-            "b1_p12_ex2_i": "die",
-            "b1_p12_ex2_j": "—"
+            "b1_p12_ex2_a": "obwohl sie Medikamente genommen hatte",
+            "b1_p12_ex2_b": "obwohl er sehr müde war",
+            "b1_p12_ex2_c": "obwohl er viel gelernt hat",
+            "b1_p12_ex2_d": "obwohl er schon viele Bewerbungen geschrieben hatte",
+            "b1_p12_ex2_e": "obwohl sie sich sehr beeilt hatte",
+            "b1_p12_ex2_f": "obwohl er schreckliche Schmerzen hatte",
+            "b1_p12_ex2_g": "obwohl sie nur eine kleine Wohnung hat",
+            "b1_p12_ex2_h": "obwohl sie wenig Geld hat",
+            "b1_p12_ex2_i": "obwohl sie Flugangst hat",
+            "b1_p12_ex2_j": "obwohl sie morgen ihre Führerscheinprüfung hat"
+          },
+          "alternatives": {
+            "b1_p12_ex2_a": [
+              "obwohl sie Medikamente genommen hatte",
+              "Eva konnte nicht einschlafen, obwohl sie Medikamente genommen hatte"
+            ],
+            "b1_p12_ex2_b": [
+              "obwohl er sehr müde war",
+              "Karl ging noch in die Disko, obwohl er sehr müde war"
+            ],
+            "b1_p12_ex2_c": [
+              "obwohl er viel gelernt hat",
+              "Julian hat den Test nicht geschafft, obwohl er viel gelernt hat"
+            ],
+            "b1_p12_ex2_d": [
+              "obwohl er schon viele Bewerbungen geschrieben hatte",
+              "Paul fand keine Stelle, obwohl er schon viele Bewerbungen geschrieben hatte"
+            ],
+            "b1_p12_ex2_e": [
+              "obwohl sie sich sehr beeilt hatte",
+              "Silvie kam zu spät, obwohl sie sich sehr beeilt hatte"
+            ],
+            "b1_p12_ex2_f": [
+              "obwohl er schreckliche Schmerzen hatte",
+              "Martin wollte keine Tablette nehmen, obwohl er schreckliche Schmerzen hatte"
+            ],
+            "b1_p12_ex2_g": [
+              "obwohl sie nur eine kleine Wohnung hat",
+              "Sophie will sich einen großen Hund kaufen, obwohl sie nur eine kleine Wohnung hat"
+            ],
+            "b1_p12_ex2_h": [
+              "obwohl sie wenig Geld hat",
+              "Christine isst oft in teuren Restaurants, obwohl sie wenig Geld hat"
+            ],
+            "b1_p12_ex2_i": [
+              "obwohl sie Flugangst hat",
+              "Jana fliegt oft in die Türkei, obwohl sie Flugangst hat"
+            ],
+            "b1_p12_ex2_j": [
+              "obwohl sie morgen ihre Führerscheinprüfung hat",
+              "Amira ist gar nicht nervös, obwohl sie morgen ihre Führerscheinprüfung hat"
+            ]
           },
           "explanations": {
-            "b1_p12_ex2_a": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_b": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_c": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_d": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_e": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_f": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_g": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_h": "Vollständiger Beispielsatz",
-            "b1_p12_ex2_i": "Feminin ➔ die",
-            "b1_p12_ex2_j": "Vollständiger Beispielsatz"
+            "b1_p12_ex2_a": "obwohl + sie Medikamente genommen hatte (Plusquamperfekt am Ende)",
+            "b1_p12_ex2_b": "obwohl + er sehr müde war (Präteritum am Ende)",
+            "b1_p12_ex2_c": "obwohl + er viel gelernt hat (Perfekt am Ende)",
+            "b1_p12_ex2_d": "obwohl + er schon viele Bewerbungen geschrieben hatte (Plusquamperfekt am Ende)",
+            "b1_p12_ex2_e": "obwohl + sie sich sehr beeilt hatte (Reflexiv + Plusquamperfekt)",
+            "b1_p12_ex2_f": "obwohl + er schreckliche Schmerzen hatte (Präteritum am Ende)",
+            "b1_p12_ex2_g": "obwohl + sie nur eine kleine Wohnung hat (Präsens am Ende)",
+            "b1_p12_ex2_h": "obwohl + sie wenig Geld hat (Präsens am Ende)",
+            "b1_p12_ex2_i": "obwohl + sie Flugangst hat (Präsens am Ende)",
+            "b1_p12_ex2_j": "obwohl + sie morgen ihre Führerscheinprüfung hat (Präsens am Ende)"
           },
           "items": [
             {
               "id": "b1_p12_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Eva hatte Medikamente genommen. Sie konnte trotzdem nicht einschlafen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Eva hatte Medikamente genommen. Sie konnte trotzdem nicht einschlafen.",
+              "lead": "Eva konnte nicht einschlafen, ",
+              "tail": ".",
+              "answer": "obwohl sie Medikamente genommen hatte",
+              "explanation": "obwohl + sie Medikamente genommen hatte (Plusquamperfekt am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Karl war sehr müde. Er ging trotzdem noch in die Disko.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Karl war sehr müde. Er ging trotzdem noch in die Disko.",
+              "lead": "Karl ging noch in die Disko, ",
+              "tail": ".",
+              "answer": "obwohl er sehr müde war",
+              "explanation": "obwohl + er sehr müde war (Präteritum am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Julian hat viel gelernt. Er hat den Test trotzdem nicht geschafft.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Julian hat viel gelernt. Er hat den Test trotzdem nicht geschafft.",
+              "lead": "Julian hat den Test nicht geschafft, ",
+              "tail": ".",
+              "answer": "obwohl er viel gelernt hat",
+              "explanation": "obwohl + er viel gelernt hat (Perfekt am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Paul hatte schon viele Bewerbungen geschrieben. Er fand trotzdem keine Stelle.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Paul hatte schon viele Bewerbungen geschrieben. Er fand trotzdem keine Stelle.",
+              "lead": "Paul fand keine Stelle, ",
+              "tail": ".",
+              "answer": "obwohl er schon viele Bewerbungen geschrieben hatte",
+              "explanation": "obwohl + er schon viele Bewerbungen geschrieben hatte (Plusquamperfekt am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Silvie hatte sich sehr beeilt. Sie kam trotzdem zu spät.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Silvie hatte sich sehr beeilt. Sie kam trotzdem zu spät.",
+              "lead": "Silvie kam zu spät, ",
+              "tail": ".",
+              "answer": "obwohl sie sich sehr beeilt hatte",
+              "explanation": "obwohl + sie sich sehr beeilt hatte (Reflexiv + Plusquamperfekt)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Martin hatte schreckliche Schmerzen. Er wollte trotzdem keine Tablette nehmen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Martin hatte schreckliche Schmerzen. Er wollte trotzdem keine Tablette nehmen.",
+              "lead": "Martin wollte keine Tablette nehmen, ",
+              "tail": ".",
+              "answer": "obwohl er schreckliche Schmerzen hatte",
+              "explanation": "obwohl + er schreckliche Schmerzen hatte (Präteritum am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Sophie hat nur eine kleine Wohnung. Sie will sich trotzdem einen großen Hund kaufen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sophie hat nur eine kleine Wohnung. Sie will sich trotzdem einen großen Hund kaufen.",
+              "lead": "Sophie will sich einen großen Hund kaufen, ",
+              "tail": ".",
+              "answer": "obwohl sie nur eine kleine Wohnung hat",
+              "explanation": "obwohl + sie nur eine kleine Wohnung hat (Präsens am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Christine hat wenig Geld. Sie isst trotzdem oft in teuren Restaurants.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Christine hat wenig Geld. Sie isst trotzdem oft in teuren Restaurants.",
+              "lead": "Christine isst oft in teuren Restaurants, ",
+              "tail": ".",
+              "answer": "obwohl sie wenig Geld hat",
+              "explanation": "obwohl + sie wenig Geld hat (Präsens am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Jana hat Flugangst. Sie fliegt trotzdem oft in die Türkei.",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
+              "prompt": "Jana hat Flugangst. Sie fliegt trotzdem oft in die Türkei.",
+              "lead": "Jana fliegt oft in die Türkei, ",
+              "tail": ".",
+              "answer": "obwohl sie Flugangst hat",
+              "explanation": "obwohl + sie Flugangst hat (Präsens am Ende)",
+              "isCompact": false
             },
             {
               "id": "b1_p12_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Amira hat morgen ihre Führerscheinprüfung. Sie ist trotzdem gar nicht nervös.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Amira hat morgen ihre Führerscheinprüfung. Sie ist trotzdem gar nicht nervös.",
+              "lead": "Amira ist gar nicht nervös, ",
+              "tail": ".",
+              "answer": "obwohl sie morgen ihre Führerscheinprüfung hat",
+              "explanation": "obwohl + sie morgen ihre Führerscheinprüfung hat (Präsens am Ende)",
+              "isCompact": false
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Konzessive Sätze\n• Konzessives Adverb Max hatte eine Erkältung.  Trotzdem flog er nach Wien.\n• Max hatte eine Erkältung.  Er flog trotzdem nach Wien.\n• Aussagesatz  Aussagesatz\n• NS-Konjunktion Max flog nach Wien,  obwohl er eine Erkältung hatte.\n• Hauptsatz konzessiver Nebensatz\n• Obwohl Max eine Erkältung hatte, flog er nach Wien.\n• konzessiver Nebensatz Hauptsatz\n• Präposition Trotz seiner Erkältung flog Max nach Wien.\n• Aussagesatz"
+      ]
     },
     "13": {
-      "lessonTitle": "Genitiv (Seite 13)",
+      "lessonTitle": "Lektion 13: 1. Genitiv — Formen & Genitivattribut (Seite 13)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Der Genitiv (Formen, Endungen & Genitivattribut)\n\nDer Genitiv drückt im Deutschen vor allem eine **Zugehörigkeit oder Herkunft** aus (*Wessen...?*).\n\n---\n\n#### 1. Artikel und Nomenendungen im Genitiv\n\n| Genus | Bestimmter Artikel | Unbestimmter Artikel | Negativartikel / Possessiv | Nomenendung |\n| :--- | :--- | :--- | :--- | :--- |\n| **Maskulin** | **des** Mannes | **eines** Mannes | **keines / meines** Mannes | **-(e)s** |\n| **Neutrum** | **des** Kindes | **eines** Kindes | **keines / meines** Kindes | **-(e)s** |\n| **Feminin** | **der** Frau | **einer** Frau | **keiner / meiner** Frau | *keine Endung* |\n| **Plural** | **der** Kinder | — | **keiner / meiner** Kinder | *keine Endung* |\n\n---\n\n#### 2. Regeln für die Genitivendung -(e)s bei Maskulina und Neutra\n- **-s** bei mehrsilbigen Wörtern (z. B. auf *-el, -en, -er, -ling, -or*): *des Lehrers, des Wagens, des Onkels, des Motors*.\n- **-es** bei einsilbigen Nomen sowie bei Nomen auf *-s, -ss, -ß, -sch, -z, -tz, -x*: *des Buches, des Flusses, des Fußes, des Schreibtisches, des Platzes*.\n- **N-Deklination:** Schwache maskuline Nomen erhalten im Genitiv **-en / -n** (*des Studenten, des Kunden, des Kollegen*).\n\n---\n\n#### 3. Eigennamen und Plural ohne Artikel\n- **Personennamen:** erhalten ein vorangestelltes **-s** ohne Apostroph (*Evas Buch, Toms Schwester*). Endet der Name auf einen Zischlaut (*-s, -z, -x*), steht nur ein Apostroph (*Klaus' Tante*).\n- **Plural ohne Artikel:** wird im modernen Deutsch durch **von + Dativ** ersetzt (*die Versprechen von Politikern* statt *Politiker*).\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n> German Genitive functions like the English possessive **'s** (*Tom's sister ➔ Toms Schwester*) or the **of-phrase** (*the color of the car ➔ die Farbe des Autos*).  \n> Feminine and plural articles shift from *die* to **der**, while masculine and neuter shift to **des** and add **-(e)s** to the noun itself.",
       "exercises": [
         {
           "id": "b1_p13_ex1",
-          "title": "Übung 1",
-          "instruction": "",
+          "title": "Übung 1: Genitivattribute bilden",
+          "instruction": "Bilden Sie Sätze nach dem Beispiel: Ich kenne ... leider nicht.",
           "answers": {
-            "b1_p13_ex1_a": "—",
-            "b1_p13_ex1_b": "das",
-            "b1_p13_ex1_c": "das",
-            "b1_p13_ex1_d": "—",
-            "b1_p13_ex1_e": "—",
-            "b1_p13_ex1_f": "—",
-            "b1_p13_ex1_g": "—",
-            "b1_p13_ex1_h": "—",
-            "b1_p13_ex1_i": "—",
-            "b1_p13_ex1_j": "—",
-            "b1_p13_ex1_k": "—",
-            "b1_p13_ex1_l": "die",
-            "b1_p13_ex1_m": "—",
-            "b1_p13_ex1_n": "—",
-            "b1_p13_ex1_o": "—",
-            "b1_p13_ex1_mask": "—"
+            "b1_p13_ex1_a": "der Geschichte",
+            "b1_p13_ex1_b": "des Buches",
+            "b1_p13_ex1_c": "des Hotels",
+            "b1_p13_ex1_d": "der Leute",
+            "b1_p13_ex1_e": "des Clubs",
+            "b1_p13_ex1_f": "der Firma",
+            "b1_p13_ex1_g": "des Zimmers",
+            "b1_p13_ex1_h": "der Werkstatt",
+            "b1_p13_ex1_i": "des Ortes",
+            "b1_p13_ex1_j": "des Streits",
+            "b1_p13_ex1_k": "der Sitzplätze",
+            "b1_p13_ex1_l": "des Chefs",
+            "b1_p13_ex1_m": "der Teilnehmerinnen",
+            "b1_p13_ex1_n": "Claras Eltern",
+            "b1_p13_ex1_o": "Pauls Anschrift"
+          },
+          "alternatives": {
+            "b1_p13_ex1_a": [
+              "der Geschichte",
+              "das Ende der Geschichte"
+            ],
+            "b1_p13_ex1_b": [
+              "des Buches",
+              "des Buchs",
+              "den Titel des Buches",
+              "den Titel des Buchs"
+            ],
+            "b1_p13_ex1_c": [
+              "des Hotels",
+              "die Adresse des Hotels"
+            ],
+            "b1_p13_ex1_d": [
+              "der Leute",
+              "die Methoden der Leute"
+            ],
+            "b1_p13_ex1_e": [
+              "des Clubs",
+              "den Manager des Clubs"
+            ],
+            "b1_p13_ex1_f": [
+              "der Firma",
+              "den Chef der Firma"
+            ],
+            "b1_p13_ex1_g": [
+              "des Zimmers",
+              "die Größe des Zimmers"
+            ],
+            "b1_p13_ex1_h": [
+              "der Werkstatt",
+              "die Telefonnummer der Werkstatt"
+            ],
+            "b1_p13_ex1_i": [
+              "des Ortes",
+              "des Orts",
+              "die Postleitzahl des Ortes",
+              "die Postleitzahl des Orts"
+            ],
+            "b1_p13_ex1_j": [
+              "des Streits",
+              "des Streites",
+              "den Grund des Streits",
+              "den Grund des Streites"
+            ],
+            "b1_p13_ex1_k": [
+              "der Sitzplätze",
+              "die Anzahl der Sitzplätze"
+            ],
+            "b1_p13_ex1_l": [
+              "des Chefs",
+              "die Frau des Chefs"
+            ],
+            "b1_p13_ex1_m": [
+              "der Teilnehmerinnen",
+              "der Teilnehmer*innen",
+              "der Teilnehmer",
+              "die Namen der Teilnehmerinnen",
+              "die Namen der Teilnehmer*innen"
+            ],
+            "b1_p13_ex1_n": [
+              "Claras Eltern",
+              "die Eltern von Clara",
+              "die Eltern Claras"
+            ],
+            "b1_p13_ex1_o": [
+              "Pauls Anschrift",
+              "die Anschrift von Paul",
+              "die Anschrift Pauls"
+            ]
           },
           "explanations": {
-            "b1_p13_ex1_a": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_b": "Neutral ➔ das",
-            "b1_p13_ex1_c": "Neutral ➔ das",
-            "b1_p13_ex1_d": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_e": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_f": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_g": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_h": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_i": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_j": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_k": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_l": "Feminin ➔ die",
-            "b1_p13_ex1_m": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_n": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_o": "Vollständiger Beispielsatz",
-            "b1_p13_ex1_mask": "Vollständiger Beispielsatz"
+            "b1_p13_ex1_a": "Feminin im Genitiv ➔ der Geschichte",
+            "b1_p13_ex1_b": "Neutrum im Genitiv ➔ des Buches",
+            "b1_p13_ex1_c": "Neutrum im Genitiv ➔ des Hotels",
+            "b1_p13_ex1_d": "Plural im Genitiv ➔ der Leute",
+            "b1_p13_ex1_e": "Maskulin im Genitiv ➔ des Clubs",
+            "b1_p13_ex1_f": "Feminin im Genitiv ➔ der Firma",
+            "b1_p13_ex1_g": "Neutrum im Genitiv ➔ des Zimmers",
+            "b1_p13_ex1_h": "Feminin im Genitiv ➔ der Werkstatt",
+            "b1_p13_ex1_i": "Maskulin im Genitiv ➔ des Ortes",
+            "b1_p13_ex1_j": "Maskulin im Genitiv ➔ des Streits",
+            "b1_p13_ex1_k": "Plural im Genitiv ➔ der Sitzplätze",
+            "b1_p13_ex1_l": "Maskulin im Genitiv ➔ des Chefs",
+            "b1_p13_ex1_m": "Plural im Genitiv ➔ der Teilnehmerinnen",
+            "b1_p13_ex1_n": "Eigenname mit Genitiv-s vorangestellt ➔ Claras Eltern",
+            "b1_p13_ex1_o": "Eigenname mit Genitiv-s vorangestellt ➔ Pauls Anschrift"
           },
           "items": [
             {
               "id": "b1_p13_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Ende - Geschichte",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Ende — Geschichte",
+              "lead": "Ich kenne das Ende ",
+              "tail": " leider nicht.",
+              "answer": "der Geschichte",
+              "explanation": "Feminin im Genitiv ➔ der Geschichte",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Titel - Buch",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Titel — Buch",
+              "lead": "Ich kenne den Titel ",
+              "tail": " leider nicht.",
+              "answer": "des Buches",
+              "explanation": "Neutrum im Genitiv ➔ des Buches",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Adresse - Hotel",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Adresse — Hotel",
+              "lead": "Ich kenne die Adresse ",
+              "tail": " leider nicht.",
+              "answer": "des Hotels",
+              "explanation": "Neutrum im Genitiv ➔ des Hotels",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Methoden - Leute",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Methoden — Leute",
+              "lead": "Ich kenne die Methoden ",
+              "tail": " leider nicht.",
+              "answer": "der Leute",
+              "explanation": "Plural im Genitiv ➔ der Leute",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Manager - Club",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Manager — Club",
+              "lead": "Ich kenne den Manager ",
+              "tail": " leider nicht.",
+              "answer": "des Clubs",
+              "explanation": "Maskulin im Genitiv ➔ des Clubs",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Chef - Firma",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Chef — Firma",
+              "lead": "Ich kenne den Chef ",
+              "tail": " leider nicht.",
+              "answer": "der Firma",
+              "explanation": "Feminin im Genitiv ➔ der Firma",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Größe - Zimmer",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Größe — Zimmer",
+              "lead": "Ich kenne die Größe ",
+              "tail": " leider nicht.",
+              "answer": "des Zimmers",
+              "explanation": "Neutrum im Genitiv ➔ des Zimmers",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Telefonnummer - Werkstatt",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Telefonnummer — Werkstatt",
+              "lead": "Ich kenne die Telefonnummer ",
+              "tail": " leider nicht.",
+              "answer": "der Werkstatt",
+              "explanation": "Feminin im Genitiv ➔ der Werkstatt",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Postleitzahl - Ort",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Postleitzahl — Ort",
+              "lead": "Ich kenne die Postleitzahl ",
+              "tail": " leider nicht.",
+              "answer": "des Ortes",
+              "explanation": "Maskulin im Genitiv ➔ des Ortes",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Grund - Streit",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Grund — Streit",
+              "lead": "Ich kenne den Grund ",
+              "tail": " leider nicht.",
+              "answer": "des Streits",
+              "explanation": "Maskulin im Genitiv ➔ des Streits",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Anzahl - Sitzplätze",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Anzahl — Sitzplätze",
+              "lead": "Ich kenne die Anzahl ",
+              "tail": " leider nicht.",
+              "answer": "der Sitzplätze",
+              "explanation": "Plural im Genitiv ➔ der Sitzplätze",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Frau - Chef",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
+              "prompt": "Frau — Chef",
+              "lead": "Ich kenne die Frau ",
+              "tail": " leider nicht.",
+              "answer": "des Chefs",
+              "explanation": "Maskulin im Genitiv ➔ des Chefs",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_m",
               "label": "m)",
-              "prompt": "",
-              "lead": "Namen - Teilnehmer*innen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Namen — Teilnehmer*innen",
+              "lead": "Ich kenne die Namen ",
+              "tail": " leider nicht.",
+              "answer": "der Teilnehmerinnen",
+              "explanation": "Plural im Genitiv ➔ der Teilnehmerinnen",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_n",
               "label": "n)",
-              "prompt": "",
-              "lead": "Eltern - Clara",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Eltern — Clara",
+              "lead": "Ich kenne ",
+              "tail": " leider nicht.",
+              "answer": "Claras Eltern",
+              "explanation": "Eigenname mit Genitiv-s vorangestellt ➔ Claras Eltern",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex1_o",
               "label": "o)",
-              "prompt": "",
-              "lead": "Anschrift - Paul",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p13_ex1_mask",
-              "label": "mask.",
-              "prompt": "",
-              "lead": "fem. neutr. Pl.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Anschrift — Paul",
+              "lead": "Ich kenne ",
+              "tail": " leider nicht.",
+              "answer": "Pauls Anschrift",
+              "explanation": "Eigenname mit Genitiv-s vorangestellt ➔ Pauls Anschrift",
               "isCompact": true
             }
           ]
         },
         {
           "id": "b1_p13_ex2",
-          "title": "Übung 2",
-          "instruction": "",
+          "title": "Übung 2: Possessivartikel im Genitiv",
+          "instruction": "Bilden Sie Fragen nach dem Muster: Ist das / Sind das ...?",
           "answers": {
-            "b1_p13_ex2_a": "—",
-            "b1_p13_ex2_b": "—",
-            "b1_p13_ex2_c": "das",
-            "b1_p13_ex2_d": "—",
-            "b1_p13_ex2_e": "—",
-            "b1_p13_ex2_f": "—",
-            "b1_p13_ex2_g": "—",
-            "b1_p13_ex2_h": "—",
-            "b1_p13_ex2_i": "—",
-            "b1_p13_ex2_j": "—",
-            "b1_p13_ex2_k": "—",
-            "b1_p13_ex2_l": "das"
+            "b1_p13_ex2_a": "unseres Freundes",
+            "b1_p13_ex2_b": "deiner Cousine",
+            "b1_p13_ex2_c": "eurer Eltern",
+            "b1_p13_ex2_d": "seines Großvaters",
+            "b1_p13_ex2_e": "ihres Onkels",
+            "b1_p13_ex2_f": "deiner Tante",
+            "b1_p13_ex2_g": "seines Chefs",
+            "b1_p13_ex2_h": "deiner Schwester",
+            "b1_p13_ex2_i": "eures Lehrers",
+            "b1_p13_ex2_j": "deines Bruders",
+            "b1_p13_ex2_k": "seiner Freundin",
+            "b1_p13_ex2_l": "eurer Kinder"
+          },
+          "alternatives": {
+            "b1_p13_ex2_a": [
+              "unseres Freundes",
+              "unseres Freunds",
+              "Ist das das Fahrrad unseres Freundes?"
+            ],
+            "b1_p13_ex2_b": [
+              "deiner Cousine",
+              "Ist das der Chef deiner Cousine?"
+            ],
+            "b1_p13_ex2_c": [
+              "eurer Eltern",
+              "Ist das das Haus eurer Eltern?"
+            ],
+            "b1_p13_ex2_d": [
+              "seines Großvaters",
+              "Ist das der Hut seines Großvaters?"
+            ],
+            "b1_p13_ex2_e": [
+              "ihres Onkels",
+              "Ist das die Wohnung ihres Onkels?"
+            ],
+            "b1_p13_ex2_f": [
+              "deiner Tante",
+              "Ist das die Katze deiner Tante?"
+            ],
+            "b1_p13_ex2_g": [
+              "seines Chefs",
+              "Ist das der Computer seines Chefs?"
+            ],
+            "b1_p13_ex2_h": [
+              "deiner Schwester",
+              "Ist das der Freund deiner Schwester?"
+            ],
+            "b1_p13_ex2_i": [
+              "eures Lehrers",
+              "Ist das der Wagen eures Lehrers?"
+            ],
+            "b1_p13_ex2_j": [
+              "deines Bruders",
+              "Sind das die Schuhe deines Bruders?"
+            ],
+            "b1_p13_ex2_k": [
+              "seiner Freundin",
+              "Ist das das Foto seiner Freundin?"
+            ],
+            "b1_p13_ex2_l": [
+              "eurer Kinder",
+              "Sind das die Spielsachen eurer Kinder?"
+            ]
           },
           "explanations": {
-            "b1_p13_ex2_a": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_b": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_c": "Neutral ➔ das",
-            "b1_p13_ex2_d": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_e": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_f": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_g": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_h": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_i": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_j": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_k": "Vollständiger Beispielsatz",
-            "b1_p13_ex2_l": "Neutral ➔ das"
+            "b1_p13_ex2_a": "maskulin: unseres Freundes",
+            "b1_p13_ex2_b": "feminin: deiner Cousine",
+            "b1_p13_ex2_c": "plural: eurer Eltern",
+            "b1_p13_ex2_d": "maskulin: seines Großvaters",
+            "b1_p13_ex2_e": "maskulin: ihres Onkels",
+            "b1_p13_ex2_f": "feminin: deiner Tante",
+            "b1_p13_ex2_g": "maskulin: seines Chefs",
+            "b1_p13_ex2_h": "feminin: deiner Schwester",
+            "b1_p13_ex2_i": "maskulin: eures Lehrers",
+            "b1_p13_ex2_j": "maskulin: deines Bruders",
+            "b1_p13_ex2_k": "feminin: seiner Freundin",
+            "b1_p13_ex2_l": "plural: eurer Kinder"
           },
           "items": [
             {
               "id": "b1_p13_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Fahrrad - unser Freund",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Fahrrad — unser Freund",
+              "lead": "Ist das das Fahrrad ",
+              "tail": "?",
+              "answer": "unseres Freundes",
+              "explanation": "maskulin: unseres Freundes",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Chef - deine Cousine",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Chef — deine Cousine",
+              "lead": "Ist das der Chef ",
+              "tail": "?",
+              "answer": "deiner Cousine",
+              "explanation": "feminin: deiner Cousine",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Haus - eure Eltern",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Haus — eure Eltern",
+              "lead": "Ist das das Haus ",
+              "tail": "?",
+              "answer": "eurer Eltern",
+              "explanation": "plural: eurer Eltern",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Hut - sein Großvater",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Hut — sein Großvater",
+              "lead": "Ist das der Hut ",
+              "tail": "?",
+              "answer": "seines Großvaters",
+              "explanation": "maskulin: seines Großvaters",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Wohnung - ihr Onkel",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wohnung — ihr Onkel",
+              "lead": "Ist das die Wohnung ",
+              "tail": "?",
+              "answer": "ihres Onkels",
+              "explanation": "maskulin: ihres Onkels",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Katze - deine Tante",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Katze — deine Tante",
+              "lead": "Ist das die Katze ",
+              "tail": "?",
+              "answer": "deiner Tante",
+              "explanation": "feminin: deiner Tante",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Computer - sein Chef",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Computer — sein Chef",
+              "lead": "Ist das der Computer ",
+              "tail": "?",
+              "answer": "seines Chefs",
+              "explanation": "maskulin: seines Chefs",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Freund - deine Schwester",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Freund — deine Schwester",
+              "lead": "Ist das der Freund ",
+              "tail": "?",
+              "answer": "deiner Schwester",
+              "explanation": "feminin: deiner Schwester",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Wagen - euer Lehrer",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wagen — euer Lehrer",
+              "lead": "Ist das der Wagen ",
+              "tail": "?",
+              "answer": "eures Lehrers",
+              "explanation": "maskulin: eures Lehrers",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Schuhe - dein Bruder",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Schuhe — dein Bruder",
+              "lead": "Sind das die Schuhe ",
+              "tail": "?",
+              "answer": "deines Bruders",
+              "explanation": "maskulin: deines Bruders",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Foto - seine Freundin",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Foto — seine Freundin",
+              "lead": "Ist das das Foto ",
+              "tail": "?",
+              "answer": "seiner Freundin",
+              "explanation": "feminin: seiner Freundin",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex2_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Spielsachen - eure Kinder",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Spielsachen — eure Kinder",
+              "lead": "Sind das die Spielsachen ",
+              "tail": "?",
+              "answer": "eurer Kinder",
+              "explanation": "plural: eurer Kinder",
               "isCompact": true
             }
           ]
         },
         {
           "id": "b1_p13_ex3",
-          "title": "Übung 3",
-          "instruction": "",
+          "title": "Übung 3: Fragewort Wessen & Genitiv-Antwort",
+          "instruction": "Ergänzen Sie die Antwort mit dem Genitivattribut.",
           "answers": {
-            "b1_p13_ex3_a": "—",
-            "b1_p13_ex3_b": "—",
-            "b1_p13_ex3_c": "—",
-            "b1_p13_ex3_d": "—",
-            "b1_p13_ex3_e": "—",
-            "b1_p13_ex3_f": "—",
-            "b1_p13_ex3_1": "—"
+            "b1_p13_ex3_a": "meines Bruders",
+            "b1_p13_ex3_b": "unserer Tante",
+            "b1_p13_ex3_c": "eurer Gäste",
+            "b1_p13_ex3_d": "seiner Tochter",
+            "b1_p13_ex3_e": "ihres Großvaters",
+            "b1_p13_ex3_f": "deines Onkels"
+          },
+          "alternatives": {
+            "b1_p13_ex3_a": [
+              "meines Bruders",
+              "Das ist der Schlüssel meines Bruders"
+            ],
+            "b1_p13_ex3_b": [
+              "unserer Tante",
+              "Das ist die Wohnung unserer Tante"
+            ],
+            "b1_p13_ex3_c": [
+              "eurer Gäste",
+              "Das ist das Gepäck eurer Gäste"
+            ],
+            "b1_p13_ex3_d": [
+              "seiner Tochter",
+              "Das ist das Spielzeug seiner Tochter"
+            ],
+            "b1_p13_ex3_e": [
+              "ihres Großvaters",
+              "Das ist der Hund ihres Großvaters"
+            ],
+            "b1_p13_ex3_f": [
+              "deines Onkels",
+              "Das ist der Computer deines Onkels"
+            ]
           },
           "explanations": {
-            "b1_p13_ex3_a": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_b": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_c": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_d": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_e": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_f": "Vollständiger Beispielsatz",
-            "b1_p13_ex3_1": "Vollständiger Beispielsatz"
+            "b1_p13_ex3_a": "maskulin Genitiv ➔ meines Bruders",
+            "b1_p13_ex3_b": "feminin Genitiv ➔ unserer Tante",
+            "b1_p13_ex3_c": "plural Genitiv ➔ eurer Gäste",
+            "b1_p13_ex3_d": "feminin Genitiv ➔ seiner Tochter",
+            "b1_p13_ex3_e": "maskulin Genitiv ➔ ihres Großvaters",
+            "b1_p13_ex3_f": "maskulin Genitiv ➔ deines Onkels"
           },
           "items": [
             {
               "id": "b1_p13_ex3_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Schlüssel - mein Bruder",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Schlüssel — mein Bruder",
+              "lead": "Wessen Schlüssel ist das? — Das ist der Schlüssel ",
+              "tail": ".",
+              "answer": "meines Bruders",
+              "explanation": "maskulin Genitiv ➔ meines Bruders",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex3_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Wohnung - unsere Tante",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Wohnung — unsere Tante",
+              "lead": "Wessen Wohnung ist das? — Das ist die Wohnung ",
+              "tail": ".",
+              "answer": "unserer Tante",
+              "explanation": "feminin Genitiv ➔ unserer Tante",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex3_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Gepäck - eure Gäste",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Gepäck — eure Gäste",
+              "lead": "Wessen Gepäck ist das? — Das ist das Gepäck ",
+              "tail": ".",
+              "answer": "eurer Gäste",
+              "explanation": "plural Genitiv ➔ eurer Gäste",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex3_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Spielzeug - seine Tochter",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Spielzeug — seine Tochter",
+              "lead": "Wessen Spielzeug ist das? — Das ist das Spielzeug ",
+              "tail": ".",
+              "answer": "seiner Tochter",
+              "explanation": "feminin Genitiv ➔ seiner Tochter",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex3_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Hund - ihr Großvater",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Hund — ihr Großvater",
+              "lead": "Wessen Hund ist das? — Das ist der Hund ",
+              "tail": ".",
+              "answer": "ihres Großvaters",
+              "explanation": "maskulin Genitiv ➔ ihres Großvaters",
               "isCompact": true
             },
             {
               "id": "b1_p13_ex3_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Computer - dein Onkel",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p13_ex3_1",
-              "label": "1)",
-              "prompt": "",
-              "lead": "Eine Gruppe von maskulinen Nomen bildet sowohl den Genitiv als auch den Dativ und den Akkusativ Sing. mit [e]n  >  n-Deklination",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "prompt": "Computer — dein Onkel",
+              "lead": "Wessen Computer ist das? — Das ist der Computer ",
+              "tail": ".",
+              "answer": "deines Onkels",
+              "explanation": "maskulin Genitiv ➔ deines Onkels",
               "isCompact": true
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Genitiv\n• 1. Genitiv - Funktionen\n• maskulin feminin neutral Plural\n• des Mannes\n• eines Mannes\n• der Frau\n• einer Frau\n• des Kindes\n• eines Kindes\n• der Leute\n• (von Leuten) Dativ*\n• Der Genitiv maskulin und neutral erhält in der Regel die Endung s oder es.1\n• -s bei vielen mehrsilbigen Nomen z. B. auf -en, -el, -er, -or, -ling etc.\n• des Wagens, des Onkels, des Reporters, des Doktors, des Frühlings\n• -es bei vielen einsilbigen Nomen und bei Nomen auf -s, ss, ß, sch, z, tz etc.\n• des Buches, des Flusses, des Fußes, des Schreibtisches, des Fußballplatzes\n• *  Bei Nomen ohne Artikel - häufig im Plural - gebraucht man in der Regel nicht den Genitiv, sondern die\n• Präposition  von + Dat. z. B. Man soll den Versprechen von Politikern nicht immer glauben.\n• Namen von Personen stellt man mit einem s voran. z. B. Evas Bücher, Toms Schwester  ➔ aber: Klaus´ Tante\n• Funktion von Genitiv:\n• Wichtige Funktion ➔ Attribut ➔ Attribute erklären oder definieren andere Wörter ➔ Teile von Satzteilen\n• z. B.Adjektivattribut: das Fahrrad ➔ das neue Fahrrad\n• Präpositionalattribut: der Schlüssel ➔ der Schlüssel für den Koffer\n• Genitivattribut ➔ Wem gehört etwas? ➔ Hier liegt der Rucksack meiner Kollegin.\n• ➔ Was gehört zusammen? ➔ Wo ist die Kappe des Stiftes?\n• ➔ Von wem stammt etwas? ➔ Die Bilder dieses Malers gefallen mir."
+      ]
     },
     "14": {
-      "lessonTitle": "2. Präpositionen mit Genitiv (Seite 14)",
+      "lessonTitle": "Lektion 14: 2. Präpositionen mit Genitiv (wegen, trotz, während, anstatt, innerhalb, außerhalb) (Seite 14)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Präpositionen mit Genitiv\n\nIm Deutschen verlangen viele Präpositionen den **Genitiv**:\n\n---\n\n#### 1. Wichtige Genitiv-Präpositionen im Überblick\n\n| Präposition | Bedeutung / Verwendung | Beispiel |\n| :--- | :--- | :--- |\n| **wegen / aufgrund** | Grund / Ursache (Kausal) | ***Wegen des starken Regens** blieben wir zu Hause.* |\n| **trotz** | Gegengrund (Konzessiv) | ***Trotz des schlechten Wetters** ging er spazieren.* |\n| **während** | Gleichzeitigkeit / Dauer (Temporal) | ***Während der Sommerferien** verreisen viele Familien.* |\n| **(an)statt / anstelle** | Ersatz / Alternative | *Er trank Wasser **anstatt eines Bieres**.* |\n| **innerhalb** | Zeitspanne (temporal) / Raum (lokal) | ***Innerhalb einer Woche** müssen Sie antworten.* / ***innerhalb** der Stadt* |\n| **außerhalb** | Zeit (temporal) / Raum (lokal) | *Anrufe **außerhalb der Öffnungszeiten**.* / ***außerhalb** der EU* |\n\n---\n\n#### 2. Besonderheit bei Nomen ohne Artikel\nSteht nach *innerhalb* oder *außerhalb* ein Nomen ohne Artikel (oder Plural ohne Deklinationsmerkmal), verwendet man standardsprachlich **von + Dativ**:\n- *innerhalb von zwei Tagen*\n- *außerhalb von Europa*\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *wegen / aufgrund* = \"because of / due to\"\n> - *trotz* = \"despite / in spite of\"\n> - *während* = \"during / while\"\n> - *(an)statt* = \"instead of\"\n> - *innerhalb / außerhalb* = \"inside / outside of\" or \"within / beyond (a timeframe)\"",
       "exercises": [
         {
           "id": "b1_p14_ex4",
-          "title": "Übung 4",
-          "instruction": "",
+          "title": "Übung 4: Genitiv-Präpositionen und passende Endungen einsetzen",
+          "instruction": "Bilden Sie Präpositionalphrasen mit Genitiv (wegen, trotz, während, anstatt).",
           "answers": {
-            "b1_p14_ex4_a": "richtig",
-            "b1_p14_ex4_b": "richtig",
-            "b1_p14_ex4_c": "richtig",
-            "b1_p14_ex4_d": "richtig",
-            "b1_p14_ex4_e": "richtig",
-            "b1_p14_ex4_f": "richtig",
-            "b1_p14_ex4_g": "richtig",
-            "b1_p14_ex4_h": "richtig",
-            "b1_p14_ex4_i": "richtig",
-            "b1_p14_ex4_j": "richtig"
+            "b1_p14_ex4_a": "Wegen des Streiks",
+            "b1_p14_ex4_b": "Während meines Urlaubs",
+            "b1_p14_ex4_c": "Anstatt eines Briefes",
+            "b1_p14_ex4_d": "Trotz seiner Schmerzen",
+            "b1_p14_ex4_e": "Wegen seiner Diät",
+            "b1_p14_ex4_f": "Trotz aller Probleme",
+            "b1_p14_ex4_g": "Wegen der Kälte",
+            "b1_p14_ex4_h": "Anstatt eines Mittagessens",
+            "b1_p14_ex4_i": "Während der Ferien",
+            "b1_p14_ex4_j": "Wegen eines Rechenfehlers"
+          },
+          "alternatives": {
+            "b1_p14_ex4_a": [
+              "Wegen des Streiks",
+              "Aufgrund des Streiks",
+              "Wegen des Streikes",
+              "Aufgrund des Streikes"
+            ],
+            "b1_p14_ex4_b": [
+              "Während meines Urlaubs",
+              "Während meines Urlaubes"
+            ],
+            "b1_p14_ex4_c": [
+              "Anstatt eines Briefes",
+              "Statt eines Briefes",
+              "Anstelle eines Briefes",
+              "Anstatt eines Briefs",
+              "Statt eines Briefs"
+            ],
+            "b1_p14_ex4_d": [
+              "Trotz seiner Schmerzen"
+            ],
+            "b1_p14_ex4_e": [
+              "Wegen seiner Diät",
+              "Aufgrund seiner Diät",
+              "Während seiner Diät"
+            ],
+            "b1_p14_ex4_f": [
+              "Trotz aller Probleme"
+            ],
+            "b1_p14_ex4_g": [
+              "Wegen der Kälte",
+              "Aufgrund der Kälte"
+            ],
+            "b1_p14_ex4_h": [
+              "Anstatt eines Mittagessens",
+              "Statt eines Mittagessens",
+              "Anstelle eines Mittagessens"
+            ],
+            "b1_p14_ex4_i": [
+              "Während der Ferien",
+              "Wegen der Ferien",
+              "Aufgrund der Ferien"
+            ],
+            "b1_p14_ex4_j": [
+              "Wegen eines Rechenfehlers",
+              "Aufgrund eines Rechenfehlers"
+            ]
           },
           "explanations": {
-            "b1_p14_ex4_a": "Passende Form laut Kontext",
-            "b1_p14_ex4_b": "Passende Form laut Kontext",
-            "b1_p14_ex4_c": "Passende Form laut Kontext",
-            "b1_p14_ex4_d": "Passende Form laut Kontext",
-            "b1_p14_ex4_e": "Passende Form laut Kontext",
-            "b1_p14_ex4_f": "Passende Form laut Kontext",
-            "b1_p14_ex4_g": "Passende Form laut Kontext",
-            "b1_p14_ex4_h": "Passende Form laut Kontext",
-            "b1_p14_ex4_i": "Passende Form laut Kontext",
-            "b1_p14_ex4_j": "Passende Form laut Kontext"
+            "b1_p14_ex4_a": "Kausal (der Streik) ➔ Wegen des Streiks",
+            "b1_p14_ex4_b": "Temporal (mein Urlaub) ➔ Während meines Urlaubs",
+            "b1_p14_ex4_c": "Substitution (ein Brief) ➔ Anstatt eines Briefes",
+            "b1_p14_ex4_d": "Konzessiv (seine Schmerzen) ➔ Trotz seiner Schmerzen",
+            "b1_p14_ex4_e": "Kausal (seine Diät) ➔ Wegen seiner Diät",
+            "b1_p14_ex4_f": "Konzessiv (alle Probleme) ➔ Trotz aller Probleme",
+            "b1_p14_ex4_g": "Kausal (die Kälte) ➔ Wegen der Kälte",
+            "b1_p14_ex4_h": "Substitution (ein Mittagessen) ➔ Anstatt eines Mittagessens",
+            "b1_p14_ex4_i": "Temporal (die Ferien) ➔ Während der Ferien",
+            "b1_p14_ex4_j": "Kausal (ein Rechenfehler) ➔ Wegen eines Rechenfehlers"
           },
           "items": [
             {
               "id": "b1_p14_ex4_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "der Streik ",
+              "prompt": "der Streik",
+              "lead": "",
               "tail": " fahren keine Busse.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Wegen des Streiks",
+              "explanation": "Kausal (der Streik) ➔ Wegen des Streiks",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "mein Urlaub ",
+              "prompt": "mein Urlaub",
+              "lead": "",
               "tail": " war ich drei Wochen in den USA.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Während meines Urlaubs",
+              "explanation": "Temporal (mein Urlaub) ➔ Während meines Urlaubs",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "ein Brief ",
+              "prompt": "ein Brief",
+              "lead": "",
               "tail": " schickt sie mir nur eine kurze E-Mail.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Anstatt eines Briefes",
+              "explanation": "Substitution (ein Brief) ➔ Anstatt eines Briefes",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "seine Schmerzen ",
+              "prompt": "seine Schmerzen",
+              "lead": "",
               "tail": " geht er nicht zum Zahnarzt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Trotz seiner Schmerzen",
+              "explanation": "Konzessiv (seine Schmerzen) ➔ Trotz seiner Schmerzen",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "seine Diät ",
+              "prompt": "seine Diät",
+              "lead": "",
               "tail": " isst er jeden Tag nur einen Apfel.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Wegen seiner Diät",
+              "explanation": "Kausal (seine Diät) ➔ Wegen seiner Diät",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "alle Probleme ",
+              "prompt": "alle Probleme",
+              "lead": "",
               "tail": " können wir die Arbeit rechtzeitig beenden.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Trotz aller Probleme",
+              "explanation": "Konzessiv (alle Probleme) ➔ Trotz aller Probleme",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "die Kälte ",
+              "prompt": "die Kälte",
+              "lead": "",
               "tail": " muss ich eine dicke Jacke anziehen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Wegen der Kälte",
+              "explanation": "Kausal (die Kälte) ➔ Wegen der Kälte",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "ein Mittagessen ",
+              "prompt": "ein Mittagessen",
+              "lead": "",
               "tail": " isst sie nur ein Stückchen Schokolade.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Anstatt eines Mittagessens",
+              "explanation": "Substitution (ein Mittagessen) ➔ Anstatt eines Mittagessens",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "die Ferien ",
+              "prompt": "die Ferien",
+              "lead": "",
               "tail": " ist die Bibliothek geschlossen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Während der Ferien",
+              "explanation": "Temporal (die Ferien) ➔ Während der Ferien",
               "isCompact": false
             },
             {
               "id": "b1_p14_ex4_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "ein Rechenfehler ",
+              "prompt": "ein Rechenfehler",
+              "lead": "",
               "tail": " bestellte man zu viel Material.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "Wegen eines Rechenfehlers",
+              "explanation": "Kausal (ein Rechenfehler) ➔ Wegen eines Rechenfehlers",
               "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p14_ex5",
-          "title": "Übung 5",
-          "instruction": "Ergänzen Sie eine Präposition.",
+          "title": "Übung 5: Präpositionen im Kontext einsetzen",
+          "instruction": "Ergänzen Sie die passende Präposition aus dem Kasten: während, aufgrund, trotz, außerhalb, anstatt, innerhalb.",
+          "wordBox": [
+            "während",
+            "aufgrund",
+            "trotz",
+            "außerhalb",
+            "anstatt",
+            "innerhalb"
+          ],
           "answers": {
-            "b1_p14_ex5_a": "richtig",
-            "b1_p14_ex5_b": "richtig",
-            "b1_p14_ex5_c": "richtig",
-            "b1_p14_ex5_e": "richtig",
-            "b1_p14_ex5_f": "richtig",
-            "b1_p14_ex5_g": "richtig"
+            "b1_p14_ex5_a": "trotz",
+            "b1_p14_ex5_b": "innerhalb",
+            "b1_p14_ex5_c": "während",
+            "b1_p14_ex5_e": "anstatt",
+            "b1_p14_ex5_f": "außerhalb",
+            "b1_p14_ex5_g": "aufgrund"
+          },
+          "alternatives": {
+            "b1_p14_ex5_a": [
+              "trotz",
+              "Trotz"
+            ],
+            "b1_p14_ex5_b": [
+              "innerhalb",
+              "Innerhalb"
+            ],
+            "b1_p14_ex5_c": [
+              "während",
+              "Während"
+            ],
+            "b1_p14_ex5_e": [
+              "anstatt",
+              "Anstatt",
+              "statt",
+              "Statt"
+            ],
+            "b1_p14_ex5_f": [
+              "außerhalb",
+              "Außerhalb"
+            ],
+            "b1_p14_ex5_g": [
+              "aufgrund",
+              "Aufgrund",
+              "während",
+              "Während",
+              "wegen",
+              "Wegen"
+            ]
           },
           "explanations": {
-            "b1_p14_ex5_a": "Passende Form laut Kontext",
-            "b1_p14_ex5_b": "Passende Form laut Kontext",
-            "b1_p14_ex5_c": "Passende Form laut Kontext",
-            "b1_p14_ex5_e": "Passende Form laut Kontext",
-            "b1_p14_ex5_f": "Passende Form laut Kontext",
-            "b1_p14_ex5_g": "Passende Form laut Kontext"
+            "b1_p14_ex5_a": "Gegengrund (hoher Preis, dennoch kaufen) ➔ trotz",
+            "b1_p14_ex5_b": "Frist / Zeitspanne (eine Woche) ➔ innerhalb",
+            "b1_p14_ex5_c": "Zeitraum / Dauer (des Tests) ➔ während",
+            "b1_p14_ex5_e": "Ersatz / Alternative (nur ein Gutschein) ➔ anstatt",
+            "b1_p14_ex5_f": "Lokal / räumlich (außerhalb der Stadt) ➔ außerhalb",
+            "b1_p14_ex5_g": "Grund / Ursache (Krise) ➔ aufgrund"
           },
           "items": [
             {
               "id": "b1_p14_ex5_a",
               "label": "a)",
-              "prompt": "",
+              "prompt": "Viele Leute kaufen dieses Produkt [___] des hohen Preises.",
               "lead": "Viele Leute kaufen dieses Produkt ",
               "tail": " des hohen Preises.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "trotz",
+              "explanation": "Gegengrund (hoher Preis, dennoch kaufen) ➔ trotz",
+              "isCompact": true
             },
             {
               "id": "b1_p14_ex5_b",
               "label": "b)",
-              "prompt": "",
+              "prompt": "Sie müssen diese Rechnung [___] einer Woche bezahlen.",
               "lead": "Sie müssen diese Rechnung ",
               "tail": " einer Woche bezahlen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "innerhalb",
+              "explanation": "Frist / Zeitspanne (eine Woche) ➔ innerhalb",
+              "isCompact": true
             },
             {
               "id": "b1_p14_ex5_c",
               "label": "c)",
-              "prompt": "",
+              "prompt": "Sie dürfen [___] des Tests nicht mit den anderen Teilnehmern sprechen.",
               "lead": "Sie dürfen ",
               "tail": " des Tests nicht mit den anderen Teilnehmern und Teilnehmerinnen sprechen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "während",
+              "explanation": "Zeitraum / Dauer (des Tests) ➔ während",
+              "isCompact": true
             },
             {
               "id": "b1_p14_ex5_e",
-              "label": "e)",
-              "prompt": "",
+              "label": "d)",
+              "prompt": "Man bot den verärgerten Kunden [___] einer Rückzahlung nur einen Gutschein an.",
               "lead": "Man bot den verärgerten Kunden ",
               "tail": " einer Rückzahlung nur einen Gutschein an.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "anstatt",
+              "explanation": "Ersatz / Alternative (nur ein Gutschein) ➔ anstatt",
+              "isCompact": true
             },
             {
               "id": "b1_p14_ex5_f",
-              "label": "f)",
-              "prompt": "",
+              "label": "e)",
+              "prompt": "Das Fußballstadion liegt ein paar Kilometer [___] der Stadt.",
               "lead": "Das Fußballstadion liegt ein paar Kilometer ",
               "tail": " der Stadt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "außerhalb",
+              "explanation": "Lokal / räumlich (außerhalb der Stadt) ➔ außerhalb",
+              "isCompact": true
             },
             {
               "id": "b1_p14_ex5_g",
-              "label": "g)",
-              "prompt": "",
+              "label": "f)",
+              "prompt": "Viele Menschen verloren [___] der Krise ihren Arbeitsplatz.",
               "lead": "Viele Menschen verloren ",
               "tail": " der Krise ihren Arbeitsplatz.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "aufgrund",
+              "explanation": "Grund / Ursache (Krise) ➔ aufgrund",
+              "isCompact": true
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• 2. Präpositionen mit Genitiv\n• Viele Präpositionen, die z. T. sehr selten vorkommen, gebraucht man mit Genitiv, z. B.\n• Aufgrund / Wegen des schlechten Wetters bleibt er zu Hause.\n• Trotz des schlechten Wetters geht sie ohne Mantel aus dem Haus.\n• Sie fährt während der Sommerferien immer ans Meer.\n• Der Kellner brachte mir (an)statt / anstelle eines Kirschsaftes eine Cola.\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• innerhalb / außerhalb\n• temporal: Sie sollten innerhalb einer Woche antworten.\n• lokal: Die Regelungen gelten nur innerhalb der EU.\n• temporal: Ich habe außerhalb der Geschäftszeiten angerufen.\n• lokal: So schnell darf man nur außerhalb der Stadt fahren.\n• Bei Nomen ohne Artikel benutzt man häufig: innerhalb von / außerhalb von\n• innerhalb von acht Monaten\n• außerhalb von Europa"
+      ]
     },
     "15": {
-      "lessonTitle": "Konjunktiv II (Seite 15)",
+      "lessonTitle": "Lektion 15: 1. Konjunktiv II — hätte, wäre, würde (Präsens) (Seite 15)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Konjunktiv II im Präsens (hätte, wäre, würde)\n\nDer **Konjunktiv II** wird verwendet für:\n1. **Irreale Wünsche:** *Ich hätte gern mehr Zeit. Ich wäre gern im Urlaub.*\n2. **Höfliche Bitten:** *Würden Sie bitte das Fenster schließen?*\n3. **Ratschläge / Meinungen:** *Ich würde an deiner Stelle zum Arzt gehen.*\n\n---\n\n#### 1. Formen von sein, haben und werden\n\n| Person | sein ➔ **wäre** | haben ➔ **hätte** | werden ➔ **würde** |\n| :--- | :--- | :--- | :--- |\n| ich | wäre | hätte | würde |\n| du | wärst | hättest | würdest |\n| er / sie / es | wäre | hätte | würde |\n| wir | wären | hätten | würden |\n| ihr | wärt | hättet | würdet |\n| sie / Sie | wären | hätten | würden |\n\n---\n\n#### 2. Die würde-Form bei Vollverben\n- Bei fast allen Vollverben verwendet man im modernen Deutsch die Umschreibung: **würde + Infinitiv** (*ich würde kommen, wir würden reisen*).\n- Ausnahmen (feste Formen ohne würde): *sein* (wäre), *haben* (hätte), *wissen* (wüsste) sowie die **Modalverben** (*könnte, müsste, sollte, dürfte, wollte*).\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *ich hätte* = \"I would have / I wish I had\"\n> - *ich wäre* = \"I would be / I wish I were\"\n> - *ich würde + Infinitiv* = \"I would + infinitive\" (*I would do that differently ➔ Ich würde das anders machen*)\n> - *Würdest du bitte...?* = \"Would you please...?\"",
       "exercises": [
         {
           "id": "b1_p15_ex1",
-          "title": "Übung 1",
-          "instruction": "",
+          "title": "Übung 1: Wünsche mit würde gern ausdrücken",
+          "instruction": "Formulieren Sie Wünsche mit würde gern / würden gern.",
           "answers": {
-            "b1_p15_ex1_a": "richtig",
-            "b1_p15_ex1_b": "richtig",
-            "b1_p15_ex1_c": "richtig",
-            "b1_p15_ex1_d": "richtig",
-            "b1_p15_ex1_e": "richtig",
-            "b1_p15_ex1_f": "richtig",
-            "b1_p15_ex1_g": "richtig"
+            "b1_p15_ex1_a": "würden gern länger schlafen",
+            "b1_p15_ex1_b": "würde gern mehr Sport treiben",
+            "b1_p15_ex1_c": "würde gern in einem Team arbeiten",
+            "b1_p15_ex1_d": "würde gern nicht so viel rauchen",
+            "b1_p15_ex1_e": "würde gern an einem Sprachkurs teilnehmen",
+            "b1_p15_ex1_f": "würde gern Vollzeit arbeiten",
+            "b1_p15_ex1_g": "würden gern weniger Miete zahlen"
+          },
+          "alternatives": {
+            "b1_p15_ex1_a": [
+              "würden gern länger schlafen",
+              "würden gerne länger schlafen",
+              "länger schlafen",
+              "schlafen"
+            ],
+            "b1_p15_ex1_b": [
+              "würde gern mehr Sport treiben",
+              "würde gerne mehr Sport treiben",
+              "würde gern mehr Sport machen",
+              "würde gerne mehr Sport machen",
+              "mehr Sport treiben",
+              "Sport treiben",
+              "treiben"
+            ],
+            "b1_p15_ex1_c": [
+              "würde gern in einem Team arbeiten",
+              "würde gerne in einem Team arbeiten",
+              "in einem Team arbeiten",
+              "arbeiten"
+            ],
+            "b1_p15_ex1_d": [
+              "würde gern nicht so viel rauchen",
+              "würde gerne nicht so viel rauchen",
+              "nicht so viel rauchen",
+              "rauchen"
+            ],
+            "b1_p15_ex1_e": [
+              "würde gern an einem Sprachkurs teilnehmen",
+              "würde gerne an einem Sprachkurs teilnehmen",
+              "an einem Sprachkurs teilnehmen",
+              "teilnehmen"
+            ],
+            "b1_p15_ex1_f": [
+              "würde gern Vollzeit arbeiten",
+              "würde gerne Vollzeit arbeiten",
+              "Vollzeit arbeiten",
+              "arbeiten"
+            ],
+            "b1_p15_ex1_g": [
+              "würden gern weniger Miete zahlen",
+              "würden gerne weniger Miete zahlen",
+              "würden gern weniger Miete bezahlen",
+              "würden gerne weniger Miete bezahlen",
+              "weniger Miete zahlen",
+              "zahlen"
+            ]
           },
           "explanations": {
-            "b1_p15_ex1_a": "Passende Form laut Kontext",
-            "b1_p15_ex1_b": "Passende Form laut Kontext",
-            "b1_p15_ex1_c": "Passende Form laut Kontext",
-            "b1_p15_ex1_d": "Passende Form laut Kontext",
-            "b1_p15_ex1_e": "Passende Form laut Kontext",
-            "b1_p15_ex1_f": "Passende Form laut Kontext",
-            "b1_p15_ex1_g": "Passende Form laut Kontext"
+            "b1_p15_ex1_a": "Plural: Sie würden gern länger schlafen.",
+            "b1_p15_ex1_b": "3s: Er würde gern mehr Sport treiben.",
+            "b1_p15_ex1_c": "3s: Sie würde gern in einem Team arbeiten.",
+            "b1_p15_ex1_d": "3s: Er würde gern nicht so viel rauchen.",
+            "b1_p15_ex1_e": "3s: Sie würde gern an einem Sprachkurs teilnehmen.",
+            "b1_p15_ex1_f": "3s: Er würde gern Vollzeit arbeiten.",
+            "b1_p15_ex1_g": "1p: Wir würden gern weniger Miete zahlen."
           },
           "items": [
             {
               "id": "b1_p15_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Pedro und Lena müssen immer früh aufstehen.  Sie ",
-              "tail": " länger ________________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Pedro und Lena müssen immer früh aufstehen.",
+              "lead": "Sie ",
+              "tail": ".",
+              "answer": "würden gern länger schlafen",
+              "explanation": "Plural: Sie würden gern länger schlafen.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Theo ist nicht besonders fit.  Er ",
-              "tail": " mehr Sport ______________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Theo ist nicht besonders fit.",
+              "lead": "Er ",
+              "tail": ".",
+              "answer": "würde gern mehr Sport treiben",
+              "explanation": "3s: Er würde gern mehr Sport treiben.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Sandra arbeitet immer allein.  Sie ",
-              "tail": " in einem Team ____________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Sandra arbeitet immer allein.",
+              "lead": "Sie ",
+              "tail": ".",
+              "answer": "würde gern in einem Team arbeiten",
+              "explanation": "3s: Sie würde gern in einem Team arbeiten.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Hassan raucht zu viel. Er ",
-              "tail": " nicht so viel ______________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Hassan raucht zu viel.",
+              "lead": "Er ",
+              "tail": ".",
+              "answer": "würde gern nicht so viel rauchen",
+              "explanation": "3s: Er würde gern nicht so viel rauchen.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Sofia kann kein Englisch. Sie ",
-              "tail": " an einem Sprachkurs ________________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Sofia kann kein Englisch.",
+              "lead": "Sie ",
+              "tail": ".",
+              "answer": "würde gern an einem Sprachkurs teilnehmen",
+              "explanation": "3s: Sie würde gern an einem Sprachkurs teilnehmen.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Carlo hat nur eine halbe Stelle. Er ",
-              "tail": " Vollzeit _____________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Carlo hat nur eine halbe Stelle.",
+              "lead": "Er ",
+              "tail": ".",
+              "answer": "würde gern Vollzeit arbeiten",
+              "explanation": "3s: Er würde gern Vollzeit arbeiten.",
               "isCompact": false
             },
             {
               "id": "b1_p15_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Wir haben eine sehr teure Wohnung. Wir ",
-              "tail": " weniger Miete _____________.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "prompt": "Wir haben eine sehr teure Wohnung.",
+              "lead": "Wir ",
+              "tail": ".",
+              "answer": "würden gern weniger Miete zahlen",
+              "explanation": "1p: Wir würden gern weniger Miete zahlen.",
               "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p15_ex2",
-          "title": "Übung 2",
-          "instruction": "",
+          "title": "Übung 2: Höfliche Bitten mit Würdest du bitte...",
+          "instruction": "Verwandeln Sie die Aufforderung in eine höfliche Bitte mit Würdest du bitte...?",
           "answers": {
-            "b1_p15_ex2_a": "die",
-            "b1_p15_ex2_b": "—",
-            "b1_p15_ex2_c": "—",
-            "b1_p15_ex2_d": "—",
-            "b1_p15_ex2_e": "—",
-            "b1_p15_ex2_f": "—",
-            "b1_p15_ex2_g": "—",
-            "b1_p15_ex2_h": "—",
-            "b1_p15_ex2_i": "—",
-            "b1_p15_ex2_j": "—",
-            "b1_p15_ex2_k": "das",
-            "b1_p15_ex2_l": "—"
+            "b1_p15_ex2_a": "die Tür zumachen",
+            "b1_p15_ex2_b": "den Müll rausbringen",
+            "b1_p15_ex2_c": "das Zimmer aufräumen",
+            "b1_p15_ex2_d": "das Formular ausfüllen",
+            "b1_p15_ex2_e": "den Text vorlesen",
+            "b1_p15_ex2_f": "die Firma anrufen",
+            "b1_p15_ex2_g": "das Licht anmachen",
+            "b1_p15_ex2_h": "die Nummer aufschreiben",
+            "b1_p15_ex2_i": "das Essen zubereiten",
+            "b1_p15_ex2_j": "deinen Namen eintragen",
+            "b1_p15_ex2_k": "mir das Buch zurückgeben",
+            "b1_p15_ex2_l": "die Pakete von der Post abholen"
+          },
+          "alternatives": {
+            "b1_p15_ex2_a": [
+              "die Tür zumachen",
+              "die Tür zu machen",
+              "Würdest du bitte die Tür zumachen?"
+            ],
+            "b1_p15_ex2_b": [
+              "den Müll rausbringen",
+              "den Müll raus bringen",
+              "Würdest du bitte den Müll rausbringen?"
+            ],
+            "b1_p15_ex2_c": [
+              "das Zimmer aufräumen",
+              "Würdest du bitte das Zimmer aufräumen?"
+            ],
+            "b1_p15_ex2_d": [
+              "das Formular ausfüllen",
+              "Würdest du bitte das Formular ausfüllen?"
+            ],
+            "b1_p15_ex2_e": [
+              "den Text vorlesen",
+              "Würdest du bitte den Text vorlesen?"
+            ],
+            "b1_p15_ex2_f": [
+              "die Firma anrufen",
+              "Würdest du bitte die Firma anrufen?"
+            ],
+            "b1_p15_ex2_g": [
+              "das Licht anmachen",
+              "das Licht an machen",
+              "Würdest du bitte das Licht anmachen?"
+            ],
+            "b1_p15_ex2_h": [
+              "die Nummer aufschreiben",
+              "Würdest du bitte die Nummer aufschreiben?"
+            ],
+            "b1_p15_ex2_i": [
+              "das Essen zubereiten",
+              "Würdest du bitte das Essen zubereiten?"
+            ],
+            "b1_p15_ex2_j": [
+              "deinen Namen eintragen",
+              "Würdest du bitte deinen Namen eintragen?"
+            ],
+            "b1_p15_ex2_k": [
+              "mir das Buch zurückgeben",
+              "das Buch zurückgeben",
+              "Würdest du bitte mir das Buch zurückgeben?"
+            ],
+            "b1_p15_ex2_l": [
+              "die Pakete von der Post abholen",
+              "Würdest du bitte die Pakete von der Post abholen?"
+            ]
           },
           "explanations": {
-            "b1_p15_ex2_a": "Feminin ➔ die",
-            "b1_p15_ex2_b": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_c": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_d": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_e": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_f": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_g": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_h": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_i": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_j": "Vollständiger Beispielsatz",
-            "b1_p15_ex2_k": "Neutral ➔ das",
-            "b1_p15_ex2_l": "Vollständiger Beispielsatz"
+            "b1_p15_ex2_a": "zumachen: die Tür zumachen",
+            "b1_p15_ex2_b": "rausbringen: den Müll rausbringen",
+            "b1_p15_ex2_c": "aufräumen: das Zimmer aufräumen",
+            "b1_p15_ex2_d": "ausfüllen: das Formular ausfüllen",
+            "b1_p15_ex2_e": "vorlesen: den Text vorlesen",
+            "b1_p15_ex2_f": "anrufen: die Firma anrufen",
+            "b1_p15_ex2_g": "anmachen: das Licht anmachen",
+            "b1_p15_ex2_h": "aufschreiben: die Nummer aufschreiben",
+            "b1_p15_ex2_i": "zubereiten: das Essen zubereiten",
+            "b1_p15_ex2_j": "eintragen: deinen Namen eintragen",
+            "b1_p15_ex2_k": "zurückgeben: mir das Buch zurückgeben",
+            "b1_p15_ex2_l": "abholen: die Pakete von der Post abholen"
           },
           "items": [
             {
               "id": "b1_p15_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Mach die Tür zu!",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
+              "prompt": "Mach die Tür zu!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "die Tür zumachen",
+              "explanation": "zumachen: die Tür zumachen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Bring den Müll raus!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Bring den Müll raus!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "den Müll rausbringen",
+              "explanation": "rausbringen: den Müll rausbringen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Räum das Zimmer auf!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Räum das Zimmer auf!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "das Zimmer aufräumen",
+              "explanation": "aufräumen: das Zimmer aufräumen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Füll das Formular aus!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Füll das Formular aus!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "das Formular ausfüllen",
+              "explanation": "ausfüllen: das Formular ausfüllen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Lies den Text vor!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Lies den Text vor!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "den Text vorlesen",
+              "explanation": "vorlesen: den Text vorlesen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Ruf die Firma an!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ruf die Firma an!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "die Firma anrufen",
+              "explanation": "anrufen: die Firma anrufen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Mach das Licht an!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Mach das Licht an!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "das Licht anmachen",
+              "explanation": "anmachen: das Licht anmachen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Schreib die Nummer auf!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Schreib die Nummer auf!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "die Nummer aufschreiben",
+              "explanation": "aufschreiben: die Nummer aufschreiben",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Bereite das Essen zu!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Bereite das Essen zu!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "das Essen zubereiten",
+              "explanation": "zubereiten: das Essen zubereiten",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Trag deinen Namen ein!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Trag deinen Namen ein!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "deinen Namen eintragen",
+              "explanation": "eintragen: deinen Namen eintragen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Gib mir das Buch zurück!",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Gib mir das Buch zurück!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "mir das Buch zurückgeben",
+              "explanation": "zurückgeben: mir das Buch zurückgeben",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex2_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Hol die Pakete von der Post ab!",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hol die Pakete von der Post ab!",
+              "lead": "Würdest du bitte ",
+              "tail": "?",
+              "answer": "die Pakete von der Post abholen",
+              "explanation": "abholen: die Pakete von der Post abholen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p15_ex3",
-          "title": "Übung 3",
-          "instruction": "",
+          "title": "Übung 3: Ratschläge mit Ich würde...",
+          "instruction": "Geben Sie einen Rat mit Ich würde (an ihrer/seiner Stelle)...",
           "answers": {
-            "b1_p15_ex3_a": "—",
-            "b1_p15_ex3_b": "—",
-            "b1_p15_ex3_c": "—",
-            "b1_p15_ex3_d": "—",
-            "b1_p15_ex3_e": "—",
-            "b1_p15_ex3_f": "—",
-            "b1_p15_ex3_g": "—",
-            "b1_p15_ex3_h": "—",
-            "b1_p15_ex3_i": "—",
-            "b1_p15_ex3_j": "—",
-            "b1_p15_ex3_k": "—",
-            "b1_p15_ex3_l": "—"
+            "b1_p15_ex3_a": "mehr Sport treiben",
+            "b1_p15_ex3_b": "mehr schlafen",
+            "b1_p15_ex3_c": "nicht so lange im Internet spielen",
+            "b1_p15_ex3_d": "nicht so lange mit meiner Mutter telefonieren",
+            "b1_p15_ex3_e": "nicht so viel über meine Kollegen sprechen",
+            "b1_p15_ex3_f": "nicht so viel Miete zahlen",
+            "b1_p15_ex3_g": "nicht so lange mit meiner Entscheidung warten",
+            "b1_p15_ex3_h": "nicht so viel Geld ausgeben",
+            "b1_p15_ex3_i": "meine Arbeiten früher anfangen",
+            "b1_p15_ex3_j": "nicht so klein schreiben",
+            "b1_p15_ex3_k": "mich nicht so oft verspäten",
+            "b1_p15_ex3_l": "mich besser vorbereiten"
+          },
+          "alternatives": {
+            "b1_p15_ex3_a": [
+              "mehr Sport treiben",
+              "mehr Sport machen",
+              "nicht so wenig Sport treiben"
+            ],
+            "b1_p15_ex3_b": [
+              "mehr schlafen",
+              "nicht so wenig schlafen"
+            ],
+            "b1_p15_ex3_c": [
+              "nicht so lange im Internet spielen",
+              "weniger im Internet spielen"
+            ],
+            "b1_p15_ex3_d": [
+              "nicht so lange mit meiner Mutter telefonieren",
+              "nicht so lange mit seiner Mutter telefonieren",
+              "weniger telefonieren"
+            ],
+            "b1_p15_ex3_e": [
+              "nicht so viel über meine Kollegen sprechen",
+              "nicht so viel über seine Kollegen sprechen",
+              "nicht so viel über Kollegen sprechen"
+            ],
+            "b1_p15_ex3_f": [
+              "nicht so viel Miete zahlen",
+              "weniger Miete zahlen",
+              "nicht so viel Miete bezahlen"
+            ],
+            "b1_p15_ex3_g": [
+              "nicht so lange mit meiner Entscheidung warten",
+              "nicht so lange mit der Entscheidung warten"
+            ],
+            "b1_p15_ex3_h": [
+              "nicht so viel Geld ausgeben",
+              "weniger Geld ausgeben"
+            ],
+            "b1_p15_ex3_i": [
+              "meine Arbeiten früher anfangen",
+              "die Arbeiten früher anfangen",
+              "nicht so spät anfangen"
+            ],
+            "b1_p15_ex3_j": [
+              "nicht so klein schreiben",
+              "größer schreiben"
+            ],
+            "b1_p15_ex3_k": [
+              "mich nicht so oft verspäten",
+              "pünktlicher sein"
+            ],
+            "b1_p15_ex3_l": [
+              "mich besser vorbereiten",
+              "mich mehr vorbereiten"
+            ]
           },
           "explanations": {
-            "b1_p15_ex3_a": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_b": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_c": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_d": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_e": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_f": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_g": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_h": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_i": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_j": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_k": "Vollständiger Beispielsatz",
-            "b1_p15_ex3_l": "Vollständiger Beispielsatz"
+            "b1_p15_ex3_a": "Ratschlag: mehr Sport treiben",
+            "b1_p15_ex3_b": "Ratschlag: mehr schlafen",
+            "b1_p15_ex3_c": "Ratschlag: nicht so lange im Internet spielen",
+            "b1_p15_ex3_d": "Ratschlag: nicht so lange mit meiner Mutter telefonieren",
+            "b1_p15_ex3_e": "Ratschlag: nicht so viel über meine Kollegen sprechen",
+            "b1_p15_ex3_f": "Ratschlag: nicht so viel Miete zahlen",
+            "b1_p15_ex3_g": "Ratschlag: nicht so lange mit meiner Entscheidung warten",
+            "b1_p15_ex3_h": "Ratschlag: nicht so viel Geld ausgeben",
+            "b1_p15_ex3_i": "Ratschlag: meine Arbeiten früher anfangen",
+            "b1_p15_ex3_j": "Ratschlag: nicht so klein schreiben",
+            "b1_p15_ex3_k": "Ratschlag: mich nicht so oft verspäten",
+            "b1_p15_ex3_l": "Ratschlag: mich besser vorbereiten"
           },
           "items": [
             {
               "id": "b1_p15_ex3_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Clara treibt zu wenig Sport.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Clara treibt zu wenig Sport.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "mehr Sport treiben",
+              "explanation": "Ratschlag: mehr Sport treiben",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Lena schläft zu wenig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Lena schläft zu wenig.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "mehr schlafen",
+              "explanation": "Ratschlag: mehr schlafen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Dieter spielt zu lange im Internet.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Dieter spielt zu lange im Internet.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so lange im Internet spielen",
+              "explanation": "Ratschlag: nicht so lange im Internet spielen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Martin telefoniert zu lange mit seiner Mutter.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Martin telefoniert zu lange mit seiner Mutter.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so lange mit meiner Mutter telefonieren",
+              "explanation": "Ratschlag: nicht so lange mit meiner Mutter telefonieren",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Boris spricht zu viel über seine Kollegen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Boris spricht zu viel über seine Kollegen.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so viel über meine Kollegen sprechen",
+              "explanation": "Ratschlag: nicht so viel über meine Kollegen sprechen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Christa zahlt zu viel Miete.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Christa zahlt zu viel Miete.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so viel Miete zahlen",
+              "explanation": "Ratschlag: nicht so viel Miete zahlen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Sandra wartet zu lange mit ihrer Entscheidung.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sandra wartet zu lange mit ihrer Entscheidung.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so lange mit meiner Entscheidung warten",
+              "explanation": "Ratschlag: nicht so lange mit meiner Entscheidung warten",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Franz gibt zu viel Geld aus.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Franz gibt zu viel Geld aus.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so viel Geld ausgeben",
+              "explanation": "Ratschlag: nicht so viel Geld ausgeben",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Sofia fängt ihre Arbeiten immer zu spät an.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sofia fängt ihre Arbeiten immer zu spät an.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "meine Arbeiten früher anfangen",
+              "explanation": "Ratschlag: meine Arbeiten früher anfangen",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "Robert schreibt immer zu klein.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Robert schreibt immer zu klein.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "nicht so klein schreiben",
+              "explanation": "Ratschlag: nicht so klein schreiben",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "Samira verspätet sich zu oft.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Samira verspätet sich zu oft.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "mich nicht so oft verspäten",
+              "explanation": "Ratschlag: mich nicht so oft verspäten",
+              "isCompact": false
             },
             {
               "id": "b1_p15_ex3_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "Hatem bereitet sich zu wenig vor.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hatem bereitet sich zu wenig vor.",
+              "lead": "Ich würde ",
+              "tail": ".",
+              "answer": "mich besser vorbereiten",
+              "explanation": "Ratschlag: mich besser vorbereiten",
+              "isCompact": false
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Konjunktiv II\n• 1. Konjunktiv II - hätte / wäre / würde\n• Es wäre schön, wenn ich mehr Zeit hätte.\n• Wenn ich Urlaub bekommen würde,[dann] würde ich nach Rom fahren.\n• Infinitiv Präsens Konjunktiv II Konjunktiv II mit würde\n• ich\n• du\n• er, sie, es\n• wir\n• ihr\n• sie / Sie\n• wäre\n• wär[e]st\n• wäre\n• wären\n• wär[e]t\n• wären\n• hätte\n• hättest\n• hätte\n• hätten\n• hättet\n• hätten\n• würde\n• würdest\n• würde\n• würden\n• würdet\n• würden\n• haben ich habe ➔ ich hätte\n• sein ich bin ➔ ich wäre\n• werden ich werde ➔ ich würde\n• kommen ich komme ➔ ich (käme) ich würde kommen\n• fahren ich fahre ➔ ich (führe) ich würde fahren\n• sprechen ich spreche ➔ ich (spräche) ich würde sprechen\n• wissen ich weiß ➔ ich (wüsste) ich würde wissen\n• Wunsch würde gern + Infinitiv ➔ Ich würde gerne nach Hause gehen.\n• Höfliche Frage / Bitte würde + Infinitiv ➔ Würden Sie bitte die Tür schließen?\n• Meinung würde + Infinitiv ➔ Ich würde das anders machen."
+      ]
     },
     "16": {
-      "lessonTitle": "2. Konjunktiv II - Vergangenheit (Seite 16)",
+      "lessonTitle": "Lektion 16: 2. Konjunktiv II — Vergangenheit & Konditionalsätze (Seite 16)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Konjunktiv II der Vergangenheit & Irreale Konditionalsätze\n\n#### 1. Bildung des Konjunktivs II der Vergangenheit\nFür vergangene, nicht mehr veränderbare Ereignisse bildet man den Konjunktiv II mit:\n> **hätte / wäre + Partizip II**\n\n- Verben mit *haben*: *Ich hätte das Buch gelesen.* / *Wir hätten angerufen.*\n- Verben mit *sein* (Orts-/Zustandswechsel): *Ich wäre nach Rom geflogen.* / *Sie wäre geblieben.*\n\n---\n\n#### 2. Irreale Bedingungssätze (Konditionalsätze)\nEin irrealer Konditionalsatz beschreibt eine Situation, die der Realität widerspricht:\n- **Präsens:** *Wenn ich Zeit hätte, würde ich ins Kino gehen.* (Realität: Ich habe keine Zeit).\n- **Vergangenheit:** *Wenn ich Zeit gehabt hätte, wäre ich ins Kino gegangen.* (Realität: Ich hatte keine Zeit).\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - Past unreal conditional corresponds to English third conditional:\n>   *If I had studied, I would have passed the test.* ➔ *Wenn ich gelernt hätte, hätte ich den Test bestanden.*",
       "exercises": [
         {
           "id": "b1_p16_ex4",
-          "title": "Übung 4",
-          "instruction": "",
+          "title": "Übung 4: Irreale Konditionalsätze der Gegenwart",
+          "instruction": "Bilden Sie irreale Konditionalsätze mit Wenn... (Gegenwart).",
           "answers": {
-            "b1_p16_ex4_a": "—",
-            "b1_p16_ex4_b": "—",
-            "b1_p16_ex4_c": "—",
-            "b1_p16_ex4_d": "—",
-            "b1_p16_ex4_e": "—",
-            "b1_p16_ex4_f": "—",
-            "b1_p16_ex4_2": "—"
+            "b1_p16_ex4_a": "würde er nicht so langsam fahren",
+            "b1_p16_ex4_b": "wäre sie nicht so müde",
+            "b1_p16_ex4_c": "hätte er keinen Husten",
+            "b1_p16_ex4_d": "würde sie keine Brille tragen",
+            "b1_p16_ex4_e": "würde sie nicht so viel Schokolade essen",
+            "b1_p16_ex4_f": "würde er nicht zum Arzt gehen"
+          },
+          "alternatives": {
+            "b1_p16_ex4_a": [
+              "würde er nicht so langsam fahren",
+              "führe er nicht so langsam"
+            ],
+            "b1_p16_ex4_b": [
+              "wäre sie nicht so müde",
+              "würde sie nicht so müde sein"
+            ],
+            "b1_p16_ex4_c": [
+              "hätte er keinen Husten",
+              "würde er keinen Husten haben"
+            ],
+            "b1_p16_ex4_d": [
+              "würde sie keine Brille tragen",
+              "trüge sie keine Brille"
+            ],
+            "b1_p16_ex4_e": [
+              "würde sie nicht so viel Schokolade essen",
+              "äße sie nicht so viel Schokolade"
+            ],
+            "b1_p16_ex4_f": [
+              "würde er nicht zum Arzt gehen",
+              "ginge er nicht zum Arzt"
+            ]
           },
           "explanations": {
-            "b1_p16_ex4_a": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_b": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_c": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_d": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_e": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_f": "Vollständiger Beispielsatz",
-            "b1_p16_ex4_2": "Vollständiger Beispielsatz"
+            "b1_p16_ex4_a": "Hauptsatz: würde er nicht so langsam fahren",
+            "b1_p16_ex4_b": "Hauptsatz: wäre sie nicht so müde",
+            "b1_p16_ex4_c": "Hauptsatz: hätte er keinen Husten",
+            "b1_p16_ex4_d": "Hauptsatz: würde sie keine Brille tragen",
+            "b1_p16_ex4_e": "Hauptsatz: würde sie nicht so viel Schokolade essen",
+            "b1_p16_ex4_f": "Hauptsatz: würde er nicht zum Arzt gehen"
           },
           "items": [
             {
               "id": "b1_p16_ex4_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Max ist vorsichtig. Deshalb fährt er sehr langsam.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Max ist vorsichtig. Deshalb fährt er sehr langsam.",
+              "lead": "Wenn Max nicht so vorsichtig wäre, ",
+              "tail": ".",
+              "answer": "würde er nicht so langsam fahren",
+              "explanation": "Hauptsatz: würde er nicht so langsam fahren",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex4_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Tanja schläft sehr wenig. Deshalb ist sie müde.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Tanja schläft sehr wenig. Deshalb ist sie müde.",
+              "lead": "Wenn Tanja mehr schlafen würde, ",
+              "tail": ".",
+              "answer": "wäre sie nicht so müde",
+              "explanation": "Hauptsatz: wäre sie nicht so müde",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex4_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Jonas raucht sehr viel. Deshalb hat er Husten.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Jonas raucht sehr viel. Deshalb hat er Husten.",
+              "lead": "Wenn Jonas nicht so viel rauchen würde, ",
+              "tail": ".",
+              "answer": "hätte er keinen Husten",
+              "explanation": "Hauptsatz: hätte er keinen Husten",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex4_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Eva sieht schlecht. Deshalb trägt sie eine Brille.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Eva sieht schlecht. Deshalb trägt sie eine Brille.",
+              "lead": "Wenn Eva besser sehen würde, ",
+              "tail": ".",
+              "answer": "würde sie keine Brille tragen",
+              "explanation": "Hauptsatz: würde sie keine Brille tragen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex4_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Jana ist frustriert. Deshalb isst sie viel Schokolade.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Jana ist frustriert. Deshalb isst sie viel Schokolade.",
+              "lead": "Wenn Jana nicht frustriert wäre, ",
+              "tail": ".",
+              "answer": "würde sie nicht so viel Schokolade essen",
+              "explanation": "Hauptsatz: würde sie nicht so viel Schokolade essen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex4_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Paul fühlt sich unwohl. Deshalb geht er zum Arzt.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p16_ex4_2",
-              "label": "2.",
-              "prompt": "",
-              "lead": "Konjunktiv II  - Vergangenheit",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Paul fühlt sich unwohl. Deshalb geht er zum Arzt.",
+              "lead": "Wenn Paul sich nicht unwohl fühlen würde, ",
+              "tail": ".",
+              "answer": "würde er nicht zum Arzt gehen",
+              "explanation": "Hauptsatz: würde er nicht zum Arzt gehen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p16_ex5",
-          "title": "Übung 5",
-          "instruction": "",
+          "title": "Übung 5: Verpasste Wünsche in der Vergangenheit (wäre / hätte gern...)",
+          "instruction": "Lisa hatte keine Zeit. Formulieren Sie ihre verpassten Wünsche mit hätte / wäre so gerne...",
           "answers": {
-            "b1_p16_ex5_a": "—",
-            "b1_p16_ex5_b": "—",
-            "b1_p16_ex5_c": "das",
-            "b1_p16_ex5_d": "—",
-            "b1_p16_ex5_e": "—",
-            "b1_p16_ex5_f": "—",
-            "b1_p16_ex5_g": "—",
-            "b1_p16_ex5_h": "—",
-            "b1_p16_ex5_i": "—",
-            "b1_p16_ex5_j": "—",
-            "b1_p16_ex5_k": "—",
-            "b1_p16_ex5_l": "—",
-            "b1_p16_ex5_m": "—",
-            "b1_p16_ex5_n": "—",
-            "b1_p16_ex5_o": "—"
+            "b1_p16_ex5_a": "hätte so gerne meinen Freunden geholfen",
+            "b1_p16_ex5_b": "wäre so gerne länger in Köln geblieben",
+            "b1_p16_ex5_c": "hätte so gerne ein Buch gelesen",
+            "b1_p16_ex5_d": "wäre so gerne nach Berlin geflogen",
+            "b1_p16_ex5_e": "hätte so gerne meine Tante besucht",
+            "b1_p16_ex5_f": "hätte so gerne mit meiner Cousine telefoniert",
+            "b1_p16_ex5_g": "hätte so gerne mein Zimmer gestrichen",
+            "b1_p16_ex5_h": "hätte so gerne mein Fahrrad repariert",
+            "b1_p16_ex5_i": "wäre so gerne in Urlaub gefahren",
+            "b1_p16_ex5_j": "wäre so gerne mit Jana ins Kino gegangen",
+            "b1_p16_ex5_k": "hätte so gerne den Keller aufgeräumt",
+            "b1_p16_ex5_l": "hätte so gerne am Seminar teilgenommen",
+            "b1_p16_ex5_m": "hätte mich so gerne mit Maria unterhalten",
+            "b1_p16_ex5_n": "hätte mir so gerne diesen Film angesehen",
+            "b1_p16_ex5_o": "hätte so gerne meine Kolleginnen eingeladen"
+          },
+          "alternatives": {
+            "b1_p16_ex5_a": [
+              "hätte so gerne meinen Freunden geholfen",
+              "hätte so gern meinen Freunden geholfen"
+            ],
+            "b1_p16_ex5_b": [
+              "wäre so gerne länger in Köln geblieben",
+              "wäre so gern länger in Köln geblieben"
+            ],
+            "b1_p16_ex5_c": [
+              "hätte so gerne ein Buch gelesen",
+              "hätte so gern ein Buch gelesen"
+            ],
+            "b1_p16_ex5_d": [
+              "wäre so gerne nach Berlin geflogen",
+              "wäre so gern nach Berlin geflogen"
+            ],
+            "b1_p16_ex5_e": [
+              "hätte so gerne meine Tante besucht",
+              "hätte so gern meine Tante besucht"
+            ],
+            "b1_p16_ex5_f": [
+              "hätte so gerne mit meiner Cousine telefoniert",
+              "hätte so gern mit meiner Cousine telefoniert"
+            ],
+            "b1_p16_ex5_g": [
+              "hätte so gerne mein Zimmer gestrichen",
+              "hätte so gern mein Zimmer gestrichen"
+            ],
+            "b1_p16_ex5_h": [
+              "hätte so gerne mein Fahrrad repariert",
+              "hätte so gern mein Fahrrad repariert"
+            ],
+            "b1_p16_ex5_i": [
+              "wäre so gerne in Urlaub gefahren",
+              "wäre so gern in Urlaub gefahren",
+              "wäre so gerne in den Urlaub gefahren"
+            ],
+            "b1_p16_ex5_j": [
+              "wäre so gerne mit Jana ins Kino gegangen",
+              "wäre so gern mit Jana ins Kino gegangen"
+            ],
+            "b1_p16_ex5_k": [
+              "hätte so gerne den Keller aufgeräumt",
+              "hätte so gern den Keller aufgeräumt"
+            ],
+            "b1_p16_ex5_l": [
+              "hätte so gerne am Seminar teilgenommen",
+              "hätte so gern am Seminar teilgenommen"
+            ],
+            "b1_p16_ex5_m": [
+              "hätte mich so gerne mit Maria unterhalten",
+              "hätte mich so gern mit Maria unterhalten"
+            ],
+            "b1_p16_ex5_n": [
+              "hätte mir so gerne diesen Film angesehen",
+              "hätte mir so gern diesen Film angesehen"
+            ],
+            "b1_p16_ex5_o": [
+              "hätte so gerne meine Kolleginnen eingeladen",
+              "hätte so gern meine Kolleginnen eingeladen",
+              "hätte so gerne meine Kolleg*innen eingeladen",
+              "hätte so gerne meine Kollegen eingeladen"
+            ]
           },
           "explanations": {
-            "b1_p16_ex5_a": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_b": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_c": "Neutral ➔ das",
-            "b1_p16_ex5_d": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_e": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_f": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_g": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_h": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_i": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_j": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_k": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_l": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_m": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_n": "Vollständiger Beispielsatz",
-            "b1_p16_ex5_o": "Vollständiger Beispielsatz"
+            "b1_p16_ex5_a": "helfen (haben) ➔ hätte ... geholfen",
+            "b1_p16_ex5_b": "bleiben (sein) ➔ wäre ... geblieben",
+            "b1_p16_ex5_c": "lesen (haben) ➔ hätte ... gelesen",
+            "b1_p16_ex5_d": "fliegen (sein) ➔ wäre ... geflogen",
+            "b1_p16_ex5_e": "besuchen (haben) ➔ hätte ... besucht",
+            "b1_p16_ex5_f": "telefonieren (haben) ➔ hätte ... telefoniert",
+            "b1_p16_ex5_g": "streichen (haben) ➔ hätte ... gestrichen",
+            "b1_p16_ex5_h": "reparieren (haben) ➔ hätte ... repariert",
+            "b1_p16_ex5_i": "fahren (sein) ➔ wäre ... gefahren",
+            "b1_p16_ex5_j": "gehen (sein) ➔ wäre ... gegangen",
+            "b1_p16_ex5_k": "aufräumen (haben) ➔ hätte ... aufgeräumt",
+            "b1_p16_ex5_l": "teilnehmen (haben) ➔ hätte ... teilgenommen",
+            "b1_p16_ex5_m": "unterhalten (haben) ➔ hätte mich ... unterhalten",
+            "b1_p16_ex5_n": "ansehen (haben) ➔ hätte mir ... angesehen",
+            "b1_p16_ex5_o": "einladen (haben) ➔ hätte ... eingeladen"
           },
           "items": [
             {
               "id": "b1_p16_ex5_a",
               "label": "a)",
-              "prompt": "meinen",
-              "lead": "Freunden helfen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "meinen Freunden helfen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne meinen Freunden geholfen",
+              "explanation": "helfen (haben) ➔ hätte ... geholfen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "länger in Köln bleiben",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "länger in Köln bleiben",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "wäre so gerne länger in Köln geblieben",
+              "explanation": "bleiben (sein) ➔ wäre ... geblieben",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "ein Buch lesen",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "ein Buch lesen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne ein Buch gelesen",
+              "explanation": "lesen (haben) ➔ hätte ... gelesen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "nach Berlin fliegen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "nach Berlin fliegen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "wäre so gerne nach Berlin geflogen",
+              "explanation": "fliegen (sein) ➔ wäre ... geflogen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "meine Tante besuchen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "meine Tante besuchen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne meine Tante besucht",
+              "explanation": "besuchen (haben) ➔ hätte ... besucht",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "mit meiner Cousine telefonieren",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mit meiner Cousine telefonieren",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne mit meiner Cousine telefoniert",
+              "explanation": "telefonieren (haben) ➔ hätte ... telefoniert",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "mein Zimmer streichen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mein Zimmer streichen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne mein Zimmer gestrichen",
+              "explanation": "streichen (haben) ➔ hätte ... gestrichen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "mein Fahrrad reparieren",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mein Fahrrad reparieren",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne mein Fahrrad repariert",
+              "explanation": "reparieren (haben) ➔ hätte ... repariert",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "in Urlaub fahren",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "in Urlaub fahren",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "wäre so gerne in Urlaub gefahren",
+              "explanation": "fahren (sein) ➔ wäre ... gefahren",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "mit Jana ins Kino gehen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mit Jana ins Kino gehen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "wäre so gerne mit Jana ins Kino gegangen",
+              "explanation": "gehen (sein) ➔ wäre ... gegangen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_k",
               "label": "k)",
-              "prompt": "den",
-              "lead": "Keller aufräumen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "den Keller aufräumen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne den Keller aufgeräumt",
+              "explanation": "aufräumen (haben) ➔ hätte ... aufgeräumt",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "am Seminar teilnehmen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "am Seminar teilnehmen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne am Seminar teilgenommen",
+              "explanation": "teilnehmen (haben) ➔ hätte ... teilgenommen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_m",
               "label": "m)",
-              "prompt": "",
-              "lead": "mich mit Maria unterhalten",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mich mit Maria unterhalten",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte mich so gerne mit Maria unterhalten",
+              "explanation": "unterhalten (haben) ➔ hätte mich ... unterhalten",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_n",
               "label": "n)",
-              "prompt": "",
-              "lead": "mir diesen Film ansehen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "mir diesen Film ansehen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte mir so gerne diesen Film angesehen",
+              "explanation": "ansehen (haben) ➔ hätte mir ... angesehen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex5_o",
               "label": "o)",
-              "prompt": "",
-              "lead": "meine Kolleg*innen einladen",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "meine Kolleg*innen einladen",
+              "lead": "Ich ",
+              "tail": ".",
+              "answer": "hätte so gerne meine Kolleginnen eingeladen",
+              "explanation": "einladen (haben) ➔ hätte ... eingeladen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p16_ex6",
-          "title": "Übung 6",
-          "instruction": "",
+          "title": "Übung 6: Irreale Konditionalsätze der Vergangenheit",
+          "instruction": "Verbinden Sie die Sätze zu irrealen Bedingungen der Vergangenheit (Wenn... hätte/wäre..., wäre/hätte...).",
           "answers": {
-            "b1_p16_ex6_a": "—",
-            "b1_p16_ex6_b": "—",
-            "b1_p16_ex6_c": "—",
-            "b1_p16_ex6_d": "—",
-            "b1_p16_ex6_e": "—",
-            "b1_p16_ex6_f": "—",
-            "b1_p16_ex6_g": "—",
-            "b1_p16_ex6_h": "—"
+            "b1_p16_ex6_a": "hätte sie den Test bestanden",
+            "b1_p16_ex6_b": "hätte ich sie verstanden",
+            "b1_p16_ex6_c": "hätte er keinen Ärger bekommen",
+            "b1_p16_ex6_d": "wären wir spazieren gegangen",
+            "b1_p16_ex6_e": "wäre sie nicht zu spät gekommen",
+            "b1_p16_ex6_f": "hätte er nichts vergessen",
+            "b1_p16_ex6_g": "hätte sie einen Platz bekommen",
+            "b1_p16_ex6_h": "hätte sie alles gehört"
+          },
+          "alternatives": {
+            "b1_p16_ex6_a": [
+              "hätte sie den Test bestanden"
+            ],
+            "b1_p16_ex6_b": [
+              "hätte ich sie verstanden"
+            ],
+            "b1_p16_ex6_c": [
+              "hätte er keinen Ärger bekommen"
+            ],
+            "b1_p16_ex6_d": [
+              "wären wir spazieren gegangen"
+            ],
+            "b1_p16_ex6_e": [
+              "wäre sie nicht zu spät gekommen",
+              "wäre sie pünktlich gekommen"
+            ],
+            "b1_p16_ex6_f": [
+              "hätte er nichts vergessen"
+            ],
+            "b1_p16_ex6_g": [
+              "hätte sie einen Platz bekommen"
+            ],
+            "b1_p16_ex6_h": [
+              "hätte sie alles gehört"
+            ]
           },
           "explanations": {
-            "b1_p16_ex6_a": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_b": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_c": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_d": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_e": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_f": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_g": "Vollständiger Beispielsatz",
-            "b1_p16_ex6_h": "Vollständiger Beispielsatz"
+            "b1_p16_ex6_a": "bestehen ➔ hätte sie den Test bestanden",
+            "b1_p16_ex6_b": "verstehen ➔ hätte ich sie verstanden",
+            "b1_p16_ex6_c": "bekommen ➔ hätte er keinen Ärger bekommen",
+            "b1_p16_ex6_d": "spazieren gehen ➔ wären wir spazieren gegangen",
+            "b1_p16_ex6_e": "kommen ➔ wäre sie nicht zu spät gekommen",
+            "b1_p16_ex6_f": "vergessen ➔ hätte er nichts vergessen",
+            "b1_p16_ex6_g": "bekommen ➔ hätte sie einen Platz bekommen",
+            "b1_p16_ex6_h": "hören ➔ hätte sie alles gehört"
           },
           "items": [
             {
               "id": "b1_p16_ex6_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Christa hat sich nicht vorbereitet. Deshalb hat sie den Test nicht bestanden.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Christa hat sich nicht vorbereitet. Deshalb hat sie den Test nicht bestanden.",
+              "lead": "Wenn Christa sich vorbereitet hätte, ",
+              "tail": ".",
+              "answer": "hätte sie den Test bestanden",
+              "explanation": "bestehen ➔ hätte sie den Test bestanden",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Laura sprach nicht deutlich. Deshalb habe ich sie nicht verstanden.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Laura sprach nicht deutlich. Deshalb habe ich sie nicht verstanden.",
+              "lead": "Wenn Laura deutlich gesprochen hätte, ",
+              "tail": ".",
+              "answer": "hätte ich sie verstanden",
+              "explanation": "verstehen ➔ hätte ich sie verstanden",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Thomas hat nicht angerufen. Deshalb hat er Ärger bekommen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Thomas hat nicht angerufen. Deshalb hat er Ärger bekommen.",
+              "lead": "Wenn Thomas angerufen hätte, ",
+              "tail": ".",
+              "answer": "hätte er keinen Ärger bekommen",
+              "explanation": "bekommen ➔ hätte er keinen Ärger bekommen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Es hat die ganze Zeit geregnet. Deshalb sind wir nicht spazieren gegangen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es hat die ganze Zeit geregnet. Deshalb sind wir nicht spazieren gegangen.",
+              "lead": "Wenn es nicht geregnet hätte, ",
+              "tail": ".",
+              "answer": "wären wir spazieren gegangen",
+              "explanation": "spazieren gehen ➔ wären wir spazieren gegangen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Monika hat den Bus verpasst. Deshalb ist sie zu spät gekommen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Monika hat den Bus verpasst. Deshalb ist sie zu spät gekommen.",
+              "lead": "Wenn Monika den Bus nicht verpasst hätte, ",
+              "tail": ".",
+              "answer": "wäre sie nicht zu spät gekommen",
+              "explanation": "kommen ➔ wäre sie nicht zu spät gekommen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Paul hat nicht alles aufgeschrieben. Deshalb hat er etwas vergessen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Paul hat nicht alles aufgeschrieben. Deshalb hat er etwas vergessen.",
+              "lead": "Wenn Paul alles aufgeschrieben hätte, ",
+              "tail": ".",
+              "answer": "hätte er nichts vergessen",
+              "explanation": "vergessen ➔ hätte er nichts vergessen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Lena hat nicht rechtzeitig reserviert. Deshalb hat sie keinen Platz bekommen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Lena hat nicht rechtzeitig reserviert. Deshalb hat sie keinen Platz bekommen.",
+              "lead": "Wenn Lena rechtzeitig reserviert hätte, ",
+              "tail": ".",
+              "answer": "hätte sie einen Platz bekommen",
+              "explanation": "bekommen ➔ hätte sie einen Platz bekommen",
+              "isCompact": false
             },
             {
               "id": "b1_p16_ex6_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Tina hat sich nicht konzentriert. Deshalb hat sie nicht alles gehört.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Tina hat sich nicht konzentriert. Deshalb hat sie nicht alles gehört.",
+              "lead": "Wenn Tina sich konzentriert hätte, ",
+              "tail": ".",
+              "answer": "hätte sie alles gehört",
+              "explanation": "hören ➔ hätte sie alles gehört",
+              "isCompact": false
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Realität: ➔ Spekulation / Vermutung:\n• Ich habe Zeit. Ich gehe ins Kino. Wenn ich keine Zeit hätte, würde ich nicht ins Kino gehen.\n• Ich habe keine Zeit. Ich gehe nicht ins Kino. Wenn ich Zeit hätte, würde ich ins Kino gehen.\n• Es ist ziemlich kalt. Ich trage eine Jacke. Wenn es warm / nicht kalt wäre, würde ich keine Jacke tragen.\n• Ich bin satt. Ich esse nichts. Wenn ich nicht satt / hungrig wäre, würde ich etwas essen.\n• Ich bin durstig. Ich trinke etwas. Wenn ich nicht durstig wäre, würde ich nichts trinken.\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Präsens: Wenn ich jetzt weniger Stress hätte, wäre ich glücklicher.\n• Vergangenheit: Wenn ich früher weniger Stress gehabt hätte, wäre ich glücklicher gewesen.\n• Präsens: Wenn ich jetzt mehr Geld verdienen würde, würde ich dieses Jahr nach Kuba fliegen.\n• Vergangenheit: Wenn ich früher mehr Geld verdient hätte, wäre ich schon lange nach Kuba geflogen.\n• Der Konjunktiv II für die Vergangenheit wird mit hätte oder wäre und Partizip II gebildet.\n• haben ➔ hätte ➔ hätte gehabt kaufen ➔ würde kaufen ➔ hätte gekauft\n• sein ➔ wäre ➔ wäre gewesen gehen ➔ würde gehen ➔ wäre gegangen"
+      ]
     },
     "17": {
-      "lessonTitle": "3. Konjunktiv II - Modalverben (Seite 17)",
+      "lessonTitle": "Lektion 17: 3. Konjunktiv II — Modalverben (Seite 17)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Konjunktiv II der Modalverben\n\nDie Modalverben bilden den Konjunktiv II mit dem **Präteritumstamm + Umlaut** (außer *sollen* und *wollen*):\n\n---\n\n#### 1. Formenübersicht\n\n| Infinitiv | Präteritum | **Konjunktiv II** | Bedeutung / Verwendung |\n| :--- | :--- | :--- | :--- |\n| **können** | konnte | **könnte** | Höfliche Frage / Möglichkeit (*Könntest du mir helfen?*) |\n| **dürfen** | durfte | **dürfte** | Erlaubnis / Vermutung (*Dürfte ich etwas fragen?*) |\n| **müssen** | musste | **müsste** | Notwendigkeit (*Ich müsste jetzt gehen.*) |\n| **sollen** | sollte | **sollte** (*ohne Umlaut*) | Empfehlung / Rat (*Du solltest mehr schlafen.*) |\n| **wollen** | wollte | **wollte** (*ohne Umlaut*) | Wunsch (*Er wollte, er wäre reich.*) |\n| **mögen** | mochte | **möchte** | Wunsch (*Ich möchte einen Tee.*) |\n\n---\n\n#### 2. Wichtige Verwendungen\n- **Höfliche Bitte mit *könnten*:** *Könnten Sie das bitte wiederholen?*\n- **Empfehlung / Ratschlag mit *sollte*:** *Du solltest nicht so schnell fahren.*\n- **Hypothese / Bedingung:** *Wenn er nicht krank wäre, müsste er zur Arbeit gehen.*",
       "exercises": [
         {
           "id": "b1_p17_ex7",
-          "title": "Übung 7",
-          "instruction": "",
+          "title": "Übung 7: Höfliche Bitten mit Könntest du bitte...",
+          "instruction": "Verwandeln Sie den Imperativ in eine höfliche Bitte mit Könntest du bitte...?",
           "answers": {
-            "b1_p17_ex7_a": "—",
-            "b1_p17_ex7_b": "—",
-            "b1_p17_ex7_c": "—",
-            "b1_p17_ex7_d": "—",
-            "b1_p17_ex7_e": "—",
-            "b1_p17_ex7_f": "—",
-            "b1_p17_ex7_g": "—",
-            "b1_p17_ex7_h": "—",
-            "b1_p17_ex7_i": "—"
+            "b1_p17_ex7_a": "lauter sprechen",
+            "b1_p17_ex7_b": "den Rucksack holen",
+            "b1_p17_ex7_c": "das noch einmal sagen",
+            "b1_p17_ex7_d": "mich mitnehmen",
+            "b1_p17_ex7_e": "die Bücher bringen",
+            "b1_p17_ex7_f": "die Liste ausfüllen",
+            "b1_p17_ex7_g": "eine Nachricht schicken",
+            "b1_p17_ex7_h": "den Tisch decken",
+            "b1_p17_ex7_i": "den Keller aufräumen"
+          },
+          "alternatives": {
+            "b1_p17_ex7_a": [
+              "lauter sprechen",
+              "Könntest du bitte lauter sprechen?"
+            ],
+            "b1_p17_ex7_b": [
+              "den Rucksack holen",
+              "Könntest du bitte den Rucksack holen?"
+            ],
+            "b1_p17_ex7_c": [
+              "das noch einmal sagen",
+              "das bitte noch einmal sagen",
+              "Könntest du bitte das noch einmal sagen?"
+            ],
+            "b1_p17_ex7_d": [
+              "mich mitnehmen",
+              "mich bitte mitnehmen",
+              "Könntest du bitte mich mitnehmen?"
+            ],
+            "b1_p17_ex7_e": [
+              "die Bücher bringen",
+              "Könntest du bitte die Bücher bringen?"
+            ],
+            "b1_p17_ex7_f": [
+              "die Liste ausfüllen",
+              "Könntest du bitte die Liste ausfüllen?"
+            ],
+            "b1_p17_ex7_g": [
+              "eine Nachricht schicken",
+              "Könntest du bitte eine Nachricht schicken?"
+            ],
+            "b1_p17_ex7_h": [
+              "den Tisch decken",
+              "Könntest du bitte den Tisch decken?"
+            ],
+            "b1_p17_ex7_i": [
+              "den Keller aufräumen",
+              "Könntest du bitte den Keller aufräumen?"
+            ]
           },
           "explanations": {
-            "b1_p17_ex7_a": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_b": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_c": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_d": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_e": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_f": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_g": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_h": "Vollständiger Beispielsatz",
-            "b1_p17_ex7_i": "Vollständiger Beispielsatz"
+            "b1_p17_ex7_a": "lauter sprechen",
+            "b1_p17_ex7_b": "den Rucksack holen",
+            "b1_p17_ex7_c": "das noch einmal sagen",
+            "b1_p17_ex7_d": "mich mitnehmen",
+            "b1_p17_ex7_e": "die Bücher bringen",
+            "b1_p17_ex7_f": "die Liste ausfüllen",
+            "b1_p17_ex7_g": "eine Nachricht schicken",
+            "b1_p17_ex7_h": "den Tisch decken",
+            "b1_p17_ex7_i": "den Keller aufräumen"
           },
           "items": [
             {
               "id": "b1_p17_ex7_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Sprich bitte lauter.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sprich bitte lauter.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "lauter sprechen",
+              "explanation": "lauter sprechen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Hol bitte den Rucksack.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hol bitte den Rucksack.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "den Rucksack holen",
+              "explanation": "den Rucksack holen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Sag das bitte noch einmal.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sag das bitte noch einmal.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "das noch einmal sagen",
+              "explanation": "das noch einmal sagen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Nimm mich bitte mit.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Nimm mich bitte mit.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "mich mitnehmen",
+              "explanation": "mich mitnehmen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Bring bitte die Bücher.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Bring bitte die Bücher.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "die Bücher bringen",
+              "explanation": "die Bücher bringen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Füll bitte die Liste aus.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Füll bitte die Liste aus.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "die Liste ausfüllen",
+              "explanation": "die Liste ausfüllen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Schick bitte eine Nachricht.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Schick bitte eine Nachricht.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "eine Nachricht schicken",
+              "explanation": "eine Nachricht schicken",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Deck bitte den Tisch.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Deck bitte den Tisch.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "den Tisch decken",
+              "explanation": "den Tisch decken",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex7_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Räum bitte den Keller auf.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Räum bitte den Keller auf.",
+              "lead": "Könntest du bitte ",
+              "tail": "?",
+              "answer": "den Keller aufräumen",
+              "explanation": "den Keller aufräumen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p17_ex8",
-          "title": "Übung 8",
-          "instruction": "",
+          "title": "Übung 8: Ratschläge mit sollte formulieren",
+          "instruction": "Geben Sie eine Empfehlung mit sollte / sollte nicht...",
           "answers": {
-            "b1_p17_ex8_a": "—",
-            "b1_p17_ex8_b": "—",
-            "b1_p17_ex8_c": "—",
-            "b1_p17_ex8_d": "—",
-            "b1_p17_ex8_e": "—",
-            "b1_p17_ex8_f": "—",
-            "b1_p17_ex8_g": "—",
-            "b1_p17_ex8_h": "—"
+            "b1_p17_ex8_a": "lauter sprechen",
+            "b1_p17_ex8_b": "mehr schlafen",
+            "b1_p17_ex8_c": "nicht so viel Geld ausgeben",
+            "b1_p17_ex8_d": "mehr lesen",
+            "b1_p17_ex8_e": "nicht so viele Termine vergessen",
+            "b1_p17_ex8_f": "mehr über dieses Thema wissen",
+            "b1_p17_ex8_g": "öfter bei ihren Eltern anrufen",
+            "b1_p17_ex8_h": "nicht so viele Dinge gleichzeitig anfangen"
+          },
+          "alternatives": {
+            "b1_p17_ex8_a": [
+              "lauter sprechen",
+              "nicht so leise sprechen"
+            ],
+            "b1_p17_ex8_b": [
+              "mehr schlafen",
+              "nicht so wenig schlafen"
+            ],
+            "b1_p17_ex8_c": [
+              "nicht so viel Geld ausgeben",
+              "weniger Geld ausgeben"
+            ],
+            "b1_p17_ex8_d": [
+              "mehr lesen",
+              "nicht so wenig lesen"
+            ],
+            "b1_p17_ex8_e": [
+              "nicht so viele Termine vergessen",
+              "weniger Termine vergessen"
+            ],
+            "b1_p17_ex8_f": [
+              "mehr über dieses Thema wissen",
+              "sich besser informieren",
+              "zu diesem Thema mehr wissen"
+            ],
+            "b1_p17_ex8_g": [
+              "öfter bei ihren Eltern anrufen",
+              "häufiger bei ihren Eltern anrufen"
+            ],
+            "b1_p17_ex8_h": [
+              "nicht so viele Dinge gleichzeitig anfangen",
+              "weniger Dinge gleichzeitig anfangen"
+            ]
           },
           "explanations": {
-            "b1_p17_ex8_a": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_b": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_c": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_d": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_e": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_f": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_g": "Vollständiger Beispielsatz",
-            "b1_p17_ex8_h": "Vollständiger Beispielsatz"
+            "b1_p17_ex8_a": "Empfehlung: lauter sprechen",
+            "b1_p17_ex8_b": "Empfehlung: mehr schlafen",
+            "b1_p17_ex8_c": "Empfehlung: nicht so viel Geld ausgeben",
+            "b1_p17_ex8_d": "Empfehlung: mehr lesen",
+            "b1_p17_ex8_e": "Empfehlung: nicht so viele Termine vergessen",
+            "b1_p17_ex8_f": "Empfehlung: mehr über dieses Thema wissen",
+            "b1_p17_ex8_g": "Empfehlung: öfter bei ihren Eltern anrufen",
+            "b1_p17_ex8_h": "Empfehlung: nicht so viele Dinge gleichzeitig anfangen"
           },
           "items": [
             {
               "id": "b1_p17_ex8_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Boris spricht zu leise.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Boris spricht zu leise.",
+              "lead": "Er sollte ",
+              "tail": ".",
+              "answer": "lauter sprechen",
+              "explanation": "Empfehlung: lauter sprechen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Sandra schläft zu wenig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sandra schläft zu wenig.",
+              "lead": "Sie sollte ",
+              "tail": ".",
+              "answer": "mehr schlafen",
+              "explanation": "Empfehlung: mehr schlafen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Franz gibt zu viel Geld aus.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Franz gibt zu viel Geld aus.",
+              "lead": "Er sollte ",
+              "tail": ".",
+              "answer": "nicht so viel Geld ausgeben",
+              "explanation": "Empfehlung: nicht so viel Geld ausgeben",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Gabi liest zu wenig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Gabi liest zu wenig.",
+              "lead": "Sie sollte ",
+              "tail": ".",
+              "answer": "mehr lesen",
+              "explanation": "Empfehlung: mehr lesen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Thomas vergisst zu viele Termine.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Thomas vergisst zu viele Termine.",
+              "lead": "Er sollte ",
+              "tail": ".",
+              "answer": "nicht so viele Termine vergessen",
+              "explanation": "Empfehlung: nicht so viele Termine vergessen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Peter weiß zu diesem Thema zu wenig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Peter weiß zu diesem Thema zu wenig.",
+              "lead": "Er sollte ",
+              "tail": ".",
+              "answer": "mehr über dieses Thema wissen",
+              "explanation": "Empfehlung: mehr über dieses Thema wissen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Anja ruft zu selten bei ihren Eltern an.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Anja ruft zu selten bei ihren Eltern an.",
+              "lead": "Sie sollte ",
+              "tail": ".",
+              "answer": "öfter bei ihren Eltern anrufen",
+              "explanation": "Empfehlung: öfter bei ihren Eltern anrufen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex8_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Eva fängt zu viele Dinge gleichzeitig an.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Eva fängt zu viele Dinge gleichzeitig an.",
+              "lead": "Sie sollte ",
+              "tail": ".",
+              "answer": "nicht so viele Dinge gleichzeitig anfangen",
+              "explanation": "Empfehlung: nicht so viele Dinge gleichzeitig anfangen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p17_ex9",
-          "title": "Übung 9",
-          "instruction": "",
+          "title": "Übung 9: Hypothesen mit Modalverben im Konjunktiv II",
+          "instruction": "Bilden Sie hypothetische Bedingungssätze mit Konjunktiv II der Modalverben (könnte, müsste, dürfte).",
           "answers": {
-            "b1_p17_ex9_a": "das",
-            "b1_p17_ex9_b": "—",
-            "b1_p17_ex9_c": "—",
-            "b1_p17_ex9_d": "—",
-            "b1_p17_ex9_e": "—",
-            "b1_p17_ex9_f": "—",
-            "b1_p17_ex9_g": "—",
-            "b1_p17_ex9_h": "—",
-            "b1_p17_ex9_i": "—"
+            "b1_p17_ex9_a": "dürfte er mit dem Auto fahren",
+            "b1_p17_ex9_b": "könnte er zur Party kommen",
+            "b1_p17_ex9_c": "dürfte sie Erdbeeren essen",
+            "b1_p17_ex9_d": "müsste Elfi die Arbeit nicht alleine erledigen",
+            "b1_p17_ex9_e": "könnte sie etwas zu diesem Thema sagen",
+            "b1_p17_ex9_f": "könntest du die Frage beantworten",
+            "b1_p17_ex9_g": "würde er nach München fahren",
+            "b1_p17_ex9_h": "könnte er das Fahrrad reparieren",
+            "b1_p17_ex9_i": "dürfte Theo am Computer spielen"
+          },
+          "alternatives": {
+            "b1_p17_ex9_a": [
+              "dürfte er mit dem Auto fahren"
+            ],
+            "b1_p17_ex9_b": [
+              "könnte er zur Party kommen"
+            ],
+            "b1_p17_ex9_c": [
+              "dürfte sie Erdbeeren essen"
+            ],
+            "b1_p17_ex9_d": [
+              "müsste Elfi die Arbeit nicht alleine erledigen",
+              "müsste sie die Arbeit nicht alleine erledigen"
+            ],
+            "b1_p17_ex9_e": [
+              "könnte sie etwas zu diesem Thema sagen",
+              "könnte sie zu diesem Thema etwas sagen"
+            ],
+            "b1_p17_ex9_f": [
+              "könntest du die Frage beantworten"
+            ],
+            "b1_p17_ex9_g": [
+              "würde er nach München fahren",
+              "führe er nach München"
+            ],
+            "b1_p17_ex9_h": [
+              "könnte er das Fahrrad reparieren"
+            ],
+            "b1_p17_ex9_i": [
+              "dürfte Theo am Computer spielen",
+              "dürfte er am Computer spielen"
+            ]
           },
           "explanations": {
-            "b1_p17_ex9_a": "Neutral ➔ das",
-            "b1_p17_ex9_b": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_c": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_d": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_e": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_f": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_g": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_h": "Vollständiger Beispielsatz",
-            "b1_p17_ex9_i": "Vollständiger Beispielsatz"
+            "b1_p17_ex9_a": "dürfen ➔ dürfte er mit dem Auto fahren",
+            "b1_p17_ex9_b": "können ➔ könnte er zur Party kommen",
+            "b1_p17_ex9_c": "dürfen ➔ dürfte sie Erdbeeren essen",
+            "b1_p17_ex9_d": "müssen ➔ müsste Elfi die Arbeit nicht alleine erledigen",
+            "b1_p17_ex9_e": "können ➔ könnte sie etwas zu diesem Thema sagen",
+            "b1_p17_ex9_f": "können ➔ könntest du die Frage beantworten",
+            "b1_p17_ex9_g": "fahren ➔ würde er nach München fahren",
+            "b1_p17_ex9_h": "können ➔ könnte er das Fahrrad reparieren",
+            "b1_p17_ex9_i": "dürfen ➔ dürfte Theo am Computer spielen"
           },
           "items": [
             {
               "id": "b1_p17_ex9_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Karl darf nicht mit dem Auto fahren, weil er betrunken ist.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Karl darf nicht mit dem Auto fahren, weil er betrunken ist.",
+              "lead": "Wenn Karl nicht betrunken wäre, ",
+              "tail": ".",
+              "answer": "dürfte er mit dem Auto fahren",
+              "explanation": "dürfen ➔ dürfte er mit dem Auto fahren",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Gerd kann nicht zur Party kommen, weil er fürs Examen lernen muss.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Gerd kann nicht zur Party kommen, weil er fürs Examen lernen muss.",
+              "lead": "Wenn Gerd nicht fürs Examen lernen müsste, ",
+              "tail": ".",
+              "answer": "könnte er zur Party kommen",
+              "explanation": "können ➔ könnte er zur Party kommen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Maria darf keine Erdbeeren essen, weil sie eine Allergie hat.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Maria darf keine Erdbeeren essen, weil sie eine Allergie hat.",
+              "lead": "Wenn Maria keine Allergie hätte, ",
+              "tail": ".",
+              "answer": "dürfte sie Erdbeeren essen",
+              "explanation": "dürfen ➔ dürfte sie Erdbeeren essen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Elfi muss die Arbeit heute alleine erledigen, weil ihr Kollege sich erkältet hat.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Elfi muss die Arbeit heute alleine erledigen, weil ihr Kollege sich erkältet hat.",
+              "lead": "Wenn ihr Kollege sich nicht erkältet hätte, ",
+              "tail": ".",
+              "answer": "müsste Elfi die Arbeit nicht alleine erledigen",
+              "explanation": "müssen ➔ müsste Elfi die Arbeit nicht alleine erledigen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Julia kann nichts zu diesem Thema sagen, weil sie nicht Bescheid weiß.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Julia kann nichts zu diesem Thema sagen, weil sie nicht Bescheid weiß.",
+              "lead": "Wenn Julia Bescheid wüsste, ",
+              "tail": ".",
+              "answer": "könnte sie etwas zu diesem Thema sagen",
+              "explanation": "können ➔ könnte sie etwas zu diesem Thema sagen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Du kannst die Frage nicht beantworten, weil du dich nicht vorbereitet hast.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Du kannst die Frage nicht beantworten, weil du dich nicht vorbereitet hast.",
+              "lead": "Wenn du dich vorbereitet hättest, ",
+              "tail": ".",
+              "answer": "könntest du die Frage beantworten",
+              "explanation": "können ➔ könntest du die Frage beantworten",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Konrad fährt nicht nach München, weil er am Samstag arbeiten muss.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Konrad fährt nicht nach München, weil er am Samstag arbeiten muss.",
+              "lead": "Wenn Konrad am Samstag nicht arbeiten müsste, ",
+              "tail": ".",
+              "answer": "würde er nach München fahren",
+              "explanation": "fahren ➔ würde er nach München fahren",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "Hatem kann das Fahrrad nicht reparieren, weil er kein Werkzeug hat.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hatem kann das Fahrrad nicht reparieren, weil er kein Werkzeug hat.",
+              "lead": "Wenn Hatem Werkzeug hätte, ",
+              "tail": ".",
+              "answer": "könnte er das Fahrrad reparieren",
+              "explanation": "können ➔ könnte er das Fahrrad reparieren",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex9_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "Theo darf nicht am Computer spielen, weil seine Mutter es verboten hat.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Theo darf nicht am Computer spielen, weil seine Mutter es verboten hat.",
+              "lead": "Wenn seine Mutter es nicht verboten hätte, ",
+              "tail": ".",
+              "answer": "dürfte Theo am Computer spielen",
+              "explanation": "dürfen ➔ dürfte Theo am Computer spielen",
+              "isCompact": false
             }
           ]
         },
         {
           "id": "b1_p17_ex10",
-          "title": "Übung 10",
-          "instruction": "",
+          "title": "Übung 10: Irreale Konditionalsätze mit Wenn es keine ... geben würde",
+          "instruction": "Bilden Sie irreale Konditionalsätze nach dem Muster.",
           "answers": {
-            "b1_p17_ex10_a": "—",
-            "b1_p17_ex10_b": "—",
-            "b1_p17_ex10_c": "—",
-            "b1_p17_ex10_d": "—"
+            "b1_p17_ex10_a": "könnte man nicht immer und überall miteinander sprechen",
+            "b1_p17_ex10_b": "müsste man immer mit dem eigenen PKW fahren",
+            "b1_p17_ex10_c": "könnte man nicht weltweit einfach und günstig kommunizieren",
+            "b1_p17_ex10_d": "könnte man Infektionskrankheiten nicht so gut behandeln"
+          },
+          "alternatives": {
+            "b1_p17_ex10_a": [
+              "könnte man nicht immer und überall miteinander sprechen",
+              "könnte man nicht überall miteinander sprechen"
+            ],
+            "b1_p17_ex10_b": [
+              "müsste man immer mit dem eigenen PKW fahren",
+              "müsste man mit dem eigenen PKW fahren"
+            ],
+            "b1_p17_ex10_c": [
+              "könnte man nicht weltweit einfach und günstig kommunizieren",
+              "könnte man nicht so einfach und günstig kommunizieren"
+            ],
+            "b1_p17_ex10_d": [
+              "könnte man Infektionskrankheiten nicht so gut behandeln",
+              "könnte man Infektionskrankheiten schlechter behandeln"
+            ]
           },
           "explanations": {
-            "b1_p17_ex10_a": "Vollständiger Beispielsatz",
-            "b1_p17_ex10_b": "Vollständiger Beispielsatz",
-            "b1_p17_ex10_c": "Vollständiger Beispielsatz",
-            "b1_p17_ex10_d": "Vollständiger Beispielsatz"
+            "b1_p17_ex10_a": "könnte man nicht immer und überall miteinander sprechen",
+            "b1_p17_ex10_b": "müsste man immer mit dem eigenen PKW fahren",
+            "b1_p17_ex10_c": "könnte man nicht weltweit einfach und günstig kommunizieren",
+            "b1_p17_ex10_d": "könnte man Infektionskrankheiten nicht so gut behandeln"
           },
           "items": [
             {
               "id": "b1_p17_ex10_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Es gibt Handys. Deshalb kann man immer und überall miteinander sprechen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es gibt Handys. Deshalb kann man immer und überall miteinander sprechen.",
+              "lead": "Wenn es keine Handys geben würde, ",
+              "tail": ".",
+              "answer": "könnte man nicht immer und überall miteinander sprechen",
+              "explanation": "könnte man nicht immer und überall miteinander sprechen",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex10_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Es gibt öffentliche Verkehrsmittel. Deshalb muss man nicht immer mit dem eigenen PKW fahren.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es gibt öffentliche Verkehrsmittel. Deshalb muss man nicht immer mit dem eigenen PKW fahren.",
+              "lead": "Wenn es keine öffentlichen Verkehrsmittel geben würde, ",
+              "tail": ".",
+              "answer": "müsste man immer mit dem eigenen PKW fahren",
+              "explanation": "müsste man immer mit dem eigenen PKW fahren",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex10_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Es gibt das Internet. Deshalb kann man weltweit einfach und günstig kommunizieren.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es gibt das Internet. Deshalb kann man weltweit einfach und günstig kommunizieren.",
+              "lead": "Wenn es kein Internet geben würde, ",
+              "tail": ".",
+              "answer": "könnte man nicht weltweit einfach und günstig kommunizieren",
+              "explanation": "könnte man nicht weltweit einfach und günstig kommunizieren",
+              "isCompact": false
             },
             {
               "id": "b1_p17_ex10_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Es gibt Antibiotika. Deshalb kann man Infektionskrankheiten besser behandeln.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Es gibt Antibiotika. Deshalb kann man Infektionskrankheiten besser behandeln.",
+              "lead": "Wenn es keine Antibiotika geben würde, ",
+              "tail": ".",
+              "answer": "könnte man Infektionskrankheiten nicht so gut behandeln",
+              "explanation": "könnte man Infektionskrankheiten nicht so gut behandeln",
+              "isCompact": false
             }
           ]
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• 3. Konjunktiv II - Modalverben\n• ich\n• du\n• er, sie, es\n• wir\n• ihr\n• sie / Sie\n• könnte\n• könntest\n• könnte\n• könnten\n• könntet\n• könnten\n• dürfte\n• dürftest\n• dürfte\n• dürften\n• dürftet\n• dürften\n• möchte\n• möchtest\n• möchte\n• möchten\n• möchtet\n• möchten\n• müsste\n• müsstest\n• müsste\n• müssten\n• müsstet\n• müssten\n• wollte\n• wolltest\n• wollte\n• wollten\n• wolltet\n• wollten\n• sollte\n• solltest\n• sollte\n• sollten\n• solltet\n• sollten"
+      ]
     },
     "18": {
-      "lessonTitle": "Präpositionen - lokal (Seite 18)",
+      "lessonTitle": "1. Lokale Präpositionen (Wechselpräpositionen, Wo, Wohin, Woher)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Lokale Präpositionen (Wechselpräpositionen, Wo, Wohin, Woher)\n\n#### 1. Wechselpräpositionen\nDie 9 Wechselpräpositionen lauten: **an, auf, hinter, in, neben, über, unter, vor, zwischen**.\n- **Wohin? (Richtung / Ziel / Bewegung):** verlangt den **Akkusativ**.\n  *Er geht in den Garten (m) / in die Küche (f) / ins Zimmer (n) / auf die Straße.*\n- **Wo? (Ort / Lage / Stillstand):** verlangt den **Dativ**.\n  *Er sitzt im Garten (m) / in der Küche (f) / im Zimmer (n) / auf der Straße.*\n\n---\n\n#### 2. Woher? (Herkunft)\n- **aus + Dativ:** aus geschlossenen Räumen, Gebäuden, Städten, Ländern (ohne Artikel oder mit Artikel):\n  *Ich komme aus dem Haus / aus der Stadt / aus Deutschland / aus der Türkei.*\n- **von + Dativ:** von Personen, offenen Plätzen, Aktivitäten, Institutionen:\n  *Ich komme vom Arzt / von der Post / von der Arbeit / von Klaus.*\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *Wo? (Location)* = Where? ➔ Dative: *in der Schule (at school)*\n> - *Wohin? (Destination)* = Where to? ➔ Accusative / nach / zu: *in die Schule (into school)* / *nach Hause (home)*\n> - *Woher? (Origin)* = Where from? ➔ Dative: *aus dem Kino (out of the cinema)* / *von der Arbeit (from work)*",
       "exercises": [
         {
           "id": "b1_p18_ex1",
-          "title": "Übung 1",
-          "instruction": "Ergänzen Sie die Endungen.",
-          "answers": {
-            "b1_p18_ex1_a": "en",
-            "b1_p18_ex1_b": "et",
-            "b1_p18_ex1_c": "est",
-            "b1_p18_ex1_d": "et",
-            "b1_p18_ex1_e": "e",
-            "b1_p18_ex1_f": "t",
-            "b1_p18_ex1_g": "t",
-            "b1_p18_ex1_h": "et",
-            "b1_p18_ex1_i": "et",
-            "b1_p18_ex1_j": "en",
-            "b1_p18_ex1_k": "t",
-            "b1_p18_ex1_l": "t",
-            "b1_p18_ex1_m": "t",
-            "b1_p18_ex1_n": "et",
-            "b1_p18_ex1_o": "st",
-            "b1_p18_ex1_p": "et",
-            "b1_p18_ex1_q": "est",
-            "b1_p18_ex1_r": "et",
-            "b1_p18_ex1_s": "et"
-          },
-          "explanations": {
-            "b1_p18_ex1_a": "Subjekt (1p) ➔ Endung -en (den)",
-            "b1_p18_ex1_b": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_c": "Subjekt (2s) ➔ Endung -est (dest)",
-            "b1_p18_ex1_d": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_e": "Subjekt (1s) ➔ Endung -e (eine)",
-            "b1_p18_ex1_f": "Subjekt (3s) ➔ Endung -t (mt)",
-            "b1_p18_ex1_g": "Subjekt (3s) ➔ Endung -t (diest)",
-            "b1_p18_ex1_h": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_i": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_j": "Subjekt (1p) ➔ Endung -en (den)",
-            "b1_p18_ex1_k": "Subjekt (3s) ➔ Endung -t (diest)",
-            "b1_p18_ex1_l": "Subjekt (3s) ➔ Endung -t (mt)",
-            "b1_p18_ex1_m": "Subjekt (3s) ➔ Endung -t (vielt)",
-            "b1_p18_ex1_n": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_o": "Subjekt (2s) ➔ Endung -st (mst)",
-            "b1_p18_ex1_p": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_q": "Subjekt (2s) ➔ Endung -est (dest)",
-            "b1_p18_ex1_r": "Subjekt (3s) ➔ Endung -et (det)",
-            "b1_p18_ex1_s": "Subjekt (3s) ➔ Endung -et (det)"
-          },
+          "title": "Übung 1: Wechselpräpositionen (Endungen für Dativ und Akkusativ)",
+          "instruction": "Ergänzen Sie die Endungen der Artikel und Pronomen.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p18_ex1_a",
               "label": "a)",
-              "prompt": "",
               "lead": "Wir gingen in d",
               "tail": " großen Saal.",
               "answer": "en",
-              "explanation": "Subjekt (1p) ➔ Endung -en (den)",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): in den großen Saal",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_b",
               "label": "b)",
-              "prompt": "",
               "lead": "Zwischen d",
               "tail": " beiden Ländern fließt ein Fluss.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wo? (Dativ Plural): zwischen den beiden Ländern",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_c",
               "label": "c)",
-              "prompt": "",
               "lead": "Was hast du da in d",
               "tail": " Hand?",
-              "answer": "est",
-              "explanation": "Subjekt (2s) ➔ Endung -est (dest)",
+              "answer": "er",
+              "alternatives": [
+                "er"
+              ],
+              "explanation": "Wo? (Dativ feminin): in der Hand",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Stell bitte den Stuhl in d",
               "tail": " Flur.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): in den Flur",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_e",
               "label": "e)",
-              "prompt": "",
               "lead": "Kannst du mir die Adresse auf ein",
               "tail": " kleinen Zettel schreiben?",
-              "answer": "e",
-              "explanation": "Subjekt (1s) ➔ Endung -e (eine)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): auf einen kleinen Zettel",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Hinter m",
-              "tail": " standen eine Menge Leute an d___ Kinokasse.",
-              "answer": "t",
-              "explanation": "Subjekt (3s) ➔ Endung -t (mt)",
+              "lead": "Hinter mir standen eine Menge Leute an d",
+              "tail": " Kinokasse.",
+              "answer": "er",
+              "alternatives": [
+                "er",
+                "ir, er",
+                "ir"
+              ],
+              "explanation": "Hinter mir (Dativ); Wo? an der Kinokasse (Dativ feminin)",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_g",
               "label": "g)",
-              "prompt": "",
               "lead": "In dies",
               "tail": " Gegend regnet es häufig.",
-              "answer": "t",
-              "explanation": "Subjekt (3s) ➔ Endung -t (diest)",
+              "answer": "er",
+              "alternatives": [
+                "er"
+              ],
+              "explanation": "Wo? (Dativ feminin): in dieser Gegend",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_h",
               "label": "h)",
-              "prompt": "",
               "lead": "Häng bitte die Jacke in d",
               "tail": " Schrank.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): in den Schrank",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_i",
               "label": "i)",
-              "prompt": "",
               "lead": "Hinter d",
               "tail": " Haus gibt es einen wunderschönen Obstgarten.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "em",
+              "alternatives": [
+                "em"
+              ],
+              "explanation": "Wo? (Dativ neutral): hinter dem Haus",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_j",
               "label": "j)",
-              "prompt": "",
               "lead": "Wir setzten uns in d",
               "tail": " Schatten eines Baumes.",
               "answer": "en",
-              "explanation": "Subjekt (1p) ➔ Endung -en (den)",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): in den Schatten",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_k",
               "label": "k)",
-              "prompt": "",
               "lead": "Auf dies",
               "tail": " Insel gibt es sehr viele seltene Tiere.",
-              "answer": "t",
-              "explanation": "Subjekt (3s) ➔ Endung -t (diest)",
+              "answer": "er",
+              "alternatives": [
+                "er"
+              ],
+              "explanation": "Wo? (Dativ feminin): auf dieser Insel",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_l",
               "label": "l)",
-              "prompt": "",
               "lead": "Paul stellte sich zwischen Rita und m",
               "tail": ".",
-              "answer": "t",
-              "explanation": "Subjekt (3s) ➔ Endung -t (mt)",
+              "answer": "ich",
+              "alternatives": [
+                "ich"
+              ],
+              "explanation": "Wohin? (Akkusativ Personalpronomen): mich",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_m",
               "label": "m)",
-              "prompt": "",
               "lead": "An viel",
               "tail": " Orten des Landes gibt es zu wenig Wasser.",
-              "answer": "t",
-              "explanation": "Subjekt (3s) ➔ Endung -t (vielt)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wo? (Dativ Plural): an vielen Orten",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_n",
               "label": "n)",
-              "prompt": "",
               "lead": "Jonas stellte seine Hausschuhe unter d",
               "tail": " Sofa.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "as",
+              "alternatives": [
+                "as"
+              ],
+              "explanation": "Wohin? (Akkusativ neutral): unter das Sofa",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_o",
               "label": "o)",
-              "prompt": "",
               "lead": "Du kannst dich ruhig neben m",
               "tail": " setzen.",
-              "answer": "st",
-              "explanation": "Subjekt (2s) ➔ Endung -st (mst)",
+              "answer": "ich",
+              "alternatives": [
+                "ich"
+              ],
+              "explanation": "Wohin? (Akkusativ Personalpronomen): mich",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_p",
               "label": "p)",
-              "prompt": "",
-              "lead": "Das Haus liegt zwischen d",
-              "tail": " Schillerstraße und d___ Marktplatz.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "lead": "Das Haus liegt zwischen der Schillerstraße und d",
+              "tail": " Marktplatz.",
+              "answer": "em",
+              "alternatives": [
+                "em",
+                "er, em"
+              ],
+              "explanation": "Wo? zwischen der Schillerstraße (feminin) und dem Marktplatz (maskulin)",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_q",
               "label": "q)",
-              "prompt": "",
               "lead": "Pass auf, wenn du über d",
               "tail": " Straße gehst!",
-              "answer": "est",
-              "explanation": "Subjekt (2s) ➔ Endung -est (dest)",
+              "answer": "ie",
+              "alternatives": [
+                "ie"
+              ],
+              "explanation": "Wohin? (Akkusativ feminin): über die Straße",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_r",
               "label": "r)",
-              "prompt": "",
               "lead": "Der Junge versteckte sich unter d",
               "tail": " Decke.",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "er",
+              "alternatives": [
+                "er"
+              ],
+              "explanation": "Wo? (Dativ feminin): unter der Decke",
               "isCompact": true
             },
             {
               "id": "b1_p18_ex1_s",
               "label": "s)",
-              "prompt": "",
               "lead": "Setz die Mütze auf d",
               "tail": " Kopf!",
-              "answer": "et",
-              "explanation": "Subjekt (3s) ➔ Endung -et (det)",
+              "answer": "en",
+              "alternatives": [
+                "en"
+              ],
+              "explanation": "Wohin? (Akkusativ maskulin): auf den Kopf",
               "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p18_ex1_a": "en",
+            "b1_p18_ex1_b": "en",
+            "b1_p18_ex1_c": "er",
+            "b1_p18_ex1_d": "en",
+            "b1_p18_ex1_e": "en",
+            "b1_p18_ex1_f": "er",
+            "b1_p18_ex1_g": "er",
+            "b1_p18_ex1_h": "en",
+            "b1_p18_ex1_i": "em",
+            "b1_p18_ex1_j": "en",
+            "b1_p18_ex1_k": "er",
+            "b1_p18_ex1_l": "ich",
+            "b1_p18_ex1_m": "en",
+            "b1_p18_ex1_n": "as",
+            "b1_p18_ex1_o": "ich",
+            "b1_p18_ex1_p": "em",
+            "b1_p18_ex1_q": "ie",
+            "b1_p18_ex1_r": "er",
+            "b1_p18_ex1_s": "en"
+          },
+          "alternatives": {
+            "b1_p18_ex1_a": [
+              "en"
+            ],
+            "b1_p18_ex1_b": [
+              "en"
+            ],
+            "b1_p18_ex1_c": [
+              "er"
+            ],
+            "b1_p18_ex1_d": [
+              "en"
+            ],
+            "b1_p18_ex1_e": [
+              "en"
+            ],
+            "b1_p18_ex1_f": [
+              "er",
+              "ir, er",
+              "ir"
+            ],
+            "b1_p18_ex1_g": [
+              "er"
+            ],
+            "b1_p18_ex1_h": [
+              "en"
+            ],
+            "b1_p18_ex1_i": [
+              "em"
+            ],
+            "b1_p18_ex1_j": [
+              "en"
+            ],
+            "b1_p18_ex1_k": [
+              "er"
+            ],
+            "b1_p18_ex1_l": [
+              "ich"
+            ],
+            "b1_p18_ex1_m": [
+              "en"
+            ],
+            "b1_p18_ex1_n": [
+              "as"
+            ],
+            "b1_p18_ex1_o": [
+              "ich"
+            ],
+            "b1_p18_ex1_p": [
+              "em",
+              "er, em"
+            ],
+            "b1_p18_ex1_q": [
+              "ie"
+            ],
+            "b1_p18_ex1_r": [
+              "er"
+            ],
+            "b1_p18_ex1_s": [
+              "en"
+            ]
+          },
+          "explanations": {
+            "b1_p18_ex1_a": "Wohin? (Akkusativ maskulin): in den großen Saal",
+            "b1_p18_ex1_b": "Wo? (Dativ Plural): zwischen den beiden Ländern",
+            "b1_p18_ex1_c": "Wo? (Dativ feminin): in der Hand",
+            "b1_p18_ex1_d": "Wohin? (Akkusativ maskulin): in den Flur",
+            "b1_p18_ex1_e": "Wohin? (Akkusativ maskulin): auf einen kleinen Zettel",
+            "b1_p18_ex1_f": "Hinter mir (Dativ); Wo? an der Kinokasse (Dativ feminin)",
+            "b1_p18_ex1_g": "Wo? (Dativ feminin): in dieser Gegend",
+            "b1_p18_ex1_h": "Wohin? (Akkusativ maskulin): in den Schrank",
+            "b1_p18_ex1_i": "Wo? (Dativ neutral): hinter dem Haus",
+            "b1_p18_ex1_j": "Wohin? (Akkusativ maskulin): in den Schatten",
+            "b1_p18_ex1_k": "Wo? (Dativ feminin): auf dieser Insel",
+            "b1_p18_ex1_l": "Wohin? (Akkusativ Personalpronomen): mich",
+            "b1_p18_ex1_m": "Wo? (Dativ Plural): an vielen Orten",
+            "b1_p18_ex1_n": "Wohin? (Akkusativ neutral): unter das Sofa",
+            "b1_p18_ex1_o": "Wohin? (Akkusativ Personalpronomen): mich",
+            "b1_p18_ex1_p": "Wo? zwischen der Schillerstraße (feminin) und dem Marktplatz (maskulin)",
+            "b1_p18_ex1_q": "Wohin? (Akkusativ feminin): über die Straße",
+            "b1_p18_ex1_r": "Wo? (Dativ feminin): unter der Decke",
+            "b1_p18_ex1_s": "Wohin? (Akkusativ maskulin): auf den Kopf"
+          }
         },
         {
           "id": "b1_p18_ex2",
-          "title": "Übung 2",
-          "instruction": "",
-          "answers": {
-            "b1_p18_ex2_1": "richtig",
-            "b1_p18_ex2_a": "—",
-            "b1_p18_ex2_b": "—",
-            "b1_p18_ex2_c": "—",
-            "b1_p18_ex2_d": "—",
-            "b1_p18_ex2_e": "—",
-            "b1_p18_ex2_f": "—",
-            "b1_p18_ex2_g": "—",
-            "b1_p18_ex2_h": "—",
-            "b1_p18_ex2_i": "—",
-            "b1_p18_ex2_j": "—",
-            "b1_p18_ex2_k": "—",
-            "b1_p18_ex2_l": "—",
-            "b1_p18_ex2_m": "—",
-            "b1_p18_ex2_n": "—",
-            "b1_p18_ex2_o": "—",
-            "b1_p18_ex2_17": "richtig",
-            "b1_p18_ex2_18": "richtig",
-            "b1_p18_ex2_19": "richtig",
-            "b1_p18_ex2_20": "richtig",
-            "b1_p18_ex2_21": "richtig",
-            "b1_p18_ex2_22": "richtig",
-            "b1_p18_ex2_23": "die",
-            "b1_p18_ex2_24": "das",
-            "b1_p18_ex2_25": "richtig",
-            "b1_p18_ex2_26": "richtig",
-            "b1_p18_ex2_27": "das",
-            "b1_p18_ex2_28": "richtig",
-            "b1_p18_ex2_29": "richtig",
-            "b1_p18_ex2_30": "richtig",
-            "b1_p18_ex2_31": "richtig",
-            "b1_p18_ex2_32": "richtig",
-            "b1_p18_ex2_33": "richtig",
-            "b1_p18_ex2_34": "richtig",
-            "b1_p18_ex2_35": "richtig",
-            "b1_p18_ex2_36": "richtig",
-            "b1_p18_ex2_37": "richtig",
-            "b1_p18_ex2_38": "die",
-            "b1_p18_ex2_39": "das",
-            "b1_p18_ex2_40": "richtig",
-            "b1_p18_ex2_41": "richtig",
-            "b1_p18_ex2_42": "das",
-            "b1_p18_ex2_43": "richtig",
-            "b1_p18_ex2_44": "richtig",
-            "b1_p18_ex2_45": "richtig",
-            "b1_p18_ex2_46": "richtig",
-            "b1_p18_ex2_47": "richtig",
-            "b1_p18_ex2_48": "richtig",
-            "b1_p18_ex2_49": "richtig",
-            "b1_p18_ex2_50": "richtig",
-            "b1_p18_ex2_51": "richtig",
-            "b1_p18_ex2_52": "richtig",
-            "b1_p18_ex2_53": "die",
-            "b1_p18_ex2_54": "das",
-            "b1_p18_ex2_55": "richtig",
-            "b1_p18_ex2_56": "richtig",
-            "b1_p18_ex2_57": "das",
-            "b1_p18_ex2_58": "richtig",
-            "b1_p18_ex2_59": "richtig",
-            "b1_p18_ex2_60": "richtig",
-            "b1_p18_ex2_61": "richtig"
-          },
-          "explanations": {
-            "b1_p18_ex2_1": "Passende Form laut Kontext",
-            "b1_p18_ex2_a": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_b": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_c": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_d": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_e": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_f": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_g": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_h": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_i": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_j": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_k": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_l": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_m": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_n": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_o": "Vollständiger Beispielsatz",
-            "b1_p18_ex2_17": "Passende Form laut Kontext",
-            "b1_p18_ex2_18": "Passende Form laut Kontext",
-            "b1_p18_ex2_19": "Passende Form laut Kontext",
-            "b1_p18_ex2_20": "Passende Form laut Kontext",
-            "b1_p18_ex2_21": "Passende Form laut Kontext",
-            "b1_p18_ex2_22": "Passende Form laut Kontext",
-            "b1_p18_ex2_23": "Feminin ➔ die",
-            "b1_p18_ex2_24": "Neutral ➔ das",
-            "b1_p18_ex2_25": "Passende Form laut Kontext",
-            "b1_p18_ex2_26": "Passende Form laut Kontext",
-            "b1_p18_ex2_27": "Neutral ➔ das",
-            "b1_p18_ex2_28": "Passende Form laut Kontext",
-            "b1_p18_ex2_29": "Passende Form laut Kontext",
-            "b1_p18_ex2_30": "Passende Form laut Kontext",
-            "b1_p18_ex2_31": "Passende Form laut Kontext",
-            "b1_p18_ex2_32": "Passende Form laut Kontext",
-            "b1_p18_ex2_33": "Passende Form laut Kontext",
-            "b1_p18_ex2_34": "Passende Form laut Kontext",
-            "b1_p18_ex2_35": "Passende Form laut Kontext",
-            "b1_p18_ex2_36": "Passende Form laut Kontext",
-            "b1_p18_ex2_37": "Passende Form laut Kontext",
-            "b1_p18_ex2_38": "Feminin ➔ die",
-            "b1_p18_ex2_39": "Neutral ➔ das",
-            "b1_p18_ex2_40": "Passende Form laut Kontext",
-            "b1_p18_ex2_41": "Passende Form laut Kontext",
-            "b1_p18_ex2_42": "Neutral ➔ das",
-            "b1_p18_ex2_43": "Passende Form laut Kontext",
-            "b1_p18_ex2_44": "Passende Form laut Kontext",
-            "b1_p18_ex2_45": "Passende Form laut Kontext",
-            "b1_p18_ex2_46": "Passende Form laut Kontext",
-            "b1_p18_ex2_47": "Passende Form laut Kontext",
-            "b1_p18_ex2_48": "Passende Form laut Kontext",
-            "b1_p18_ex2_49": "Passende Form laut Kontext",
-            "b1_p18_ex2_50": "Passende Form laut Kontext",
-            "b1_p18_ex2_51": "Passende Form laut Kontext",
-            "b1_p18_ex2_52": "Passende Form laut Kontext",
-            "b1_p18_ex2_53": "Feminin ➔ die",
-            "b1_p18_ex2_54": "Neutral ➔ das",
-            "b1_p18_ex2_55": "Passende Form laut Kontext",
-            "b1_p18_ex2_56": "Passende Form laut Kontext",
-            "b1_p18_ex2_57": "Neutral ➔ das",
-            "b1_p18_ex2_58": "Passende Form laut Kontext",
-            "b1_p18_ex2_59": "Passende Form laut Kontext",
-            "b1_p18_ex2_60": "Passende Form laut Kontext",
-            "b1_p18_ex2_61": "Passende Form laut Kontext"
-          },
+          "title": "Übung 2: Wo? (Ich war ...) — Wohin? (Ich gehe ...) — Woher? (Ich komme ...)",
+          "instruction": "Ergänzen Sie die passenden Präpositionen für die 15 Orte (Format: Wo / Wohin / Woher).",
+          "type": "fill",
           "items": [
-            {
-              "id": "b1_p18_ex2_1",
-              "label": "1.",
-              "prompt": "",
-              "lead": "Ich war ",
-              "tail": " Ich gehe / fahre / fliege ... Ich komme ...",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
             {
               "id": "b1_p18_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Kino",
+              "lead": "Kino: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "im / ins / aus dem",
+              "alternatives": [
+                "im, ins, aus dem",
+                "im Kino / ins Kino / aus dem Kino",
+                "im Kino, ins Kino, aus dem Kino",
+                "im / ins / aus dem Kino"
+              ],
+              "explanation": "Wo? im Kino | Wohin? ins Kino | Woher? aus dem Kino",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "England",
+              "lead": "England: Ich war ... / fliege ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "in / nach / aus",
+              "alternatives": [
+                "in, nach, aus",
+                "in England / nach England / aus England",
+                "in England, nach England, aus England"
+              ],
+              "explanation": "Wo? in England | Wohin? nach England | Woher? aus England",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Ausland",
+              "lead": "Ausland: Ich war ... / fahre ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "im / ins / aus dem",
+              "alternatives": [
+                "im, ins, aus dem",
+                "im Ausland / ins Ausland / aus dem Ausland",
+                "im Ausland, ins Ausland, aus dem Ausland"
+              ],
+              "explanation": "Wo? im Ausland | Wohin? ins Ausland | Woher? aus dem Ausland",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Arzt",
+              "lead": "Arzt: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "beim / zum / vom",
+              "alternatives": [
+                "beim, zum, vom",
+                "beim Arzt / zum Arzt / vom Arzt",
+                "beim Arzt, zum Arzt, vom Arzt"
+              ],
+              "explanation": "Wo? beim Arzt | Wohin? zum Arzt | Woher? vom Arzt",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Supermarkt",
+              "lead": "Supermarkt: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "im / in den / aus dem",
+              "alternatives": [
+                "im, in den, aus dem",
+                "im / zum / vom",
+                "im Supermarkt / in den Supermarkt / aus dem Supermarkt",
+                "im Supermarkt, in den Supermarkt, aus dem Supermarkt"
+              ],
+              "explanation": "Wo? im Supermarkt | Wohin? in den Supermarkt (zum Supermarkt) | Woher? aus dem Supermarkt",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Universität",
+              "lead": "Universität: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "an der / an die / von der",
+              "alternatives": [
+                "an der, an die, von der",
+                "in der / in die / aus der",
+                "an der / zur / von der",
+                "an der Universität / an die Universität / von der Universität"
+              ],
+              "explanation": "Wo? an der Universität | Wohin? an die Universität (zur Universität) | Woher? von der Universität",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Türkei",
+              "lead": "Türkei: Ich war ... / fliege ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "in der / in die / aus der",
+              "alternatives": [
+                "in der, in die, aus der",
+                "in der Türkei / in die Türkei / aus der Türkei"
+              ],
+              "explanation": "Wo? in der Türkei | Wohin? in die Türkei | Woher? aus der Türkei",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_h",
               "label": "h)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Rathaus",
+              "lead": "Rathaus: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "im / ins / aus dem",
+              "alternatives": [
+                "im, ins, aus dem",
+                "im / zum / vom",
+                "im Rathaus / ins Rathaus / aus dem Rathaus"
+              ],
+              "explanation": "Wo? im Rathaus | Wohin? ins Rathaus (zum Rathaus) | Woher? aus dem Rathaus",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_i",
               "label": "i)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "USA",
+              "lead": "USA: Ich war ... / fliege ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "in den / in die / aus den",
+              "alternatives": [
+                "in den, in die, aus den",
+                "in den USA / in die USA / aus den USA"
+              ],
+              "explanation": "Wo? in den USA | Wohin? in die USA | Woher? aus den USA",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_j",
               "label": "j)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Küste",
+              "lead": "Küste: Ich war ... / fahre ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "an der / an die / von der",
+              "alternatives": [
+                "an der, an die, von der",
+                "an der Küste / an die Küste / von der Küste"
+              ],
+              "explanation": "Wo? an der Küste | Wohin? an die Küste | Woher? von der Küste",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_k",
               "label": "k)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Hause",
+              "lead": "Hause: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "zu / nach / von zu",
+              "alternatives": [
+                "zu, nach, von zu",
+                "zu Hause / nach Hause / von zu Hause",
+                "zu Hause, nach Hause, von zu Hause"
+              ],
+              "explanation": "Wo? zu Hause | Wohin? nach Hause | Woher? von zu Hause",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_l",
               "label": "l)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Berge",
+              "lead": "Berge: Ich war ... / fahre ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "in den / in die / aus den",
+              "alternatives": [
+                "in den, in die, aus den",
+                "in den Bergen / in die Berge / aus den Bergen"
+              ],
+              "explanation": "Wo? in den Bergen | Wohin? in die Berge | Woher? aus den Bergen",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_m",
               "label": "m)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Dom",
+              "lead": "Dom: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "im / in den / aus dem",
+              "alternatives": [
+                "im, in den, aus dem",
+                "im / zum / vom",
+                "im Dom / in den Dom / aus dem Dom"
+              ],
+              "explanation": "Wo? im Dom | Wohin? in den Dom (zum Dom) | Woher? aus dem Dom",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_n",
               "label": "n)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Berlin",
+              "lead": "Berlin: Ich war ... / fahre ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "answer": "in / nach / aus",
+              "alternatives": [
+                "in, nach, aus",
+                "in Berlin / nach Berlin / aus Berlin"
+              ],
+              "explanation": "Wo? in Berlin | Wohin? nach Berlin | Woher? aus Berlin",
+              "isCompact": false
             },
             {
               "id": "b1_p18_ex2_o",
               "label": "o)",
-              "prompt": "",
-              "lead": "",
+              "prompt": "Klaus",
+              "lead": "Klaus: Ich war ... / gehe ... / komme ...: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_17",
-              "label": "17.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Kino.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_18",
-              "label": "18.",
-              "prompt": "",
-              "lead": "",
-              "tail": " England.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_19",
-              "label": "19.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Ausland.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_20",
-              "label": "20.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Arzt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_21",
-              "label": "21.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Supermarkt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_22",
-              "label": "22.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Universität.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_23",
-              "label": "23.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Türkei.",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_24",
-              "label": "24.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Rathaus.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_25",
-              "label": "25.",
-              "prompt": "",
-              "lead": "",
-              "tail": " USA.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_26",
-              "label": "26.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Küste.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_27",
-              "label": "27.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Hause.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_28",
-              "label": "28.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berge__.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_29",
-              "label": "29.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Dom.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_30",
-              "label": "30.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berlin.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_31",
-              "label": "31.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Klaus.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_32",
-              "label": "32.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Kino.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_33",
-              "label": "33.",
-              "prompt": "",
-              "lead": "",
-              "tail": " England.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_34",
-              "label": "34.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Ausland.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_35",
-              "label": "35.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Arzt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_36",
-              "label": "36.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Supermarkt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_37",
-              "label": "37.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Universität.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_38",
-              "label": "38.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Türkei.",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_39",
-              "label": "39.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Rathaus.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_40",
-              "label": "40.",
-              "prompt": "",
-              "lead": "",
-              "tail": " USA.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_41",
-              "label": "41.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Küste.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_42",
-              "label": "42.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Hause.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_43",
-              "label": "43.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berge.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_44",
-              "label": "44.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Dom.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_45",
-              "label": "45.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berlin.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_46",
-              "label": "46.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Klaus.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_47",
-              "label": "47.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Kino.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_48",
-              "label": "48.",
-              "prompt": "",
-              "lead": "",
-              "tail": " England.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_49",
-              "label": "49.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Ausland.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_50",
-              "label": "50.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Arzt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_51",
-              "label": "51.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Supermarkt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_52",
-              "label": "52.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Universität.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_53",
-              "label": "53.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Türkei.",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_54",
-              "label": "54.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Rathaus.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_55",
-              "label": "55.",
-              "prompt": "",
-              "lead": "",
-              "tail": " USA.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_56",
-              "label": "56.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Küste.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_57",
-              "label": "57.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Hause.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p18_ex2_58",
-              "label": "58.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berge__.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_59",
-              "label": "59.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Dom.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_60",
-              "label": "60.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Berlin.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p18_ex2_61",
-              "label": "61.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Klaus.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
+              "answer": "bei / zu / von",
+              "alternatives": [
+                "bei, zu, von",
+                "bei Klaus / zu Klaus / von Klaus"
+              ],
+              "explanation": "Wo? bei Klaus | Wohin? zu Klaus | Woher? von Klaus",
               "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p18_ex2_a": "im / ins / aus dem",
+            "b1_p18_ex2_b": "in / nach / aus",
+            "b1_p18_ex2_c": "im / ins / aus dem",
+            "b1_p18_ex2_d": "beim / zum / vom",
+            "b1_p18_ex2_e": "im / in den / aus dem",
+            "b1_p18_ex2_f": "an der / an die / von der",
+            "b1_p18_ex2_g": "in der / in die / aus der",
+            "b1_p18_ex2_h": "im / ins / aus dem",
+            "b1_p18_ex2_i": "in den / in die / aus den",
+            "b1_p18_ex2_j": "an der / an die / von der",
+            "b1_p18_ex2_k": "zu / nach / von zu",
+            "b1_p18_ex2_l": "in den / in die / aus den",
+            "b1_p18_ex2_m": "im / in den / aus dem",
+            "b1_p18_ex2_n": "in / nach / aus",
+            "b1_p18_ex2_o": "bei / zu / von"
+          },
+          "alternatives": {
+            "b1_p18_ex2_a": [
+              "im, ins, aus dem",
+              "im Kino / ins Kino / aus dem Kino",
+              "im Kino, ins Kino, aus dem Kino",
+              "im / ins / aus dem Kino"
+            ],
+            "b1_p18_ex2_b": [
+              "in, nach, aus",
+              "in England / nach England / aus England",
+              "in England, nach England, aus England"
+            ],
+            "b1_p18_ex2_c": [
+              "im, ins, aus dem",
+              "im Ausland / ins Ausland / aus dem Ausland",
+              "im Ausland, ins Ausland, aus dem Ausland"
+            ],
+            "b1_p18_ex2_d": [
+              "beim, zum, vom",
+              "beim Arzt / zum Arzt / vom Arzt",
+              "beim Arzt, zum Arzt, vom Arzt"
+            ],
+            "b1_p18_ex2_e": [
+              "im, in den, aus dem",
+              "im / zum / vom",
+              "im Supermarkt / in den Supermarkt / aus dem Supermarkt",
+              "im Supermarkt, in den Supermarkt, aus dem Supermarkt"
+            ],
+            "b1_p18_ex2_f": [
+              "an der, an die, von der",
+              "in der / in die / aus der",
+              "an der / zur / von der",
+              "an der Universität / an die Universität / von der Universität"
+            ],
+            "b1_p18_ex2_g": [
+              "in der, in die, aus der",
+              "in der Türkei / in die Türkei / aus der Türkei"
+            ],
+            "b1_p18_ex2_h": [
+              "im, ins, aus dem",
+              "im / zum / vom",
+              "im Rathaus / ins Rathaus / aus dem Rathaus"
+            ],
+            "b1_p18_ex2_i": [
+              "in den, in die, aus den",
+              "in den USA / in die USA / aus den USA"
+            ],
+            "b1_p18_ex2_j": [
+              "an der, an die, von der",
+              "an der Küste / an die Küste / von der Küste"
+            ],
+            "b1_p18_ex2_k": [
+              "zu, nach, von zu",
+              "zu Hause / nach Hause / von zu Hause",
+              "zu Hause, nach Hause, von zu Hause"
+            ],
+            "b1_p18_ex2_l": [
+              "in den, in die, aus den",
+              "in den Bergen / in die Berge / aus den Bergen"
+            ],
+            "b1_p18_ex2_m": [
+              "im, in den, aus dem",
+              "im / zum / vom",
+              "im Dom / in den Dom / aus dem Dom"
+            ],
+            "b1_p18_ex2_n": [
+              "in, nach, aus",
+              "in Berlin / nach Berlin / aus Berlin"
+            ],
+            "b1_p18_ex2_o": [
+              "bei, zu, von",
+              "bei Klaus / zu Klaus / von Klaus"
+            ]
+          },
+          "explanations": {
+            "b1_p18_ex2_a": "Wo? im Kino | Wohin? ins Kino | Woher? aus dem Kino",
+            "b1_p18_ex2_b": "Wo? in England | Wohin? nach England | Woher? aus England",
+            "b1_p18_ex2_c": "Wo? im Ausland | Wohin? ins Ausland | Woher? aus dem Ausland",
+            "b1_p18_ex2_d": "Wo? beim Arzt | Wohin? zum Arzt | Woher? vom Arzt",
+            "b1_p18_ex2_e": "Wo? im Supermarkt | Wohin? in den Supermarkt (zum Supermarkt) | Woher? aus dem Supermarkt",
+            "b1_p18_ex2_f": "Wo? an der Universität | Wohin? an die Universität (zur Universität) | Woher? von der Universität",
+            "b1_p18_ex2_g": "Wo? in der Türkei | Wohin? in die Türkei | Woher? aus der Türkei",
+            "b1_p18_ex2_h": "Wo? im Rathaus | Wohin? ins Rathaus (zum Rathaus) | Woher? aus dem Rathaus",
+            "b1_p18_ex2_i": "Wo? in den USA | Wohin? in die USA | Woher? aus den USA",
+            "b1_p18_ex2_j": "Wo? an der Küste | Wohin? an die Küste | Woher? von der Küste",
+            "b1_p18_ex2_k": "Wo? zu Hause | Wohin? nach Hause | Woher? von zu Hause",
+            "b1_p18_ex2_l": "Wo? in den Bergen | Wohin? in die Berge | Woher? aus den Bergen",
+            "b1_p18_ex2_m": "Wo? im Dom | Wohin? in den Dom (zum Dom) | Woher? aus dem Dom",
+            "b1_p18_ex2_n": "Wo? in Berlin | Wohin? nach Berlin | Woher? aus Berlin",
+            "b1_p18_ex2_o": "Wo? bei Klaus | Wohin? zu Klaus | Woher? von Klaus"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Präpositionen - lokal\n• an, auf, hinter, in, neben, über, unter, vor, zwischen\n• Auf die Frage wohin? stehen diese Präpositionen im Akkusativ.\n• Auf die Frage wo? stehen diese Präpositionen im Dativ.\n• Sie ging ins Wohnzimmer. Auf dem Sofa saß Paul.\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• _______ Kino.\n• _______ England.\n• _______ Ausland.\n• _______ Arzt.\n• _______ Supermarkt.\n• _______ Universität.\n• _______ Türkei.\n• _______ Rathaus.\n• _______ USA.\n• _______ Küste.\n• _______ Hause.\n• _______ Berge__.\n• _______ Dom.\n• _______ Berlin.\n• _______ Klaus.\n• _______ Kino.\n• _______ England.\n• _______ Ausland.\n• _______ Arzt.\n• _______ Supermarkt.\n• _______ Universität.\n• _______ Türkei.\n• _______ Rathaus.\n• _______ USA.\n• _______ Küste.\n• _______ Hause.\n• _______ Berge.\n• _______ Dom.\n• _______ Berlin.\n• _______ Klaus.\n• _______ Kino.\n• _______ England.\n• _______ Ausland.\n• _______ Arzt.\n• _______ Supermarkt.\n• _______ Universität.\n• _______ Türkei.\n• _______ Rathaus.\n• _______ USA.\n• _______ Küste.\n• _______ Hause.\n• _______ Berge__.\n• _______ Dom.\n• _______ Berlin.\n• _______ Klaus."
+      ]
     },
     "19": {
-      "lessonTitle": "Präpositionen - temporal (Seite 19)",
+      "lessonTitle": "2. Temporale Präpositionen (Zeitpunkt, Beginn, Ende, Dauer)",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Temporale Präpositionen (Zeitpunkt, Beginn, Ende, Dauer)\n\n#### 1. Zeitpunkt\n- **an (+ Dativ):** Wochentage (*am Montag*), Tageszeiten (*am Morgen*, aber: *in der Nacht*), Daten (*am 15. Mai*).\n- **um (+ Akkusativ):** Genaue Uhrzeit (*um 18:30 Uhr*).\n- **im (+ Dativ / in dem):** Monate (*im August*), Jahreszeiten (*im Sommer*), Jahre (*im Jahr 2024* oder direkt *2024*).\n- **bei (+ Dativ):** Gleichzeitigkeit (*beim Essen, bei der Arbeit, bei Regen*).\n- **gegen (+ Akkusativ):** Ungefähre Zeitangabe (*gegen 18:00 Uhr, gegen Mittag*).\n- **vor (+ Dativ):** Zeitpunkt in der Vergangenheit (*vor einer Woche, vor zwei Jahren*).\n- **nach (+ Dativ):** Zeitpunkt nach einem Ereignis (*nach dem Essen, nach der Schule*).\n- **zu (+ Dativ):** Feiertage und feste Wendungen (*zu Ostern, zu Weihnachten, zu dieser Zeit*).\n\n---\n\n#### 2. Beginn, Ende und Dauer\n- **ab (+ Dativ / Akkusativ):** Beginn in Gegenwart/Zukunft (*ab nächster Woche, ab morgen*).\n- **seit (+ Dativ):** Beginn in der Vergangenheit, dauert bis heute an (*seit einem Jahr*).\n- **bis (+ Akkusativ):** Endzeitpunkt (*bis 18 Uhr, bis morgen*).\n- **von ... bis (+ Dativ / Akkusativ):** Zeitspanne (*von Montag bis Freitag*).\n- **für (+ Akkusativ):** Geplante Dauer (*für zwei Wochen in Urlaub fahren*).\n- **während (+ Genitiv):** Zeitspanne (*während der Ferien, während des Sommers*).\n- **innerhalb (+ Genitiv):** Binnen einer Frist (*innerhalb eines Jahres*).\n- **außerhalb (+ Genitiv):** Außerhalb einer Frist (*außerhalb der Öffnungszeiten*).",
       "exercises": [
         {
           "id": "b1_p19_ex1",
-          "title": "Übung 1",
-          "instruction": "",
-          "answers": {
-            "b1_p19_ex1_a": "richtig",
-            "b1_p19_ex1_b": "richtig",
-            "b1_p19_ex1_c": "richtig",
-            "b1_p19_ex1_d": "richtig",
-            "b1_p19_ex1_e": "richtig",
-            "b1_p19_ex1_f": "richtig",
-            "b1_p19_ex1_g": "richtig",
-            "b1_p19_ex1_h": "richtig",
-            "b1_p19_ex1_i": "das",
-            "b1_p19_ex1_j": "das",
-            "b1_p19_ex1_k": "richtig",
-            "b1_p19_ex1_l": "richtig"
-          },
-          "explanations": {
-            "b1_p19_ex1_a": "Passende Form laut Kontext",
-            "b1_p19_ex1_b": "Passende Form laut Kontext",
-            "b1_p19_ex1_c": "Passende Form laut Kontext",
-            "b1_p19_ex1_d": "Passende Form laut Kontext",
-            "b1_p19_ex1_e": "Passende Form laut Kontext",
-            "b1_p19_ex1_f": "Passende Form laut Kontext",
-            "b1_p19_ex1_g": "Passende Form laut Kontext",
-            "b1_p19_ex1_h": "Passende Form laut Kontext",
-            "b1_p19_ex1_i": "Neutral ➔ das",
-            "b1_p19_ex1_j": "Neutral ➔ das",
-            "b1_p19_ex1_k": "Passende Form laut Kontext",
-            "b1_p19_ex1_l": "Passende Form laut Kontext"
-          },
+          "title": "Übung 1: Zeitpunkt (an, bei, gegen, in, nach, um, vor, zu)",
+          "instruction": "Ergänzen Sie die passende temporale Präposition.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p19_ex1_a",
               "label": "a)",
-              "prompt": "",
               "lead": "Den Führerschein hat Lisa schon ",
               "tail": " einem Jahr gemacht.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "vor",
+              "alternatives": [
+                "vor"
+              ],
+              "explanation": "vor + Dativ (Vergangenheit mit Zeitabstand): vor einem Jahr",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_b",
               "label": "b)",
-              "prompt": "",
               "lead": "Wir können ",
-              "tail": " Wochenende mal _____ einem Glas Wein über alles sprechen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "tail": " Wochenende mal bei einem Glas Wein über alles sprechen.",
+              "answer": "am",
+              "alternatives": [
+                "am",
+                "am ... bei",
+                "am, bei"
+              ],
+              "explanation": "an + Dativ (Wochentage/Wochenende): am Wochenende (bei einem Glas Wein)",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_c",
               "label": "c)",
-              "prompt": "",
               "lead": "Wir wollten ",
-              "tail": " dem Abendessen ins Kino gehen, der Film beginnt ____ 20:30 Uhr.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "tail": " dem Abendessen ins Kino gehen, der Film beginnt um 20:30 Uhr.",
+              "answer": "nach",
+              "alternatives": [
+                "nach",
+                "nach ... um",
+                "nach, um"
+              ],
+              "explanation": "nach + Dativ (zeitliche Nachzeitigkeit): nach dem Abendessen (um 20:30 Uhr)",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Ich werde dich morgen so ",
               "tail": " Mittag anrufen, aber ich weiß nicht genau wann.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "gegen",
+              "alternatives": [
+                "gegen"
+              ],
+              "explanation": "gegen + Akkusativ (ungefährer Zeitpunkt): gegen Mittag",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_e",
               "label": "e)",
-              "prompt": "",
               "lead": "Die Notfallnummer können Sie ",
               "tail": " jeder Tages- und Nachtzeit anrufen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "zu",
+              "alternatives": [
+                "zu"
+              ],
+              "explanation": "zu + Dativ (feste Wendung): zu jeder Zeit",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_f",
               "label": "f)",
-              "prompt": "",
               "lead": "Wir haben ",
-              "tail": " August geschlossen! ______ dem Urlaub sind wir wieder für Sie da.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "tail": " August geschlossen! Nach dem Urlaub sind wir wieder für Sie da.",
+              "answer": "im",
+              "alternatives": [
+                "im",
+                "im ... Nach",
+                "im, Nach"
+              ],
+              "explanation": "in + Dativ (Monate/Jahreszeiten): im August (Nach dem Urlaub)",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_g",
               "label": "g)",
-              "prompt": "",
               "lead": "Max hat schon ",
               "tail": " einer Woche reklamiert, aber der Schaden ist noch nicht repariert.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "vor",
+              "alternatives": [
+                "vor"
+              ],
+              "explanation": "vor + Dativ (Vergangenheitspunkt): vor einer Woche",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_h",
               "label": "h)",
-              "prompt": "",
               "lead": "",
               "tail": " diesem schlechten Wetter will ich nicht spazieren gehen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Bei",
+              "alternatives": [
+                "Bei",
+                "bei"
+              ],
+              "explanation": "bei + Dativ (Gleichzeitigkeit/Bedingung): bei diesem schlechten Wetter",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_i",
               "label": "i)",
-              "prompt": "",
               "lead": "Lena möchte ",
               "tail": " Nachmittag mit den Kindern ins Hallenbad gehen.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "answer": "am",
+              "alternatives": [
+                "am"
+              ],
+              "explanation": "an + Dativ (Tageszeiten): am Nachmittag",
               "isCompact": true
             },
             {
               "id": "b1_p19_ex1_j",
               "label": "j)",
-              "prompt": "",
               "lead": "Ich komme morgen mal so ",
-              "tail": " 18:00 Uhr bei dir vorbei. Bist du _____ diese Zeit zu Hause?",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "tail": " 18:00 Uhr bei dir vorbei. Bist du um diese Zeit zu Hause?",
+              "answer": "gegen",
+              "alternatives": [
+                "gegen",
+                "um",
+                "gegen ... um",
+                "gegen, um"
+              ],
+              "explanation": "gegen 18:00 Uhr (ungefähr) / um diese Zeit (Akkusativ)",
               "isCompact": true
             },
             {
               "id": "b1_p19_ex1_k",
               "label": "k)",
-              "prompt": "",
               "lead": "Theo hat mir ",
               "tail": " meinem Geburtstag eine Karte geschickt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "zu",
+              "alternatives": [
+                "zu",
+                "an"
+              ],
+              "explanation": "zu + Dativ (Feiertage/Anlässe): zu meinem Geburtstag",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex1_l",
               "label": "l)",
-              "prompt": "",
               "lead": "Wir müssen die Arbeit unbedingt noch ",
               "tail": " dem Ende des Monats erledigen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "vor",
+              "alternatives": [
+                "vor",
+                "bis zu"
+              ],
+              "explanation": "vor + Dativ (vor einem Zeitpunkt): vor dem Ende des Monats",
+              "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p19_ex1_a": "vor",
+            "b1_p19_ex1_b": "am",
+            "b1_p19_ex1_c": "nach",
+            "b1_p19_ex1_d": "gegen",
+            "b1_p19_ex1_e": "zu",
+            "b1_p19_ex1_f": "im",
+            "b1_p19_ex1_g": "vor",
+            "b1_p19_ex1_h": "Bei",
+            "b1_p19_ex1_i": "am",
+            "b1_p19_ex1_j": "gegen",
+            "b1_p19_ex1_k": "zu",
+            "b1_p19_ex1_l": "vor"
+          },
+          "alternatives": {
+            "b1_p19_ex1_a": [
+              "vor"
+            ],
+            "b1_p19_ex1_b": [
+              "am",
+              "am ... bei",
+              "am, bei"
+            ],
+            "b1_p19_ex1_c": [
+              "nach",
+              "nach ... um",
+              "nach, um"
+            ],
+            "b1_p19_ex1_d": [
+              "gegen"
+            ],
+            "b1_p19_ex1_e": [
+              "zu"
+            ],
+            "b1_p19_ex1_f": [
+              "im",
+              "im ... Nach",
+              "im, Nach"
+            ],
+            "b1_p19_ex1_g": [
+              "vor"
+            ],
+            "b1_p19_ex1_h": [
+              "Bei",
+              "bei"
+            ],
+            "b1_p19_ex1_i": [
+              "am"
+            ],
+            "b1_p19_ex1_j": [
+              "gegen",
+              "um",
+              "gegen ... um",
+              "gegen, um"
+            ],
+            "b1_p19_ex1_k": [
+              "zu",
+              "an"
+            ],
+            "b1_p19_ex1_l": [
+              "vor",
+              "bis zu"
+            ]
+          },
+          "explanations": {
+            "b1_p19_ex1_a": "vor + Dativ (Vergangenheit mit Zeitabstand): vor einem Jahr",
+            "b1_p19_ex1_b": "an + Dativ (Wochentage/Wochenende): am Wochenende (bei einem Glas Wein)",
+            "b1_p19_ex1_c": "nach + Dativ (zeitliche Nachzeitigkeit): nach dem Abendessen (um 20:30 Uhr)",
+            "b1_p19_ex1_d": "gegen + Akkusativ (ungefährer Zeitpunkt): gegen Mittag",
+            "b1_p19_ex1_e": "zu + Dativ (feste Wendung): zu jeder Zeit",
+            "b1_p19_ex1_f": "in + Dativ (Monate/Jahreszeiten): im August (Nach dem Urlaub)",
+            "b1_p19_ex1_g": "vor + Dativ (Vergangenheitspunkt): vor einer Woche",
+            "b1_p19_ex1_h": "bei + Dativ (Gleichzeitigkeit/Bedingung): bei diesem schlechten Wetter",
+            "b1_p19_ex1_i": "an + Dativ (Tageszeiten): am Nachmittag",
+            "b1_p19_ex1_j": "gegen 18:00 Uhr (ungefähr) / um diese Zeit (Akkusativ)",
+            "b1_p19_ex1_k": "zu + Dativ (Feiertage/Anlässe): zu meinem Geburtstag",
+            "b1_p19_ex1_l": "vor + Dativ (vor einem Zeitpunkt): vor dem Ende des Monats"
+          }
         },
         {
           "id": "b1_p19_ex2",
-          "title": "Übung 2",
-          "instruction": "",
-          "answers": {
-            "b1_p19_ex2_a": "richtig",
-            "b1_p19_ex2_b": "das",
-            "b1_p19_ex2_c": "richtig",
-            "b1_p19_ex2_d": "richtig",
-            "b1_p19_ex2_e": "richtig",
-            "b1_p19_ex2_f": "richtig",
-            "b1_p19_ex2_g": "richtig",
-            "b1_p19_ex2_h": "richtig",
-            "b1_p19_ex2_i": "richtig",
-            "b1_p19_ex2_j": "das"
-          },
-          "explanations": {
-            "b1_p19_ex2_a": "Passende Form laut Kontext",
-            "b1_p19_ex2_b": "Neutral ➔ das",
-            "b1_p19_ex2_c": "Passende Form laut Kontext",
-            "b1_p19_ex2_d": "Passende Form laut Kontext",
-            "b1_p19_ex2_e": "Passende Form laut Kontext",
-            "b1_p19_ex2_f": "Passende Form laut Kontext",
-            "b1_p19_ex2_g": "Passende Form laut Kontext",
-            "b1_p19_ex2_h": "Passende Form laut Kontext",
-            "b1_p19_ex2_i": "Passende Form laut Kontext",
-            "b1_p19_ex2_j": "Neutral ➔ das"
-          },
+          "title": "Übung 2: Beginn, Ende, Dauer (ab, bis, seit, für, von...bis, während, innerhalb, außerhalb)",
+          "instruction": "Ergänzen Sie die passende temporale Präposition.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p19_ex2_a",
               "label": "a)",
-              "prompt": "",
               "lead": "Man kann auf diesem Platz ",
-              "tail": " nächstem Montag _____ nächsten Donnerstag nicht parken.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "tail": " nächstem Montag bis nächsten Donnerstag nicht parken.",
+              "answer": "von",
+              "alternatives": [
+                "von",
+                "von ... bis",
+                "von, bis",
+                "ab"
+              ],
+              "explanation": "von ... bis: von nächstem Montag bis nächsten Donnerstag",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_b",
               "label": "b)",
-              "prompt": "",
               "lead": "Kannst du mir ",
               "tail": " ein paar Stunden dein Auto leihen?",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "answer": "für",
+              "alternatives": [
+                "für"
+              ],
+              "explanation": "für + Akkusativ (zeitliche Zeitspanne/Dauer): für ein paar Stunden",
               "isCompact": true
             },
             {
               "id": "b1_p19_ex2_c",
               "label": "c)",
-              "prompt": "",
               "lead": "",
               "tail": " dem Wochenende soll das Wetter besser werden.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Ab",
+              "alternatives": [
+                "Ab",
+                "Nach",
+                "ab",
+                "nach"
+              ],
+              "explanation": "Ab / Nach + Dativ (Startpunkt): Ab dem Wochenende",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Jasmin muss ihre Doktorarbeit ",
               "tail": " eines Jahres fertigstellen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "innerhalb",
+              "alternatives": [
+                "innerhalb"
+              ],
+              "explanation": "innerhalb + Genitiv (Zeitraum Begrenzung): innerhalb eines Jahres",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_e",
               "label": "e)",
-              "prompt": "",
               "lead": "Alex studiert jetzt schon ",
               "tail": " zwei Jahren im Ausland.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "seit",
+              "alternatives": [
+                "seit"
+              ],
+              "explanation": "seit + Dativ (Beginn in Vergangenheit, dauert an): seit zwei Jahren",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_f",
               "label": "f)",
-              "prompt": "",
               "lead": "",
               "tail": " Weihnachten und Silvester haben wir geschlossen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Zwischen",
+              "alternatives": [
+                "Zwischen",
+                "zwischen"
+              ],
+              "explanation": "zwischen + Dativ (Zeitraum zwischen zwei Punkten): Zwischen Weihnachten und Silvester",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_g",
               "label": "g)",
-              "prompt": "",
               "lead": "Silvia will ",
               "tail": " des Sommers ein Praktikum machen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "während",
+              "alternatives": [
+                "während"
+              ],
+              "explanation": "während + Genitiv (Dauer): während des Sommers",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_h",
               "label": "h)",
-              "prompt": "",
               "lead": "Rufen Sie bitte nicht ",
               "tail": " der Sprechzeiten an.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "außerhalb",
+              "alternatives": [
+                "außerhalb"
+              ],
+              "explanation": "außerhalb + Genitiv (nicht in der Frist): außerhalb der Sprechzeiten",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_i",
               "label": "i)",
-              "prompt": "",
               "lead": "Ich arbeite ",
               "tail": " 18:00 Uhr und danach können wir uns treffen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "bis",
+              "alternatives": [
+                "bis"
+              ],
+              "explanation": "bis + Akkusativ/Uhrzeit (Endpunkt): bis 18:00 Uhr",
+              "isCompact": true
             },
             {
               "id": "b1_p19_ex2_j",
               "label": "j)",
-              "prompt": "",
               "lead": "Max liegt ",
               "tail": " einer Woche im Krankenhaus.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "answer": "seit",
+              "alternatives": [
+                "seit"
+              ],
+              "explanation": "seit + Dativ (Beginn in Vergangenheit bis heute): seit einer Woche",
               "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p19_ex2_a": "von",
+            "b1_p19_ex2_b": "für",
+            "b1_p19_ex2_c": "Ab",
+            "b1_p19_ex2_d": "innerhalb",
+            "b1_p19_ex2_e": "seit",
+            "b1_p19_ex2_f": "Zwischen",
+            "b1_p19_ex2_g": "während",
+            "b1_p19_ex2_h": "außerhalb",
+            "b1_p19_ex2_i": "bis",
+            "b1_p19_ex2_j": "seit"
+          },
+          "alternatives": {
+            "b1_p19_ex2_a": [
+              "von",
+              "von ... bis",
+              "von, bis",
+              "ab"
+            ],
+            "b1_p19_ex2_b": [
+              "für"
+            ],
+            "b1_p19_ex2_c": [
+              "Ab",
+              "Nach",
+              "ab",
+              "nach"
+            ],
+            "b1_p19_ex2_d": [
+              "innerhalb"
+            ],
+            "b1_p19_ex2_e": [
+              "seit"
+            ],
+            "b1_p19_ex2_f": [
+              "Zwischen",
+              "zwischen"
+            ],
+            "b1_p19_ex2_g": [
+              "während"
+            ],
+            "b1_p19_ex2_h": [
+              "außerhalb"
+            ],
+            "b1_p19_ex2_i": [
+              "bis"
+            ],
+            "b1_p19_ex2_j": [
+              "seit"
+            ]
+          },
+          "explanations": {
+            "b1_p19_ex2_a": "von ... bis: von nächstem Montag bis nächsten Donnerstag",
+            "b1_p19_ex2_b": "für + Akkusativ (zeitliche Zeitspanne/Dauer): für ein paar Stunden",
+            "b1_p19_ex2_c": "Ab / Nach + Dativ (Startpunkt): Ab dem Wochenende",
+            "b1_p19_ex2_d": "innerhalb + Genitiv (Zeitraum Begrenzung): innerhalb eines Jahres",
+            "b1_p19_ex2_e": "seit + Dativ (Beginn in Vergangenheit, dauert an): seit zwei Jahren",
+            "b1_p19_ex2_f": "zwischen + Dativ (Zeitraum zwischen zwei Punkten): Zwischen Weihnachten und Silvester",
+            "b1_p19_ex2_g": "während + Genitiv (Dauer): während des Sommers",
+            "b1_p19_ex2_h": "außerhalb + Genitiv (nicht in der Frist): außerhalb der Sprechzeiten",
+            "b1_p19_ex2_i": "bis + Akkusativ/Uhrzeit (Endpunkt): bis 18:00 Uhr",
+            "b1_p19_ex2_j": "seit + Dativ (Beginn in Vergangenheit bis heute): seit einer Woche"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Präpositionen - temporal\n• Zeitpunkt:\n• an (Dativ) am Morgen, am Montag\n• bei (Dativ) beim Essen, bei Regen\n• gegen (Akkusativ) gegen 19.00 Uhr (ungefähr um 19:00 Uhr)\n• in (Dativ) im August, im Sommer, in einer Woche, in dieser Zeit\n• nach (Dativ) nach Weihnachten\n• um (Akkusativ) um 19.00 Uhr\n• vor (Dativ) vor einer Woche\n• zu (Dativ) zu Ostern, zu dieser Zeit (damals), zu jeder Zeit (immer)\n• Beginn und Ende:\n• ab (Dativ oder ohne Artikel Akkusativ) ab nächster Woche, ab nächste Woche, ab morgen\n• von (Dativ) ... an von morgen an\n• bis (Akkusativ) bis drei Uhr, bis bald\n• seit (Dativ) seit einem Jahr (bis heute)\n• Dauer:\n• für (Akkusativ) für eine Woche\n• von (Dativ) ... bis (Akkusativ) ... von Oktober bis März\n• während (Genitiv) während der Ferien (auch Zeitpunkt innerhalb der Dauer)\n• zwischen (Dativ) zwischen dem 15. Mai und dem 1. Juni\n• außerhalb (Genitiv) außerhalb der Öffnungszeiten\n• innerhalb (Genitiv) innerhalb einer Woche"
+      ]
     },
     "20": {
-      "lessonTitle": "Nebensätze - temporal (Seite 20)",
+      "lessonTitle": "3. Temporale Nebensätze: wenn vs. als & bis vs. seit[dem]",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Temporale Nebensätze (wenn vs. als & bis vs. seit[dem])\n\n#### 1. wenn vs. als\n- **wenn:**\n  - Gegenwart oder Zukunft: *Wenn ich morgen Zeit habe, besuche ich dich.*\n  - Wiederholte Handlungen in der Vergangenheit (Signalwörter: *immer, jedes Mal, oft*):\n    *Wenn Opa uns besuchte, brachte er immer Geschenke mit.*\n- **als:**\n  - Einmalige Handlung oder Zustand in der Vergangenheit:\n    *Als ich letztes Jahr in Wien war, regnete es die ganze Zeit.*\n    *Als mein Vater starb, war ich neun Jahre alt.*\n\n---\n\n#### 2. bis vs. seit[dem]\n- **bis (Endpunkt):** Die Handlung im Nebensatz beendet die Handlung im Hauptsatz:\n  *Ich warte hier, bis der Bus kommt.*\n  *Wir blieben, bis die Party zu Ende war.*\n- **seit / seitdem (Startpunkt bis zur Gegenwart):** Handlung begann in der Vergangenheit und dauert bis heute an:\n  *Seit(dem) sie hier wohnt, fühlt sie sich wohl.*\n  *Seit er mit dem Rauchen aufgehört hat, treibt er viel Sport.*\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *wenn* = \"when / whenever / if\" (recurring past or present/future)\n> - *als* = \"when\" (one-time past event only: *when I was young ➔ als ich jung war*)\n> - *bis* = \"until\"\n> - *seit / seitdem* = \"since\"",
       "exercises": [
         {
           "id": "b1_p20_ex1",
-          "title": "Übung 1",
-          "instruction": "",
-          "answers": {
-            "b1_p20_ex1_a": "richtig",
-            "b1_p20_ex1_b": "richtig",
-            "b1_p20_ex1_c": "richtig",
-            "b1_p20_ex1_d": "richtig",
-            "b1_p20_ex1_e": "richtig",
-            "b1_p20_ex1_f": "richtig",
-            "b1_p20_ex1_g": "richtig",
-            "b1_p20_ex1_h": "richtig",
-            "b1_p20_ex1_i": "richtig",
-            "b1_p20_ex1_j": "richtig",
-            "b1_p20_ex1_k": "richtig",
-            "b1_p20_ex1_2": "—"
-          },
-          "explanations": {
-            "b1_p20_ex1_a": "Passende Form laut Kontext",
-            "b1_p20_ex1_b": "Passende Form laut Kontext",
-            "b1_p20_ex1_c": "Passende Form laut Kontext",
-            "b1_p20_ex1_d": "Passende Form laut Kontext",
-            "b1_p20_ex1_e": "Passende Form laut Kontext",
-            "b1_p20_ex1_f": "Passende Form laut Kontext",
-            "b1_p20_ex1_g": "Passende Form laut Kontext",
-            "b1_p20_ex1_h": "Passende Form laut Kontext",
-            "b1_p20_ex1_i": "Passende Form laut Kontext",
-            "b1_p20_ex1_j": "Passende Form laut Kontext",
-            "b1_p20_ex1_k": "Passende Form laut Kontext",
-            "b1_p20_ex1_2": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 1: wenn oder als?",
+          "instruction": "Entscheiden Sie zwischen wenn (Gegenwart/Zukunft oder wiederholte Handlung) und als (einmalig in der Vergangenheit).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p20_ex1_a",
               "label": "a)",
-              "prompt": "",
               "lead": "",
               "tail": " ich im Sommer nach Griechenland fahre, treffe ich dort meine Freunde.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Wenn",
+              "alternatives": [
+                "Wenn",
+                "wenn"
+              ],
+              "explanation": "Zukunft / geplante Aktion ➔ Wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_b",
               "label": "b)",
-              "prompt": "",
               "lead": "",
               "tail": " Miriam in Rom war, schrieb sie mir eine Karte.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Als",
+              "alternatives": [
+                "Als",
+                "als"
+              ],
+              "explanation": "Einmalige Aktion in der Vergangenheit ➔ Als",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_c",
               "label": "c)",
-              "prompt": "",
               "lead": "",
               "tail": " uns Opa besuchte, brachte er immer Geschenke mit.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Wenn",
+              "alternatives": [
+                "Wenn",
+                "wenn"
+              ],
+              "explanation": "Wiederholte Aktion in der Vergangenheit ('immer') ➔ Wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Jonas fährt immer sehr vorsichtig, ",
               "tail": " es regnet.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "wenn",
+              "alternatives": [
+                "wenn"
+              ],
+              "explanation": "Gegenwart / Wiederholung ('immer') ➔ wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_e",
               "label": "e)",
-              "prompt": "",
               "lead": "",
               "tail": " mich die Polizei gestern anhielt, musste ich meinen Führerschein zeigen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Als",
+              "alternatives": [
+                "Als",
+                "als"
+              ],
+              "explanation": "Einmaliges Ereignis in der Vergangenheit ('gestern') ➔ Als",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_f",
               "label": "f)",
-              "prompt": "",
               "lead": "Alexander von Humboldt war erst 9 Jahre alt, ",
               "tail": " sein Vater starb.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "als",
+              "alternatives": [
+                "als"
+              ],
+              "explanation": "Einmaliges historisches Ereignis in der Vergangenheit ➔ als",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_g",
               "label": "g)",
-              "prompt": "",
               "lead": "",
               "tail": " ich Kopfschmerzen habe, nehme ich eine Tablette.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Wenn",
+              "alternatives": [
+                "Wenn",
+                "wenn"
+              ],
+              "explanation": "Gegenwart / Bedingung ➔ Wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_h",
               "label": "h)",
-              "prompt": "",
               "lead": "Der Zug kam gerade an, ",
               "tail": " ich zum Bahnsteig ging.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "als",
+              "alternatives": [
+                "als"
+              ],
+              "explanation": "Einmaliges Ereignis in der Vergangenheit ➔ als",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_i",
               "label": "i)",
-              "prompt": "",
               "lead": "Clara musste immer viel mehr arbeiten, ",
               "tail": " ihre Kollegin krank war.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "wenn",
+              "alternatives": [
+                "wenn"
+              ],
+              "explanation": "Wiederholung in der Vergangenheit ('immer') ➔ wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_j",
               "label": "j)",
-              "prompt": "",
               "lead": "Die Nachbarn riefen immer die Polizei, ",
               "tail": " wir eine Party machten.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "wenn",
+              "alternatives": [
+                "wenn"
+              ],
+              "explanation": "Wiederholung in der Vergangenheit ('immer') ➔ wenn",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex1_k",
               "label": "k)",
-              "prompt": "",
               "lead": "",
               "tail": " ich gestern durch diese dunkle Straße gehen musste, fühlte ich mich unwohl.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p20_ex1_2",
-              "label": "2.",
-              "prompt": "",
-              "lead": "bis - seit",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "answer": "Als",
+              "alternatives": [
+                "Als",
+                "als"
+              ],
+              "explanation": "Einmaliges Ereignis in der Vergangenheit ('gestern') ➔ Als",
               "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p20_ex1_a": "Wenn",
+            "b1_p20_ex1_b": "Als",
+            "b1_p20_ex1_c": "Wenn",
+            "b1_p20_ex1_d": "wenn",
+            "b1_p20_ex1_e": "Als",
+            "b1_p20_ex1_f": "als",
+            "b1_p20_ex1_g": "Wenn",
+            "b1_p20_ex1_h": "als",
+            "b1_p20_ex1_i": "wenn",
+            "b1_p20_ex1_j": "wenn",
+            "b1_p20_ex1_k": "Als"
+          },
+          "alternatives": {
+            "b1_p20_ex1_a": [
+              "Wenn",
+              "wenn"
+            ],
+            "b1_p20_ex1_b": [
+              "Als",
+              "als"
+            ],
+            "b1_p20_ex1_c": [
+              "Wenn",
+              "wenn"
+            ],
+            "b1_p20_ex1_d": [
+              "wenn"
+            ],
+            "b1_p20_ex1_e": [
+              "Als",
+              "als"
+            ],
+            "b1_p20_ex1_f": [
+              "als"
+            ],
+            "b1_p20_ex1_g": [
+              "Wenn",
+              "wenn"
+            ],
+            "b1_p20_ex1_h": [
+              "als"
+            ],
+            "b1_p20_ex1_i": [
+              "wenn"
+            ],
+            "b1_p20_ex1_j": [
+              "wenn"
+            ],
+            "b1_p20_ex1_k": [
+              "Als",
+              "als"
+            ]
+          },
+          "explanations": {
+            "b1_p20_ex1_a": "Zukunft / geplante Aktion ➔ Wenn",
+            "b1_p20_ex1_b": "Einmalige Aktion in der Vergangenheit ➔ Als",
+            "b1_p20_ex1_c": "Wiederholte Aktion in der Vergangenheit ('immer') ➔ Wenn",
+            "b1_p20_ex1_d": "Gegenwart / Wiederholung ('immer') ➔ wenn",
+            "b1_p20_ex1_e": "Einmaliges Ereignis in der Vergangenheit ('gestern') ➔ Als",
+            "b1_p20_ex1_f": "Einmaliges historisches Ereignis in der Vergangenheit ➔ als",
+            "b1_p20_ex1_g": "Gegenwart / Bedingung ➔ Wenn",
+            "b1_p20_ex1_h": "Einmaliges Ereignis in der Vergangenheit ➔ als",
+            "b1_p20_ex1_i": "Wiederholung in der Vergangenheit ('immer') ➔ wenn",
+            "b1_p20_ex1_j": "Wiederholung in der Vergangenheit ('immer') ➔ wenn",
+            "b1_p20_ex1_k": "Einmaliges Ereignis in der Vergangenheit ('gestern') ➔ Als"
+          }
         },
         {
           "id": "b1_p20_ex2",
-          "title": "Übung 2",
-          "instruction": "",
-          "answers": {
-            "b1_p20_ex2_a": "richtig",
-            "b1_p20_ex2_b": "die",
-            "b1_p20_ex2_c": "richtig",
-            "b1_p20_ex2_d": "die",
-            "b1_p20_ex2_e": "richtig",
-            "b1_p20_ex2_f": "richtig",
-            "b1_p20_ex2_g": "richtig",
-            "b1_p20_ex2_h": "richtig"
-          },
-          "explanations": {
-            "b1_p20_ex2_a": "Passende Form laut Kontext",
-            "b1_p20_ex2_b": "Feminin ➔ die",
-            "b1_p20_ex2_c": "Passende Form laut Kontext",
-            "b1_p20_ex2_d": "Feminin ➔ die",
-            "b1_p20_ex2_e": "Passende Form laut Kontext",
-            "b1_p20_ex2_f": "Passende Form laut Kontext",
-            "b1_p20_ex2_g": "Passende Form laut Kontext",
-            "b1_p20_ex2_h": "Passende Form laut Kontext"
-          },
+          "title": "Übung 2: bis oder seit[dem]?",
+          "instruction": "Ergänzen Sie bis (Endpunkt) oder seit / seitdem (Startpunkt in der Vergangenheit).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p20_ex2_a",
               "label": "a)",
-              "prompt": "",
               "lead": "",
               "tail": " Max dieses Medikament nimmt, geht es ihm viel besser.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Seit",
+              "alternatives": [
+                "Seitdem",
+                "seit",
+                "seitdem"
+              ],
+              "explanation": "Beginn in der Vergangenheit, Wirkung dauert an ➔ Seit / Seitdem",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex2_b",
               "label": "b)",
-              "prompt": "",
               "lead": "Der Hund bellte so lange vor meiner Tür, ",
               "tail": " ich ihn ins Zimmer ließ.",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
+              "answer": "bis",
+              "alternatives": [
+                "bis"
+              ],
+              "explanation": "Aktion im NS beendet Aktion im HS (Endpunkt) ➔ bis",
               "isCompact": true
             },
             {
               "id": "b1_p20_ex2_c",
               "label": "c)",
-              "prompt": "",
               "lead": "Wir warteten fast eine halbe Stunde, ",
               "tail": " der Kellner endlich kam.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "bis",
+              "alternatives": [
+                "bis"
+              ],
+              "explanation": "Endpunkt der Wartezeit ➔ bis",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex2_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Sie hat ständig Schmerzen im Knie, ",
               "tail": " sie beim Skifahren so schwer gestürzt ist.",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
+              "answer": "seit",
+              "alternatives": [
+                "seitdem",
+                "Seit",
+                "Seitdem"
+              ],
+              "explanation": "Ursprüngliches Startereignis bis heute ➔ seit / seitdem",
               "isCompact": true
             },
             {
               "id": "b1_p20_ex2_e",
               "label": "e)",
-              "prompt": "",
               "lead": "",
               "tail": " Pavel mit dem Rauchen aufgehört hat, ist er schrecklich nervös.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Seit",
+              "alternatives": [
+                "Seitdem",
+                "seit",
+                "seitdem"
+              ],
+              "explanation": "Seit(dem) Pavel aufgehört hat (Dauerzustand bis heute)",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex2_f",
               "label": "f)",
-              "prompt": "",
               "lead": "",
               "tail": " Eva Jonas zum ersten Mal gesehen hat, ist sie in ihn verliebt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "Seit",
+              "alternatives": [
+                "Seitdem",
+                "seit",
+                "seitdem"
+              ],
+              "explanation": "Seit(dem) Eva ihn gesehen hat (Dauerzustand)",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex2_g",
               "label": "g)",
-              "prompt": "",
               "lead": "Lisa lernt jeden Tag bis um 10.00 Uhr abends, ",
               "tail": " sie die Prüfung schreibt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "bis",
+              "alternatives": [
+                "bis"
+              ],
+              "explanation": "Endzeitpunkt / Zielereignis ➔ bis",
+              "isCompact": true
             },
             {
               "id": "b1_p20_ex2_h",
               "label": "h)",
-              "prompt": "",
               "lead": "Es dauert noch über eine Stunde, ",
               "tail": " der Zug kommt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "bis",
+              "alternatives": [
+                "bis"
+              ],
+              "explanation": "Endpunkt des Wartens ➔ bis",
+              "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p20_ex2_a": "Seit",
+            "b1_p20_ex2_b": "bis",
+            "b1_p20_ex2_c": "bis",
+            "b1_p20_ex2_d": "seit",
+            "b1_p20_ex2_e": "Seit",
+            "b1_p20_ex2_f": "Seit",
+            "b1_p20_ex2_g": "bis",
+            "b1_p20_ex2_h": "bis"
+          },
+          "alternatives": {
+            "b1_p20_ex2_a": [
+              "Seitdem",
+              "seit",
+              "seitdem"
+            ],
+            "b1_p20_ex2_b": [
+              "bis"
+            ],
+            "b1_p20_ex2_c": [
+              "bis"
+            ],
+            "b1_p20_ex2_d": [
+              "seitdem",
+              "Seit",
+              "Seitdem"
+            ],
+            "b1_p20_ex2_e": [
+              "Seitdem",
+              "seit",
+              "seitdem"
+            ],
+            "b1_p20_ex2_f": [
+              "Seitdem",
+              "seit",
+              "seitdem"
+            ],
+            "b1_p20_ex2_g": [
+              "bis"
+            ],
+            "b1_p20_ex2_h": [
+              "bis"
+            ]
+          },
+          "explanations": {
+            "b1_p20_ex2_a": "Beginn in der Vergangenheit, Wirkung dauert an ➔ Seit / Seitdem",
+            "b1_p20_ex2_b": "Aktion im NS beendet Aktion im HS (Endpunkt) ➔ bis",
+            "b1_p20_ex2_c": "Endpunkt der Wartezeit ➔ bis",
+            "b1_p20_ex2_d": "Ursprüngliches Startereignis bis heute ➔ seit / seitdem",
+            "b1_p20_ex2_e": "Seit(dem) Pavel aufgehört hat (Dauerzustand bis heute)",
+            "b1_p20_ex2_f": "Seit(dem) Eva ihn gesehen hat (Dauerzustand)",
+            "b1_p20_ex2_g": "Endzeitpunkt / Zielereignis ➔ bis",
+            "b1_p20_ex2_h": "Endpunkt des Wartens ➔ bis"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Nebensätze - temporal\n• 1. wenn - als\n• Wenn Max seine Tante morgen besucht, bringt er ihr Blumen mit.\n• eine Aktion in der Gegenwart / Zukunft ➔➔ wenn\n• Wenn Julia in Spanien war, brachte sie immer Olivenöl mit.\n• wiederholte Aktion (Vergangenheit / Gegenwart / Zukunft) ➔➔ wenn\n• Als ich letztes Jahr in Wien war, regnete es die ganze Zeit.\n• eine Aktion in der Vergangenheit ➔➔ als\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Aktion im NS beendet Aktion im HS. ➔ HS und NS  - gleiche Zeit ➔➔ bis\n• Seit(dem) sie in der Stadt wohnt, fährt sie nur noch mit dem Bus.\n• Seit(dem) sie für diese Firma arbeitet, hat sie sich sehr verändert.\n• 2 Aktionen beginnen in der Vergangenheit - dauern an.\n• HS und NS - gleiche Zeit\n• oder HS Perfekt; NS Präsens ➔➔ seit[dem]\n• Seit er den Kurs gemacht hat, kann er viel besser mit dem Computer umgehen.\n• Eine Aktion in der Vergangenheit wirkt bis heute.\n• HS - Präsens; NS - Perfekt ➔➔ seit[dem]"
+      ]
     },
     "21": {
-      "lessonTitle": "3. während (NS - gleichzeitig) (Seite 21)",
+      "lessonTitle": "4. Temporale Nebensätze: während, nachdem & bevor / ehe",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Temporale Nebensätze (während, nachdem, bevor / ehe)\n\n#### 1. während (Gleichzeitigkeit)\n- Drückt aus, dass zwei Handlungen zur selben Zeit ablaufen:\n  *Während Clara mit Paul spricht, sieht sie ihm in die Augen.*\n  *Während der Kellner die Rechnung brachte, zählte ich mein Geld.*\n\n---\n\n#### 2. nachdem (Vorzeitigkeit)\n- Die Handlung im Nebensatz passiert **vor** der Handlung im Hauptsatz.\n- **Zeitenfolge (Tempus-Schnitt):**\n  - Nebensatz **Plusquamperfekt** ➔ Hauptsatz **Präteritum**:\n    *Nachdem er gegessen hatte, ging er spazieren.*\n  - Nebensatz **Perfekt** ➔ Hauptsatz **Präsens / Futur**:\n    *Nachdem er gefrühstückt hat, fährt er zur Arbeit.*\n\n---\n\n#### 3. bevor / ehe (Nachzeitigkeit)\n- Die Handlung im Nebensatz passiert **nach** der Handlung im Hauptsatz:\n  *Bevor Karl ins Restaurant kam, hatte er einen Parkplatz gesucht.*\n  *Bevor sie die Prüfung schreibt, will sie noch ein Jahr lernen.*\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n> - *während* = \"while / whilst\"\n> - *nachdem* = \"after\" (demands past perfect before simple past: *After he had eaten...*)\n> - *bevor / ehe* = \"before\"",
       "exercises": [
         {
           "id": "b1_p21_ex3",
-          "title": "Übung 3",
-          "instruction": "",
-          "answers": {
-            "b1_p21_ex3_a": "—",
-            "b1_p21_ex3_b": "—",
-            "b1_p21_ex3_c": "—",
-            "b1_p21_ex3_d": "die",
-            "b1_p21_ex3_e": "—",
-            "b1_p21_ex3_f": "—",
-            "b1_p21_ex3_g": "—",
-            "b1_p21_ex3_4": "—"
-          },
-          "explanations": {
-            "b1_p21_ex3_a": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_b": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_c": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_d": "Feminin ➔ die",
-            "b1_p21_ex3_e": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_f": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_g": "Vollständiger Beispielsatz",
-            "b1_p21_ex3_4": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 3: während (Gleichzeitigkeit)",
+          "instruction": "Verbinden Sie die Sätze mit während (Verb am Ende des Nebensatzes).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p21_ex3_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Clara spricht mit Paul. Dabei sieht sie ihm tief in die Augen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Clara spricht mit Paul. Dabei sieht sie ihm tief in die Augen.",
+              "lead": "Während Clara mit Paul spricht, ",
+              "tail": ".",
+              "answer": "sieht sie ihm tief in die Augen",
+              "alternatives": [
+                "sieht sie ihm tief in die Augen",
+                "Während Clara mit Paul spricht, sieht sie ihm tief in die Augen"
+              ],
+              "explanation": "Gleichzeitigkeit (Präsens): sieht sie ihm tief in die Augen",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Thomas duscht sich. Dabei pfeift er immer ein Lied.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Thomas duscht sich. Dabei pfeift er immer ein Lied.",
+              "lead": "Während Thomas sich duscht, ",
+              "tail": ".",
+              "answer": "pfeift er immer ein Lied",
+              "alternatives": [
+                "pfeift er immer ein Lied",
+                "Während Thomas sich duscht, pfeift er immer ein Lied",
+                "Während sich Thomas duscht, pfeift er immer ein Lied"
+              ],
+              "explanation": "Gleichzeitigkeit: pfeift er immer ein Lied",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Der Kellner bringt die Rechnung. Inzwischen zähle ich mein Geld.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Der Kellner bringt die Rechnung. Inzwischen zähle ich mein Geld.",
+              "lead": "Während der Kellner die Rechnung bringt, ",
+              "tail": ".",
+              "answer": "zähle ich mein Geld",
+              "alternatives": [
+                "zähle ich mein Geld",
+                "Während der Kellner die Rechnung bringt, zähle ich mein Geld"
+              ],
+              "explanation": "Gleichzeitigkeit: zähle ich mein Geld",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Hatem frühstückte. Gleichzeitig las er die Wohnungsanzeigen in der Tageszeitung.",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
+              "prompt": "Hatem frühstückte. Gleichzeitig las er die Wohnungsanzeigen in der Tageszeitung.",
+              "lead": "Während Hatem frühstückte, ",
+              "tail": ".",
+              "answer": "las er die Wohnungsanzeigen in der Tageszeitung",
+              "alternatives": [
+                "las er die Wohnungsanzeigen in der Tageszeitung",
+                "Während Hatem frühstückte, las er die Wohnungsanzeigen in der Tageszeitung"
+              ],
+              "explanation": "Gleichzeitigkeit (Präteritum): las er die Wohnungsanzeigen in der Tageszeitung",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Ich wasche das Obst. In dieser Zeit schneidet Paul die Tomaten.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich wasche das Obst. In dieser Zeit schneidet Paul die Tomaten.",
+              "lead": "Während ich das Obst wasche, ",
+              "tail": ".",
+              "answer": "schneidet Paul die Tomaten",
+              "alternatives": [
+                "schneidet Paul die Tomaten",
+                "Während ich das Obst wasche, schneidet Paul die Tomaten"
+              ],
+              "explanation": "Gleichzeitigkeit: schneidet Paul die Tomaten",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Wir tranken Kaffee. Dabei erzählte sie mir eine lange Geschichte.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Wir tranken Kaffee. Dabei erzählte sie mir eine lange Geschichte.",
+              "lead": "Während wir Kaffee tranken, ",
+              "tail": ".",
+              "answer": "erzählte sie mir eine lange Geschichte",
+              "alternatives": [
+                "erzählte sie mir eine lange Geschichte",
+                "Während wir Kaffee tranken, erzählte sie mir eine lange Geschichte"
+              ],
+              "explanation": "Gleichzeitigkeit (Präteritum): erzählte sie mir eine lange Geschichte",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex3_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Hanna wartete an der Bushaltestelle. In dieser Zeit regnete es ständig.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p21_ex3_4",
-              "label": "4.",
-              "prompt": "",
-              "lead": "nachdem (NS - vorzeitig)",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hanna wartete an der Bushaltestelle. In dieser Zeit regnete es ständig.",
+              "lead": "Während Hanna an der Bushaltestelle wartete, ",
+              "tail": ".",
+              "answer": "regnete es ständig",
+              "alternatives": [
+                "regnete es ständig",
+                "Während Hanna an der Bushaltestelle wartete, regnete es ständig"
+              ],
+              "explanation": "Gleichzeitigkeit (Präteritum): regnete es ständig",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p21_ex3_a": "sieht sie ihm tief in die Augen",
+            "b1_p21_ex3_b": "pfeift er immer ein Lied",
+            "b1_p21_ex3_c": "zähle ich mein Geld",
+            "b1_p21_ex3_d": "las er die Wohnungsanzeigen in der Tageszeitung",
+            "b1_p21_ex3_e": "schneidet Paul die Tomaten",
+            "b1_p21_ex3_f": "erzählte sie mir eine lange Geschichte",
+            "b1_p21_ex3_g": "regnete es ständig"
+          },
+          "alternatives": {
+            "b1_p21_ex3_a": [
+              "sieht sie ihm tief in die Augen",
+              "Während Clara mit Paul spricht, sieht sie ihm tief in die Augen"
+            ],
+            "b1_p21_ex3_b": [
+              "pfeift er immer ein Lied",
+              "Während Thomas sich duscht, pfeift er immer ein Lied",
+              "Während sich Thomas duscht, pfeift er immer ein Lied"
+            ],
+            "b1_p21_ex3_c": [
+              "zähle ich mein Geld",
+              "Während der Kellner die Rechnung bringt, zähle ich mein Geld"
+            ],
+            "b1_p21_ex3_d": [
+              "las er die Wohnungsanzeigen in der Tageszeitung",
+              "Während Hatem frühstückte, las er die Wohnungsanzeigen in der Tageszeitung"
+            ],
+            "b1_p21_ex3_e": [
+              "schneidet Paul die Tomaten",
+              "Während ich das Obst wasche, schneidet Paul die Tomaten"
+            ],
+            "b1_p21_ex3_f": [
+              "erzählte sie mir eine lange Geschichte",
+              "Während wir Kaffee tranken, erzählte sie mir eine lange Geschichte"
+            ],
+            "b1_p21_ex3_g": [
+              "regnete es ständig",
+              "Während Hanna an der Bushaltestelle wartete, regnete es ständig"
+            ]
+          },
+          "explanations": {
+            "b1_p21_ex3_a": "Gleichzeitigkeit (Präsens): sieht sie ihm tief in die Augen",
+            "b1_p21_ex3_b": "Gleichzeitigkeit: pfeift er immer ein Lied",
+            "b1_p21_ex3_c": "Gleichzeitigkeit: zähle ich mein Geld",
+            "b1_p21_ex3_d": "Gleichzeitigkeit (Präteritum): las er die Wohnungsanzeigen in der Tageszeitung",
+            "b1_p21_ex3_e": "Gleichzeitigkeit: schneidet Paul die Tomaten",
+            "b1_p21_ex3_f": "Gleichzeitigkeit (Präteritum): erzählte sie mir eine lange Geschichte",
+            "b1_p21_ex3_g": "Gleichzeitigkeit (Präteritum): regnete es ständig"
+          }
         },
         {
           "id": "b1_p21_ex4",
-          "title": "Übung 4",
-          "instruction": "",
-          "answers": {
-            "b1_p21_ex4_a": "—",
-            "b1_p21_ex4_b": "—",
-            "b1_p21_ex4_c": "—",
-            "b1_p21_ex4_d": "—",
-            "b1_p21_ex4_e": "—",
-            "b1_p21_ex4_f": "—",
-            "b1_p21_ex4_g": "—",
-            "b1_p21_ex4_5": "—"
-          },
-          "explanations": {
-            "b1_p21_ex4_a": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_b": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_c": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_d": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_e": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_f": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_g": "Vollständiger Beispielsatz",
-            "b1_p21_ex4_5": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 4: nachdem (Vorzeitigkeit)",
+          "instruction": "Verbinden Sie die Sätze mit nachdem. Beachten Sie die Zeitenfolge (Plusquamperfekt bei Präteritum; Perfekt bei Präsens).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p21_ex4_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Wir hatten dem Beamten unsere Pässe gezeigt. Anschließend durften wir weiterfahren.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Wir hatten dem Beamten unsere Pässe gezeigt. Anschließend durften wir weiterfahren.",
+              "lead": "Nachdem wir dem Beamten unsere Pässe gezeigt hatten, ",
+              "tail": ".",
+              "answer": "durften wir weiterfahren",
+              "alternatives": [
+                "durften wir weiterfahren",
+                "Nachdem wir dem Beamten unsere Pässe gezeigt hatten, durften wir weiterfahren"
+              ],
+              "explanation": "Vorzeitigkeit Vergangenheit: durften wir weiterfahren",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Ich hatte gegessen. Danach bestellte ich noch einen Kaffee.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich hatte gegessen. Danach bestellte ich noch einen Kaffee.",
+              "lead": "Nachdem ich gegessen hatte, ",
+              "tail": ".",
+              "answer": "bestellte ich noch einen Kaffee",
+              "alternatives": [
+                "bestellte ich noch einen Kaffee",
+                "Nachdem ich gegessen hatte, bestellte ich noch einen Kaffee"
+              ],
+              "explanation": "Vorzeitigkeit: bestellte ich noch einen Kaffee",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Der Arzt hatte den Patienten untersucht. Anschließend sprach er mit ihm.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Der Arzt hatte den Patienten untersucht. Anschließend sprach er mit ihm.",
+              "lead": "Nachdem der Arzt den Patienten untersucht hatte, ",
+              "tail": ".",
+              "answer": "sprach er mit ihm",
+              "alternatives": [
+                "sprach er mit ihm",
+                "Nachdem der Arzt den Patienten untersucht hatte, sprach er mit ihm"
+              ],
+              "explanation": "Vorzeitigkeit: sprach er mit ihm",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Lena hatte das Büro aufgeräumt. Dann aß sie zu Abend.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Lena hatte das Büro aufgeräumt. Dann aß sie zu Abend.",
+              "lead": "Nachdem Lena das Büro aufgeräumt hatte, ",
+              "tail": ".",
+              "answer": "aß sie zu Abend",
+              "alternatives": [
+                "aß sie zu Abend",
+                "Nachdem Lena das Büro aufgeräumt hatte, aß sie zu Abend"
+              ],
+              "explanation": "Vorzeitigkeit: aß sie zu Abend",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Klaus hat seine Arbeit beendet. Jetzt legt er die Akten in den Schrank.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Klaus hat seine Arbeit beendet. Jetzt legt er die Akten in den Schrank.",
+              "lead": "Nachdem Klaus seine Arbeit beendet hat, ",
+              "tail": ".",
+              "answer": "legt er die Akten in den Schrank",
+              "alternatives": [
+                "legt er die Akten in den Schrank",
+                "Nachdem Klaus seine Arbeit beendet hat, legt er die Akten in den Schrank"
+              ],
+              "explanation": "Vorzeitigkeit Gegenwart (Perfekt im NS ➔ Präsens im HS): legt er die Akten in den Schrank",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Amira hatte die Preise verglichen. Dann kaufte sie den neuen Wagen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Amira hatte die Preise verglichen. Dann kaufte sie den neuen Wagen.",
+              "lead": "Nachdem Amira die Preise verglichen hatte, ",
+              "tail": ".",
+              "answer": "kaufte sie den neuen Wagen",
+              "alternatives": [
+                "kaufte sie den neuen Wagen",
+                "Nachdem Amira die Preise verglichen hatte, kaufte sie den neuen Wagen"
+              ],
+              "explanation": "Vorzeitigkeit: kaufte sie den neuen Wagen",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex4_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Maria hat Pauls Telefonnummer gefunden. Jetzt ruft sie ihn an.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p21_ex4_5",
-              "label": "5.",
-              "prompt": "",
-              "lead": "bevor / ehe (NS - nachzeitig)",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Maria hat Pauls Telefonnummer gefunden. Jetzt ruft sie ihn an.",
+              "lead": "Nachdem Maria Pauls Telefonnummer gefunden hat, ",
+              "tail": ".",
+              "answer": "ruft sie ihn an",
+              "alternatives": [
+                "ruft sie ihn an",
+                "Nachdem Maria Pauls Telefonnummer gefunden hat, ruft sie ihn an"
+              ],
+              "explanation": "Vorzeitigkeit Gegenwart: ruft sie ihn an",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p21_ex4_a": "durften wir weiterfahren",
+            "b1_p21_ex4_b": "bestellte ich noch einen Kaffee",
+            "b1_p21_ex4_c": "sprach er mit ihm",
+            "b1_p21_ex4_d": "aß sie zu Abend",
+            "b1_p21_ex4_e": "legt er die Akten in den Schrank",
+            "b1_p21_ex4_f": "kaufte sie den neuen Wagen",
+            "b1_p21_ex4_g": "ruft sie ihn an"
+          },
+          "alternatives": {
+            "b1_p21_ex4_a": [
+              "durften wir weiterfahren",
+              "Nachdem wir dem Beamten unsere Pässe gezeigt hatten, durften wir weiterfahren"
+            ],
+            "b1_p21_ex4_b": [
+              "bestellte ich noch einen Kaffee",
+              "Nachdem ich gegessen hatte, bestellte ich noch einen Kaffee"
+            ],
+            "b1_p21_ex4_c": [
+              "sprach er mit ihm",
+              "Nachdem der Arzt den Patienten untersucht hatte, sprach er mit ihm"
+            ],
+            "b1_p21_ex4_d": [
+              "aß sie zu Abend",
+              "Nachdem Lena das Büro aufgeräumt hatte, aß sie zu Abend"
+            ],
+            "b1_p21_ex4_e": [
+              "legt er die Akten in den Schrank",
+              "Nachdem Klaus seine Arbeit beendet hat, legt er die Akten in den Schrank"
+            ],
+            "b1_p21_ex4_f": [
+              "kaufte sie den neuen Wagen",
+              "Nachdem Amira die Preise verglichen hatte, kaufte sie den neuen Wagen"
+            ],
+            "b1_p21_ex4_g": [
+              "ruft sie ihn an",
+              "Nachdem Maria Pauls Telefonnummer gefunden hat, ruft sie ihn an"
+            ]
+          },
+          "explanations": {
+            "b1_p21_ex4_a": "Vorzeitigkeit Vergangenheit: durften wir weiterfahren",
+            "b1_p21_ex4_b": "Vorzeitigkeit: bestellte ich noch einen Kaffee",
+            "b1_p21_ex4_c": "Vorzeitigkeit: sprach er mit ihm",
+            "b1_p21_ex4_d": "Vorzeitigkeit: aß sie zu Abend",
+            "b1_p21_ex4_e": "Vorzeitigkeit Gegenwart (Perfekt im NS ➔ Präsens im HS): legt er die Akten in den Schrank",
+            "b1_p21_ex4_f": "Vorzeitigkeit: kaufte sie den neuen Wagen",
+            "b1_p21_ex4_g": "Vorzeitigkeit Gegenwart: ruft sie ihn an"
+          }
         },
         {
           "id": "b1_p21_ex5",
-          "title": "Übung 5",
-          "instruction": "",
-          "answers": {
-            "b1_p21_ex5_a": "—",
-            "b1_p21_ex5_b": "—",
-            "b1_p21_ex5_c": "—",
-            "b1_p21_ex5_d": "—",
-            "b1_p21_ex5_e": "—",
-            "b1_p21_ex5_f": "—",
-            "b1_p21_ex5_g": "—"
-          },
-          "explanations": {
-            "b1_p21_ex5_a": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_b": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_c": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_d": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_e": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_f": "Vollständiger Beispielsatz",
-            "b1_p21_ex5_g": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 5: bevor / ehe (Nachzeitigkeit)",
+          "instruction": "Verbinden Sie die Sätze mit bevor (oder ehe).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p21_ex5_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Karl kam ins Restaurant. Vorher hatte er eine halbe Stunde einen Parkplatz gesucht.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Karl kam ins Restaurant. Vorher hatte er eine halbe Stunde einen Parkplatz gesucht.",
+              "lead": "Bevor Karl ins Restaurant kam, ",
+              "tail": ".",
+              "answer": "hatte er eine halbe Stunde einen Parkplatz gesucht",
+              "alternatives": [
+                "hatte er eine halbe Stunde einen Parkplatz gesucht",
+                "Bevor Karl ins Restaurant kam, hatte er eine halbe Stunde einen Parkplatz gesucht",
+                "Ehe Karl ins Restaurant kam, hatte er eine halbe Stunde einen Parkplatz gesucht"
+              ],
+              "explanation": "Nachzeitigkeit: hatte er eine halbe Stunde einen Parkplatz gesucht",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Meine Cousine macht ihr Examen. Vorher will sie noch ein Jahr im Ausland studieren.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Meine Cousine macht ihr Examen. Vorher will sie noch ein Jahr im Ausland studieren.",
+              "lead": "Bevor meine Cousine ihr Examen macht, ",
+              "tail": ".",
+              "answer": "will sie noch ein Jahr im Ausland studieren",
+              "alternatives": [
+                "will sie noch ein Jahr im Ausland studieren",
+                "Bevor meine Cousine ihr Examen macht, will sie noch ein Jahr im Ausland studieren",
+                "Ehe meine Cousine ihr Examen macht, will sie noch ein Jahr im Ausland studieren"
+              ],
+              "explanation": "Nachzeitigkeit Gegenwart: will sie noch ein Jahr im Ausland studieren",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Lisa löschte das Licht. Vorher las sie noch ein paar Seiten.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Lisa löschte das Licht. Vorher las sie noch ein paar Seiten.",
+              "lead": "Bevor Lisa das Licht löschte, ",
+              "tail": ".",
+              "answer": "las sie noch ein paar Seiten",
+              "alternatives": [
+                "las sie noch ein paar Seiten",
+                "Bevor Lisa das Licht löschte, las sie noch ein paar Seiten",
+                "Ehe Lisa das Licht löschte, las sie noch ein paar Seiten"
+              ],
+              "explanation": "Nachzeitigkeit: las sie noch ein paar Seiten",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Jonas zog nach München. Vorher hatte er zwölf Jahre in Berlin gewohnt.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Jonas zog nach München. Vorher hatte er zwölf Jahre in Berlin gewohnt.",
+              "lead": "Bevor Jonas nach München zog, ",
+              "tail": ".",
+              "answer": "hatte er zwölf Jahre in Berlin gewohnt",
+              "alternatives": [
+                "hatte er zwölf Jahre in Berlin gewohnt",
+                "Bevor Jonas nach München zog, hatte er zwölf Jahre in Berlin gewohnt",
+                "Ehe Jonas nach München zog, hatte er zwölf Jahre in Berlin gewohnt"
+              ],
+              "explanation": "Nachzeitigkeit: hatte er zwölf Jahre in Berlin gewohnt",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Sandra frühstückte. Vorher hatte sie schon zwei Stunden am Computer gearbeitet.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Sandra frühstückte. Vorher hatte sie schon zwei Stunden am Computer gearbeitet.",
+              "lead": "Bevor Sandra frühstückte, ",
+              "tail": ".",
+              "answer": "hatte sie schon zwei Stunden am Computer gearbeitet",
+              "alternatives": [
+                "hatte er schon zwei Stunden am Computer gearbeitet",
+                "hatte sie schon zwei Stunden am Computer gearbeitet",
+                "Bevor Sandra frühstückte, hatte sie schon zwei Stunden am Computer gearbeitet"
+              ],
+              "explanation": "Nachzeitigkeit: hatte sie schon zwei Stunden am Computer gearbeitet",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Paul hielt eine Rede. Vorher kontrollierte er das Mikrophon.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Paul hielt eine Rede. Vorher kontrollierte er das Mikrophon.",
+              "lead": "Bevor Paul eine Rede hielt, ",
+              "tail": ".",
+              "answer": "kontrollierte er das Mikrophon",
+              "alternatives": [
+                "kontrollierte er das Mikrophon",
+                "kontrollierte er das Mikrofon",
+                "Bevor Paul eine Rede hielt, kontrollierte er das Mikrophon"
+              ],
+              "explanation": "Nachzeitigkeit: kontrollierte er das Mikrophon",
+              "isCompact": false
             },
             {
               "id": "b1_p21_ex5_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Amira fuhr in Urlaub. Vorher brachte sie ihren Wagen zur Inspektion.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Amira fuhr in Urlaub. Vorher brachte sie ihren Wagen zur Inspektion.",
+              "lead": "Bevor Amira in Urlaub fuhr, ",
+              "tail": ".",
+              "answer": "brachte sie ihren Wagen zur Inspektion",
+              "alternatives": [
+                "brachte sie ihren Wagen zur Inspektion",
+                "Bevor Amira in Urlaub fuhr, brachte sie ihren Wagen zur Inspektion",
+                "Ehe Amira in Urlaub fuhr, brachte sie ihren Wagen zur Inspektion"
+              ],
+              "explanation": "Nachzeitigkeit: brachte sie ihren Wagen zur Inspektion",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p21_ex5_a": "hatte er eine halbe Stunde einen Parkplatz gesucht",
+            "b1_p21_ex5_b": "will sie noch ein Jahr im Ausland studieren",
+            "b1_p21_ex5_c": "las sie noch ein paar Seiten",
+            "b1_p21_ex5_d": "hatte er zwölf Jahre in Berlin gewohnt",
+            "b1_p21_ex5_e": "hatte sie schon zwei Stunden am Computer gearbeitet",
+            "b1_p21_ex5_f": "kontrollierte er das Mikrophon",
+            "b1_p21_ex5_g": "brachte sie ihren Wagen zur Inspektion"
+          },
+          "alternatives": {
+            "b1_p21_ex5_a": [
+              "hatte er eine halbe Stunde einen Parkplatz gesucht",
+              "Bevor Karl ins Restaurant kam, hatte er eine halbe Stunde einen Parkplatz gesucht",
+              "Ehe Karl ins Restaurant kam, hatte er eine halbe Stunde einen Parkplatz gesucht"
+            ],
+            "b1_p21_ex5_b": [
+              "will sie noch ein Jahr im Ausland studieren",
+              "Bevor meine Cousine ihr Examen macht, will sie noch ein Jahr im Ausland studieren",
+              "Ehe meine Cousine ihr Examen macht, will sie noch ein Jahr im Ausland studieren"
+            ],
+            "b1_p21_ex5_c": [
+              "las sie noch ein paar Seiten",
+              "Bevor Lisa das Licht löschte, las sie noch ein paar Seiten",
+              "Ehe Lisa das Licht löschte, las sie noch ein paar Seiten"
+            ],
+            "b1_p21_ex5_d": [
+              "hatte er zwölf Jahre in Berlin gewohnt",
+              "Bevor Jonas nach München zog, hatte er zwölf Jahre in Berlin gewohnt",
+              "Ehe Jonas nach München zog, hatte er zwölf Jahre in Berlin gewohnt"
+            ],
+            "b1_p21_ex5_e": [
+              "hatte er schon zwei Stunden am Computer gearbeitet",
+              "hatte sie schon zwei Stunden am Computer gearbeitet",
+              "Bevor Sandra frühstückte, hatte sie schon zwei Stunden am Computer gearbeitet"
+            ],
+            "b1_p21_ex5_f": [
+              "kontrollierte er das Mikrophon",
+              "kontrollierte er das Mikrofon",
+              "Bevor Paul eine Rede hielt, kontrollierte er das Mikrophon"
+            ],
+            "b1_p21_ex5_g": [
+              "brachte sie ihren Wagen zur Inspektion",
+              "Bevor Amira in Urlaub fuhr, brachte sie ihren Wagen zur Inspektion",
+              "Ehe Amira in Urlaub fuhr, brachte sie ihren Wagen zur Inspektion"
+            ]
+          },
+          "explanations": {
+            "b1_p21_ex5_a": "Nachzeitigkeit: hatte er eine halbe Stunde einen Parkplatz gesucht",
+            "b1_p21_ex5_b": "Nachzeitigkeit Gegenwart: will sie noch ein Jahr im Ausland studieren",
+            "b1_p21_ex5_c": "Nachzeitigkeit: las sie noch ein paar Seiten",
+            "b1_p21_ex5_d": "Nachzeitigkeit: hatte er zwölf Jahre in Berlin gewohnt",
+            "b1_p21_ex5_e": "Nachzeitigkeit: hatte sie schon zwei Stunden am Computer gearbeitet",
+            "b1_p21_ex5_f": "Nachzeitigkeit: kontrollierte er das Mikrophon",
+            "b1_p21_ex5_g": "Nachzeitigkeit: brachte sie ihren Wagen zur Inspektion"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• 3. während (NS - gleichzeitig)\n• Während (Als) Lena aufräumte, sang sie. Während (Wenn) Lena aufräumt, singt sie.\n• gleichzeitig - Vergangenheit ➔➔ während / als ➔ gleichzeitig - Gegenwart     ➔➔ während / wenn\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Nachdem (Als) er geputzt hatte, sah er fern. Nachdem (Wenn) er geputzt hat, sieht er fern.\n• vorzeitig - Vergangenheit   ➔➔ nachdem / als           vorzeitig - Gegenwart  ➔➔ nachdem / wenn\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Bevor / Ehe Max fernsah, putzte er. Bevor / Ehe Max fernsieht, putzt er.\n• (Bevor / Ehe Max fernsah, hatte er geputzt.) (Bevor / Ehe Max fernsieht, hat er geputzt.)\n• nachzeitig - Vergangenheit ➔➔ bevor / ehe nachzeitig - Gegenwart ➔➔ bevor / ehe"
+      ]
     },
     "22": {
-      "lessonTitle": "Relativsätze als Attribut (Seite 22)",
+      "lessonTitle": "1. Relativsätze im Nominativ, Akkusativ und Dativ",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Relativsätze als Attribut (Nominativ, Akkusativ, Dativ)\n\n#### 1. Funktion und Satzbau\n- Relativsätze erklären ein Bezugswort (Nomen oder Pronomen) näher und stehen meist direkt hinter diesem Bezugswort.\n- Das konjugierte Verb steht immer am **Satzende** (Nebensatz-Wortstellung).\n\n---\n\n#### 2. Kasus, Genus und Numerus\n- **Genus und Numerus** richten sich nach dem **Bezugswort im Hauptsatz**.\n- Der **Kasus** richtet sich nach der Funktion im **Relativsatz**:\n  - **Nominativ (Subjekt):** *Das ist der Kollege, der gut zuhören kann.*\n  - **Akkusativ (Objekt):** *Das ist der Schal, den ich kaufen möchte.*\n  - **Dativ (Objekt):** *Das sind Leute, denen du vertrauen kannst.*\n\n---\n\n#### 3. Formenübersicht der Relativpronomen\n| Kasus | Maskulin | Feminin | Neutral | Plural |\n| :--- | :--- | :--- | :--- | :--- |\n| **Nominativ** | der | die | das | die |\n| **Akkusativ** | den | die | das | die |\n| **Dativ** | dem | der | dem | **denen** |\n\n---\n\n#### 4. 🇬🇧 English Cognitive Bridge\n> - *der / die / das* (Nominative) = \"who / which / that\"\n> - *den / die / das* (Accusative) = \"whom / which / that\"\n> - *dem / der / denen* (Dative) = \"to whom / to which\"",
       "exercises": [
         {
           "id": "b1_p22_ex1",
-          "title": "Übung 1",
-          "instruction": "",
-          "answers": {
-            "b1_p22_ex1_a": "—",
-            "b1_p22_ex1_b": "—",
-            "b1_p22_ex1_c": "—",
-            "b1_p22_ex1_d": "das",
-            "b1_p22_ex1_e": "das",
-            "b1_p22_ex1_f": "—",
-            "b1_p22_ex1_g": "—"
-          },
-          "explanations": {
-            "b1_p22_ex1_a": "Vollständiger Beispielsatz",
-            "b1_p22_ex1_b": "Vollständiger Beispielsatz",
-            "b1_p22_ex1_c": "Vollständiger Beispielsatz",
-            "b1_p22_ex1_d": "Neutral ➔ das",
-            "b1_p22_ex1_e": "Neutral ➔ das",
-            "b1_p22_ex1_f": "Vollständiger Beispielsatz",
-            "b1_p22_ex1_g": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 1: Relativpronomen im Nominativ (Subjekt)",
+          "instruction": "Verbinden Sie die beiden Sätze durch einen Relativsatz im Nominativ.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p22_ex1_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Julia ist eine fleißige Studentin. > Sie erledigt immer ihre Aufgaben.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Julia ist eine fleißige Studentin. > Sie erledigt immer ihre Aufgaben.",
+              "lead": "Julia ist eine fleißige Studentin, ",
+              "tail": ".",
+              "answer": "die immer ihre Aufgaben erledigt",
+              "alternatives": [
+                "die immer ihre Aufgaben erledigt",
+                "Julia ist eine fleißige Studentin, die immer ihre Aufgaben erledigt"
+              ],
+              "explanation": "Subjekt feminin ➔ die immer ihre Aufgaben erledigt",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Theo und Eva sind alte Freunde. > Sie helfen mir immer.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Theo und Eva sind alte Freunde. > Sie helfen mir immer.",
+              "lead": "Theo und Eva sind alte Freunde, ",
+              "tail": ".",
+              "answer": "die mir immer helfen",
+              "alternatives": [
+                "die mir immer helfen",
+                "Theo und Eva sind alte Freunde, die mir immer helfen"
+              ],
+              "explanation": "Subjekt Plural ➔ die mir immer helfen",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Karl ist ein bekannter Experte. > Er findet immer eine Lösung.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Karl ist ein bekannter Experte. > Er findet immer eine Lösung.",
+              "lead": "Karl ist ein bekannter Experte, ",
+              "tail": ".",
+              "answer": "der immer eine Lösung findet",
+              "alternatives": [
+                "der immer eine Lösung findet",
+                "Karl ist ein bekannter Experte, der immer eine Lösung findet"
+              ],
+              "explanation": "Subjekt maskulin ➔ der immer eine Lösung findet",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Pia ist ein eigensinniges Kind. > Es hört nie zu.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Pia ist ein eigensinniges Kind. > Es hört nie zu.",
+              "lead": "Pia ist ein eigensinniges Kind, ",
+              "tail": ".",
+              "answer": "das nie zuhört",
+              "alternatives": [
+                "das nie zuhört",
+                "Pia ist ein eigensinniges Kind, das nie zuhört"
+              ],
+              "explanation": "Subjekt neutral (das Kind) ➔ das nie zuhört",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Lena ist eine hervorragende Schauspielerin. > Sie hat Karriere gemacht.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Lena ist eine hervorragende Schauspielerin. > Sie hat Karriere gemacht.",
+              "lead": "Lena ist eine hervorragende Schauspielerin, ",
+              "tail": ".",
+              "answer": "die Karriere gemacht hat",
+              "alternatives": [
+                "die Karriere gemacht hat",
+                "Lena ist eine hervorragende Schauspielerin, die Karriere gemacht hat"
+              ],
+              "explanation": "Subjekt feminin ➔ die Karriere gemacht hat",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Hatem ist ein begabter Programmierer. > Er arbeitet für eine Softwarefirma.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Hatem ist ein begabter Programmierer. > Er arbeitet für eine Softwarefirma.",
+              "lead": "Hatem ist ein begabter Programmierer, ",
+              "tail": ".",
+              "answer": "der für eine Softwarefirma arbeitet",
+              "alternatives": [
+                "der für eine Softwarefirma arbeitet",
+                "Hatem ist ein begabter Programmierer, der für eine Softwarefirma arbeitet"
+              ],
+              "explanation": "Subjekt maskulin ➔ der für eine Softwarefirma arbeitet",
+              "isCompact": false
             },
             {
               "id": "b1_p22_ex1_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Clara und Jana sind gute Freundinnen. > Sie erzählen sich alles.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Clara und Jana sind gute Freundinnen. > Sie erzählen sich alles.",
+              "lead": "Clara und Jana sind gute Freundinnen, ",
+              "tail": ".",
+              "answer": "die sich alles erzählen",
+              "alternatives": [
+                "die sich alles erzählen",
+                "Clara und Jana sind gute Freundinnen, die sich alles erzählen"
+              ],
+              "explanation": "Subjekt Plural ➔ die sich alles erzählen",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p22_ex1_a": "die immer ihre Aufgaben erledigt",
+            "b1_p22_ex1_b": "die mir immer helfen",
+            "b1_p22_ex1_c": "der immer eine Lösung findet",
+            "b1_p22_ex1_d": "das nie zuhört",
+            "b1_p22_ex1_e": "die Karriere gemacht hat",
+            "b1_p22_ex1_f": "der für eine Softwarefirma arbeitet",
+            "b1_p22_ex1_g": "die sich alles erzählen"
+          },
+          "alternatives": {
+            "b1_p22_ex1_a": [
+              "die immer ihre Aufgaben erledigt",
+              "Julia ist eine fleißige Studentin, die immer ihre Aufgaben erledigt"
+            ],
+            "b1_p22_ex1_b": [
+              "die mir immer helfen",
+              "Theo und Eva sind alte Freunde, die mir immer helfen"
+            ],
+            "b1_p22_ex1_c": [
+              "der immer eine Lösung findet",
+              "Karl ist ein bekannter Experte, der immer eine Lösung findet"
+            ],
+            "b1_p22_ex1_d": [
+              "das nie zuhört",
+              "Pia ist ein eigensinniges Kind, das nie zuhört"
+            ],
+            "b1_p22_ex1_e": [
+              "die Karriere gemacht hat",
+              "Lena ist eine hervorragende Schauspielerin, die Karriere gemacht hat"
+            ],
+            "b1_p22_ex1_f": [
+              "der für eine Softwarefirma arbeitet",
+              "Hatem ist ein begabter Programmierer, der für eine Softwarefirma arbeitet"
+            ],
+            "b1_p22_ex1_g": [
+              "die sich alles erzählen",
+              "Clara und Jana sind gute Freundinnen, die sich alles erzählen"
+            ]
+          },
+          "explanations": {
+            "b1_p22_ex1_a": "Subjekt feminin ➔ die immer ihre Aufgaben erledigt",
+            "b1_p22_ex1_b": "Subjekt Plural ➔ die mir immer helfen",
+            "b1_p22_ex1_c": "Subjekt maskulin ➔ der immer eine Lösung findet",
+            "b1_p22_ex1_d": "Subjekt neutral (das Kind) ➔ das nie zuhört",
+            "b1_p22_ex1_e": "Subjekt feminin ➔ die Karriere gemacht hat",
+            "b1_p22_ex1_f": "Subjekt maskulin ➔ der für eine Softwarefirma arbeitet",
+            "b1_p22_ex1_g": "Subjekt Plural ➔ die sich alles erzählen"
+          }
         },
         {
           "id": "b1_p22_ex2",
-          "title": "Übung 2",
-          "instruction": "",
-          "answers": {
-            "b1_p22_ex2_a": "richtig",
-            "b1_p22_ex2_b": "richtig",
-            "b1_p22_ex2_c": "das",
-            "b1_p22_ex2_d": "richtig",
-            "b1_p22_ex2_e": "richtig",
-            "b1_p22_ex2_f": "richtig",
-            "b1_p22_ex2_g": "das"
-          },
-          "explanations": {
-            "b1_p22_ex2_a": "Passende Form laut Kontext",
-            "b1_p22_ex2_b": "Passende Form laut Kontext",
-            "b1_p22_ex2_c": "Neutral ➔ das",
-            "b1_p22_ex2_d": "Passende Form laut Kontext",
-            "b1_p22_ex2_e": "Passende Form laut Kontext",
-            "b1_p22_ex2_f": "Passende Form laut Kontext",
-            "b1_p22_ex2_g": "Neutral ➔ das"
-          },
+          "title": "Übung 2: Relativpronomen im Nominativ, Dativ oder Akkusativ",
+          "instruction": "Ergänzen Sie die passenden Relativpronomen (Format: Pronomen 1 / Pronomen 2).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p22_ex2_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Dort kommt mein Onkel, ",
-              "tail": " Geburtstag hat. / Dort kommt mein Onkel, _____ ich gratulieren möchte.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "prompt": "Dort kommt mein Onkel, _____ Geburtstag hat. / Dort kommt mein Onkel, _____ ich gratulieren möchte.",
+              "lead": "Dort kommt mein Onkel: ",
+              "tail": "",
+              "answer": "der / dem",
+              "alternatives": [
+                "der, dem",
+                "der / dem",
+                "der; dem"
+              ],
+              "explanation": "Subjekt (maskulin) ➔ der | Dativobjekt (gratulieren + Dat) ➔ dem",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex2_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Ist das der Computer, ",
-              "tail": " nicht richtig funktioniert? / Ist das der Computer, _____ ich reparieren soll?",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "prompt": "Ist das der Computer, _____ nicht richtig funktioniert? / Ist das der Computer, _____ ich reparieren soll?",
+              "lead": "Ist das der Computer: ",
+              "tail": "",
+              "answer": "der / den",
+              "alternatives": [
+                "der, den",
+                "der / den",
+                "der; den"
+              ],
+              "explanation": "Subjekt (maskulin) ➔ der | Akkusativobjekt (reparieren + Akk) ➔ den",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex2_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Ich kaufe ein Auto, ",
-              "tail": " sehr sparsam ist. / Ich kaufe ein Auto, _____ ich täglich benutzen möchte.",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Ich kaufe ein Auto, _____ sehr sparsam ist. / Ich kaufe ein Auto, _____ ich täglich benutzen möchte.",
+              "lead": "Ich kaufe ein Auto: ",
+              "tail": "",
+              "answer": "das / das",
+              "alternatives": [
+                "das, das",
+                "das / das",
+                "das; das"
+              ],
+              "explanation": "Subjekt (neutral) ➔ das | Akkusativobjekt (benutzen + Akk) ➔ das",
               "isCompact": true
             },
             {
               "id": "b1_p22_ex2_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Es gibt Tage, ",
-              "tail": " schon schlecht beginnen. / Es gibt Tage, _____ ich am liebsten vergessen würde.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "prompt": "Es gibt Tage, _____ schon schlecht beginnen. / Es gibt Tage, _____ ich am liebsten vergessen würde.",
+              "lead": "Es gibt Tage: ",
+              "tail": "",
+              "answer": "die / die",
+              "alternatives": [
+                "die, die",
+                "die / die",
+                "die; die"
+              ],
+              "explanation": "Subjekt (Plural) ➔ die | Akkusativobjekt (vergessen + Akk) ➔ die",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex2_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Hanna ist ein Mensch, ",
-              "tail": " immer unterwegs ist. / Hanna ist ein Mensch, _____ ich lange kenne.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "prompt": "Hanna ist ein Mensch, _____ immer unterwegs ist. / Hanna ist ein Mensch, _____ ich lange kenne.",
+              "lead": "Hanna ist ein Mensch: ",
+              "tail": "",
+              "answer": "der / den",
+              "alternatives": [
+                "der, den",
+                "der / den",
+                "der; den"
+              ],
+              "explanation": "der Mensch (maskulin): Subjekt ➔ der | Akkusativobjekt (kennen + Akk) ➔ den",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex2_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Das sind die Kollegen, ",
-              "tail": " mir oft helfen. / Das sind die Kollegen, ______ ich schon oft geholfen habe.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "prompt": "Das sind die Kollegen, _____ mir oft helfen. / Das sind die Kollegen, ______ ich schon oft geholfen habe.",
+              "lead": "Das sind die Kollegen: ",
+              "tail": "",
+              "answer": "die / denen",
+              "alternatives": [
+                "die, denen",
+                "die / denen",
+                "die; denen"
+              ],
+              "explanation": "Subjekt (Plural) ➔ die | Dativobjekt (helfen + Dat Plural) ➔ denen",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex2_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Kennst du meine Tante, ",
-              "tail": " hier wohnt? / Kennst du meine Tante, _____ dieses Haus gehört?",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
+              "prompt": "Kennst du meine Tante, _____ hier wohnt? / Kennst du meine Tante, _____ dieses Haus gehört?",
+              "lead": "Kennst du meine Tante: ",
+              "tail": "",
+              "answer": "die / der",
+              "alternatives": [
+                "die, der",
+                "die / der",
+                "die; der"
+              ],
+              "explanation": "Subjekt (feminin) ➔ die | Dativobjekt (gehören + Dat feminin) ➔ der",
               "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p22_ex2_a": "der / dem",
+            "b1_p22_ex2_b": "der / den",
+            "b1_p22_ex2_c": "das / das",
+            "b1_p22_ex2_d": "die / die",
+            "b1_p22_ex2_e": "der / den",
+            "b1_p22_ex2_f": "die / denen",
+            "b1_p22_ex2_g": "die / der"
+          },
+          "alternatives": {
+            "b1_p22_ex2_a": [
+              "der, dem",
+              "der / dem",
+              "der; dem"
+            ],
+            "b1_p22_ex2_b": [
+              "der, den",
+              "der / den",
+              "der; den"
+            ],
+            "b1_p22_ex2_c": [
+              "das, das",
+              "das / das",
+              "das; das"
+            ],
+            "b1_p22_ex2_d": [
+              "die, die",
+              "die / die",
+              "die; die"
+            ],
+            "b1_p22_ex2_e": [
+              "der, den",
+              "der / den",
+              "der; den"
+            ],
+            "b1_p22_ex2_f": [
+              "die, denen",
+              "die / denen",
+              "die; denen"
+            ],
+            "b1_p22_ex2_g": [
+              "die, der",
+              "die / der",
+              "die; der"
+            ]
+          },
+          "explanations": {
+            "b1_p22_ex2_a": "Subjekt (maskulin) ➔ der | Dativobjekt (gratulieren + Dat) ➔ dem",
+            "b1_p22_ex2_b": "Subjekt (maskulin) ➔ der | Akkusativobjekt (reparieren + Akk) ➔ den",
+            "b1_p22_ex2_c": "Subjekt (neutral) ➔ das | Akkusativobjekt (benutzen + Akk) ➔ das",
+            "b1_p22_ex2_d": "Subjekt (Plural) ➔ die | Akkusativobjekt (vergessen + Akk) ➔ die",
+            "b1_p22_ex2_e": "der Mensch (maskulin): Subjekt ➔ der | Akkusativobjekt (kennen + Akk) ➔ den",
+            "b1_p22_ex2_f": "Subjekt (Plural) ➔ die | Dativobjekt (helfen + Dat Plural) ➔ denen",
+            "b1_p22_ex2_g": "Subjekt (feminin) ➔ die | Dativobjekt (gehören + Dat feminin) ➔ der"
+          }
         },
         {
           "id": "b1_p22_ex3",
-          "title": "Übung 3",
-          "instruction": "Ergänzen Sie die Relativpronomen. (Dativ oder Akkusativ)",
-          "answers": {
-            "b1_p22_ex3_a": "richtig",
-            "b1_p22_ex3_b": "richtig",
-            "b1_p22_ex3_c": "richtig",
-            "b1_p22_ex3_d": "richtig",
-            "b1_p22_ex3_e": "richtig",
-            "b1_p22_ex3_f": "richtig"
-          },
-          "explanations": {
-            "b1_p22_ex3_a": "Passende Form laut Kontext",
-            "b1_p22_ex3_b": "Passende Form laut Kontext",
-            "b1_p22_ex3_c": "Passende Form laut Kontext",
-            "b1_p22_ex3_d": "Passende Form laut Kontext",
-            "b1_p22_ex3_e": "Passende Form laut Kontext",
-            "b1_p22_ex3_f": "Passende Form laut Kontext"
-          },
+          "title": "Übung 3: Relativpronomen im Dativ oder Akkusativ",
+          "instruction": "Ergänzen Sie das passende Relativpronomen im Akkusativ oder Dativ.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p22_ex3_a",
               "label": "a)",
-              "prompt": "",
               "lead": "Das ist ein Gerät, ",
               "tail": " ich dir empfehlen kann.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "das",
+              "alternatives": [
+                "das"
+              ],
+              "explanation": "Akkusativ neutral (das Gerät) ➔ das",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex3_b",
               "label": "b)",
-              "prompt": "",
               "lead": "Gefällt dir der Tisch, ",
-              "tail": " ich gemacht habe.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "tail": " ich gemacht habe?",
+              "answer": "den",
+              "alternatives": [
+                "den"
+              ],
+              "explanation": "Akkusativ maskulin (der Tisch) ➔ den",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex3_c",
               "label": "c)",
-              "prompt": "",
               "lead": "Tom redet nicht mit Leuten, ",
               "tail": " er nicht mag.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "die",
+              "alternatives": [
+                "die"
+              ],
+              "explanation": "Akkusativ Plural (die Leute) ➔ die",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex3_d",
               "label": "d)",
-              "prompt": "",
               "lead": "Das sind Leute, ",
               "tail": " du zuhören solltest.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "denen",
+              "alternatives": [
+                "denen"
+              ],
+              "explanation": "Dativ Plural (zuhören + Dativ) ➔ denen",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex3_e",
               "label": "e)",
-              "prompt": "",
               "lead": "Kaufen Sie keine Dinge, ",
               "tail": " Sie nicht brauchen.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "die",
+              "alternatives": [
+                "die"
+              ],
+              "explanation": "Akkusativ Plural (brauchen + Akkusativ) ➔ die",
+              "isCompact": true
             },
             {
               "id": "b1_p22_ex3_f",
               "label": "f)",
-              "prompt": "",
               "lead": "Max ist ein Mensch, ",
               "tail": " meine Art nicht gefällt.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
+              "answer": "dem",
+              "alternatives": [
+                "dem"
+              ],
+              "explanation": "Dativ maskulin (gefallen + Dativ) ➔ dem",
+              "isCompact": true
             }
-          ]
+          ],
+          "answers": {
+            "b1_p22_ex3_a": "das",
+            "b1_p22_ex3_b": "den",
+            "b1_p22_ex3_c": "die",
+            "b1_p22_ex3_d": "denen",
+            "b1_p22_ex3_e": "die",
+            "b1_p22_ex3_f": "dem"
+          },
+          "alternatives": {
+            "b1_p22_ex3_a": [
+              "das"
+            ],
+            "b1_p22_ex3_b": [
+              "den"
+            ],
+            "b1_p22_ex3_c": [
+              "die"
+            ],
+            "b1_p22_ex3_d": [
+              "denen"
+            ],
+            "b1_p22_ex3_e": [
+              "die"
+            ],
+            "b1_p22_ex3_f": [
+              "dem"
+            ]
+          },
+          "explanations": {
+            "b1_p22_ex3_a": "Akkusativ neutral (das Gerät) ➔ das",
+            "b1_p22_ex3_b": "Akkusativ maskulin (der Tisch) ➔ den",
+            "b1_p22_ex3_c": "Akkusativ Plural (die Leute) ➔ die",
+            "b1_p22_ex3_d": "Dativ Plural (zuhören + Dativ) ➔ denen",
+            "b1_p22_ex3_e": "Akkusativ Plural (brauchen + Akkusativ) ➔ die",
+            "b1_p22_ex3_f": "Dativ maskulin (gefallen + Dativ) ➔ dem"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Relativsätze als Attribut\n• Relativsätze können ein Nomen oder ein Pronomen genauer erklären. ➔➔ Attribut\n• Hast du den Film schon gesehen? ➔ Welchen Film? ➔ Na, den Film, der gestern im Fernsehen lief.\n• Max hat jemanden getroffen. ➔ Wen hat er getroffen? ➔ Ach, jemanden, den du nicht kennst.\n• In Relativsätzen steht das Verb am Ende. ➔➔ Nebensatz\n• Das war wirklich ein Horrorfilm, der mir große Angst gemacht hat.\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• Das ist eine Kollegin. Sie hat mir geholfen. ➔ Das ist eine Kollegin, die mir geholfen hat. - Subjekt\n• Das ist eine Kollegin. Ich habe ihr geholfen. ➔ Das ist eine Kollegin, der ich geholfen habe. - Dativobjekt\n• Das ist ein Schal. Er gefällt mir. ➔ Das ist ein Schal, der mir gefällt. - Subjekt\n• Das ist ein Schal. Ich möchte ihn kaufen. ➔ Das ist ein Schal, den ich kaufen möchte. - Akkusativobjekt\n• Ich lese ein Buch. Es gefällt mir gut. ➔ Ich lese ein Buch, das mir gut gefällt. - Subjekt\n• Ich lese ein Buch. Ich kann es empfehlen. ➔ Ich lese ein Buch, das ich empfehlen kann. - Akkusativobjekt\n• Ich kenne Leute. Sie mögen Horrorfilme. ➔ Ich kenne Leute, die Horrorfilme mögen. - Subjekt\n• Ich kenne Leute. Horrorfilme gefallen ihnen. ➔ Ich kenne Leute, denen Horrorfilme gefallen. - Dativobjekt"
+      ]
     },
     "23": {
-      "lessonTitle": "Relativsätze als Attribut — Vertiefung & Übungen (Seite 23)",
+      "lessonTitle": "2. Relativsätze im Genitiv (dessen, deren) & Eingeschobene Relativsätze",
+      "grammarSummary": "### 📌 Grammatik-Fokus: Relativsätze im Genitiv & Eingeschobene Relativsätze\n\n#### 1. Die Genitivformen der Relativpronomen\nGenitiv-Relativpronomen drücken Besitz, Eigentum oder Zugehörigkeit aus (ersetzen Possessivpronomen wie *sein*, *ihr*):\n\n| Kasus | Maskulin | Feminin | Neutral | Plural |\n| :--- | :--- | :--- | :--- | :--- |\n| **Genitiv** | **dessen** | **deren** | **dessen** | **deren** |\n\n- **Maskulin / Neutral ➔ dessen:**\n  *Der Herr, dessen Hut hier liegt...*\n  *Das Kind, dessen Spielzeug kaputt ist...*\n- **Feminin / Plural ➔ deren:**\n  *Die Frau, deren Auto gestohlen wurde...*\n  *Die Eltern, deren Kinder im Ausland leben...*\n\n---\n\n#### 2. Eingeschobene Relativsätze\nWenn das Bezugswort am Anfang oder in der Mitte des Hauptsatzes steht, wird der Relativsatz **mit zwei Kommas eingeschoben**:\n> *Hauptsatz Teil 1, [Relativsatz], Hauptsatz Teil 2.*\n- *Die Studentin, **deren Jacke noch hier hängt**, ist schon gegangen.*\n- *Das Obst, **das du gekauft hast**, musst du waschen.*\n\n---\n\n#### 3. 🇬🇧 English Cognitive Bridge\n> - *dessen / deren* = \"whose\"\n>   *The man whose car was stolen ➔ Der Mann, dessen Auto gestohlen wurde.*",
       "exercises": [
         {
           "id": "b1_p23_ex4",
-          "title": "Übung 4",
-          "instruction": "Bilden Sie Relativsätze mit Genitiv.",
-          "answers": {
-            "b1_p23_ex4_a": "—",
-            "b1_p23_ex4_b": "—",
-            "b1_p23_ex4_c": "—",
-            "b1_p23_ex4_d": "—",
-            "b1_p23_ex4_e": "—"
-          },
-          "explanations": {
-            "b1_p23_ex4_a": "Vollständiger Beispielsatz",
-            "b1_p23_ex4_b": "Vollständiger Beispielsatz",
-            "b1_p23_ex4_c": "Vollständiger Beispielsatz",
-            "b1_p23_ex4_d": "Vollständiger Beispielsatz",
-            "b1_p23_ex4_e": "Vollständiger Beispielsatz"
-          },
+          "title": "Übung 4: Relativsätze mit Genitiv",
+          "instruction": "Bilden Sie Relativsätze mit dessen oder deren.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p23_ex4_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Ich verschenke diesen Laptop. Seine Kamera ist defekt.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich verschenke diesen Laptop. Seine Kamera ist defekt.",
+              "lead": "Ich verschenke diesen Laptop, ",
+              "tail": ".",
+              "answer": "dessen Kamera defekt ist",
+              "alternatives": [
+                "dessen Kamera defekt ist",
+                "Ich verschenke diesen Laptop, dessen Kamera defekt ist"
+              ],
+              "explanation": "Laptop (maskulin) ➔ dessen Kamera defekt ist",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex4_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Ich mag dieses Gewürz. Sein Geruch ist sehr intensiv.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich mag dieses Gewürz. Sein Geruch ist sehr intensiv.",
+              "lead": "Ich mag dieses Gewürz, ",
+              "tail": ".",
+              "answer": "dessen Geruch sehr intensiv ist",
+              "alternatives": [
+                "dessen Geruch sehr intensiv ist",
+                "Ich mag dieses Gewürz, dessen Geruch sehr intensiv ist"
+              ],
+              "explanation": "Gewürz (neutral) ➔ dessen Geruch sehr intensiv ist",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex4_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Ich kaufe diese Jacke. Ihre Farbe gefällt mir sehr.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich kaufe diese Jacke. Ihre Farbe gefällt mir sehr.",
+              "lead": "Ich kaufe diese Jacke, ",
+              "tail": ".",
+              "answer": "deren Farbe mir sehr gefällt",
+              "alternatives": [
+                "deren Farbe mir sehr gefällt",
+                "Ich kaufe diese Jacke, deren Farbe mir sehr gefällt"
+              ],
+              "explanation": "Jacke (feminin) ➔ deren Farbe mir sehr gefällt",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex4_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Ich helfe meinem Kollegen. Sein Computer ist kaputt.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich helfe meinem Kollegen. Sein Computer ist kaputt.",
+              "lead": "Ich helfe meinem Kollegen, ",
+              "tail": ".",
+              "answer": "dessen Computer kaputt ist",
+              "alternatives": [
+                "dessen Computer kaputt ist",
+                "Ich helfe meinem Kollegen, dessen Computer kaputt ist"
+              ],
+              "explanation": "Kollege (maskulin) ➔ dessen Computer kaputt ist",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex4_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Ich schreibe meinen Eltern. Ich brauche ihre Hilfe.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Ich schreibe meinen Eltern. Ich brauche ihre Hilfe.",
+              "lead": "Ich schreibe meinen Eltern, ",
+              "tail": ".",
+              "answer": "deren Hilfe ich brauche",
+              "alternatives": [
+                "deren Hilfe ich brauche",
+                "Ich schreibe meinen Eltern, deren Hilfe ich brauche"
+              ],
+              "explanation": "Eltern (Plural) ➔ deren Hilfe ich brauche",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p23_ex4_a": "dessen Kamera defekt ist",
+            "b1_p23_ex4_b": "dessen Geruch sehr intensiv ist",
+            "b1_p23_ex4_c": "deren Farbe mir sehr gefällt",
+            "b1_p23_ex4_d": "dessen Computer kaputt ist",
+            "b1_p23_ex4_e": "deren Hilfe ich brauche"
+          },
+          "alternatives": {
+            "b1_p23_ex4_a": [
+              "dessen Kamera defekt ist",
+              "Ich verschenke diesen Laptop, dessen Kamera defekt ist"
+            ],
+            "b1_p23_ex4_b": [
+              "dessen Geruch sehr intensiv ist",
+              "Ich mag dieses Gewürz, dessen Geruch sehr intensiv ist"
+            ],
+            "b1_p23_ex4_c": [
+              "deren Farbe mir sehr gefällt",
+              "Ich kaufe diese Jacke, deren Farbe mir sehr gefällt"
+            ],
+            "b1_p23_ex4_d": [
+              "dessen Computer kaputt ist",
+              "Ich helfe meinem Kollegen, dessen Computer kaputt ist"
+            ],
+            "b1_p23_ex4_e": [
+              "deren Hilfe ich brauche",
+              "Ich schreibe meinen Eltern, deren Hilfe ich brauche"
+            ]
+          },
+          "explanations": {
+            "b1_p23_ex4_a": "Laptop (maskulin) ➔ dessen Kamera defekt ist",
+            "b1_p23_ex4_b": "Gewürz (neutral) ➔ dessen Geruch sehr intensiv ist",
+            "b1_p23_ex4_c": "Jacke (feminin) ➔ deren Farbe mir sehr gefällt",
+            "b1_p23_ex4_d": "Kollege (maskulin) ➔ dessen Computer kaputt ist",
+            "b1_p23_ex4_e": "Eltern (Plural) ➔ deren Hilfe ich brauche"
+          }
         },
         {
           "id": "b1_p23_ex5",
-          "title": "Übung 5",
-          "instruction": "Ergänzen Sie die Relativpronomen.",
-          "answers": {
-            "b1_p23_ex5_a": "—",
-            "b1_p23_ex5_2": "richtig",
-            "b1_p23_ex5_3": "richtig",
-            "b1_p23_ex5_4": "richtig",
-            "b1_p23_ex5_b": "die",
-            "b1_p23_ex5_6": "richtig",
-            "b1_p23_ex5_7": "das",
-            "b1_p23_ex5_8": "die",
-            "b1_p23_ex5_c": "—",
-            "b1_p23_ex5_10": "richtig",
-            "b1_p23_ex5_11": "richtig",
-            "b1_p23_ex5_12": "richtig",
-            "b1_p23_ex5_d": "—",
-            "b1_p23_ex5_14": "richtig",
-            "b1_p23_ex5_15": "richtig",
-            "b1_p23_ex5_16": "richtig"
-          },
-          "explanations": {
-            "b1_p23_ex5_a": "Vollständiger Beispielsatz",
-            "b1_p23_ex5_2": "Passende Form laut Kontext",
-            "b1_p23_ex5_3": "Passende Form laut Kontext",
-            "b1_p23_ex5_4": "Passende Form laut Kontext",
-            "b1_p23_ex5_b": "Feminin ➔ die",
-            "b1_p23_ex5_6": "Passende Form laut Kontext",
-            "b1_p23_ex5_7": "Neutral ➔ das",
-            "b1_p23_ex5_8": "Feminin ➔ die",
-            "b1_p23_ex5_c": "Vollständiger Beispielsatz",
-            "b1_p23_ex5_10": "Passende Form laut Kontext",
-            "b1_p23_ex5_11": "Passende Form laut Kontext",
-            "b1_p23_ex5_12": "Passende Form laut Kontext",
-            "b1_p23_ex5_d": "Vollständiger Beispielsatz",
-            "b1_p23_ex5_14": "Passende Form laut Kontext",
-            "b1_p23_ex5_15": "Passende Form laut Kontext",
-            "b1_p23_ex5_16": "Passende Form laut Kontext"
-          },
+          "title": "Übung 5: Relativpronomen ergänzen (Kasus-Differenzierung)",
+          "instruction": "Ergänzen Sie die passenden Relativpronomen für die 4 Situationen (Format: 1 / 2 / 3).",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p23_ex5_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Max telefoniert mit dem Kollegen,",
+              "prompt": "Max telefoniert mit dem Kollegen, (1) _____ ihn besucht hat. / (2) _____ er besucht hat. / (3) _____ bald in Pension geht.",
+              "lead": "mit dem Kollegen: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "answer": "der / den / der",
+              "alternatives": [
+                "der, den, der",
+                "der / den / der",
+                "der; den; der"
+              ],
+              "explanation": "1. Subjekt (der) | 2. Akkusativobjekt (den) | 3. Subjekt (der)",
               "isCompact": true
-            },
-            {
-              "id": "b1_p23_ex5_2",
-              "label": "2.",
-              "prompt": "",
-              "lead": "",
-              "tail": " ihn besucht hat.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_3",
-              "label": "3.",
-              "prompt": "",
-              "lead": "",
-              "tail": " er besucht hat.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_4",
-              "label": "4.",
-              "prompt": "",
-              "lead": "",
-              "tail": " bald in Pension geht.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
             },
             {
               "id": "b1_p23_ex5_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Kennst du die Frau,",
+              "prompt": "Kennst du die Frau, (1) _____ im III. Stock wohnt? / (2) _____ dieses Buch gehört? / (3) _____ Wagen vor der Tür steht?",
+              "lead": "die Frau: ",
               "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p23_ex5_6",
-              "label": "6.",
-              "prompt": "",
-              "lead": "",
-              "tail": " im III. Stock wohnt?",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_7",
-              "label": "7.",
-              "prompt": "",
-              "lead": "",
-              "tail": " dieses Buch gehört?",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
-            },
-            {
-              "id": "b1_p23_ex5_8",
-              "label": "8.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Wagen vor der Tür steht?",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
+              "answer": "die / der / deren",
+              "alternatives": [
+                "die, der, deren",
+                "die / der / deren",
+                "die; der; deren"
+              ],
+              "explanation": "1. Subjekt (die) | 2. Dativ (der) | 3. Genitiv (deren)",
               "isCompact": true
             },
             {
               "id": "b1_p23_ex5_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Tamara hat einen Cousin,",
+              "prompt": "Tamara hat einen Cousin, (1) _____ sie sehr vertraut. / (2) _____ ihr im Notfall immer hilft. / (3) _____ Meinung ihr sehr wichtig ist.",
+              "lead": "einen Cousin: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "answer": "dem / der / dessen",
+              "alternatives": [
+                "dem, der, dessen",
+                "dem / der / dessen",
+                "dem; der; dessen"
+              ],
+              "explanation": "1. Dativ (dem) | 2. Subjekt (der) | 3. Genitiv (dessen)",
               "isCompact": true
-            },
-            {
-              "id": "b1_p23_ex5_10",
-              "label": "10.",
-              "prompt": "",
-              "lead": "",
-              "tail": " sie sehr vertraut.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_11",
-              "label": "11.",
-              "prompt": "",
-              "lead": "",
-              "tail": " ihr im Notfall immer hilft.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_12",
-              "label": "12.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Meinung ihr sehr wichtig ist.",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
             },
             {
               "id": "b1_p23_ex5_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Sprichst du mit den Leuten,",
+              "prompt": "Sprichst du mit den Leuten, (1) _____ zur Polizei gehen wollen? / (2) _____ man das Gepäck gestohlen hat? / (3) _____ Gepäck man gestohlen hat?",
+              "lead": "mit den Leuten: ",
               "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
+              "answer": "die / denen / deren",
+              "alternatives": [
+                "die, denen, deren",
+                "die / denen / deren",
+                "die; denen; deren"
+              ],
+              "explanation": "1. Subjekt (die) | 2. Dativ Plural (denen) | 3. Genitiv Plural (deren)",
               "isCompact": true
-            },
-            {
-              "id": "b1_p23_ex5_14",
-              "label": "14.",
-              "prompt": "",
-              "lead": "",
-              "tail": " zur Polizei gehen wollen?",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_15",
-              "label": "15.",
-              "prompt": "",
-              "lead": "",
-              "tail": " man das Gepäck gestohlen hat?",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
-            },
-            {
-              "id": "b1_p23_ex5_16",
-              "label": "16.",
-              "prompt": "",
-              "lead": "",
-              "tail": " Gepäck man gestohlen hat?",
-              "answer": "richtig",
-              "explanation": "Passende Form laut Kontext",
-              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p23_ex5_a": "der / den / der",
+            "b1_p23_ex5_b": "die / der / deren",
+            "b1_p23_ex5_c": "dem / der / dessen",
+            "b1_p23_ex5_d": "die / denen / deren"
+          },
+          "alternatives": {
+            "b1_p23_ex5_a": [
+              "der, den, der",
+              "der / den / der",
+              "der; den; der"
+            ],
+            "b1_p23_ex5_b": [
+              "die, der, deren",
+              "die / der / deren",
+              "die; der; deren"
+            ],
+            "b1_p23_ex5_c": [
+              "dem, der, dessen",
+              "dem / der / dessen",
+              "dem; der; dessen"
+            ],
+            "b1_p23_ex5_d": [
+              "die, denen, deren",
+              "die / denen / deren",
+              "die; denen; deren"
+            ]
+          },
+          "explanations": {
+            "b1_p23_ex5_a": "1. Subjekt (der) | 2. Akkusativobjekt (den) | 3. Subjekt (der)",
+            "b1_p23_ex5_b": "1. Subjekt (die) | 2. Dativ (der) | 3. Genitiv (deren)",
+            "b1_p23_ex5_c": "1. Dativ (dem) | 2. Subjekt (der) | 3. Genitiv (dessen)",
+            "b1_p23_ex5_d": "1. Subjekt (die) | 2. Dativ Plural (denen) | 3. Genitiv Plural (deren)"
+          }
         },
         {
           "id": "b1_p23_ex6",
-          "title": "Übung 6",
-          "instruction": "",
-          "answers": {
-            "b1_p23_ex6_a": "—",
-            "b1_p23_ex6_b": "das",
-            "b1_p23_ex6_c": "das",
-            "b1_p23_ex6_d": "—",
-            "b1_p23_ex6_e": "—",
-            "b1_p23_ex6_f": "das",
-            "b1_p23_ex6_g": "die"
-          },
-          "explanations": {
-            "b1_p23_ex6_a": "Vollständiger Beispielsatz",
-            "b1_p23_ex6_b": "Neutral ➔ das",
-            "b1_p23_ex6_c": "Neutral ➔ das",
-            "b1_p23_ex6_d": "Vollständiger Beispielsatz",
-            "b1_p23_ex6_e": "Vollständiger Beispielsatz",
-            "b1_p23_ex6_f": "Neutral ➔ das",
-            "b1_p23_ex6_g": "Feminin ➔ die"
-          },
+          "title": "Übung 6: Eingeschobene Relativsätze",
+          "instruction": "Verbinden Sie die Sätze durch einen eingeschobenen Relativsatz.",
+          "type": "fill",
           "items": [
             {
               "id": "b1_p23_ex6_a",
               "label": "a)",
-              "prompt": "",
-              "lead": "Das Obst musst du waschen. Du hast es im Supermarkt gekauft.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Das Obst musst du waschen. Du hast es im Supermarkt gekauft.",
+              "lead": "Das Obst, ",
+              "tail": ", musst du waschen.",
+              "answer": "das du im Supermarkt gekauft hast",
+              "alternatives": [
+                "das du im Supermarkt gekauft hast"
+              ],
+              "explanation": "Akkusativ neutral ➔ das du im Supermarkt gekauft hast",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_b",
               "label": "b)",
-              "prompt": "",
-              "lead": "Die Autorin ist sehr berühmt. Sie hat diese Geschichte geschrieben.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Die Autorin ist sehr berühmt. Sie hat diese Geschichte geschrieben.",
+              "lead": "Die Autorin, ",
+              "tail": ", ist sehr berühmt.",
+              "answer": "die diese Geschichte geschrieben hat",
+              "alternatives": [
+                "die diese Geschichte geschrieben hat"
+              ],
+              "explanation": "Subjekt feminin ➔ die diese Geschichte geschrieben hat",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_c",
               "label": "c)",
-              "prompt": "",
-              "lead": "Die Touristen kommen aus Rom. Ich habe sie auf dem Rathausplatz getroffen.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Die Touristen kommen aus Rom. Ich habe sie auf dem Rathausplatz getroffen.",
+              "lead": "Die Touristen, ",
+              "tail": ", kommen aus Rom.",
+              "answer": "die ich auf dem Rathausplatz getroffen habe",
+              "alternatives": [
+                "die ich auf dem Rathausplatz getroffen habe"
+              ],
+              "explanation": "Akkusativ Plural ➔ die ich auf dem Rathausplatz getroffen habe",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_d",
               "label": "d)",
-              "prompt": "",
-              "lead": "Der Film war langweilig. Ich habe ihn gestern im Fernsehen gesehen.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Der Film war langweilig. Ich habe ihn gestern im Fernsehen gesehen.",
+              "lead": "Der Film, ",
+              "tail": ", war langweilig.",
+              "answer": "den ich gestern im Fernsehen gesehen habe",
+              "alternatives": [
+                "den ich gestern im Fernsehen gesehen habe"
+              ],
+              "explanation": "Akkusativ maskulin ➔ den ich gestern im Fernsehen gesehen habe",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_e",
               "label": "e)",
-              "prompt": "",
-              "lead": "Die Gäste haben sich beschwert. Das Essen hat ihnen nicht geschmeckt.",
-              "tail": "",
-              "answer": "—",
-              "explanation": "Vollständiger Beispielsatz",
-              "isCompact": true
+              "prompt": "Die Gäste haben sich beschwert. Das Essen hat ihnen nicht geschmeckt.",
+              "lead": "Die Gäste, ",
+              "tail": ", haben sich beschwert.",
+              "answer": "denen das Essen nicht geschmeckt hat",
+              "alternatives": [
+                "denen das Essen nicht geschmeckt hat"
+              ],
+              "explanation": "Dativ Plural ➔ denen das Essen nicht geschmeckt hat",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_f",
               "label": "f)",
-              "prompt": "",
-              "lead": "Eine Dame winkte aus dem Zugfenster. Ihre Kinder standen auf dem Bahnsteig.",
-              "tail": "",
-              "answer": "das",
-              "explanation": "Neutral ➔ das",
-              "isCompact": true
+              "prompt": "Eine Dame winkte aus dem Zugfenster. Ihre Kinder standen auf dem Bahnsteig.",
+              "lead": "Eine Dame, ",
+              "tail": ", winkte aus dem Zugfenster.",
+              "answer": "deren Kinder auf dem Bahnsteig standen",
+              "alternatives": [
+                "deren Kinder auf dem Bahnsteig standen"
+              ],
+              "explanation": "Genitiv feminin ➔ deren Kinder auf dem Bahnsteig standen",
+              "isCompact": false
             },
             {
               "id": "b1_p23_ex6_g",
               "label": "g)",
-              "prompt": "",
-              "lead": "Mein Freund hat eine Zeitungsanzeige aufgegeben. Sein Hund ist weggelaufen.",
-              "tail": "",
-              "answer": "die",
-              "explanation": "Feminin ➔ die",
-              "isCompact": true
+              "prompt": "Mein Freund hat eine Zeitungsanzeige aufgegeben. Sein Hund ist weggelaufen.",
+              "lead": "Mein Freund, ",
+              "tail": ", hat eine Zeitungsanzeige aufgegeben.",
+              "answer": "dessen Hund weggelaufen ist",
+              "alternatives": [
+                "dessen Hund weggelaufen ist"
+              ],
+              "explanation": "Genitiv maskulin ➔ dessen Hund weggelaufen ist",
+              "isCompact": false
             }
-          ]
+          ],
+          "answers": {
+            "b1_p23_ex6_a": "das du im Supermarkt gekauft hast",
+            "b1_p23_ex6_b": "die diese Geschichte geschrieben hat",
+            "b1_p23_ex6_c": "die ich auf dem Rathausplatz getroffen habe",
+            "b1_p23_ex6_d": "den ich gestern im Fernsehen gesehen habe",
+            "b1_p23_ex6_e": "denen das Essen nicht geschmeckt hat",
+            "b1_p23_ex6_f": "deren Kinder auf dem Bahnsteig standen",
+            "b1_p23_ex6_g": "dessen Hund weggelaufen ist"
+          },
+          "alternatives": {
+            "b1_p23_ex6_a": [
+              "das du im Supermarkt gekauft hast"
+            ],
+            "b1_p23_ex6_b": [
+              "die diese Geschichte geschrieben hat"
+            ],
+            "b1_p23_ex6_c": [
+              "die ich auf dem Rathausplatz getroffen habe"
+            ],
+            "b1_p23_ex6_d": [
+              "den ich gestern im Fernsehen gesehen habe"
+            ],
+            "b1_p23_ex6_e": [
+              "denen das Essen nicht geschmeckt hat"
+            ],
+            "b1_p23_ex6_f": [
+              "deren Kinder auf dem Bahnsteig standen"
+            ],
+            "b1_p23_ex6_g": [
+              "dessen Hund weggelaufen ist"
+            ]
+          },
+          "explanations": {
+            "b1_p23_ex6_a": "Akkusativ neutral ➔ das du im Supermarkt gekauft hast",
+            "b1_p23_ex6_b": "Subjekt feminin ➔ die diese Geschichte geschrieben hat",
+            "b1_p23_ex6_c": "Akkusativ Plural ➔ die ich auf dem Rathausplatz getroffen habe",
+            "b1_p23_ex6_d": "Akkusativ maskulin ➔ den ich gestern im Fernsehen gesehen habe",
+            "b1_p23_ex6_e": "Dativ Plural ➔ denen das Essen nicht geschmeckt hat",
+            "b1_p23_ex6_f": "Genitiv feminin ➔ deren Kinder auf dem Bahnsteig standen",
+            "b1_p23_ex6_g": "Genitiv maskulin ➔ dessen Hund weggelaufen ist"
+          }
         }
-      ],
-      "grammarSummary": "**📌 Grammatik-Fokus dieser Lektion:**\n• Wo ist der Herr? ➔ Welcher Herr? ➔ Der Herr, der seinen Hut vergessen hat. ➔ Sein Hut liegt hier.\n• Genitiv possessiv Der Hut des Herrn liegt hier. ➔  Wo ist der Herr,  dessen Hut hier liegt?\n• mask. fem. neutr. Plural\n• Nom.\n• Akk.\n• Dat.\n• Gen.\n• der  die  das  die\n• den  die  das  die\n• dem  der  dem  denen\n• dessen  deren  dessen  deren\n\n\n**📌 Grammatik-Fokus dieser Lektion:**\n• ______ ihn besucht hat.\n• ______ er besucht hat.\n• ______ bald in Pension geht.\n• b) Kennst du die Frau,\n• ______ im III. Stock wohnt?\n• ______ dieses Buch gehört?\n• ______ Wagen vor der Tür steht?\n• c) Tamara hat einen Cousin,\n• ______ sie sehr vertraut.\n• ______ ihr im Notfall immer hilft.\n• ______ Meinung ihr sehr wichtig ist.\n• d) Sprichst du mit den Leuten,\n• ______ zur Polizei gehen wollen?\n• ______ man das Gepäck gestohlen hat?\n• ______ Gepäck man gestohlen hat?\n• Am Bahnsteig standen viele Leute   . Sie warteten auf den Zug.\n• Am Bahnsteig standen viele Leute,  die auf den Zug warteten.\n• Hauptsatz , Relativsatz\n• Viele Leute    standen am Bahnsteig. Sie warteten auf den Zug.\n• Viele Leute ,  die auf den Zug warteten,  standen am Bahnsteig.\n• Hauptsatz (Teil 1) , R e l a t i v s a t z , Hauptsatz (Teil 2)"
+      ]
     },
     "24": {
       "lessonTitle": "Adjektivdeklination (Seite 24)",
